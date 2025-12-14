@@ -3,395 +3,170 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "firstnecrocrown"
     },
     {
-      "label": "kalmor",
-      "image": "https://img.pvme.io/images/bIV6C4o.png",
-      "name": "Igneous Kal-Mor",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor"
+      "id": "igneouskalmor"
     },
     {
-      "label": "eof",
-      "image": "https://img.pvme.io/images/UB0lAK8.png",
-      "name": "Essence of Finality amulet",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+      "id": "eof"
     },
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "Precise 6 // Shard of Genesis is a must",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "Bulwark 4 + Clear Headed 4",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "Aftershock 4 + Eruptive 2 ",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "Crystal shield 4 + Lucky 6",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "t95necrogloves",
-      "image": "https://img.pvme.io/images/8zjLczG.png",
-      "name": "Hand wrap of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+      "id": "firstnecrohandwrap"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "zorgothssoulring",
-      "image": "https://img.pvme.io/images/EGVLuFE.png",
-      "name": "Zorgoth's soul ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+      "id": "zorgothsring"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "equilibriumaura",
-      "image": "https://img.pvme.io/images/a3Up2sd.png",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+      "id": "equilibriumaura"
     },
     {
-      "label": "scriptureofamascut",
-      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
-      "name": "Scripture of Amascut",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+      "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "salve"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/gDZtYb4.png",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "selected": false,
-      "breakdownNotes": ""
+      "id": ""
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "selected": false,
-      "breakdownNotes": ""
+      "id": ""
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "selected": false,
-      "breakdownNotes": ""
+      "id": ""
     },
     {
-      "label": "vuln",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbomb"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "vitality4",
-      "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "excal"
     },
     {
-      "label": "powderofpenance",
-      "image": "https://img.pvme.io/images/XjIho2f.png",
-      "name": "Powder of penance",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
-      "selected": false
+      "id": "powderofpenance"
     },
     {
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "furyofthesmall",
-        "image": "https://img.pvme.io/images/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+        "id": "furyofthesmall"
       },
       {
-        "label": "conservationofenergy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "energy": 350,
-        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+        "id": "conservationofenergy"
       },
       {
-        "label": "deathward",
-        "image": "https://img.pvme.io/images/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+        "id": "deathward"
       }
     ],
     "alternativeRelics": [
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "hellhound",
-        "image": "https://img.pvme.io/images/A1BvfVb.png",
-        "name": "Hellhound",
-        "breakdownNotes": ""
+        "id": "hellhoundpouch"
       }
     ],
     "alternativeFamiliars": [
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ]
   }
