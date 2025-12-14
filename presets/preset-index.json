@@ -568,10 +568,6 @@
     "presetName": "Magic/Melee Grandmaster Speed Killer"
   },
   {
-    "presetId": "6821f091-4df1-4e68-9eba-96b07aa99426",
-    "presetName": "Scav skeles"
-  },
-  {
     "presetId": "bdc5572f-dc94-4555-a015-31b64f8d4af2",
     "presetName": "AFK Moss Golems (Oceanic Components)"
   },
@@ -590,5 +586,9 @@
   {
     "presetId": "57c0f787-2c2e-45e3-a37c-91b2641a5410",
     "presetName": "Solak Duo GM DPS"
+  },
+  {
+    "presetId": "6821f091-4df1-4e68-9eba-96b07aa99426",
+    "presetName": "Scav skeles"
   }
 ]
