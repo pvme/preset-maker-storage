@@ -155,7 +155,7 @@
       "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
       "name": "Vulnerabilty bombs",
       "breakdownNotes": "<span>Used at the beginning of the fight and as needed throughout the fight to keep the vulnerability debuff applied. May also be substituted for a rune pouch <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/656786565149884427.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659422855188.png?v=1\" /> containing runes for Vulnerability <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537349530551582720.png?v=1\" /> . </span><span>If using the spell, it should be queued at the beginning of the fight with Ingenuity of the Humans <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/641339234111848463.png?v=1\" /> active.</span>",
-      "label": "vuln",
+      "label": "vulnbombs",
       "selected": false
     },
     {
