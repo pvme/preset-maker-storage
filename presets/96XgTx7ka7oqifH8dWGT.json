@@ -3,328 +3,170 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "vestmenthood",
-      "image": "https://img.pvme.io/images/EVh5SwD.png",
-      "name": "Vestments of havoc hood",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+      "id": "vestmentsofhavochood"
     },
     {
-      "label": "kalket",
-      "image": "https://img.pvme.io/images/bfzX8Up.png",
-      "name": "Igneous Kal-Ket",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+      "id": "igneouskalket"
     },
     {
-      "label": "eof",
-      "image": "https://img.pvme.io/images/UB0lAK8.png",
-      "name": "Essence of Finality amulet",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+      "id": "eof"
     },
     {
-      "label": "abyssalscourge",
-      "image": "https://img.pvme.io/images/Moh9yya.png",
-      "name": "Abyssal scourge",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+      "id": "abyssalscourge"
     },
     {
-      "label": "vestmentbody",
-      "image": "https://img.pvme.io/images/E5ptfu6.png",
-      "name": "Vestments of havoc robe top",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+      "id": "vestmentsofhavoctop"
     },
     {
-      "label": "lengoh",
-      "image": "https://img.pvme.io/images/LAVYvrE.png",
-      "name": "Dark Sliver of Leng",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+      "id": "lengoh"
     },
     {
-      "label": "vestmentlegs",
-      "image": "https://img.pvme.io/images/mz7GwWF.png",
-      "name": "Vestments of havoc robe bottom",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+      "id": "vestmentsofhavocbottom"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": "cinderbanes"
     },
     {
-      "label": "vestmentboots",
-      "image": "https://img.pvme.io/images/FarIA5V.png",
-      "name": "Vestments of havoc boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+      "id": "vestmentsofhavocboots"
     },
     {
-      "label": "championring",
-      "image": "https://img.pvme.io/images/cc9GxHt.png",
-      "name": "Champion's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
+      "id": "championring"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/cMrBUILe61.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+      "id": "graspingpouchpink"
     },
     {
-      "label": "vampaura",
-      "image": "https://img.pvme.io/images/JigaLBL.png",
-      "name": "Vampyrism aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+      "id": "vampaura"
     },
     {
-      "label": "vamp",
-      "image": "https://img.pvme.io/images/bMTAHDe.png",
-      "name": "Scrimshaw of Vampyrism",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+      "id": "vamp"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "enhluck",
-      "image": "https://img.pvme.io/images/wsYgZsb.png",
-      "name": "Enhanced luck potion",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
-      "selected": false
+      "id": "luckpotion"
     },
     {
-      "label": "hellhound",
-      "image": "https://img.pvme.io/images/FPfRiAQ.png",
-      "name": "Binding contract (hellhound)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
-      "selected": false
+      "id": "hellhoundpouch"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "poison6",
-      "image": "https://img.pvme.io/images/KyZkJoc.png",
-      "name": "Weapon poison+++ flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
-      "selected": false
+      "id": "poison6"
     },
     {
-      "label": "potionreservoir2",
-      "image": "https://img.pvme.io/images/af9O4EM.png",
-      "name": "Potion reservoir (inactive)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
-      "selected": false
+      "id": "potionreservoir2"
     },
     {
-      "label": "kwuarmsticks",
-      "image": "https://img.pvme.io/images/Ba7yju8.png",
-      "name": "Kwuarm incense sticks",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
-      "selected": false
+      "id": "kwuarmsticks"
     },
     {
-      "label": "powderofpenance2",
-      "image": "https://img.pvme.io/images/w6hThUy.png",
-      "name": "Powder of penance",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
-      "selected": false
+      "id": "powderofpenance2"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "abyssalspikes",
-      "image": "https://img.pvme.io/images/0WBnZ62.png",
-      "name": "Abyssal armour spikes (alloy)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
-      "selected": false
+      "id": "abyssalspikes"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "excal"
     },
     {
-      "label": "deathwardennexus",
-      "image": "https://img.pvme.io/images/hd7YvA4.png",
-      "name": "Deathwarden Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "selected": false
+      "id": "deathwardennexus"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "elvenshard",
-      "image": "https://img.pvme.io/images/UURvGNW.png",
-      "name": "Ancient elven ritual shard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
-      "selected": false
+      "id": "ancientshard"
     },
     {
-      "label": "springcleaner",
-      "image": "https://img.pvme.io/images/pjHPdhj.png",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "selected": false
+      "id": "springcleaner"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
-        "label": "persistentrage",
-        "energy": 150
+        "id": "persistentrage"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "hellhound",
-        "image": "https://img.pvme.io/images/A1BvfVb.png",
-        "name": "Hellhound",
-        "breakdownNotes": ""
+        "id": "hellhoundpouch"
       }
     ],
     "alternativeFamiliars": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   }
