@@ -352,10 +352,6 @@
     "presetName": "Mid AFK Pickpocketing Menaphos market guard"
   },
   {
-    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
-    "presetName": "Look mom i fixed it!"
-  },
-  {
     "presetId": "9cf34ed8-f3b2-41de-b7a9-056788cd076f",
     "presetName": "AFK Glacytes"
   },
@@ -598,5 +594,9 @@
   {
     "presetId": "96XgTx7ka7oqifH8dWGT",
     "presetName": "AFK Helwyr - Melee"
+  },
+  {
+    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
+    "presetName": "Look mom i fixed it!"
   }
 ]
