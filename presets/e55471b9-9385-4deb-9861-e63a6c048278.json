@@ -1,404 +1,143 @@
 {
   "presetName": "Solak Duo GM Base",
   "presetNotes": "",
-  "inventorySlots": [
-    {
-      "name": "Adrenaline renewal potion (4)",
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Fractured Staff of Armadyl",
-      "label": "fsoa",
-      "image": "https://img.pvme.io/images/AI12yBk.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Roar of Awakening",
-      "label": "roarofawakening",
-      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Combat dummy MKII",
-      "label": "dummy",
-      "image": "https://img.pvme.io/images/Dgtgp4n.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Mask of Tumeken's resplendence",
-      "label": "tumekenmask",
-      "image": "https://img.pvme.io/images/pPm6gvnblB.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mask_of_Tumeken%27s_resplendence",
-      "selected": false,
-      "slot": 1
-    },
-    {
-      "name": "Robe top of Tumeken's resplendence",
-      "label": "tumekenrobetop",
-      "image": "https://img.pvme.io/images/pNqN5aiYwr.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_Tumeken%27s_resplendence",
-      "selected": false,
-      "slot": 2
-    },
-    {
-      "name": "Grasping rune pouch",
-      "label": "graspingpouch",
-      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Channeller's ring",
-      "label": "channellerring",
-      "image": "https://img.pvme.io/images/Zs7j4JG.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "selected": false,
-      "slot": 11
-    },
-    {
-      "name": "Amulet of zealots",
-      "label": "zealots",
-      "image": "https://img.pvme.io/images/UHRGdEk.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
-      "selected": false,
-      "slot": 10
-    },
-    {
-      "name": "Dark Shard of Leng",
-      "label": "lengmh",
-      "image": "https://img.pvme.io/images/wFdHN9C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Enhanced excalibur",
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false,
-      "slot": 5
-    },
-    {
-      "name": "Robe bottom of Tumeken's resplendence",
-      "label": "tumekenrobebottom",
-      "image": "https://img.pvme.io/images/ozNOXe1k1t.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_Tumeken%27s_resplendence",
-      "selected": false,
-      "slot": 3
-    },
-    {
-      "name": "Boots of Tumeken's resplendence",
-      "label": "tumekenboots",
-      "image": "https://img.pvme.io/images/OBTrhWAa2M.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Boots_of_Tumeken%27s_resplendence",
-      "selected": false,
-      "slot": 7
-    },
-    {
-      "name": "Grasping rune pouch (blue)",
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Super Guthix brew flask (6)",
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Super Guthix brew flask (6)",
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Ek-ZekKil",
-      "label": "zekkil",
-      "image": "https://img.pvme.io/images/aKEG5mi.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Zaros godsword",
-      "label": "zgs",
-      "image": "https://img.pvme.io/images/VV0XoQe.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zaros_godsword",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Eldritch crossbow",
-      "label": "ecb",
-      "image": "https://img.pvme.io/images/n98Fmxx.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Gloves of Tumeken's resplendence",
-      "label": "tumekengloves",
-      "image": "https://img.pvme.io/images/T28B23e7Kl.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Gloves_of_Tumeken%27s_resplendence",
-      "selected": false,
-      "slot": 6
-    },
-    {
-      "name": "Grasping rune pouch (black)",
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Powerburst of vitality (4)",
-      "label": "vitality4",
-      "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Vulnerabilty bombs",
-      "label": "vuln",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Zemouregal's Nexus",
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
-      "selected": false,
-      "slot": 9
-    }
-  ],
   "equipmentSlots": [
     {
-      "name": "Vestments of havoc hood",
-      "label": "vestmenthood",
-      "image": "https://img.pvme.io/images/EVh5SwD.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
-      "selected": false,
-      "slot": 1
+      "id": "vestmentsofhavochood"
     },
     {
-      "name": "Igneous Kal-Zuk",
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
-      "selected": false,
-      "slot": 12
+      "id": "igneouskalzuk"
     },
     {
-      "name": "Essence of Finality amulet (red)",
-      "label": "eofredunorn",
-      "image": "https://img.pvme.io/images/yUkClNY.png",
-      "breakdownNotes": "Mercy of Varanus/Dragon Claws",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(red)",
-      "selected": false,
-      "slot": 10
+      "id": "eofredu"
     },
     {
-      "name": "Dragon battleaxe",
-      "label": "dba",
-      "image": "https://img.pvme.io/images/hZGOmkB.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
-      "selected": false,
-      "slot": 4
+      "id": "dba"
     },
     {
-      "name": "Vestments of havoc robe top",
-      "label": "vestmentbody",
-      "image": "https://img.pvme.io/images/E5ptfu6.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
-      "selected": false,
-      "slot": 2
+      "id": "vestmentsofhavoctop"
     },
     {
-      "name": "Dark Sliver of Leng",
-      "label": "lengoh",
-      "image": "https://img.pvme.io/images/LAVYvrE.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
-      "selected": false,
-      "slot": 5
+      "id": "lengoh"
     },
     {
-      "name": "Vestments of havoc robe bottom",
-      "label": "vestmentlegs",
-      "image": "https://img.pvme.io/images/mz7GwWF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
-      "selected": false,
-      "slot": 3
+      "id": "vestmentsofhavocbottom"
     },
     {
-      "name": "Cinderbane gloves",
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "selected": false,
-      "slot": 6
+      "id": "cinderbanes"
     },
     {
-      "name": "Vestments of havoc boots",
-      "label": "vestmentboots",
-      "image": "https://img.pvme.io/images/FarIA5V.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
-      "selected": false,
-      "slot": 7
+      "id": "vestmentsofhavocboots"
     },
     {
-      "name": "Reaver's ring",
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
-      "selected": false,
-      "slot": 11
+      "id": "reaverring"
     },
     {
-      "name": "Hydrix bakriminel bolts (e)",
-      "label": "hydrix",
-      "image": "https://img.pvme.io/images/xbNBoDV.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)",
-      "selected": false,
-      "slot": 9
+      "id": "hydrix"
     },
     {
-      "name": "Supreme invigorate aura",
-      "label": "invigorate",
-      "image": "https://img.pvme.io/images/vJcDHSH.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Supreme_invigorate_aura",
-      "selected": false,
-      "slot": 8
+      "id": "invigorate"
     },
     {
-      "name": "Erethdor's grimoire",
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
-      "selected": false,
-      "slot": 13
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "conservationofenergy",
-        "name": "Conservation of Energy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "conservationofenergy"
       },
       {
-        "label": "berserkersfury",
-        "name": "Berserkers Fury",
-        "image": "https://img.pvme.io/images/xXWYCHG.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "berserkersfury"
       },
       {
-        "label": "fontoflife",
-        "name": "Font of Life",
-        "image": "https://img.pvme.io/images/7e6Juey.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "fontoflife"
       }
     ],
     "alternativeRelics": []
@@ -406,10 +145,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "kalgdemon",
-        "name": "Kal'gerion Demon",
-        "image": "https://img.pvme.io/images/4oLwaZJ.png",
-        "breakdownNotes": ""
+        "id": "kalgdemon"
       }
     ],
     "alternativeFamiliars": []
