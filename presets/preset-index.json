@@ -602,5 +602,9 @@
   {
     "presetId": "0b3c6ed5-30b7-4f9b-9720-854ca0147a1d",
     "presetName": "Solak Duo GM DPS"
+  },
+  {
+    "presetId": "933bf977-8f62-4c45-a50c-1888842fee47",
+    "presetName": "Solak Duo GM Base"
   }
 ]
