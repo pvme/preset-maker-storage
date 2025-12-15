@@ -1,236 +1,144 @@
 {
   "presetName": "Flesh-hatcher Mhekarnahz",
   "presetNotes": "Can downgrade if needed but may result in slower kills.",
-  "inventorySlots": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Blue blubber jellyfish",
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false,
-      "slot": 0
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-      "name": "Guthix rest",
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Guthix rest",
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false,
-      "slot": 0
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-      "name": "Vulnerabilty bombs",
-      "label": "vuln",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Elder overload potion (6)",
-      "label": "ovl",
-      "image": "https://img.pvme.io/images/DGw6F36.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
-      "selected": false,
-      "slot": 0
-    }
-  ],
   "equipmentSlots": [
     {
-      "name": "Vestments of havoc hood",
-      "label": "vestmenthood",
-      "image": "https://img.pvme.io/images/EVh5SwD.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
-      "selected": false,
-      "slot": 1
+      "id": "vestmentsofhavochood"
     },
     {
-      "name": "Igneous Kal-Ket",
-      "label": "kalket",
-      "image": "https://img.pvme.io/images/bfzX8Up.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
-      "selected": false,
-      "slot": 12
+      "id": "igneouskalket"
     },
     {
-      "name": "EoF - Dragon claws",
-      "label": "eofred",
-      "image": "https://img.pvme.io/images/JMC7t7Y.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
-      "selected": false,
-      "slot": 10
+      "id": "eofred"
     },
     {
-      "name": "Ek-ZekKil",
-      "label": "zekkil",
-      "image": "https://img.pvme.io/images/aKEG5mi.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
-      "selected": false,
-      "slot": 4
+      "id": "ezk"
     },
     {
-      "name": "Vestments of havoc robe top",
-      "label": "vestmentbody",
-      "image": "https://img.pvme.io/images/E5ptfu6.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
-      "selected": false,
-      "slot": 2
-    },
-    null,
-    {
-      "name": "Vestments of havoc robe bottom",
-      "label": "vestmentlegs",
-      "image": "https://img.pvme.io/images/mz7GwWF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
-      "selected": false,
-      "slot": 3
+      "id": "vestmentsofhavoctop"
     },
     {
-      "name": "Gloves of passage",
-      "label": "glovesofpassage",
-      "image": "https://img.pvme.io/images/U4Wa7vb.png",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
-      "selected": false,
-      "slot": 6
+      "id": ""
     },
     {
-      "name": "Vestments of havoc boots",
-      "label": "vestmentboots",
-      "image": "https://img.pvme.io/images/FarIA5V.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
-      "selected": false,
-      "slot": 7
+      "id": "vestmentsofhavocbottom"
     },
     {
-      "name": "Reaver's ring",
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
-      "selected": false,
-      "slot": 11
+      "id": "glovesofpassage"
     },
     {
-      "name": "Pernix's Quiver",
-      "label": "pernixquiver",
-      "image": "https://img.pvme.io/images/b3geFp8.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
-      "selected": false,
-      "slot": 9
+      "id": "vestmentsofhavocboots"
     },
     {
-      "name": "Berserker aura",
-      "label": "zerk",
-      "image": "https://img.pvme.io/images/Fme45Ts.png",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
-      "selected": false,
-      "slot": 8
+      "id": "reaverring"
     },
     {
-      "name": "Erethdor's grimoire",
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
-      "selected": false,
-      "slot": 13
+      "id": "pernixquiver"
+    },
+    {
+      "id": "berserkeraura"
+    },
+    {
+      "id": "grim"
     }
   ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "overload"
+    }
+  ],
+  "breakdown": [],
   "relics": {
     "primaryRelics": [
       {
-        "label": "conservationofenergy",
-        "name": "Conservation of Energy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "conservationofenergy"
       },
       {
-        "label": "berserkersfury",
-        "name": "Berserkers Fury",
-        "image": "https://img.pvme.io/images/xXWYCHG.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "berserkersfury"
       },
       {
-        "label": "fontoflife",
-        "name": "Font of Life",
-        "image": "https://img.pvme.io/images/7e6Juey.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "fontoflife"
       }
     ],
     "alternativeRelics": []
@@ -238,10 +146,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "kalgdemon",
-        "name": "Kal'gerion Demon",
-        "image": "https://img.pvme.io/images/4oLwaZJ.png",
-        "breakdownNotes": ""
+        "id": "kalgdemon"
       }
     ],
     "alternativeFamiliars": []
