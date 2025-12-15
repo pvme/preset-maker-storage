@@ -1,93 +1,152 @@
 {
   "presetName": "Look mom i fixed it!",
   "presetNotes": "<br />",
-  "inventorySlots": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-      "name": "Magic notepaper",
-      "label": "40note",
-      "image": "https://img.pvme.io/images/TNm1JRD.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Magic notepaper",
-      "label": "1knote",
-      "image": "https://img.pvme.io/images/8r07LbS.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
-      "selected": false,
-      "slot": 0
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-  ],
   "equipmentSlots": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-      "name": "Luck of the dwarves",
-      "label": "lotd",
-      "image": "https://img.pvme.io/images/nXXZxpH.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
-      "selected": false,
-      "slot": 11
+      "id": ""
     },
-    null,
-    null,
-    null
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack40"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "luckofthedwarves",
-        "name": "Luck of the Dwarves",
-        "image": "https://img.pvme.io/images/Ivcgjer.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "lotdrelic"
       },
-      null,
-      null
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
     ],
     "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
-      null
+      {
+        "id": ""
+      }
     ],
     "alternativeFamiliars": []
   }
