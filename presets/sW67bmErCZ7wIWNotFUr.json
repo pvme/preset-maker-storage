@@ -95,7 +95,7 @@
   ],
   "inventorySlots": [
     {
-      "label": "ovl",
+      "label": "elderoverload",
       "image": "https://i.imgur.com/DGw6F36.png",
       "name": "Elder overload potion (6)",
       "breakdownNotes": "<span>Use your highest level overload </span>",
