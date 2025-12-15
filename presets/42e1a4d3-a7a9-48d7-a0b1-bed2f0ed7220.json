@@ -99,7 +99,7 @@
     },
     {
       "name": "Vulnerabilty bombs",
-      "label": "vuln",
+      "label": "vulnbombs",
       "image": "https://img.pvme.io/images/2vI8jNm.png",
       "breakdownNotes": "Helpful But Not Needed",
       "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",

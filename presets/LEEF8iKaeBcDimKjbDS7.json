@@ -80,7 +80,7 @@
       "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
     },
     {
-      "label": "zerk",
+      "label": "berserkeraura",
       "image": "https://img.pvme.io/images/Fme45Ts.png",
       "name": "Berserker aura",
       "breakdownNotes": "Required for accuracy and damage",
@@ -255,7 +255,7 @@
       "selected": false
     },
     {
-      "label": "vuln",
+      "label": "vulnbombs",
       "image": "https://img.pvme.io/images/2vI8jNm.png",
       "name": "Vulnerabilty bombs",
       "breakdownNotes": "",

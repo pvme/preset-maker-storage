@@ -83,7 +83,7 @@
       "wikiLink": "https://runescape.wiki/w/Berserker_aura",
       "name": "Berserker aura",
       "breakdownNotes": "",
-      "label": "zerk"
+      "label": "berserkeraura"
     },
     {
       "image": "https://i.imgur.com/lPppoD4.png",
@@ -314,7 +314,7 @@
       "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
       "name": "Vulnerabilty bombs",
       "breakdownNotes": "",
-      "label": "vuln",
+      "label": "vulnbombs",
       "selected": false
     }
   ],

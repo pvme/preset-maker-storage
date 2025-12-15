@@ -60,7 +60,7 @@
     {
       "image": "https://i.imgur.com/dNm4A5W.png",
       "name": "Berserker aura",
-      "label": "zerk"
+      "label": "berserkeraura"
     },
     {
       "image": "https://i.imgur.com/FAPSk6p.png",
@@ -117,7 +117,7 @@
     {
       "image": "https://i.imgur.com/306PXtG.png",
       "name": "Vulnerabilty bombs",
-      "label": "vuln"
+      "label": "vulnbombs"
     },
     {
       "image": "https://i.imgur.com/m8aQij5.png",
