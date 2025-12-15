@@ -1,0 +1,153 @@
+{
+  "presetName": "Solak Duo GM DPS",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "hydrixbakri"
+    },
+    {
+      "id": "invigorate"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
