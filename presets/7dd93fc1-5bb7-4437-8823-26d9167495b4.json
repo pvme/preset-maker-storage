@@ -1,0 +1,174 @@
+{
+  "presetName": "AoD 4's Hybrid Base",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblackunorn"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": "mahj"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
