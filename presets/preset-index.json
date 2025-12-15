@@ -588,10 +588,6 @@
     "presetName": "AFK Helwyr - Melee"
   },
   {
-    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
-    "presetName": "Look mom i fixed it!"
-  },
-  {
     "presetId": "e55471b9-9385-4deb-9861-e63a6c048278",
     "presetName": "Solak Duo GM Base"
   },
@@ -622,5 +618,9 @@
   {
     "presetId": "e6753605-d299-4d40-ac3e-389c720914bb",
     "presetName": "Moss Golems AFK Melee"
+  },
+  {
+    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
+    "presetName": "Look mom i fixed it!"
   }
 ]
