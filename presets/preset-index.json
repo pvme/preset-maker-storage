@@ -576,10 +576,6 @@
     "presetName": "Duo GM Base"
   },
   {
-    "presetId": "57c0f787-2c2e-45e3-a37c-91b2641a5410",
-    "presetName": "Solak Duo GM DPS"
-  },
-  {
     "presetId": "6821f091-4df1-4e68-9eba-96b07aa99426",
     "presetName": "Scav skeles"
   },
@@ -598,5 +594,9 @@
   {
     "presetId": "e55471b9-9385-4deb-9861-e63a6c048278",
     "presetName": "Solak Duo GM Base"
+  },
+  {
+    "presetId": "57c0f787-2c2e-45e3-a37c-91b2641a5410",
+    "presetName": "Solak Duo GM DPS"
   }
 ]
