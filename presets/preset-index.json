@@ -610,5 +610,9 @@
   {
     "presetId": "ba07a5e0-fbb0-4fa0-b833-a2432bed7689",
     "presetName": "Solak Duo GM DPS"
+  },
+  {
+    "presetId": "a386da21-7cae-4679-b0ac-d1e30730d3f5",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
