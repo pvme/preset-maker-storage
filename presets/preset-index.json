@@ -658,5 +658,9 @@
   {
     "presetId": "4ff260d3-32e1-4cf8-b112-85a7c0e27004",
     "presetName": "AoD 4's Hybrid Base"
+  },
+  {
+    "presetId": "1fc439fc-b394-4f80-9565-219b8bed655c",
+    "presetName": "AoD 4's Hybrid DPS"
   }
 ]
