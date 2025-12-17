@@ -1,0 +1,215 @@
+{
+  "presetName": "Telos Magic Tumeken's Resplendence",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "mani"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zambrew4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "enhancedblastdiff"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "aftershock4 eruptive 2 + precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "aftershock4 eruptive2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "the last command"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "if streaking"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "biting4 mobile, relentless 5 crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "aftershock4 eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "energising4 invigorating2 + impatient4 devotion4"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
