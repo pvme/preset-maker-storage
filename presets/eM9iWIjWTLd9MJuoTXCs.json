@@ -3,391 +3,207 @@
   "presetNotes": "EoFs are Iban Staff, Death Guard, and Zamorak Staff (optional)",
   "equipmentSlots": [
     {
-      "label": "cryptbloomhelm",
-      "image": "https://i.imgur.com/xNXHeIN.png",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+      "id": "cryptbloomhelm"
     },
     {
-      "label": "kalzuk",
-      "image": "https://i.imgur.com/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofpurple",
-      "image": "https://i.imgur.com/nu7QSbh.png",
-      "name": "EoF - Guthix staff",
-      "breakdownNotes": "Iban's Staff",
-      "wikiLink": "https://runescape.wiki/w/Guthix_staff"
+      "id": "eofpurple"
     },
     {
-      "label": "omniguard",
-      "image": "https://i.imgur.com/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "cryptbloomtop",
-      "image": "https://i.imgur.com/G07AY4A.png",
-      "name": "Cryptbloom top",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top"
+      "id": "cryptbloomtop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://i.imgur.com/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "cryptbloomlegs",
-      "image": "https://i.imgur.com/h07wgr8.png",
-      "name": "Cryptbloom legs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs"
+      "id": "cryptbloomlegs"
     },
     {
-      "label": "cryptbloomgloves",
-      "image": "https://i.imgur.com/yHxz8PD.png",
-      "name": "Cryptbloom gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves"
+      "id": "cryptbloomgloves"
     },
     {
-      "label": "cryptbloomboots",
-      "image": "https://i.imgur.com/1MkR1qn.png",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+      "id": "cryptbloomboots"
     },
     {
-      "label": "reaverring",
-      "image": "https://i.imgur.com/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+      "id": "reaverring"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://i.imgur.com/3pFXvMR.png",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "mahj",
-      "image": "https://i.imgur.com/br11PCq.png",
-      "name": "Mahjarrat aura",
-      "breakdownNotes": "<img title=\"mani\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505153709965322.png?v=1\" /> can be used up to ~2400%",
-      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+      "id": "mahj"
     },
     {
-      "label": "grim",
-      "image": "https://i.imgur.com/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal6",
-      "image": "https://i.imgur.com/Swtl8pP.png",
-      "name": "Adrenaline renewal flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
-      "selected": false
+      "id": "renewal6"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "feast",
-      "image": "https://i.imgur.com/ZtPaUJq.png",
-      "name": "Primal feast",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Primal_feast",
-      "selected": false
+      "id": "primalfeast"
     },
     {
-      "label": "feast",
-      "image": "https://i.imgur.com/ZtPaUJq.png",
-      "name": "Primal feast",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Primal_feast",
-      "selected": false
+      "id": "primalfeast"
     },
     {
-      "label": "sbrew",
-      "image": "https://i.imgur.com/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sbrew"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "blessed",
-      "image": "https://i.imgur.com/FVmxMkH.png",
-      "name": "Blessed flask",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
-      "selected": false
+      "id": "blessedflask"
     },
     {
-      "label": "vitality4",
-      "image": "https://i.imgur.com/n9C7iSA.png",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "label": "fsoa",
-      "image": "https://i.imgur.com/AI12yBk.png",
-      "name": "Fractured Staff of Armadyl",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
-      "selected": false
+      "id": "fsoa"
     },
     {
-      "label": "t95necrohelm",
-      "image": "https://i.imgur.com/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
-      "selected": false
+      "id": "firstnecrocrown"
     },
     {
-      "label": "soup",
-      "image": "https://i.imgur.com/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "sbrew",
-      "image": "https://i.imgur.com/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sbrew"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "label": "roarofawakening",
-      "image": "https://i.imgur.com/cqCp4Ar.png",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "selected": false
+      "id": "roarofawakening"
     },
     {
-      "label": "odetodeceit",
-      "image": "https://i.imgur.com/AFimQTj.png",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "selected": false
+      "id": "odetodeceit"
     },
     {
-      "label": "eofpurpleunorn",
-      "image": "https://i.imgur.com/5NxOiAg.png",
-      "name": "Essence of Finality amulet (purple)",
-      "breakdownNotes": "Death Guard",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(purple)",
-      "selected": false
+      "id": "eofpurpleunorn"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://i.imgur.com/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
-      "selected": false
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soup",
-      "image": "https://i.imgur.com/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "sbrew",
-      "image": "https://i.imgur.com/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sbrew"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "arcane",
-      "image": "https://i.imgur.com/IcTDNcT.png",
-      "name": "Arcane spirit shield",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Arcane_spirit_shield",
-      "selected": false
+      "id": "arcanespiritshield"
     },
     {
-      "label": "excal",
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "excal"
     },
     {
-      "label": "eofyellow",
-      "image": "https://i.imgur.com/hiC7f5F.png",
-      "name": "EoF -  Armadyl Battlestaff",
-      "breakdownNotes": "Zamorak Staff (optional)",
-      "wikiLink": "https://runescape.wiki/w/Armadyl_Battlestaff",
-      "selected": false
+      "id": "eofyellow"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://i.imgur.com/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
-      "selected": false
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "soup",
-      "image": "https://i.imgur.com/1odCIWn.png",
-      "name": "Sailfish soup",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false
+      "id": "sailfishsoup"
     },
     {
-      "label": "sbrew",
-      "image": "https://i.imgur.com/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sbrew"
     },
     {
-      "label": "graspingpouchblue",
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Death Guard"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Zamorak Staff (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Iban's Staff"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<img title=\"mani\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505153709965322.png?v=1\" /> can be used up to ~2400%"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/xXWYCHG.png",
-        "name": "Berserkers Fury",
-        "breakdownNotes": "",
-        "label": "berserkersfury",
-        "energy": 250
+        "id": "berserkersfury"
       },
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "label": "fontoflife",
-        "energy": 50
+        "id": "fontoflife"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
+        "id": "kalgdemon"
       }
     ],
     "alternativeFamiliars": [
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   }
