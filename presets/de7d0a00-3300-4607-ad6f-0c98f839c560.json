@@ -3,7 +3,7 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "id": ""
+      "id": "bandoshelm"
     },
     {
       "id": "defencecape"
@@ -12,28 +12,28 @@
       "id": "amuletofglory"
     },
     {
-      "id": ""
+      "id": "veracflail"
+    },
+    {
+      "id": "bandoschest"
     },
     {
       "id": ""
     },
     {
-      "id": ""
+      "id": "bandostassets"
     },
     {
-      "id": ""
+      "id": "bandosgloves"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "bandosboots"
     },
     {
       "id": "rov"
     },
     {
-      "id": ""
+      "id": "deathwardennexus"
     },
     {
       "id": ""
@@ -182,7 +182,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": "<span>Adding basic perks will help but not necessary</span>"
+      "description": "<span>Any barrows weapon will do. Adding basic perks will help but not necessary</span>"
     },
     {
       "slotType": "equipment",
