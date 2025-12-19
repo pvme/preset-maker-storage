@@ -1,404 +1,199 @@
 {
-  "presetName": "Osseous basic necro",
+  "presetName": "Osseous - Necro - Minimum Recommended",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/KkSmljc.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_70)",
-      "name": "Deathdealer hood (tier 70)",
-      "breakdownNotes": "",
-      "label": "deathdealerhoodt70"
+      "id": "deathdealerhoodt70"
     },
     {
-      "image": "https://i.imgur.com/8Y1U7r0.png",
-      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
-      "name": "Cape of legends",
-      "breakdownNotes": "An Obsidian Cape or better is also fine to use",
-      "label": "capeoflegends"
+      "id": "capeoflegends"
     },
     {
-      "image": "https://i.imgur.com/qbsFxuG.png",
-      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
-      "name": "Salve amulet (e)",
-      "breakdownNotes": "",
-      "label": "salvee"
+      "id": "salveamulet"
     },
     {
-      "image": "https://i.imgur.com/IjI79KW.png",
-      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)",
-      "name": "Death guard (tier 70)",
-      "breakdownNotes": "",
-      "label": "deathguardt70"
+      "id": "deathguard70"
     },
     {
-      "image": "https://i.imgur.com/Yf8CzMa.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_70)",
-      "name": "Deathdealer robe top (tier 70)",
-      "breakdownNotes": "Adding basic perks will help but not necessary",
-      "label": "deathdealerrobetopt70"
+      "id": "deathdealerrobetopt70"
     },
     {
-      "image": "https://i.imgur.com/yhYsPpi.png",
-      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)",
-      "name": "Skull lantern (tier 70)",
-      "breakdownNotes": "",
-      "label": "skulllanternt70"
+      "id": "skulllantern70"
     },
     {
-      "image": "https://i.imgur.com/7WKqA5L.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_70)",
-      "name": "Deathdealer robe bottom (tier 70)",
-      "breakdownNotes": "<span>Adding basic perks will help but not necessary</span>",
-      "label": "deathdealerrobebottomt70"
+      "id": "deathdealerrobebottomt70"
     },
     {
-      "image": "https://i.imgur.com/lksnw1R.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_70)",
-      "name": "Deathdealer gloves (tier 70)",
-      "breakdownNotes": "",
-      "label": "deathdealerglovest70"
+      "id": "deathdealerglovest70"
     },
     {
-      "image": "https://i.imgur.com/xxuUiUI.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_70)",
-      "name": "Deathdealer boots (tier 70)",
-      "breakdownNotes": "",
-      "label": "deathdealerbootst70"
+      "id": "deathdealerbootst70"
     },
     {
-      "image": "https://i.imgur.com/EGVLuFE.png",
-      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring",
-      "name": "Zorgoth's soul ring",
-      "breakdownNotes": "",
-      "label": "zorgothssoulring"
+      "id": "zorgothsring"
     },
     {
-      "image": "https://i.imgur.com/hd7YvA4.png",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "name": "Deathwarden Nexus",
-      "breakdownNotes": "",
-      "label": "deathwardennexus"
+      "id": "deathwardennexus"
     },
     {
-      "image": "https://i.imgur.com/JigaLBL.png",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
-      "name": "Vampyrism aura",
-      "breakdownNotes": "Used for a bit of extra healing. If you don't have this, that's okay.",
-      "label": "vampaura"
+      "id": "vampaura"
     },
     {
-      "image": "https://i.imgur.com/hm5z04C.png",
-      "wikiLink": "https://runescape.wiki/w/Book_of_law",
-      "name": "Book of law",
-      "breakdownNotes": "",
-      "label": "armagodbook2"
+      "id": "armagodbook2"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "Worth obtaining to reduce food usage",
-      "label": "excal",
-      "selected": false
+      "id": "excal"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/GNzR4sU.png",
-      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
-      "name": "Expensive spices",
-      "breakdownNotes": "",
-      "label": "spices",
-      "selected": false
+      "id": "spices"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/UVffd75.png",
-      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
-      "name": "Holy wrench",
-      "breakdownNotes": "",
-      "label": "wrench",
-      "selected": false
+      "id": "holywrench"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/DUhcOW3.png",
-      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
-      "name": "Extreme defence (4)",
-      "breakdownNotes": "",
-      "label": "extdefence",
-      "selected": false
+      "id": "extdefence"
     },
     {
-      "image": "https://i.imgur.com/ioK95Z8.png",
-      "wikiLink": "https://runescape.wiki/w/Extreme_necromancy#(4)",
-      "name": "Extreme necromancy (4)",
-      "breakdownNotes": "",
-      "label": "extnecro",
-      "selected": false
+      "id": "extnecro"
     },
     {
-      "image": "https://i.imgur.com/9GwrVt6.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
-      "name": "Super restore (4)",
-      "breakdownNotes": "",
-      "label": "restore4",
-      "selected": false
+      "id": "restore4"
     },
     {
-      "image": "https://i.imgur.com/9GwrVt6.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
-      "name": "Super restore (4)",
-      "breakdownNotes": "",
-      "label": "restore4",
-      "selected": false
+      "id": "restore4"
     },
     {
-      "image": "https://i.imgur.com/I8vuFeB.png",
-      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
-      "name": "Green blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "greenjelly",
-      "selected": false
+      "id": "greenblubber"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
     },
     {
-      "image": "https://i.imgur.com/qSP1R78.png",
-      "wikiLink": "https://runescape.wiki/w/Shark",
-      "name": "Shark",
-      "breakdownNotes": "",
-      "label": "shark",
-      "selected": false
+      "id": "shark"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Worth obtaining to reduce food usage"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "An Obsidian Cape or better is also fine to use"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Adding basic perks will help but not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Used for a bit of extra healing. If you don't have this, that's okay."
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
-        "label": "persistentrage",
-        "energy": 150
+        "id": "persistentrage"
       },
       {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "description": "Increases maximum health by 500.",
-        "label": "fontoflife",
-        "energy": 50
+        "id": "fontoflife"
       },
       {
-        "image": "https://i.imgur.com/eDmt2lT.png",
-        "name": "Blessing of Het",
-        "breakdownNotes": "",
-        "description": "Food and potions heal 10% more lifepoints.",
-        "label": "blessingofhet",
-        "energy": 100
+        "id": "blessingofhet"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       },
       {
-        "image": "https://i.imgur.com/xXWYCHG.png",
-        "name": "Berserkers Fury",
-        "breakdownNotes": "",
-        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
-        "label": "berserkersfury",
-        "energy": 250
+        "id": "berserkersfury"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/hpjldw8.png",
-        "name": "Bunyip",
-        "breakdownNotes": "",
-        "label": "bunyip"
+        "id": "bunyip"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
