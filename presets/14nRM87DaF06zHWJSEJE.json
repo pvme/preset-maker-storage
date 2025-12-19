@@ -30,13 +30,13 @@
       "id": "deathdealerbootst70"
     },
     {
-      "id": "zorgothsring"
+      "id": "rov"
     },
     {
       "id": "deathwardennexus"
     },
     {
-      "id": "vampaura"
+      "id": ""
     },
     {
       "id": "armagodbook2"
@@ -132,7 +132,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 0,
-      "description": "Worth obtaining to reduce food usage"
+      "description": "Super Defence or higher will reduce the need for food"
     },
     {
       "slotType": "equipment",
@@ -152,7 +152,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Used for a bit of extra healing. If you don't have this, that's okay."
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
@@ -163,6 +163,36 @@
       "slotType": "inventory",
       "slotIndex": 22,
       "description": "Requires the quest \"Let Them Eat Pie\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Super Necromancy or higher will make kill times quicker</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use soft food and/or :brew: to prevent adrenaline loss when eating"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can substitute for Berserker Ring<span> </span>:berserkerring:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
     }
   ],
   "relics": {
