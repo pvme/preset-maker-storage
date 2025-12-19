@@ -6,7 +6,7 @@
       "id": "deathdealerhoodt70"
     },
     {
-      "id": "capeoflegends"
+      "id": "defencecape"
     },
     {
       "id": "salveamulet"
@@ -44,7 +44,7 @@
   ],
   "inventorySlots": [
     {
-      "id": "excal"
+      "id": "greenblubber"
     },
     {
       "id": "greenblubber"
@@ -89,7 +89,7 @@
       "id": "greenblubber"
     },
     {
-      "id": "holywrench"
+      "id": ""
     },
     {
       "id": "greenblubber"
@@ -119,7 +119,7 @@
       "id": "restore4"
     },
     {
-      "id": "greenblubber"
+      "id": "holywrench"
     },
     {
       "id": "shark"
@@ -137,7 +137,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 1,
-      "description": "An Obsidian Cape or better is also fine to use"
+      "description": "<br />"
     },
     {
       "slotType": "equipment",
@@ -158,18 +158,18 @@
   "relics": {
     "primaryRelics": [
       {
-        "id": "persistentrage"
-      },
-      {
         "id": "fontoflife"
       },
       {
         "id": "blessingofhet"
+      },
+      {
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "id": "deathward"
+        "id": ""
       },
       {
         "id": "berserkersfury"
