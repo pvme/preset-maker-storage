@@ -1,6 +1,6 @@
 {
   "presetName": "Osseous - Necro - Minimum Recommended",
-  "presetNotes": "",
+  "presetNotes": "Avoid using :darkness: as this might negate your defensives, for example the ability for :resonance: to heal you",
   "equipmentSlots": [
     {
       "id": "deathdealerhoodt70"
@@ -44,49 +44,10 @@
   ],
   "inventorySlots": [
     {
-      "id": "greenblubber"
+      "id": "extdefence"
     },
     {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "shark"
-    },
-    {
-      "id": "spices"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "shark"
-    },
-    {
-      "id": "shark"
-    },
-    {
-      "id": "greenblubber"
+      "id": "extnecro"
     },
     {
       "id": ""
@@ -101,31 +62,70 @@
       "id": "greenblubber"
     },
     {
-      "id": "shark"
-    },
-    {
-      "id": "shark"
-    },
-    {
-      "id": "extdefence"
-    },
-    {
-      "id": "extnecro"
+      "id": "greenblubber"
     },
     {
       "id": "restore4"
     },
     {
       "id": "restore4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
     },
     {
       "id": "holywrench"
     },
     {
-      "id": "shark"
+      "id": "spices"
     },
     {
-      "id": "shark"
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
     }
   ],
   "breakdown": [
@@ -153,6 +153,16 @@
       "slotType": "equipment",
       "slotIndex": 11,
       "description": "Used for a bit of extra healing. If you don't have this, that's okay."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Requires the quest \"Rum Deal\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Requires the quest \"Let Them Eat Pie\""
     }
   ],
   "relics": {
