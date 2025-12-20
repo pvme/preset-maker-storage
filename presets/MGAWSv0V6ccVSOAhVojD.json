@@ -174,7 +174,7 @@
       "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
       "name": "Super restore flask (6)",
       "breakdownNotes": "Only needed if not taking enough damage.",
-      "label": "restore",
+      "label": "superrestore",
       "selected": false
     },
     {

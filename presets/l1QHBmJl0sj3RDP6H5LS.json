@@ -237,7 +237,7 @@
       "image": "https://i.imgur.com/FVmxMkH.png",
       "wikiLink": "https://runescape.wiki/w/Blessed_flask",
       "name": "Blessed flask",
-      "breakdownNotes": "Optional if not using both <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> and <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /><br /><br />Can be replaced with a few <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+      "breakdownNotes": "Optional if not using both <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> and <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /><br /><br />Can be replaced with a few <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
       "label": "blessed",
       "selected": false
     },

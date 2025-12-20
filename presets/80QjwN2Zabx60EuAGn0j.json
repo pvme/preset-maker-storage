@@ -216,7 +216,7 @@
     {
       "image": "https://i.imgur.com/pulVXx3.png",
       "name": "Super restore",
-      "label": "restore",
+      "label": "superrestore",
       "selected": false
     },
     {

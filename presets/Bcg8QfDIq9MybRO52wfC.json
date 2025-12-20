@@ -1,6 +1,6 @@
 {
   "presetName": "Crystal Shapeshifters Tarddiad",
-  "presetNotes": "<span>t70 crystal armour works but t80 is better due to passive<br /><br />Recommended to use <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> with </span><img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /> and bring <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+  "presetNotes": "<span>t70 crystal armour works but t80 is better due to passive<br /><br />Recommended to use <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> with </span><img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /> and bring <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
   "equipmentSlots": [
     {
       "image": "https://i.imgur.com/Ka6DnQN.png",
@@ -235,7 +235,7 @@
       "image": "https://i.imgur.com/FVmxMkH.png",
       "wikiLink": "https://runescape.wiki/w/Blessed_flask",
       "name": "Blessed flask",
-      "breakdownNotes": "May replace with <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" /><br />",
+      "breakdownNotes": "May replace with <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" /><br />",
       "label": "blessed",
       "selected": false
     },

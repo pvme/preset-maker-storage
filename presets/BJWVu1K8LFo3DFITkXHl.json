@@ -95,7 +95,7 @@
       "image": "https://i.imgur.com/XjIho2f.png",
       "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
       "name": "Powder of penance",
-      "breakdownNotes": "If not using, bring more <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+      "breakdownNotes": "If not using, bring more <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
       "label": "powderofpenance",
       "selected": false
     },
@@ -175,7 +175,7 @@
       "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
       "name": "Super restore flask (6)",
       "breakdownNotes": "",
-      "label": "restore",
+      "label": "superrestore",
       "selected": false
     },
     {
