@@ -3,388 +3,207 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/S1sjGOu.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
-      "name": "Elite Dracolich coif",
-      "breakdownNotes": "",
-      "label": "edracolichcoif"
+      "id": "edracolichcoif"
     },
     {
-      "image": "https://i.imgur.com/jcfkzGn.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "label": "kalzuk"
+      "id": "igneouskalzuk"
     },
     {
-      "image": "https://i.imgur.com/MWLieOn.png",
-      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow",
-      "name": "EoF - Eldritch crossbow",
-      "breakdownNotes": "",
-      "label": "eofpink"
+      "id": "eofpink"
     },
     {
-      "image": "https://i.imgur.com/GkhQHSj.png",
-      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
-      "name": "Bow of the Last Guardian",
-      "breakdownNotes": "",
-      "label": "bolg"
+      "id": "bolg"
     },
     {
-      "image": "https://i.imgur.com/M5jOHR3.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
-      "name": "Elite Dracolich hauberk",
-      "breakdownNotes": "",
-      "label": "edracolichhauberk"
-    },
-    null,
-    {
-      "image": "https://i.imgur.com/VGqlhJd.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
-      "name": "Elite Dracolich chaps",
-      "breakdownNotes": "",
-      "label": "edracolichchaps"
+      "id": "edracolichhauberk"
     },
     {
-      "image": "https://i.imgur.com/LutTgCH.png",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "label": "cinder"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/07vxUMy.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots",
-      "name": "Elite Dracolich boots",
-      "breakdownNotes": "",
-      "label": "edracolichboots"
+      "id": "edracolichchaps"
     },
     {
-      "image": "https://i.imgur.com/xRj7mKb.png",
-      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
-      "name": "Stalker's ring",
-      "breakdownNotes": "",
-      "label": "stalkerring"
+      "id": "cinderbanes"
     },
     {
-      "image": "https://i.imgur.com/MG25Uow.png",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
-      "name": "Pernix's Quiver (Green)",
-      "breakdownNotes": "Bik | Wen<br />",
-      "label": "pernixquivergreen"
+      "id": "edracolichboots"
     },
     {
-      "image": "https://i.imgur.com/JigaLBL.png",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
-      "name": "Vampyrism aura",
-      "breakdownNotes": "",
-      "label": "vampaura"
+      "id": "stalkerring"
     },
     {
-      "image": "https://i.imgur.com/UUZvMlw.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut",
-      "name": "Scripture of Amascut",
-      "breakdownNotes": "",
-      "label": "scriptureofamascut"
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/8a6M64a.png",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
-      "name": "Essence of Finality amulet (green)",
-      "breakdownNotes": "Zamorak Bow special attack",
-      "label": "eofgreenunorn",
-      "selected": false
+      "id": "eofgreenunorn"
     },
     {
-      "image": "https://i.imgur.com/zAiXkJn.png",
-      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
-      "name": "EoF - Seren godbow",
-      "breakdownNotes": "",
-      "label": "eofblue",
-      "selected": false
+      "id": "eofblue"
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/hw7rKHz.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
-      "name": "Weapon poison+++ (1)",
-      "breakdownNotes": "",
-      "label": "poison1",
-      "selected": false
+      "id": "poison1"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "restore",
-      "selected": false
+      "id": "restore"
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "label": "graspingpouchblue",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "excal"
     },
     {
-      "image": "https://i.imgur.com/Moh9yya.png",
-      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
-      "name": "Abyssal scourge",
-      "breakdownNotes": "<br />",
-      "label": "abyssalscourge",
-      "selected": false
+      "id": "abyssalscourge"
     },
     {
-      "image": "https://i.imgur.com/R5kSCvF.png",
-      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
-      "name": "Fleeting boots",
-      "breakdownNotes": "",
-      "label": "fleet",
-      "selected": false
+      "id": "fleetingboots"
     },
     {
-      "image": "https://i.imgur.com/y5vAY4M.png",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
-      "name": "Ring of death",
-      "breakdownNotes": "(Optional) Makes P4 much safer<br />",
-      "label": "rod",
-      "selected": false
+      "id": "rod"
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "label": "vulnbombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "label": "graspingpouchblack",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "label": "graspingpouchpink",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "image": "https://i.imgur.com/cqCp4Ar.png",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "",
-      "label": "roarofawakening",
-      "selected": false
+      "id": "roarofawakening"
     },
     {
-      "image": "https://i.imgur.com/AFimQTj.png",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "",
-      "label": "odetodeceit",
-      "selected": false
+      "id": "odetodeceit"
     },
     {
-      "image": "https://i.imgur.com/zJ2WxLa.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces",
-      "name": "Elite Dracolich vambraces",
-      "breakdownNotes": "",
-      "label": "edracolichvambs",
-      "selected": false
+      "id": "edracolichvambs"
     },
     {
-      "image": "https://i.imgur.com/u9527hu.png",
-      "wikiLink": "https://runescape.wiki/w/Deathspore_arrows",
-      "name": "Deathspore arrows",
-      "breakdownNotes": "",
-      "label": "deathsporearrows",
-      "selected": false
+      "id": "deathsporearrows"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/WibUB0k.png",
-      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
-      "name": "Zamorak brew (4)",
-      "breakdownNotes": "",
-      "label": "zambrew4",
-      "selected": false
+      "id": "zambrew4"
     },
     {
-      "image": "https://i.imgur.com/WibUB0k.png",
-      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
-      "name": "Zamorak brew (4)",
-      "breakdownNotes": "",
-      "label": "zambrew4",
-      "selected": false
+      "id": "zambrew4"
     },
     {
-      "image": "https://i.imgur.com/WibUB0k.png",
-      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
-      "name": "Zamorak brew (4)",
-      "breakdownNotes": "",
-      "label": "zambrew4",
-      "selected": false
+      "id": "zambrew4"
     },
     {
-      "image": "https://i.imgur.com/UEC7TLp.png",
-      "wikiLink": "https://runescape.wiki/w/Black_crystal_(reduced_healing)",
-      "name": "Black crystal (reduced healing)",
-      "breakdownNotes": "",
-      "label": "blackcrystal",
-      "selected": false
+      "id": "blackcrystal"
     },
     {
-      "image": "https://i.imgur.com/hd7YvA4.png",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "name": "Deathwarden Nexus",
-      "breakdownNotes": "",
-      "label": "deathwardennexus",
-      "selected": false
+      "id": "deathwardennexus"
     },
     {
-      "image": "https://i.imgur.com/iXpGYQo.png",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "label": "grest",
-      "selected": false
+      "id": "grest"
     },
     {
-      "image": "https://i.imgur.com/iXpGYQo.png",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "label": "grest",
-      "selected": false
+      "id": "grest"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Zamorak Bow special attack"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Makes P4 much safer<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Bik | Wen<br />"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/sxnDQng.png",
-        "name": "Blood Reaver",
-        "breakdownNotes": "",
-        "label": "bloodreaver"
+        "id": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
