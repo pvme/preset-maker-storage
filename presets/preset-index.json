@@ -688,10 +688,6 @@
     "presetName": "Boss - Minimum Necro Gear"
   },
   {
-    "presetId": "50e03e24-37ad-4be8-abf5-a4bb22c0aa09",
-    "presetName": "Boss - Minimum Ranged Gear"
-  },
-  {
     "presetId": "36ec3ebe-379d-4350-a3ff-ce7a88f7525a",
     "presetName": "Boss - Minimum Magic Gear"
   },
@@ -702,5 +698,9 @@
   {
     "presetId": "IFpNvXQio73YKPaZ1RNb",
     "presetName": "Solo HM Kera Ranged"
+  },
+  {
+    "presetId": "50e03e24-37ad-4be8-abf5-a4bb22c0aa09",
+    "presetName": "Stage 1 - Ranged Gear"
   }
 ]
