@@ -3,31 +3,31 @@
   "presetNotes": "Use your strongest damaging spell available and update runes accordingly.",
   "equipmentSlots": [
     {
-      "id": "hoodofsubjugation"
+      "id": "tectmask"
     },
     {
       "id": "defencecape"
     },
     {
-      "id": "amuletofglory"
+      "id": "aos"
     },
     {
-      "id": "abyssalwand"
+      "id": "obliteration"
     },
     {
-      "id": "subjgarb"
+      "id": "tectbody"
     },
     {
       "id": "cywirorb"
     },
     {
-      "id": "subjgown"
+      "id": "tectlegs"
     },
     {
-      "id": "glovesofsubjugation"
+      "id": "kerapacswristwraps"
     },
     {
-      "id": "bootsofsubjugation"
+      "id": "blastdiffusion"
     },
     {
       "id": "rov"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "armagodbook2"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
@@ -86,10 +86,10 @@
       "id": "greenblubber"
     },
     {
-      "id": ""
+      "id": "gstaff"
     },
     {
-      "id": ""
+      "id": "pf"
     },
     {
       "id": ""
