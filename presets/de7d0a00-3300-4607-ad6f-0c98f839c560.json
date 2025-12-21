@@ -3,31 +3,31 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "id": "bandoshelm"
+      "id": "jawsoftheabyss"
     },
     {
       "id": "defencecape"
     },
     {
-      "id": "amuletofglory"
+      "id": "aos"
     },
     {
-      "id": "veracflail"
+      "id": "lanispear"
     },
     {
-      "id": "bandoschest"
+      "id": "masterworkbody"
     },
     {
       "id": ""
     },
     {
-      "id": "bandostassets"
+      "id": "masterworklegs"
     },
     {
-      "id": "bandosgloves"
+      "id": "glovesofpassage"
     },
     {
-      "id": "bandosboots"
+      "id": "laceration"
     },
     {
       "id": "rov"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "armagodbook2"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
