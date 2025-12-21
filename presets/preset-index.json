@@ -688,10 +688,6 @@
     "presetName": "Solo HM Kera Ranged"
   },
   {
-    "presetId": "50e03e24-37ad-4be8-abf5-a4bb22c0aa09",
-    "presetName": "Stage 1 - Ranged Gear"
-  },
-  {
     "presetId": "0d30907b-8f74-4b10-9335-335d98008918",
     "presetName": "Stage 1 - Necro Gear"
   },
@@ -702,5 +698,9 @@
   {
     "presetId": "36ec3ebe-379d-4350-a3ff-ce7a88f7525a",
     "presetName": "Stage 1 - Magic Gear"
+  },
+  {
+    "presetId": "50e03e24-37ad-4be8-abf5-a4bb22c0aa09",
+    "presetName": "Stage 1 - Ranged Gear"
   }
 ]
