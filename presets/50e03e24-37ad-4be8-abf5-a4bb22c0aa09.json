@@ -1,33 +1,33 @@
 {
-  "presetName": "Boss - Minimum Ranged Gear",
+  "presetName": "Stage 1 - Ranged Gear",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "id": "armadylhelmet"
+      "id": "sirenicmask"
     },
     {
       "id": "defencecape"
     },
     {
-      "id": "amuletofglory"
+      "id": "aos"
     },
     {
-      "id": "acbmh"
+      "id": "decimation"
     },
     {
-      "id": "armaplate"
+      "id": "sirenicbody"
     },
     {
-      "id": "acboh"
+      "id": ""
     },
     {
-      "id": "armadyllegs"
+      "id": "sireniclegs"
     },
     {
-      "id": "armagloves"
+      "id": "pernixgloves"
     },
     {
-      "id": "armaboots"
+      "id": "fleetingboots"
     },
     {
       "id": "rov"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "armagodbook2"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
