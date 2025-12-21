@@ -3,31 +3,31 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "id": "deathdealerhoodt70"
+      "id": "deathwardenhoodt70"
     },
     {
       "id": "defencecape"
     },
     {
-      "id": "amuletofglory"
+      "id": "conjuresamulet"
     },
     {
       "id": "deathguard70"
     },
     {
-      "id": "deathdealerrobetopt70"
+      "id": "deathwardenrobetopt70"
     },
     {
       "id": "skulllantern70"
     },
     {
-      "id": "deathdealerrobebottomt70"
+      "id": "deathwardenrobebottomt70"
     },
     {
-      "id": "deathdealerglovest70"
+      "id": "deathwardenglovest70"
     },
     {
-      "id": "deathdealerbootst70"
+      "id": "deathwardenbootst70"
     },
     {
       "id": "rov"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "armagodbook2"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
