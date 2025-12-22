@@ -718,5 +718,9 @@
   {
     "presetId": "ad1c9b22-1f69-451d-8452-45dd2936110a",
     "presetName": "Stage 1 - Necro Gear (Deathwarden)"
+  },
+  {
+    "presetId": "22d2c63c-727a-4724-b4f4-7cb66025b8e4",
+    "presetName": "Stage 1 - Necro Gear (Undead Enemy)"
   }
 ]
