@@ -1,0 +1,240 @@
+{
+  "presetName": "Stage 1 - Necro Gear (Undead Enemy)",
+  "presetNotes": "<div>If you can, add :undeadslayerperk: Undead Slayer perk to a piece of gear</div>",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt70"
+    },
+    {
+      "id": "defencecape"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard70"
+    },
+    {
+      "id": "deathdealerrobetopt70"
+    },
+    {
+      "id": "skulllantern70"
+    },
+    {
+      "id": "deathdealerrobebottomt70"
+    },
+    {
+      "id": "deathdealerglovest70"
+    },
+    {
+      "id": "deathdealerbootst70"
+    },
+    {
+      "id": "rov"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "extdefence"
+    },
+    {
+      "id": "extnecro"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Super Defence or higher will reduce the need for food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Adding basic perks will help but not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Requires the quest \"Rum Deal\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Requires the quest \"Let Them Eat Pie\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Super Necromancy or higher will make kill times quicker</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use soft food and/or :brew: to prevent adrenaline loss when eating"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can substitute for Berserker Ring<span> </span>:berserkerring:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "blessingofhet"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bunyip"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
