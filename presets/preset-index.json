@@ -702,5 +702,9 @@
   {
     "presetId": "50e03e24-37ad-4be8-abf5-a4bb22c0aa09",
     "presetName": "Stage 1 - Ranged Gear"
+  },
+  {
+    "presetId": "c08c872c-ae16-4558-bc49-482b1e8e811a",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
