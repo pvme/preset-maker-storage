@@ -1,9 +1,9 @@
 {
-  "presetName": "Stage 1 - Necro Gear",
+  "presetName": "Stage 1 - Necro Gear (Deathdealer)",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "id": "deathwardenhoodt70"
+      "id": "deathdealerhoodt70"
     },
     {
       "id": "defencecape"
@@ -15,19 +15,19 @@
       "id": "deathguard70"
     },
     {
-      "id": "deathwardenrobetopt70"
+      "id": "deathdealerrobetopt70"
     },
     {
       "id": "skulllantern70"
     },
     {
-      "id": "deathwardenrobebottomt70"
+      "id": "deathdealerrobebottomt70"
     },
     {
-      "id": "deathwardenglovest70"
+      "id": "deathdealerglovest70"
     },
     {
-      "id": "deathwardenbootst70"
+      "id": "deathdealerbootst70"
     },
     {
       "id": "rov"
