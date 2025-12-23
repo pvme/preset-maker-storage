@@ -1,0 +1,190 @@
+{
+  "presetName": "Moss Golems AFK Melee",
+  "presetNotes": "<div>Tier 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690136117273821280.webp?v=1\" /> Corbicula rex perk required.</div><div><br /></div><div>Bonfire <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1011705727041163396.webp?v=1\" />, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689530593796423724.webp?v=1\" />, and Boon of Het HP Boosts required.</div><div><br /></div>Desert <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/982264010126819380.webp?v=1\" /> HP Boost preferred over Bonfire <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1011705727041163396.webp?v=1\" />.",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "powderofprotectionstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Use Meteorite Cannonballs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "BJS - Lost Grove"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<div>Aftershock 4,Precise 2/Eruptive 4,Ruthless 3</div><div><br /></div><div>Downgrading to Dragon Rider Lance <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643161541931171872.png\" /> or upgrading to Tumeken's Light <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1400511651014250596.png\" /> is possible.</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<div>Enhanced Devoted 4/Impatient 4,Devoted 4</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Upgrading to Superior <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513201294262009874.png\" />, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159416557573.png\" />, and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1400511651014250596.png\" /> + <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1266418218264694954.png\" /> allows the use of DPS auras (<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505376917979138.png\" />, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505652571963417.png\" />, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643148943856762890.png\" />)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Primal Abyssal Armour Spikes</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "heightenedsenses"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bloodnihil"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
