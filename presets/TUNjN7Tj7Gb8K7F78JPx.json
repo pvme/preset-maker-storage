@@ -3,298 +3,232 @@
   "presetNotes": "Pray <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> and <img title=\"torment\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /> or <img title=\"affliction\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><br /><br /><span>Autocast </span><img title=\"exsang\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and upkeep </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><br />",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/xNXHeIN.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "",
-      "label": "cryptbloomhelm"
+      "id": "cryptbloomhelm"
     },
     {
-      "image": "https://i.imgur.com/v4dRHBk.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
-      "name": "Igneous Kal-Mej",
-      "breakdownNotes": "<br />",
-      "label": "kalmej"
+      "id": "igneouskalmej"
     },
     {
-      "image": "https://i.imgur.com/gA1MFTE.png",
-      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
-      "name": "Demon horn necklace",
-      "breakdownNotes": "",
-      "label": "demonhorn"
+      "id": "demonhornnecklace"
     },
     {
-      "image": "https://i.imgur.com/cqCp4Ar.png",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "",
-      "label": "roarofawakening"
+      "id": "roarofawakening"
     },
     {
-      "image": "https://i.imgur.com/cau9oLa.png",
-      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
-      "name": "Virtus robe top",
-      "breakdownNotes": "",
-      "label": "virtustop"
+      "id": "virtustop"
     },
     {
-      "image": "https://i.imgur.com/AFimQTj.png",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "",
-      "label": "odetodeceit"
+      "id": "odetodeceit"
     },
     {
-      "image": "https://i.imgur.com/h07wgr8.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
-      "name": "Cryptbloom legs",
-      "breakdownNotes": "",
-      "label": "cryptbloomlegs"
+      "id": "cryptbloomlegs"
     },
     {
-      "image": "https://i.imgur.com/LutTgCH.png",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "label": "cinder"
+      "id": "cinderbanes"
     },
     {
-      "image": "https://i.imgur.com/1MkR1qn.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "label": "cryptbloomboots"
+      "id": "cryptbloomboots"
     },
     {
-      "image": "https://i.imgur.com/y5vAY4M.png",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
-      "name": "Ring of death",
-      "breakdownNotes": "",
-      "label": "rod"
+      "id": "rod"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul<br />",
-      "label": "graspingpouchblack"
+      "id": "graspingpouchblack"
     },
     {
-      "image": "https://i.imgur.com/a3Up2sd.png",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "",
-      "label": "equilibriumaura"
+      "id": "equilibriumaura"
     },
     {
-      "image": "https://i.imgur.com/zd3mKfH.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
-      "name": "Scripture of Wen",
-      "breakdownNotes": "<br />",
-      "label": "scriptureofwen"
+      "id": "scriptureofwen"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "<br />",
-      "label": "salve"
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/af9O4EM.png",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
-      "name": "Potion reservoir (inactive)",
-      "breakdownNotes": "",
-      "label": "potionreservoir2"
+      "id": "potionreservoir2"
     },
     {
-      "image": "https://i.imgur.com/LfpiRjg.png",
-      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
-      "name": "Lantadyme incense sticks",
-      "breakdownNotes": "Optional.<br />",
-      "label": "lantasticks"
+      "id": "lantadymesticks"
     },
     {
-      "image": "https://i.imgur.com/Ba7yju8.png",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
-      "name": "Kwuarm incense sticks",
-      "breakdownNotes": "<span>Optional.</span>",
-      "label": "kwuarmsticks"
-    },
-    null,
-    null,
-    null,
-    {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "<br />",
-      "label": "salve"
+      "id": "kwuarmsticks"
     },
     {
-      "image": "https://i.imgur.com/KyZkJoc.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
-      "name": "Weapon poison+++ flask (6)",
-      "breakdownNotes": "",
-      "label": "poison6"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/BQXFPFu.png",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
-      "name": "Binding contract (blood reaver)",
-      "breakdownNotes": "",
-      "label": "reaver"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/w6hThUy.png",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
-      "name": "Powder of penance",
-      "breakdownNotes": "",
-      "label": "powderofpenance2"
-    },
-    null,
-    null,
-    null,
-    {
-      "image": "https://i.imgur.com/gpuvlcU.png",
-      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
-      "name": "Sixth-Age circuit",
-      "breakdownNotes": "<br />",
-      "label": "sixthagecircuit"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/GrfjyE2.png",
-      "wikiLink": "https://runescape.wiki/w/Cannonballs",
-      "name": "Cannonballs",
-      "breakdownNotes": "",
-      "label": "cballs"
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/GTwVqeC.png",
-      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
-      "name": "Dwarven siege engine",
-      "breakdownNotes": "",
-      "label": "cannon"
+      "id": "poison6"
     },
     {
-      "image": "https://i.imgur.com/e0vL3ur.png",
-      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
-      "name": "XP Capacitor 5000 (Charging)",
-      "breakdownNotes": "<span>Optional.</span>",
-      "label": "xpcapacitor5000charging"
-    },
-    null,
-    null,
-    null,
-    {
-      "image": "https://i.imgur.com/pjHPdhj.png",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "<br />",
-      "label": "springcleaner"
+      "id": "reaverpouch"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic<br />",
-      "label": "graspingpouchpink"
+      "id": "powderofpenance2"
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire<br />",
-      "label": "graspingpouchblue"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/8r07LbS.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
-      "name": "Magic notepaper",
-      "breakdownNotes": "",
-      "label": "1knote"
+      "id": ""
     },
-    null,
-    null,
-    null
+    {
+      "id": ""
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Optional.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>Optional.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<span>Optional.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Death | Earth | Law | Cosmic<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Chaos | Air | Water | Fire<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/sxnDQng.png",
-        "name": "Blood Reaver",
-        "breakdownNotes": "",
-        "label": "bloodreaver"
+        "id": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
