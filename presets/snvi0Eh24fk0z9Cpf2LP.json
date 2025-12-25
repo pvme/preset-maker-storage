@@ -3,308 +3,227 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/XCIjNXk.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
-      "name": "Magic golem head",
-      "breakdownNotes": "",
-      "label": "magicgolemhead"
+      "id": "magicgolemhead"
     },
     {
-      "image": "https://i.imgur.com/myCOFKL.png",
-      "wikiLink": "https://runescape.wiki/w/Hunter_cape",
-      "name": "Hunter cape",
-      "breakdownNotes": "<span>Used for 2 ticking while gathering and doing core.</span>",
-      "label": "huntercape"
+      "id": "hunterskillcape"
     },
     {
-      "image": "https://i.imgur.com/4KgPcpm.png",
-      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
-      "name": "Grace of the elves",
-      "breakdownNotes": "",
-      "label": "gote"
+      "id": "gote"
     },
     {
-      "image": "https://i.imgur.com/1x24vrK.png",
-      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
-      "name": "Pickaxe of Life and Death",
-      "breakdownNotes": "<span>Honed 6.</span>",
-      "label": "pickaxeoflifeanddeath"
+      "id": "pickaxeoflifeanddeath"
     },
     {
-      "image": "https://i.imgur.com/Ytyzy1c.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
-      "name": "Magic golem torso",
-      "breakdownNotes": "",
-      "label": "magicgolemtorso"
+      "id": "magicgolemtorso"
     },
     {
-      "image": "https://i.imgur.com/JffmIPJ.png",
-      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer",
-      "name": "Tagga's corehammer",
-      "breakdownNotes": "",
-      "label": "corehammer"
+      "id": "taggascorehammer"
     },
     {
-      "image": "https://i.imgur.com/4jZVBTE.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
-      "name": "Magic golem legs",
-      "breakdownNotes": "",
-      "label": "magicgolemlegs"
+      "id": "magicgolemlegs"
     },
     {
-      "image": "https://i.imgur.com/ZaLwIE0.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
-      "name": "Magic golem gloves",
-      "breakdownNotes": "",
-      "label": "magicgolemgloves"
+      "id": "magicgolemgloves"
     },
     {
-      "image": "https://i.imgur.com/0yMVyOj.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
-      "name": "Magic golem boots",
-      "breakdownNotes": "",
-      "label": "magicgolemboots"
+      "id": "magicgolemboots"
     },
     {
-      "image": "https://i.imgur.com/nXXZxpH.png",
-      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
-      "name": "Luck of the dwarves",
-      "breakdownNotes": "",
-      "label": "lotd"
+      "id": "lotd"
     },
     {
-      "image": "https://i.imgur.com/Mk7jbjC.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
-      "name": "Grasping rune pouch",
-      "breakdownNotes": "Earth | Fire | Body | Soul",
-      "label": "graspingpouch"
+      "id": "graspingpouch"
     },
-    null,
     {
-      "image": "https://i.imgur.com/t1KMJMv.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
-      "name": "Scripture of Bik",
-      "breakdownNotes": "Optional for gathering clues.",
-      "label": "scriptureofbik"
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/I6HFjyN.png",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "",
-      "label": "accel4",
-      "selected": false
+      "id": "accel4"
     },
     {
-      "image": "https://i.imgur.com/XVBSWOO.png",
-      "wikiLink": "https://runescape.wiki/w/Extreme_hunter_flask#(6)",
-      "name": "Extreme hunter flask",
-      "breakdownNotes": "",
-      "label": "extremehunterflask",
-      "selected": false
+      "id": "extremehunterflask"
     },
     {
-      "image": "https://i.imgur.com/jHCeJqk.png",
-      "wikiLink": "https://runescape.wiki/w/Deathspore_arrow_tips",
-      "name": "Deathspore arrow tips",
-      "breakdownNotes": "",
-      "label": "deathsporearrowtips1",
-      "selected": false
+      "id": "deathsporearrowtips1"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/OTFMuCJ.png",
-      "wikiLink": "https://runescape.wiki/w/Master_constructor's_hat",
-      "name": "Master constructor's hat",
-      "breakdownNotes": "Used when repairing statues.",
-      "label": "masterconstructorhat",
-      "selected": false
+      "id": "masterconstructorhat"
     },
     {
-      "image": "https://i.imgur.com/UCx0Gj9.png",
-      "wikiLink": "https://runescape.wiki/w/Master_constructor's_boots",
-      "name": "Master constructor's boots",
-      "breakdownNotes": "<span>Used when repairing statues.</span>",
-      "label": "masterconstructorsboots",
-      "selected": false
+      "id": "masterconstructorsboots"
     },
     {
-      "image": "https://i.imgur.com/gMZLjIv.png",
-      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
-      "name": "Artificer's measure",
-      "breakdownNotes": "<span>Used when repairing statues.</span>",
-      "label": "artificer",
-      "selected": false
+      "id": "artificer"
     },
     {
-      "image": "https://i.imgur.com/maZE8qW.png",
-      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
-      "name": "Fishing rod-o-matic",
-      "breakdownNotes": "<span>Honed 6.</span><br /><span>Can upgrade to Enhanced version for more Invention XP.</span>",
-      "label": "rodomatic",
-      "selected": false
+      "id": "rodomatic"
     },
     {
-      "image": "https://i.imgur.com/n42Kunc.png",
-      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch",
-      "name": "Sana's fyrtorch",
-      "breakdownNotes": "",
-      "label": "fyretorch",
-      "selected": false
+      "id": "sanasfyrtorch"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/0BCKI4J.png",
-      "wikiLink": "https://runescape.wiki/w/Master_constructor's_jacket",
-      "name": "Master constructor's jacket",
-      "breakdownNotes": "<span>Used when repairing statues.</span>",
-      "label": "masterconstructorjacket",
-      "selected": false
+      "id": "masterconstructorjacket"
     },
     {
-      "image": "https://i.imgur.com/Kk7SksF.png",
-      "wikiLink": "https://runescape.wiki/w/Master_constructor's_gloves",
-      "name": "Master constructor's gloves",
-      "breakdownNotes": "<span>Used when repairing statues.</span>",
-      "label": "masterconstructorgloves",
-      "selected": false
+      "id": "masterconstructorgloves"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/sKzjiFQ.png",
-      "wikiLink": "https://runescape.wiki/w/Master_constructor's_trousers",
-      "name": "Master constructor's trousers",
-      "breakdownNotes": "<span>Used when repairing statues.</span>",
-      "label": "masterconstructortrousers",
-      "selected": false
+      "id": "masterconstructortrousers"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Used when repairing statues."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Used when repairing statues.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Used when repairing statues.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Honed 6.</span><br /><span>Can upgrade to Enhanced version for more Invention XP.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<span>Used when repairing statues.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Used when repairing statues.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Used when repairing statues.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>Used for 2 ticking while gathering and doing core.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Honed 6.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Earth | Fire | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Optional for gathering clues."
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
-        "label": "shadowsgrace",
-        "energy": 50
+        "id": "shadowsgrace"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/z8NpfWG.png",
-        "name": "Pack Mammoth",
-        "breakdownNotes": "",
-        "label": "packmammoth"
+        "id": "packmammoth"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
