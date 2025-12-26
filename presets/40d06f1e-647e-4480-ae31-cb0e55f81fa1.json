@@ -1,0 +1,195 @@
+{
+  "presetName": "Melee / Mage Vorkath flight skip",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": "mahj"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "accel1"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "graspingpouchorange"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Runes for <img title=\"smokecloud\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Hydrix Bakriminel Bolts"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Hydrix Bakrimenel Bolts | Ascendri Bolts"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Varanus' Mercy"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "shadowsgrace"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
