@@ -153,6 +153,16 @@
       "slotType": "inventory",
       "slotIndex": 10,
       "description": "<span>Deathspore</span> Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "GMaul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<span>Varanus' Mercy</span>"
     }
   ],
   "relics": {
