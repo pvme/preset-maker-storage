@@ -1,0 +1,190 @@
+{
+  "presetName": "AFK Rathis 2H",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Optional to note damaged dinosaur hides.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Runes for ;darkness;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
