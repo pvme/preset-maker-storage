@@ -1,0 +1,265 @@
+{
+  "presetName": "Melee-Range Vorkath HM",
+  "presetNotes": "Gmaul EoF, RoD, and pouches for Disruption Shield/SBS Lunars/Veng are optional.  Can bring a single pouch for smoke cloud in its place.",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "mahj"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "wyverncrossbow"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "sgb"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "edracogloves"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Mobile on either piece or Shadows Grace</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Mobile on either piece or Shadows Grace</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Jas dragonbane arrow | Deathspore arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Used with gbarge.  Can be replaced with accel pot for higher KPH"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Hydrix bakriminel bolts (e)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "P6A1, physical for usage with Salve amulet (e)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Can be equipped near the end of kill for Invoke Death."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Cosmic | Earth | Death | Law"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Astral | Body | Blood | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Air | Fire | Chaos | Water"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Dark Bow EoF"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Zamorak Bow EoF"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Granite Maul EoF"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can be used with Invoke Death when Zemouregal is under 30k"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "shadowsgrace"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
