@@ -580,10 +580,6 @@
     "presetName": ""
   },
   {
-    "presetId": "96XgTx7ka7oqifH8dWGT",
-    "presetName": "AFK Helwyr - Melee"
-  },
-  {
     "presetId": "e55471b9-9385-4deb-9861-e63a6c048278",
     "presetName": "Solak Duo GM Base"
   },
@@ -794,5 +790,9 @@
   {
     "presetId": "f89db257-fb98-41de-87ae-d626838cf51c",
     "presetName": "M/M Sanctum"
+  },
+  {
+    "presetId": "96XgTx7ka7oqifH8dWGT",
+    "presetName": "AFK Helwyr - Melee"
   }
 ]
