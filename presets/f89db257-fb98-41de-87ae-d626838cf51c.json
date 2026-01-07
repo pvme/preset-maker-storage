@@ -1,0 +1,200 @@
+{
+  "presetName": "M/M Sanctum",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "mani"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "desertamulet4"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Time | Nature | Air | Earth"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Blackstone</span><span> | </span><span>Hydrix (e)</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Dragon Scimitar"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>deathspores arrows</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
