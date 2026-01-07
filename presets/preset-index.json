@@ -790,5 +790,9 @@
   {
     "presetId": "2cf78edd-55d0-4666-91b5-4b1c9310b688",
     "presetName": "Melee-Range Vorkath HM"
+  },
+  {
+    "presetId": "f89db257-fb98-41de-87ae-d626838cf51c",
+    "presetName": "M/M Sanctum"
   }
 ]
