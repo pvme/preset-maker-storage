@@ -1,0 +1,300 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "pwand"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "impercore"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "holyscarab"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "For the unlikely event your prayer runs low"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Holy Scarab (no holy scarab in inventory icon for some reason)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Only use if using cryptbloom"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Death | Earth | Law | Cosmic, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Chaos | Air | Water | Fire, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "For igneous Omnipower"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Essence of finality is acceptable, but inferior. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Any properly perked wand T88+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Any properly perked offhand T80+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul, runes for Animate Dead and Exsanguinate"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Penance is highly recommended to sustain prayer while afk. Penance powder can be used with other auras, but will require manual prayer restoration. For dps auras, Vampyrism = Mahjarrat &gt; Dark Magic. Do not use Maniacal. "
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "holyscarab"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
