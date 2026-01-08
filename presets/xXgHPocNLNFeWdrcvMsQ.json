@@ -3,397 +3,297 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/xNXHeIN.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "",
-      "label": "cryptbloomhelm"
+      "id": "cryptbloomhelm"
     },
     {
-      "image": "https://i.imgur.com/6EvPhe6.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
-      "name": "Igneous Kal-Mej",
-      "breakdownNotes": "For igneous Omnipower",
-      "label": "kalmej"
+      "id": "igneouskalmej"
     },
     {
-      "image": "https://i.imgur.com/tsyhx6q.png",
-      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy",
-      "name": "Necklace of Salamancy",
-      "breakdownNotes": "Essence of finality is acceptable, but inferior. ",
-      "label": "salamancy"
+      "id": "necklaceofsalamancy"
     },
     {
-      "image": "https://i.imgur.com/DmUfsSM.png",
-      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
-      "name": "Wand of the praesul",
-      "breakdownNotes": "Any properly perked wand T88+ will suffice",
-      "label": "pwand"
+      "id": "pwand"
     },
     {
-      "image": "https://i.imgur.com/G07AY4A.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
-      "name": "Cryptbloom top",
-      "breakdownNotes": "",
-      "label": "cryptbloomtop"
+      "id": "cryptbloomtop"
     },
     {
-      "image": "https://i.imgur.com/WHurFLm.png",
-      "wikiLink": "https://runescape.wiki/w/Imperium_core",
-      "name": "Imperium core",
-      "breakdownNotes": "Any properly perked offhand T80+ will suffice",
-      "label": "core"
+      "id": "impercore"
     },
     {
-      "image": "https://i.imgur.com/h07wgr8.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
-      "name": "Cryptbloom legs",
-      "breakdownNotes": "",
-      "label": "cryptbloomlegs"
+      "id": "cryptbloomlegs"
     },
     {
-      "image": "https://i.imgur.com/LutTgCH.png",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "label": "cinder"
+      "id": "cinderbanes"
     },
     {
-      "image": "https://i.imgur.com/1MkR1qn.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "label": "cryptbloomboots"
+      "id": "cryptbloomboots"
     },
     {
-      "image": "https://i.imgur.com/Zs7j4JG.png",
-      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "name": "Channeller's ring",
-      "breakdownNotes": "",
-      "label": "channellerring"
+      "id": "channellersring"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul, runes for Animate Dead and Exsanguinate",
-      "label": "graspingpouchblack"
+      "id": "graspingpouchblack"
     },
     {
-      "image": "https://i.imgur.com/JtO8ViZ.png",
-      "wikiLink": "https://runescape.wiki/w/Penance_aura",
-      "name": "Penance aura",
-      "breakdownNotes": "Penance is highly recommended to sustain prayer while afk. Penance powder can be used with other auras, but will require manual prayer restoration. For dps auras, Vampyrism = Mahjarrat &gt; Dark Magic. Do not use Maniacal. ",
-      "label": "penance"
+      "id": "penanceaura"
     },
     {
-      "image": "https://i.imgur.com/zd3mKfH.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
-      "name": "Scripture of Wen",
-      "breakdownNotes": "",
-      "label": "scriptureofwen"
+      "id": "scriptureofwen"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/UVffd75.png",
-      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
-      "name": "Holy wrench",
-      "breakdownNotes": "",
-      "label": "wrench",
-      "selected": false
+      "id": "holywrench"
     },
     {
-      "image": "https://i.imgur.com/UURvGNW.png",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
-      "name": "Ancient elven ritual shard",
-      "breakdownNotes": "For the unlikely event your prayer runs low",
-      "label": "elvenshard",
-      "selected": false
+      "id": "ancientshard"
     },
     {
-      "image": "https://i.imgur.com/af9O4EM.png",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir",
-      "name": "Potion reservoir",
-      "breakdownNotes": "Increased AFKness",
-      "label": "potionreservoir2",
-      "selected": false
+      "id": "potionreservoir2"
     },
     {
-      "image": "https://i.imgur.com/zWMNrib.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "Emergency manual healing",
-      "label": "sailfish",
-      "selected": false
+      "id": "sailfish"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/KFZJLhU.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "excal"
     },
     {
-      "image": "https://i.imgur.com/UEC7TLp.png",
-      "wikiLink": "https://runescape.wiki/w/Black_crystal_(reduced_healing)",
-      "name": "Black crystal (reduced healing)",
-      "breakdownNotes": "Only use if using cryptbloom",
-      "label": "blackcrystal",
-      "selected": false
+      "id": "blackcrystal"
     },
     {
-      "image": "https://i.imgur.com/SsNRoVE.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
-      "name": "Elder overload salve",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/zWMNrib.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "Emergency manual healing",
-      "label": "sailfish",
-      "selected": false
+      "id": "sailfish"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/TFvRsJF.png",
-      "wikiLink": "https://runescape.wiki/w/Portent_of_item_protection",
-      "name": "Portent of item protection",
-      "breakdownNotes": "",
-      "label": "portentitemprotection",
-      "selected": false
+      "id": "portentitemprotection"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic, <span>runes for Animate Dead and Exsanguinate</span>",
-      "label": "graspingpouchpink",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "image": "https://i.imgur.com/SsNRoVE.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
-      "name": "Elder overload salve",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/BQXFPFu.png",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
-      "name": "Binding contract (blood reaver)",
-      "breakdownNotes": "",
-      "label": "reaver",
-      "selected": false
+      "id": "reaverpouch"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/pjHPdhj.png",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "label": "springcleaner",
-      "selected": false
+      "id": "springcleaner"
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire, <span>runes for Animate Dead and Exsanguinate</span>",
-      "label": "graspingpouchblue",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "image": "https://i.imgur.com/CR06fbn.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(4)",
-      "name": "Weapon poison+++ (4)",
-      "breakdownNotes": "",
-      "label": "poison4",
-      "selected": false
+      "id": "poison4"
     },
     {
-      "image": "https://i.imgur.com/hw7rKHz.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++",
-      "name": "Weapon poison+++ (1)",
-      "breakdownNotes": "",
-      "label": "poison1",
-      "selected": false
+      "id": "poison1"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "image": "https://i.imgur.com/SRVgAXl.png",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "name": "Attuned portent of restoration x",
-      "breakdownNotes": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. ",
-      "label": "attunedportentofrestorationx",
-      "selected": false
+      "id": "attunedportentofrestorationx"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "For the unlikely event your prayer runs low"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Increased AFKness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Only use if using cryptbloom"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Death | Earth | Law | Cosmic, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Chaos | Air | Water | Fire, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "For igneous Omnipower"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Essence of finality is acceptable, but inferior. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Any properly perked wand T88+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Any properly perked offhand T80+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul, runes for Animate Dead and Exsanguinate"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Penance is highly recommended to sustain prayer while afk. Penance powder can be used with other auras, but will require manual prayer restoration. For dps auras, Vampyrism = Mahjarrat &gt; Dark Magic. Do not use Maniacal. "
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/2KToagJ.png",
-        "name": "Death Note",
-        "breakdownNotes": "",
-        "label": "deathnote",
-        "energy": 150
+        "id": "deathnote"
       },
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "label": "persistentrage",
-        "energy": 150
+        "id": "persistentrage"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/sxnDQng.png",
-        "name": "Blood Reaver",
-        "breakdownNotes": "",
-        "label": "bloodreaver"
+        "id": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
