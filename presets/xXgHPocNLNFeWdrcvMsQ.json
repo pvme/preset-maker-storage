@@ -44,37 +44,34 @@
   ],
   "inventorySlots": [
     {
-      "id": "holywrench"
-    },
-    {
-      "id": "ancientshard"
+      "id": "potionreservoir"
     },
     {
       "id": "potionreservoir2"
     },
     {
-      "id": "sailfish"
+      "id": "reaverpouch"
     },
     {
       "id": "attunedportentofrestorationx"
     },
     {
       "id": "attunedportentofrestorationx"
-    },
-    {
-      "id": "attunedportentofrestorationx"
-    },
-    {
-      "id": "excal"
-    },
-    {
-      "id": "blackcrystal"
     },
     {
       "id": "elderovlsalve"
     },
     {
-      "id": "sailfish"
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "powderofpenance2"
     },
     {
       "id": "attunedportentofrestorationx"
@@ -83,19 +80,34 @@
       "id": "attunedportentofrestorationx"
     },
     {
-      "id": "attunedportentofrestorationx"
-    },
-    {
-      "id": "portentitemprotection"
+      "id": "elderovlsalve"
     },
     {
       "id": "graspingpouchpink"
     },
     {
-      "id": "elderovlsalve"
+      "id": "attunedportentofrestorationx"
     },
     {
-      "id": "reaverpouch"
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "attunedportentofrestorationx"
     },
     {
       "id": "attunedportentofrestorationx"
@@ -110,22 +122,10 @@
       "id": "springcleaner"
     },
     {
-      "id": "graspingpouchblue"
+      "id": "ancientshard"
     },
     {
-      "id": "poison4"
-    },
-    {
-      "id": "poison1"
-    },
-    {
-      "id": "attunedportentofrestorationx"
-    },
-    {
-      "id": "attunedportentofrestorationx"
-    },
-    {
-      "id": "attunedportentofrestorationx"
+      "id": "excal"
     }
   ],
   "breakdown": [
@@ -137,7 +137,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 2,
-      "description": "Increased AFKness"
+      "description": "Holy Scarab (no holy scarab in inventory icon for some reason)"
     },
     {
       "slotType": "inventory",
@@ -261,7 +261,7 @@
         "id": "conservationofenergy"
       },
       {
-        "id": "deathnote"
+        "id": "deathward"
       },
       {
         "id": "persistentrage"
@@ -282,7 +282,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "bloodreaver"
+        "id": "holyscarab"
       }
     ],
     "alternativeFamiliars": [
