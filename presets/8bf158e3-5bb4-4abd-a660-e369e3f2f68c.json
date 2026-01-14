@@ -1,0 +1,215 @@
+{
+  "presetName": "Telos GM Speed CA",
+  "presetNotes": "NOT KPH",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "wyverncrossbow"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": "mahj"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "stickybomb"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "graspingpouchorange"
+    },
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Hydrix Bakrimenel Bolts | Ascendri Bolts"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Turtling 4 / Clear-headed / Reflexes"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "shadowsgrace"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
