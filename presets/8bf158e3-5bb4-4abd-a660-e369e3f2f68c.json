@@ -1,6 +1,6 @@
 {
   "presetName": "Telos GM Speed CA",
-  "presetNotes": "NOT KPH",
+  "presetNotes": "<div>NOT KPH</div><div>Use dba/dscim in prebuild<br />Make sure to have Lantadyme, Kwuarm, and Spiritweed sticks applied</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -173,18 +173,18 @@
   "relics": {
     "primaryRelics": [
       {
-        "id": "heightenedsenses"
+        "id": "conservationofenergy"
       },
       {
-        "id": "berserkersfury"
+        "id": "furyofthesmall"
       },
       {
-        "id": "fontoflife"
+        "id": "shadowsgrace"
       }
     ],
     "alternativeRelics": [
       {
-        "id": "shadowsgrace"
+        "id": ""
       },
       {
         "id": ""
