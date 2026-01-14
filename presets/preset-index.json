@@ -548,10 +548,6 @@
     "presetName": "Mhekarnahz Magic Instance Camp"
   },
   {
-    "presetId": "5cc746f9-e4e0-418f-a6fe-33fca9c3054d",
-    "presetName": "Telos Magic"
-  },
-  {
     "presetId": "feb961d2-7317-41bf-84ca-6f6b8012364c",
     "presetName": "Magic/Melee Grandmaster Speed Killer"
   },
@@ -814,5 +810,9 @@
   {
     "presetId": "8bf158e3-5bb4-4abd-a660-e369e3f2f68c",
     "presetName": "Telos GM Speed CA"
+  },
+  {
+    "presetId": "5cc746f9-e4e0-418f-a6fe-33fca9c3054d",
+    "presetName": "Telos Magic"
   }
 ]
