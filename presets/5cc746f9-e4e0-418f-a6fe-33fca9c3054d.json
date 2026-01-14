@@ -1,404 +1,205 @@
 {
   "presetName": "Telos Magic",
   "presetNotes": "",
-  "inventorySlots": [
-    {
-      "name": "Zamorak brew (4)",
-      "label": "zambrew4",
-      "image": "https://img.pvme.io/images/WibUB0k.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Enhanced excalibur",
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false,
-      "slot": 5
-    },
-    {
-      "name": "Elder overload salve (6)",
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Adrenaline renewal potion (4)",
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Grasping rune pouch (black)",
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Grasping rune pouch (pink)",
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/cMrBUILe61.png",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Grasping rune pouch (blue)",
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false,
-      "slot": 9
-    },
-    {
-      "name": "Ring of death",
-      "label": "rod",
-      "image": "https://img.pvme.io/images/y5vAY4M.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
-      "selected": false,
-      "slot": 11
-    },
-    {
-      "name": "Cinderbane gloves",
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "selected": false,
-      "slot": 6
-    },
-    {
-      "name": "Fractured Staff of Armadyl",
-      "label": "fsoa",
-      "image": "https://img.pvme.io/images/AI12yBk.png",
-      "breakdownNotes": "aftershock4 eruptive 2 + precise6 ruthless1",
-      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Omni guard",
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "breakdownNotes": "aftershock4 eruptive2",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Soulbound lantern",
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "breakdownNotes": "precise6 ruthless1",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
-      "selected": false,
-      "slot": 5
-    },
-    {
-      "name": "Essence of Finality amulet (ornament)",
-      "label": "eofor",
-      "image": "https://img.pvme.io/images/xPypDhQ.png",
-      "breakdownNotes": "the last command",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(or)",
-      "selected": false,
-      "slot": 10
-    },
-    {
-      "name": "EoF - Guthix staff / Zamorak staff",
-      "label": "eofpurple",
-      "image": "https://img.pvme.io/images/nu7QSbh.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
-      "selected": false,
-      "slot": 10
-    },
-    {
-      "name": "Super prayer renewal potion (6)",
-      "label": "prayrenewal",
-      "image": "https://img.pvme.io/images/vSUpqbs.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Powerburst of vitality (4)",
-      "label": "vitality4",
-      "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Sailfish soup",
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Sailfish soup",
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Sailfish soup",
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Super Saradomin brew flask (6)",
-      "label": "sbrew",
-      "image": "https://img.pvme.io/images/xjiZl4Y.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Deathtouched dart",
-      "label": "deathtoucheddart",
-      "image": "https://img.pvme.io/images/4YApyUaG4J.png",
-      "breakdownNotes": "if streaking",
-      "wikiLink": "https://runescape.wiki/w/Deathtouched_dart",
-      "selected": false,
-      "slot": 4
-    },
-    {
-      "name": "Combat dummy MKII",
-      "label": "dummy",
-      "image": "https://img.pvme.io/images/Dgtgp4n.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Vulnerabilty bombs",
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Attuned portent of restoration X",
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Sailfish soup",
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Sailfish soup",
-      "label": "soup",
-      "image": "https://img.pvme.io/images/1odCIWn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Super Saradomin brew flask (6)",
-      "label": "sbrew",
-      "image": "https://img.pvme.io/images/xjiZl4Y.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Super Saradomin brew flask (6)",
-      "label": "sbrew",
-      "image": "https://img.pvme.io/images/xjiZl4Y.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false,
-      "slot": 0
-    }
-  ],
   "equipmentSlots": [
     {
-      "name": "Elite tectonic mask",
-      "label": "etectohelm",
-      "image": "https://img.pvme.io/images/iPtkkKN.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
-      "selected": false,
-      "slot": 1
+      "id": "elitetectmask"
     },
     {
-      "name": "Igneous Kal-Zuk",
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
-      "selected": false,
-      "slot": 12
+      "id": "igneouskalzuk"
     },
     {
-      "name": "EoF -  Iban's staff",
-      "label": "eofyellow",
-      "image": "https://img.pvme.io/images/hiC7f5F.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Iban%27s_staff",
-      "selected": false,
-      "slot": 10
+      "id": "eofyellow"
     },
     {
-      "name": "Roar of Awakening",
-      "label": "roarofawakening",
-      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
-      "breakdownNotes": "precise6 ruthless1",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "selected": false,
-      "slot": 4
+      "id": "roarofawakening"
     },
     {
-      "name": "Elite tectonic robe top",
-      "label": "etectotop",
-      "image": "https://img.pvme.io/images/NftWcLQ.png",
-      "breakdownNotes": "biting4 mobile, relentless 5 crackling 4",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
-      "selected": false,
-      "slot": 2
+      "id": "elitetectbody"
     },
     {
-      "name": "Ode to Deceit",
-      "label": "odetodeceit",
-      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
-      "breakdownNotes": "aftershock4 eruptive 2",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "selected": false,
-      "slot": 5
+      "id": "odetodeceit"
     },
     {
-      "name": "Elite tectonic robe bottom",
-      "label": "etectolegs",
-      "image": "https://img.pvme.io/images/0TXtWf2.png",
-      "breakdownNotes": "energising4 invigorating2 + impatient4 devotion4",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
-      "selected": false,
-      "slot": 3
+      "id": "elitetectlegs"
     },
     {
-      "name": "Kerapac's wrist wraps",
-      "label": "wristwraps",
-      "image": "https://img.pvme.io/images/6iT5PjZ.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
-      "selected": false,
-      "slot": 6
+      "id": "kerapacswristwraps"
     },
     {
-      "name": "Blast diffusion boots",
-      "label": "diffusion",
-      "image": "https://img.pvme.io/images/2VPk1SN.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
-      "selected": false,
-      "slot": 7
+      "id": "blastdiffusion"
     },
     {
-      "name": "Channeller's ring",
-      "label": "channellerring",
-      "image": "https://img.pvme.io/images/Zs7j4JG.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "selected": false,
-      "slot": 11
+      "id": "channellersring"
     },
     {
-      "name": "Zemouregal's Nexus",
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
-      "selected": false,
-      "slot": 9
+      "id": "zemouregalsnexus"
     },
     {
-      "name": "Maniacal aura",
-      "label": "mani",
-      "image": "https://img.pvme.io/images/5fIllNu.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
-      "selected": false,
-      "slot": 8
+      "id": "mani"
     },
     {
-      "name": "Erethdor's grimoire",
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
-      "selected": false,
-      "slot": 13
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zambrew4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "deathtoucheddart"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "aftershock4 eruptive 2 + precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "aftershock4 eruptive2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "the last command"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "if streaking"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "biting4 mobile, relentless 5 crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "aftershock4 eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "energising4 invigorating2 + impatient4 devotion4"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "berserkersfury",
-        "name": "Berserkers Fury",
-        "image": "https://img.pvme.io/images/xXWYCHG.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "berserkersfury"
       },
       {
-        "label": "conservationofenergy",
-        "name": "Conservation of Energy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "conservationofenergy"
       },
       {
-        "label": "fontoflife",
-        "name": "Font of Life",
-        "image": "https://img.pvme.io/images/7e6Juey.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "fontoflife"
       }
     ],
     "alternativeRelics": []
@@ -406,10 +207,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "kalgdemon",
-        "name": "Kal'gerion Demon",
-        "image": "https://img.pvme.io/images/4oLwaZJ.png",
-        "breakdownNotes": ""
+        "id": "kalgdemon"
       }
     ],
     "alternativeFamiliars": []
