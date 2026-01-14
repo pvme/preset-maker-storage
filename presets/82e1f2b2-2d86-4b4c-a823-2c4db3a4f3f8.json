@@ -1,0 +1,215 @@
+{
+  "presetName": "Amascut",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "invigorate"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "eofblueunorn"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vulnbombs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "BSA switch"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Statius warhammer"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "armadyl battlestaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "astral/body/smoke/blood"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "earth/cosmic/law/time"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "chaos/death/soul/water"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "BSA/hydrix"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
