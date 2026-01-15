@@ -3,315 +3,182 @@
   "presetNotes": "Add food as necessary",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/XCIjNXk.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
-      "name": "Magic golem head",
-      "breakdownNotes": "",
-      "label": "magicgolemhead"
+      "id": "magicgolemhead"
     },
     {
-      "image": "https://i.imgur.com/DFwDP3K.png",
-      "wikiLink": "https://runescape.wiki/w/Constitution_cape",
-      "name": "Constitution cape",
-      "breakdownNotes": "",
-      "label": "constitutioncape"
+      "id": "hpcape"
     },
     {
-      "image": "https://i.imgur.com/4KgPcpm.png",
-      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
-      "name": "Grace of the elves",
-      "breakdownNotes": "",
-      "label": "gote"
+      "id": "gote"
     },
     {
-      "image": "https://i.imgur.com/1x24vrK.png",
-      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
-      "name": "Pickaxe of Life and Death",
-      "breakdownNotes": "Perk with Honed",
-      "label": "pickaxeoflifeanddeath"
+      "id": "pickaxeoflifeanddeath"
     },
     {
-      "image": "https://i.imgur.com/Ytyzy1c.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
-      "name": "Magic golem torso",
-      "breakdownNotes": "",
-      "label": "magicgolemtorso"
+      "id": "magicgolemtorso"
     },
     {
-      "image": "https://i.imgur.com/JffmIPJ.png",
-      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer",
-      "name": "Tagga's corehammer",
-      "breakdownNotes": "",
-      "label": "corehammer"
+      "id": "taggascorehammer"
     },
     {
-      "image": "https://i.imgur.com/4jZVBTE.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
-      "name": "Magic golem legs",
-      "breakdownNotes": "",
-      "label": "magicgolemlegs"
+      "id": "magicgolemlegs"
     },
     {
-      "image": "https://i.imgur.com/ZaLwIE0.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
-      "name": "Magic golem gloves",
-      "breakdownNotes": "",
-      "label": "magicgolemgloves"
+      "id": "magicgolemgloves"
     },
     {
-      "image": "https://i.imgur.com/0yMVyOj.png",
-      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
-      "name": "Magic golem boots",
-      "breakdownNotes": "",
-      "label": "magicgolemboots"
+      "id": "magicgolemboots"
     },
     {
-      "image": "https://i.imgur.com/sxtHL16.png",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers",
-      "name": "Ring of Whispers",
-      "breakdownNotes": "",
-      "label": "ringofwhispers"
+      "id": "ringofwhispers"
     },
     {
-      "image": "https://i.imgur.com/hd7YvA4.png",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "name": "Deathwarden Nexus",
-      "breakdownNotes": "To allow for casting defensives with boneshield",
-      "label": "deathwardennexus"
+      "id": "deathwardennexus"
     },
     {
-      "image": "https://i.imgur.com/KDmbuSF.png",
-      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura",
-      "name": "Legendary quarrymaster aura",
-      "breakdownNotes": "",
-      "label": "legendaryquarrymaster"
+      "id": "legendaryquarrymaster"
     },
     {
-      "image": "https://i.imgur.com/caaJeHr.png",
-      "wikiLink": "https://runescape.wiki/w/Rock-crushing_scrimshaw",
-      "name": "Rock-crushing scrimshaw",
-      "breakdownNotes": "",
-      "label": "rockcrushingscrimshaw"
+      "id": "rockcrushingscrim"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "excal"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/ryD2xkC.png",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(gargoyle)",
-      "name": "Binding contract (gargoyle)",
-      "breakdownNotes": "",
-      "label": "gargoyle",
-      "selected": false
+      "id": "gargoyle"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Perk with Honed 6"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "To allow for casting defensives with boneshield"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
-        "label": "shadowsgrace",
-        "energy": 50
+        "id": "shadowsgrace"
       },
       {
-        "image": "https://i.imgur.com/Ivcgjer.png",
-        "name": "Luck of the Dwarves",
-        "breakdownNotes": "",
-        "description": "You will always gain the effect of tier 4 luck.",
-        "label": "luckofthedwarves",
-        "energy": 200
+        "id": "lotdrelic"
       },
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
-        "label": "persistentrage",
-        "energy": 150
+        "id": "persistentrage"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "https://i.imgur.com/pIteWAi.png",
-        "name": "Pack Yak",
-        "breakdownNotes": "",
-        "label": "packyak"
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/zLcXXcI.png",
-        "name": "Gargoyle",
-        "breakdownNotes": "",
-        "label": "gargoyle"
+        "id": "gargoyle"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "packyak"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
