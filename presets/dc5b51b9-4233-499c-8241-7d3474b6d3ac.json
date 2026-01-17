@@ -1,0 +1,225 @@
+{
+  "presetName": "Orikalka",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "hoodofsubjugation"
+    },
+    {
+      "id": "maxcape"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "cywirwand"
+    },
+    {
+      "id": "subjgarb"
+    },
+    {
+      "id": "vbook"
+    },
+    {
+      "id": "subjgown"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "bootsofsubjugation"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "underworldgrimoire4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "use whatever overload you want"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>use whatever overload you want</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "use fury or best neck available to you"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "t85 weapon preferred, but t70+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "offhand accuracy doesn't matter so t70+ will be good"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "can use 6th age circuit or best ring you have instead"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "best book you have available"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "not necessary - but increases poison damage from potion &amp; cinderbane's"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "no necessary - but extends overloads and p+++ potion"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
