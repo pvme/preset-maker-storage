@@ -1,0 +1,174 @@
+{
+  "presetName": "Amascut 1k Base",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "invigorate"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "desertamulet4"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "graspingpouchred"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
