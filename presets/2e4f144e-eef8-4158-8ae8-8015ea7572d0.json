@@ -1,0 +1,160 @@
+{
+  "presetName": "ytryh",
+  "presetNotes": "gregergergger",
+  "equipmentSlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack40"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "test it out"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "lotdrelic"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
