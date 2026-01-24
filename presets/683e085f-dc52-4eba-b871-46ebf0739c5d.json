@@ -1,0 +1,240 @@
+{
+  "presetName": "necro ag adv",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "equilibriumaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "barrowssoulbound"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "bindingcontract"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "cryptbloombottoms"
+    },
+    {
+      "id": "adrenrenewalflask"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Flanking 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Caroming 4 for b2b minions @ 4000% (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Replace with extreme prayer flasks / penance powder if not owned"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Death guard EoF"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Absorbative/bulwark/lucky replaces biting (optional, marginal benefit)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Absorbative/bulwark/lucky replaces biting (optional, marginal benefit)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "downgrade to ful if not owned"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Standard bis perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Standard bis perks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Standard bis perks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Standard bis perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Standard bis perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
