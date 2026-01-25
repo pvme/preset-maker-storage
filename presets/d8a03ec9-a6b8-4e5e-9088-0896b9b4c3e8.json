@@ -1,0 +1,240 @@
+{
+  "presetName": "Vyres AFK Melee",
+  "presetNotes": "<div>Vestments can be replaced with any melee power armour at the cost kph.</div><div><br />If you don't have Ring of Vitur, you can bring House Drakan outfit to fix the spawns then setup without banking.<br /><br />Make sure the Tier 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690136117273821280.png\" /> No Fear perk is active in ROoT.</div><div><br /></div><div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "sunspear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "morytanialegs4"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional, if you care about experience."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can be used if HP is dropping too low.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Pray Leech Melee Strength and Soul Split <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4,Precise 2/Equilibrium 4,Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4/Impatient 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Used for its melee damage bonus. Spikes will not activate."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/883134307902816297.png\" /> is a good alternative."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903943018283050.png\" /> is a good alternative."
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "conservationofenergy"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "kalgdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
