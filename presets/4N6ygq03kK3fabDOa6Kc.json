@@ -3,395 +3,207 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/lhfAbhp.png",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
-      "name": "Sirenic mask",
-      "breakdownNotes": "",
-      "label": "sirenichelm"
+      "id": "sirenicmask"
     },
     {
-      "image": "https://i.imgur.com/TNKAuKX.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
-      "name": "Igneous Kal-Xil",
-      "breakdownNotes": "<span>Can downgrade to Kiln cape or Defence skillcape</span>",
-      "label": "kalxil"
+      "id": "igneouskalxil"
     },
     {
-      "image": "https://i.imgur.com/cUaU7mB.png",
-      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
-      "name": "Amulet of souls",
-      "breakdownNotes": "Can upgrade to an Essence of Finality (add a Dark Bow to it for a cheap and powerful special).",
-      "label": "aos"
+      "id": "aos"
     },
     {
-      "image": "https://i.imgur.com/YGlkhDV.png",
-      "wikiLink": "https://runescape.wiki/w/Wyvern_crossbow",
-      "name": "Wyvern crossbow",
-      "breakdownNotes": "",
-      "label": "wyverncbow"
+      "id": "wyverncrossbow"
     },
     {
-      "image": "https://i.imgur.com/lYDKMiu.png",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
-      "name": "Sirenic hauberk",
-      "breakdownNotes": "",
-      "label": "sirenictop"
+      "id": "sirenicbody"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": ""
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/gBPOqaV.png",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
-      "name": "Sirenic chaps",
-      "breakdownNotes": "",
-      "label": "sireniclegs"
+      "id": "sireniclegs"
     },
     {
-      "image": "https://i.imgur.com/goMzH9N.png",
-      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
-      "name": "Nightmare gauntlets",
-      "breakdownNotes": "",
-      "label": "nightmare"
+      "id": "nightmaregauntlets"
     },
     {
-      "image": "https://i.imgur.com/R5kSCvF.png",
-      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
-      "name": "Fleeting boots",
-      "breakdownNotes": "",
-      "label": "fleet"
+      "id": "fleetingboots"
     },
     {
-      "image": "https://i.imgur.com/y5vAY4M.png",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
-      "name": "Ring of death",
-      "breakdownNotes": "Can upgrade to Reaver's Ring, however it would be riskier, and you may want to take the RoD with you as a swap for P7 in case of death.",
-      "label": "rod"
+      "id": "rod"
     },
     {
-      "image": "https://i.imgur.com/ipGtNvB.png",
-      "wikiLink": "https://runescape.wiki/w/Ruby_bakriminel_bolts_(e)",
-      "name": "Ruby bakriminel bolts (e)",
-      "breakdownNotes": "",
-      "label": "ruby"
+      "id": "hydrixbakri"
     },
     {
-      "image": "https://i.imgur.com/oPYJmML.png",
-      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
-      "name": "Reckless aura",
-      "breakdownNotes": "",
-      "label": "reckless"
+      "id": "reckless"
     },
     {
-      "image": "https://i.imgur.com/FLYAOEf.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
-      "name": "Scripture of Jas",
-      "breakdownNotes": "",
-      "label": "scriptureofjas"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "label": "vulnbombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "excal"
     },
     {
-      "image": "https://i.imgur.com/LTlNXuu.png",
-      "wikiLink": "https://runescape.wiki/w/Onyx_bakriminel_bolts_(e)",
-      "name": "Onyx bakriminel bolts (e)",
-      "breakdownNotes": "",
-      "label": "onyx",
-      "selected": false
+      "id": "onyxbakri"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/rmpD7AL.png",
-      "wikiLink": "https://runescape.wiki/w/Chaotic_crossbow",
-      "name": "Chaotic crossbow",
-      "breakdownNotes": "Mainhand weapon to pair with your shield/repriser.",
-      "label": "mhchaoticcbow",
-      "selected": false
+      "id": "chaoticcbowmh"
     },
     {
-      "image": "https://i.imgur.com/liT4nh4.png",
-      "wikiLink": "https://runescape.wiki/w/Ancient_repriser",
-      "name": "Ancient repriser",
-      "breakdownNotes": "<span>Perk with Planted Feet if Greater Death's Swiftness isn't owned.</span><br /><span>Can be replaced with any other shield.</span>",
-      "label": "repriser",
-      "selected": false
+      "id": "ancientrepriser"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/n9C7iSA.png",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "label": "vitality4",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "label": "graspingpouchpink",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/bopHhxT.png",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "name": "Rocktail",
-      "breakdownNotes": "",
-      "label": "rocktail",
-      "selected": false
+      "id": "rocktail"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "label": "graspingpouchblack",
-      "selected": false
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Mainhand weapon to pair with your shield/repriser."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Perk with Planted Feet if Greater Death's Swiftness isn't owned.</span><br /><span>Can be replaced with any other shield.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>Can downgrade to Kiln cape or Defence skillcape</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can upgrade to an Essence of Finality (add a Dark Bow to it for a cheap and powerful special)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can upgrade to Reaver's Ring, however it would be riskier, and you may want to take the RoD with you as a swap for P7 in case of death."
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": "",
-        "label": "ripperdemon"
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
