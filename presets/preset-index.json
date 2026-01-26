@@ -588,10 +588,6 @@
     "presetName": "Solak Duo GM DPS"
   },
   {
-    "presetId": "933bf977-8f62-4c45-a50c-1888842fee47",
-    "presetName": "Solak Duo GM Base"
-  },
-  {
     "presetId": "ba07a5e0-fbb0-4fa0-b833-a2432bed7689",
     "presetName": "Solak Duo GM DPS"
   },
@@ -902,5 +898,9 @@
   {
     "presetId": "d8a03ec9-a6b8-4e5e-9088-0896b9b4c3e8",
     "presetName": "Vyres AFK Melee"
+  },
+  {
+    "presetId": "933bf977-8f62-4c45-a50c-1888842fee47",
+    "presetName": "Solak Duo GM Base"
   }
 ]
