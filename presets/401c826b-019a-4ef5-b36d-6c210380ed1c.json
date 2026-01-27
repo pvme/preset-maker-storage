@@ -1,0 +1,180 @@
+{
+  "presetName": "My AFK KQ",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt70"
+    },
+    {
+      "id": "thievingcape"
+    },
+    {
+      "id": "conjuresamulet"
+    },
+    {
+      "id": "deathguard80"
+    },
+    {
+      "id": "deathdealerrobetopt70"
+    },
+    {
+      "id": "skulllantern80"
+    },
+    {
+      "id": "deathdealerrobebottomt70"
+    },
+    {
+      "id": "deathdealerglovest70"
+    },
+    {
+      "id": "deathdealerbootst70"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "underworldgrimoire2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "extremenecro"
+    },
+    {
+      "id": "ectoplasm"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bunyip"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
