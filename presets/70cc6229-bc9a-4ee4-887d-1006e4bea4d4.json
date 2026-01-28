@@ -1,0 +1,265 @@
+{
+  "presetName": "Vyres AFK Melee",
+  "presetNotes": "<div>Vestments can be replaced with any melee power armour at the cost of kph. Consider adding :poison6: with :potionreservoir: when downgrading. Poison adds no kph with vestments.</div><div><br />If you don't have :ringofvitur:, you can bring House Drakan outfit to fix the spawns and then setup without banking.<br /><br />Make sure the Tier 2 :corbicula: No Fear perk is active in ROoT.</div><div><br /></div><div>:kalgpouch: uses :kalgscroll: with auto fire rate set to 1.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "sunspear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "morytanialegs4"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional, if you care about experience."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can be used if HP is dropping too low.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Pray :ultimatestrength:, :divinerage:, :eclipsedsoul:, &amp; :steelskin:."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4,Precise 2/Equilibrium 4,Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4/Impatient 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Used for its melee damage bonus. Spikes will not activate."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": ":scriptureofwen: is a good alternative."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Use your legendary pet as a beast of burden."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Use your legendary pet as a beast of burden."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Use your legendary pet as a beast of burden."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "conservationofenergy"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "kalgdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
