@@ -1,0 +1,230 @@
+{
+  "presetName": "Kerapac M/M Brid Tumeken's",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "mahj"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vitality1"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Hydrix bakriminel bolts (e)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Bring 1 dose to make looting easier"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Standard 3 !runepouch setup excluding time runes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "No difference between eof'd version (used during transition)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
