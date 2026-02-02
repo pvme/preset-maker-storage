@@ -1,0 +1,205 @@
+{
+  "presetName": "GWD2 afk preset by Meowtysm",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchred"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Or magic cape"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "+ Enchantment effect"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "+ Enchantment of metaphysics"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Runes to cast incite fear + animate dead"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
