@@ -3,361 +3,317 @@
   "presetNotes": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>",
   "equipmentSlots": [
     {
-      "label": "naturessentinelhelm",
-      "image": "https://img.pvme.io/images/h4cf5a8.png",
-      "name": "Nature's sentinel helm",
-      "breakdownNotes": "<span>Quick TP -&gt; </span>Arctic Pine Trees (7) -&gt; Fremennik Isles scan",
-      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm"
+      "id": "naturesentinelhead"
     },
     {
-      "label": "globetrotterbackpack",
-      "image": "https://img.pvme.io/images/9u3f0ws.png",
-      "name": "Globetrotter backpack",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+      "id": "globetrotterbackpack"
     },
     {
-      "label": "gote",
-      "image": "https://img.pvme.io/images/4KgPcpm.png",
-      "name": "Grace of the elves",
-      "breakdownNotes": "Overgrown Idols | Lava Flow Mine",
-      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+      "id": "gote"
     },
     {
-      "label": "sceptreofthegods",
-      "image": "https://img.pvme.io/images/E2dLUWN.png",
-      "name": "Sceptre of the gods",
-      "breakdownNotes": "<span>Obtained from Pyramid Plunder which has 60 charges for convenience</span>",
-      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods"
+      "id": "sceptreofthegods"
     },
     {
-      "label": "naturessentinelchest",
-      "image": "https://img.pvme.io/images/AVtsARx.png",
-      "name": "Nature's sentinel chest",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest"
+      "id": "naturessentinelchest"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span><span></span>",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+      "id": "excal"
     },
     {
-      "label": "naturessentineltrunks",
-      "image": "https://img.pvme.io/images/AyzY63R.png",
-      "name": "Nature's sentinel trunks",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks"
+      "id": "naturessentineltrunks"
     },
     {
-      "label": "naturessentinelbranch",
-      "image": "https://img.pvme.io/images/aHlOVcO.png",
-      "name": "Nature's sentinel branch",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch"
+      "id": "naturessentinelbranch"
     },
     {
-      "label": "naturessentinelboots",
-      "image": "https://img.pvme.io/images/708o7G1.png",
-      "name": "Nature's sentinel boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots"
+      "id": "naturessentinelboots"
     },
     {
-      "label": "hsr",
-      "image": "https://img.pvme.io/images/xmcbfhs.png",
-      "name": "Hazelmere's signet ring",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+      "id": "hsr"
     },
     {
-      "label": "quiver4",
-      "image": "https://img.pvme.io/images/yxmdGCZ.png",
-      "name": "Tirannwn quiver 4",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+      "id": "quiver"
     },
-    null,
     {
-      "label": "scriptureofbik",
-      "image": "https://img.pvme.io/images/t1KMJMv.png",
-      "name": "Scripture of Bik",
-      "breakdownNotes": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
     }
   ],
   "inventorySlots": [
     {
-      "label": "activeclue",
-      "image": "https://img.pvme.io/images/beq0RtH.png",
-      "name": "Active clue",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Clue_scroll"
+      "id": "activeclue"
     },
     {
-      "label": "ringofkinship",
-      "image": "https://img.pvme.io/images/dQVBOyX.png",
-      "name": "Ring of kinship",
-      "breakdownNotes": "<span>Provides unlimited teleports to Daemonheim</span>",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship"
+      "id": "ringofkinship"
     },
     {
-      "label": "wickedhood",
-      "image": "https://img.pvme.io/images/Uxr7Xcm.png",
-      "name": "Wicked hood",
-      "breakdownNotes": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span><div>Used for Nature Altar</div>",
-      "wikiLink": "https://runescape.wiki/w/Wicked_hood"
+      "id": "wickedhood"
     },
     {
-      "label": "desertamulet4",
-      "image": "https://img.pvme.io/images/JInu2Jy.png",
-      "name": "Desert amulet 4",
-      "breakdownNotes": "<span>Provides unlimited teleports</span><span> to the Ruins of Uzer and Nardah</span>",
-      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4"
+      "id": "desertamulet4"
     },
     {
-      "label": "dragontrinkets",
-      "image": "https://img.pvme.io/images/l79AylD.png",
-      "name": "Dragon trinkets",
-      "breakdownNotes": "Brutal Green Dragons, Blue Dragons, Red Dragons, Black Dragons (Evil Chicken Lair)",
-      "wikiLink": "https://runescape.wiki/w/Dragon_trinkets"
+      "id": "dragontrinkets"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+      "id": "accel4"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+      "id": "accel4"
     },
     {
-      "label": "globetrotterjacket",
-      "image": "https://img.pvme.io/images/paFUjfv.png",
-      "name": "Globetrotter jacket",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket"
+      "id": "globetrotterjacket"
     },
     {
-      "label": "passageoftheabyss(red)",
-      "image": "https://img.pvme.io/images/Qp0s9G2.png",
-      "name": "Passage of the Abyss (red)",
-      "breakdownNotes": "<span>See passage of the abyss setup</span>",
-      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)"
+      "id": "passageoftheabyss(red)"
     },
     {
-      "label": "passageoftheabyss(green)",
-      "image": "https://img.pvme.io/images/PDg2YBC.png",
-      "name": "Passage of the Abyss (green)",
-      "breakdownNotes": "<span>See passage of the abyss setup</span>",
-      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)"
+      "id": "passageoftheabyss(green)"
     },
     {
-      "label": "enchantedlyre",
-      "image": "https://img.pvme.io/images/X0KALWt.png",
-      "name": "Enchanted lyre",
-      "breakdownNotes": "Quick TP -&gt; Jatizso",
-      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre"
+      "id": "enchantedlyre"
     },
     {
-      "label": "archaeologyteleport",
-      "image": "https://img.pvme.io/images/WYm7p9h.png",
-      "name": "Archaeology teleport",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport"
+      "id": "archaeologyteleport"
     },
     {
-      "label": "ectophial",
-      "image": "https://img.pvme.io/images/mqsH3xe.png",
-      "name": "Ectophial",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ectophial"
+      "id": "ectophial"
     },
     {
-      "label": "puzzleboxskippingticket",
-      "image": "https://img.pvme.io/images/gsFc7Fw.png",
-      "name": "Puzzle box skipping ticket",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Puzzle_box_skipping_ticket"
+      "id": "puzzleskipticket"
     },
     {
-      "label": "globetrotterarmguards",
-      "image": "https://img.pvme.io/images/TCZljWu.png",
-      "name": "Globetrotter arm guards",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards"
+      "id": "globetrottergloves"
     },
     {
-      "label": "portablefairyring(used)",
-      "image": "https://img.pvme.io/images/iwTl6xy.png",
-      "name": "Portable fairy ring",
-      "breakdownNotes": "<span>AKQ | AKS | ALQ | BKR | CJR | CJS | CKQ </span><span>| CKR </span><span>| CKS </span><span></span><span>|</span><span> DLQ</span>",
-      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active"
+      "id": "portablefairyring"
     },
     {
-      "label": "fairyring",
-      "image": "https://img.pvme.io/images/XCZuCaN.png",
-      "name": "Portable fairy ring (inactive)",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive"
+      "id": "fairyring"
     },
     {
-      "label": "dorgesh-kaansphere",
-      "image": "https://img.pvme.io/images/tyIGCLl.png",
-      "name": "Dorgesh-kaan sphere",
-      "breakdownNotes": "Used for getting around Dorgesh-kaan and disassembly for Bik Procs",
-      "wikiLink": "https://runescape.wiki/w/Dorgesh-kaan_sphere"
+      "id": "dorgesh-kaansphere"
     },
     {
-      "label": "portableobelisk",
-      "image": "https://img.pvme.io/images/gKUbd5X.png",
-      "name": "Portable Obelisk",
-      "breakdownNotes": "Interchangeable with Skull Sceptre. Dealers choice really.",
-      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk"
+      "id": "portableobelisk"
     },
     {
-      "label": "amuletofnature",
-      "image": "https://img.pvme.io/images/CjIUkSz.png",
-      "name": "Amulet of nature",
-      "breakdownNotes": "<div><span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant—can be empty, diseased, or fully grown).</span></div>",
-      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature"
+      "id": "amuletofnature"
     },
     {
-      "label": "knotskippingticket",
-      "image": "https://img.pvme.io/images/HdBwZ61.png",
-      "name": "Knot skipping ticket",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Knot_skipping_ticket"
+      "id": "knotskipticket"
     },
     {
-      "label": "davesspellbook",
-      "image": "https://img.pvme.io/images/ahDBOU5.png",
-      "name": "Dave's spellbook",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook"
+      "id": "davesspellbook"
     },
     {
-      "label": "leelasfavour",
-      "image": "https://img.pvme.io/images/AMEBwepV3P.png",
-      "name": "Leela's favour",
-      "breakdownNotes": "<span>Provides unlimited teleports to</span><span> different districts of Menaphos</span>",
-      "wikiLink": "https://runescape.wiki/w/Leela's_favour"
+      "id": "leelasfavour"
     },
     {
-      "label": "rellekatablet",
-      "image": "https://img.pvme.io/images/uRrpo3Y.png",
-      "name": "Relleka tablet",
-      "breakdownNotes": "Convert the stack to other portals as needed",
-      "wikiLink": "https://runescape.wiki/w/Relleka_tablet"
+      "id": "rellekatablet"
     },
     {
-      "label": "dragonkinlaboratoryteleport",
-      "image": "https://img.pvme.io/images/nGYkvb0.png",
-      "name": "Dragonkin Laboratory teleport",
-      "breakdownNotes": "Teleports to Dragonkin Laboratory",
-      "wikiLink": "https://runescape.wiki/w/Dragonkin_Laboratory_teleport"
+      "id": "dragonkinlaboratoryteleport"
     },
     {
-      "label": "spiritattractionflask",
-      "image": "https://img.pvme.io/images/9oDoU6T.png",
-      "name": "Spirit attraction flask (6)",
-      "breakdownNotes": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>",
-      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+      "id": "spiritattractionflask"
     },
     {
-      "label": "graspingpouch",
-      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
-      "name": "Grasping rune pouch",
-      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+      "id": "graspingpouch"
     },
     {
-      "label": "cluebag",
-      "image": "https://img.pvme.io/images/KPREDHT.png",
-      "name": "Charos' clue carrier",
-      "breakdownNotes": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>",
-      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier"
+      "id": "cluebag"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Provides unlimited teleports to Daemonheim</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span><div>Used for Nature Altar</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>Provides unlimited teleports</span><span> to the Ruins of Uzer and Nardah</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Brutal Green Dragons, Blue Dragons, Red Dragons, Black Dragons (Evil Chicken Lair)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>See passage of the abyss setup</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>See passage of the abyss setup</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Quick TP -&gt; Jatizso"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>AKQ | AKS | ALQ | BKR | CJR | CJS | CKQ </span><span>| CKR </span><span>| CKS </span><span></span><span>|</span><span> DLQ</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Used for getting around Dorgesh-kaan and disassembly for Bik Procs"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Interchangeable with Skull Sceptre. Dealers choice really."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<div><span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant—can be empty, diseased, or fully grown).</span></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Provides unlimited teleports to</span><span> different districts of Menaphos</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Convert the stack to other portals as needed"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Teleports to Dragonkin Laboratory"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<span>Quick TP -&gt; </span>Arctic Pine Trees (7) -&gt; Fremennik Isles scan"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Overgrown Idols | Lava Flow Mine"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Obtained from Pyramid Plunder which has 60 charges for convenience</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span><span></span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/8IMPgCF.png",
-        "name": "Abyssal Link",
-        "breakdownNotes": "",
-        "label": "abyssallink",
-        "energy": 250
+        "id": "abyssallink"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "label": "shadowsgrace",
-        "image": "https://img.pvme.io/images/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "energy": 50,
-        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+        "id": "shadowsgrace"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/cOwxYnD.png",
-        "name": "Meerkats",
-        "breakdownNotes": "",
-        "label": "meerkats"
+        "id": "meerkats"
       }
     ],
     "alternativeFamiliars": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   }
