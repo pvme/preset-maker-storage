@@ -1,0 +1,210 @@
+{
+  "presetName": "Liberation of Mazcab Raids",
+  "presetNotes": "Boss of the Week",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "wardengloves90"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "equilibriumaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "or best overload"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "or enhanced replenishment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "tank gear so we don't death mark things accidentally"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "defence cape on cape stand"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "or conjurer's raising amulet"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "or occultist's ring"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "or underworld grimoire 4"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "blessingofhet"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "deathward"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
