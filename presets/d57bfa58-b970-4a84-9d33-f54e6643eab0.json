@@ -1,0 +1,215 @@
+{
+  "presetName": "AFK Vindicta (Melee)",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Panic food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Panic food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced preferred"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<span>Enhanced preferred</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "conservationofenergy"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
