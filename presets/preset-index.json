@@ -970,5 +970,9 @@
   {
     "presetId": "d6864245-5879-45e7-9ad0-b88c0b3deb60",
     "presetName": "Magic-Melee Hybrid Raksha"
+  },
+  {
+    "presetId": "afa3c45f-89b5-459a-bd6b-ea2e8539a110",
+    "presetName": "Melee-Ranged Hybrid Raksha"
   }
 ]
