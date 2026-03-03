@@ -982,5 +982,9 @@
   {
     "presetId": "c0124d78-e9ab-4ed3-95e6-5bbd8035347d",
     "presetName": "Melee-Ranged Hybrid Raksha"
+  },
+  {
+    "presetId": "0afa6368-3697-44da-a584-00867aa2a49f",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
