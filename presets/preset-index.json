@@ -990,5 +990,9 @@
   {
     "presetId": "3bf33b25-2dd9-4bd4-81b1-902e8a8d87c9",
     "presetName": "Telos Magic"
+  },
+  {
+    "presetId": "f3d4c10e-8cd7-43b4-b0d2-769ff8c016f1",
+    "presetName": "AFK Melee Vindicta"
   }
 ]
