@@ -1006,5 +1006,9 @@
   {
     "presetId": "1c27382b-0ba9-468b-812d-5ba61d12b94c",
     "presetName": "Zemouregal & Vorkath Ranged/Melee"
+  },
+  {
+    "presetId": "0149e42a-f5bf-447a-85f6-28dc1f257cf5",
+    "presetName": "AFK Melee Helwyr"
   }
 ]
