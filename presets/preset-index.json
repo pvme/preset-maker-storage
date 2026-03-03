@@ -1002,5 +1002,9 @@
   {
     "presetId": "acffac82-93c0-4aaa-9887-1d3945b820d6",
     "presetName": "Zemouregal & Vorkath Magic/Melee"
+  },
+  {
+    "presetId": "1c27382b-0ba9-468b-812d-5ba61d12b94c",
+    "presetName": "Zemouregal & Vorkath Ranged/Melee"
   }
 ]
