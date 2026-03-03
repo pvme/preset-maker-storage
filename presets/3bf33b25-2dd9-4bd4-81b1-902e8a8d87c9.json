@@ -1,0 +1,220 @@
+{
+  "presetName": "Telos Magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "mani"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "aftershock4 eruptive 2 + precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "aftershock4 eruptive2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "the last command"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "if streaking"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "precise6 ruthless1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "biting4 mobile, relentless 5 crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "aftershock4 eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "energising4 invigorating2 + impatient4 devotion4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "legatus's emberstaff"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
