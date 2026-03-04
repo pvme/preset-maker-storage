@@ -1,0 +1,240 @@
+{
+  "presetName": "Nightmares Magic",
+  "presetNotes": "Pray <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /> or <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><br /><br /><span>Autocast </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> </span><br />",
+  "equipmentSlots": [
+    {
+      "id": "serenhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "virtusrobelegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "bootsofsubjugation"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Optional.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>Optional.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<span>Optional.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Death | Earth | Law | Cosmic<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Chaos | Air | Water | Fire<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
