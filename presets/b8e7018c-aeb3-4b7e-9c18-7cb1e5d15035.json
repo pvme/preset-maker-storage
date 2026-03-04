@@ -1,0 +1,230 @@
+{
+  "presetName": "Raksha Magic EOC2",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Legatus's Emberstaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Soulfire / Roar of Awakening"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
