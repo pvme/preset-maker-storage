@@ -1,0 +1,240 @@
+{
+  "presetName": "HM Kerapec Solo Hybrid M/M",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Legatus's  Emberstaff</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Veranus's Mercy</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
