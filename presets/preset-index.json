@@ -1098,5 +1098,9 @@
   {
     "presetId": "949fa5dd-f69f-4e2c-99d9-f807cb9c12ab",
     "presetName": "AFK Dagannoth Kings Melee"
+  },
+  {
+    "presetId": "779bfec9-d35f-4aa8-bf16-2579854aabc3",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
