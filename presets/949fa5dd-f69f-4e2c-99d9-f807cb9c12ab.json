@@ -1,0 +1,251 @@
+{
+  "presetName": "AFK Dagannoth Kings Melee",
+  "presetNotes": "With vestments use Deflect magic, if using tank armor use Soul split\nPicking up some sharks for emergencies is recommended\n<br />",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "bloodfury"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "smokedevilpouch"
+    },
+    {
+      "id": "smokedevilscroll5000"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Can be replaced elder rune or t90 power armor"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Can be replaced elder rune or t90 power armor"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Can be replaced with laceration or elder rune boots"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "For bone shield"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Strength cape perk gives more chances for poison to proc"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "optional as enance powder and holy overload should cover prayer needs"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Royale cannon works too"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "deathward"
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "smokedevil"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
