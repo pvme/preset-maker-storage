@@ -1,0 +1,275 @@
+{
+  "presetName": "Magic-Melee Hybrid Solo Solak",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "eofblueunorn"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ":primalabyssalarmourspikes:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": ":varanussmercy:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": ":legatusemberstaff:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
