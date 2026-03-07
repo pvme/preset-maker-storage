@@ -1146,5 +1146,9 @@
   {
     "presetId": "2a7ae87c-f91d-45b3-9cff-7ba10728a6b2",
     "presetName": "Kerapac, Hard Mode - Solo Mage/Melee Hybrid"
+  },
+  {
+    "presetId": "28833ff1-e11a-4db3-8359-dbb3fa543b9d",
+    "presetName": "Magic-Melee Hybrid Solo Solak"
   }
 ]
