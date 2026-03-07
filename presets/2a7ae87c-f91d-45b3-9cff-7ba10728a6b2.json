@@ -1,0 +1,220 @@
+{
+  "presetName": "Kerapac, Hard Mode - Solo Mage/Melee Hybrid",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eofblueunorn"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<span>:varanussmercy:</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": ":legatusemberstaff:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": ":gmaul:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "shadowsgrace"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
