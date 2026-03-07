@@ -1,0 +1,190 @@
+{
+  "presetName": "Kerapac, the Bound Hard Mode - Solo Mage Melee Hybrid",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "legatus's emberstaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "granite maul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "veranus's mercy"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "shadowsgrace"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
