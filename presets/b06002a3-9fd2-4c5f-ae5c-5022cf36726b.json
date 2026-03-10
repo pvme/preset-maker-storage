@@ -137,12 +137,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 7,
-      "description": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik"
+      "description": "<span>Only after the Lost Her Marbles miniquest</span>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 14,
-      "description": "<br />"
+      "description": "<span>Only after the Lost Her Marbles miniquest</span>"
     },
     {
       "slotType": "equipment",
@@ -173,6 +173,16 @@
       "slotType": "equipment",
       "slotIndex": 8,
       "description": "+5% Thieving success chance"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Only after the Lost Her Marbles miniquest</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Only after the Lost Her Marbles miniquest</span>"
     }
   ],
   "relics": {
