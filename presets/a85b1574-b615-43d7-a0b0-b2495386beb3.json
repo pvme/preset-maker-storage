@@ -1,0 +1,190 @@
+{
+  "presetName": "Low effort magister",
+  "presetNotes": "<span>if you need to downgrade gear</span><span>, using Animate Dead</span><span> with T70</span><span>+ tank boots</span><span>/helm is an option</span><span>.</span>",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "enhancedblastdiff"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "sparkenhancers"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "mhbd"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    },
+    {
+      "id": "crossingkey"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "legendpetscav"
+      },
+      {
+        "id": "smokenihil"
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
