@@ -1,358 +1,204 @@
 {
   "presetName": "H.A.M. members",
-  "presetNotes": "<div>⬥ You can turn off receiving Memory Shards at the Memorial of Guthix which allows for the second Spirit Attraction flask.</div><div><br /></div><div>⬥ You can take precisely 11 Lantadyme Incense Sticks but this will only add an additional 6 minutes of trip length.</div>",
-  "inventorySlots": [
-    {
-      "name": "Charos' clue carrier",
-      "label": "cluebag",
-      "image": "https://img.pvme.io/images/KPREDHT.png",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
-      "selected": false,
-      "slot": 13
-    },
-    {
-      "name": "H.A.M. hood (noted)",
-      "label": "hamhoodnoted",
-      "image": "https://img.pvme.io/images/M9VAl8u3No.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._hood",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. shirt (noted)",
-      "label": "hamshirtnoted",
-      "image": "https://img.pvme.io/images/My3XQFKlW3.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._shirt",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. robe (noted)",
-      "label": "hamrobenoted",
-      "image": "https://img.pvme.io/images/VETNdM34FB.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._robe",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. boots (noted)",
-      "label": "hambootsnoted",
-      "image": "https://img.pvme.io/images/DGGXVwFID7.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._boots",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. gloves (noted)",
-      "label": "hamglovesnoted",
-      "image": "https://img.pvme.io/images/w8gFYQ04E4.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._gloves",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. logo (noted)",
-      "label": "hamlogonoted",
-      "image": "https://img.pvme.io/images/vMK6G79QPz.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._logo",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Spirit attraction flask (6)",
-      "label": "spiritattractionflask",
-      "image": "https://img.pvme.io/images/9oDoU6T.png",
-      "breakdownNotes": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik",
-      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    null,
-    {
-      "name": "Buttons (noted)",
-      "label": "buttonsnoted",
-      "image": "https://img.pvme.io/images/F9ZNCqT04p.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Buttons",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Steel studs (noted)",
-      "label": "steelstudsnoted",
-      "image": "https://img.pvme.io/images/ooMMGEuSJA.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Steel_studs",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Grimy tarromin (noted)",
-      "label": "grimytarrominnoted",
-      "image": "https://img.pvme.io/images/yPJ4nbCRYw.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grimy_tarromin",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Grimy guam (noted)",
-      "label": "grimyguamnoted",
-      "image": "https://img.pvme.io/images/s4nDPaqRlM.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grimy_guam",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "H.A.M. cloak (noted)",
-      "label": "hamcloaknoted",
-      "image": "https://img.pvme.io/images/ZVQanKcmZh.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/H.A.M._cloak",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Spirit attraction flask (6)",
-      "label": "spiritattractionflask",
-      "image": "https://img.pvme.io/images/9oDoU6T.png",
-      "breakdownNotes": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik",
-      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Uncut jade (noted)",
-      "label": "uncutjadenoted",
-      "image": "https://img.pvme.io/images/sCNz36ioDj.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Uncut_jade",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Uncut opal (noted)",
-      "label": "uncutopalnoted",
-      "image": "https://img.pvme.io/images/2bjfEBU2FL.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Uncut_opal",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Small spiky steel salvage (noted)",
-      "label": "smallspikysteelsalvagenoted",
-      "image": "https://img.pvme.io/images/II0OpzwZdZ.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Small_spiky_steel_salvage",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Tiny bladed steel salvage (noted)",
-      "label": "tinybladedsteelsalvagenoted",
-      "image": "https://img.pvme.io/images/N795ffqUOO.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Tiny_bladed_steel_salvage",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Grimy marrentill (noted)",
-      "label": "grimymarrentillnoted",
-      "image": "https://img.pvme.io/images/VSxuIdB6kF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grimy_marrentill",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Rusty sword (noted)",
-      "label": "rustyswordnoted",
-      "image": "https://img.pvme.io/images/48LoAovZte.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Rusty_sword",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Coal stone spirit",
-      "label": "coalspirit",
-      "image": "https://img.pvme.io/images/Ne2erDgNHY.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Coal_stone_spirit",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Iron stone spirit",
-      "label": "ironspirit",
-      "image": "https://img.pvme.io/images/SDXuE2zX8x.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Iron_stone_spirit",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Wood spirit",
-      "label": "woodspirit",
-      "image": "https://img.pvme.io/images/SmlhHZMIRH.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Wood_spirit",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Oak wood spirit",
-      "label": "oakwoodspirit",
-      "image": "https://img.pvme.io/images/5xx8O1301h.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Oak_wood_spirit",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Leather body (noted)",
-      "label": "leatherbodynoted",
-      "image": "https://img.pvme.io/images/yC8q2cghR5.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Leather_body",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Damaged armour (noted)",
-      "label": "damagedarmournoted",
-      "image": "https://img.pvme.io/images/qzQyPALQRN.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Damaged_armour",
-      "selected": false,
-      "slot": 0
-    },
-    {
-      "name": "Slayer's staff (noted)",
-      "label": "slayerstaffnoted",
-      "image": "https://img.pvme.io/images/Y9XMyy9KEo.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Slayer%27s_staff",
-      "selected": false,
-      "slot": 0
-    }
-  ],
+  "presetNotes": "<div>⬥ If gathering Memory Shards, you can unequip the Scripture of Bik and replace it with Charos' clue carrier to free up an extra inventory slot.<br />\n⬥ Alternatively, disabling Memory Shard collection at the Memorial of Guthix allows you to carry Charos' clue carrier in your inventory while still equipping the Scripture of Bik.</div>",
   "equipmentSlots": [
     {
-      "name": "Master camouflage head",
-      "label": "mastercamouflagehead",
-      "image": "https://img.pvme.io/images/lW5qEwC.png",
-      "breakdownNotes": "<div><span>When the full set is worn it has the following effects:<br /></span><span>- 7% chance to double pickpocket.<br /></span><span>- 7% chance to avoid being stunned when pickpocketing.</span></div>",
-      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head",
-      "selected": false,
-      "slot": 1
+      "id": "mastercamohead"
     },
     {
-      "name": "Thieving cape",
-      "label": "thievingcape",
-      "image": "https://img.pvme.io/images/qy1ldt7C8Q.png",
-      "breakdownNotes": "<span>The Thieving cape's perk automatically notes all H.A.M. loot from pickpocketing.</span>",
-      "wikiLink": "https://runescape.wiki/w/Thieving_cape",
-      "selected": false,
-      "slot": 12
+      "id": "thievingcape"
     },
     {
-      "name": "Grace of the elves",
-      "label": "gote",
-      "image": "https://img.pvme.io/images/4KgPcpm.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
-      "selected": false,
-      "slot": 10
+      "id": "gote"
     },
     {
-      "name": "Mushroomy pickpocketing bag",
-      "label": "mushroomypickpocketingbag",
-      "image": "https://img.pvme.io/images/PzKgt5nJL9.png",
-      "breakdownNotes": "<table><tbody><tr><td>Mandatory Perks:<br />- Prosper<br />Optional Perks:<br />- Oblivious (H.A.M. members have low stun rate already but useful for other thieving methods)<br />- Enhanced Efficient 4: may be used to reduce charge drain<br />- Wise 4: Slightly extra XP/day</td></tr></tbody></table>",
-      "wikiLink": "https://runescape.wiki/w/Mushroomy_pickpocketing_bag",
-      "selected": false,
-      "slot": 4
+      "id": "mushroomypickpocketingbag"
     },
     {
-      "name": "Master camouflage body",
-      "label": "mastercamouflagebody",
-      "image": "https://img.pvme.io/images/i8Lc9aI.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body",
-      "selected": false,
-      "slot": 2
-    },
-    null,
-    {
-      "name": "Master camouflage legs",
-      "label": "mastercamouflagelegs",
-      "image": "https://img.pvme.io/images/poKctmF.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs",
-      "selected": false,
-      "slot": 3
-    },
-    null,
-    {
-      "name": "Master camouflage feet",
-      "label": "mastercamouflagefeet",
-      "image": "https://img.pvme.io/images/3GULnea.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet",
-      "selected": false,
-      "slot": 7
+      "id": "mastercamouflagebody"
     },
     {
-      "name": "Luck of the dwarves",
-      "label": "lotd",
-      "image": "https://img.pvme.io/images/nXXZxpH.png",
-      "breakdownNotes": "Increases quality &amp; quantity of <span>Catalyst of alteration procs</span>",
-      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
-      "selected": false,
-      "slot": 11
+      "id": ""
     },
-    null,
-    null,
     {
-      "name": "Scripture of Bik",
-      "label": "scriptureofbik",
-      "image": "https://img.pvme.io/images/t1KMJMv.png",
-      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
-      "selected": false,
-      "slot": 13
+      "id": "mastercamouflagelegs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mastercamouflagefeet"
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "hamhoodnoted"
+    },
+    {
+      "id": "hamshirtnoted"
+    },
+    {
+      "id": "hamrobenoted"
+    },
+    {
+      "id": "hambootsnoted"
+    },
+    {
+      "id": "hamglovesnoted"
+    },
+    {
+      "id": "hamlogonoted"
+    },
+    {
+      "id": "steelpickaxe"
+    },
+    {
+      "id": "steelhatchet"
+    },
+    {
+      "id": "buttonsnoted"
+    },
+    {
+      "id": "steelstudsnoted"
+    },
+    {
+      "id": "grimytarrominnoted"
+    },
+    {
+      "id": "grimyguamnoted"
+    },
+    {
+      "id": "hamcloaknoted"
+    },
+    {
+      "id": "steeldagger"
+    },
+    {
+      "id": "steeloffhanddagger"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "uncutopalnoted"
+    },
+    {
+      "id": "uncutjadenoted"
+    },
+    {
+      "id": "grimymarrentillnoted"
+    },
+    {
+      "id": "rustyswordnoted"
+    },
+    {
+      "id": "coalstonespirit"
+    },
+    {
+      "id": "ironspirit"
+    },
+    {
+      "id": "woodspirit"
+    },
+    {
+      "id": "oakwoodspirit"
+    },
+    {
+      "id": "leatherbodynoted"
+    },
+    {
+      "id": "damagedarmournoted"
+    },
+    {
+      "id": "slayerstaffnoted"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<div><span>When the full set is worn it has the following effects:<br /></span><span>- 7% chance to double pickpocket.<br /></span><span>- 7% chance to avoid being stunned when pickpocketing.</span></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>The Thieving cape's perk automatically notes all H.A.M. loot from pickpocketing.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<table><tbody><tr><td>Mandatory Perks:<br />- Prosper<br />Optional Perks:<br />- Oblivious (H.A.M. members have low stun rate already but useful for other thieving methods)<br />- Enhanced Efficient 4: may be used to reduce charge drain<br />- Wise 4: Slightly extra XP/day</td></tr></tbody></table>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Increases quality &amp; quantity of <span>Catalyst of alteration procs</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<span>For additional clues through Catalyst of alteration procs</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "+5% Thieving success chance"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "stickyfingers",
-        "name": "Sticky Fingers",
-        "image": "https://img.pvme.io/images/KHLIxCJ.png",
-        "breakdownNotes": "",
-        "energy": 0,
-        "description": ""
+        "id": "stickyfingers"
       },
-      null,
-      null
+      {
+        "id": "lotdrelic"
+      },
+      {
+        "id": ""
+      }
     ],
     "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
-      null
+      {
+        "id": ""
+      }
     ],
-    "alternativeFamiliars": []
+    "alternativeFamiliars": [
+      {
+        "id": "magpie"
+      }
+    ]
   }
 }
