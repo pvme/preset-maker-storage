@@ -364,10 +364,6 @@
     "presetName": "AFK Elven Workers"
   },
   {
-    "presetId": "b06002a3-9fd2-4c5f-ae5c-5022cf36726b",
-    "presetName": "H.A.M. members"
-  },
-  {
     "presetId": "72941c1c-83b3-4bbe-8df1-ac82dceb2169",
     "presetName": "Melee - Wilderness Abyssal Beasts "
   },
@@ -1186,5 +1182,9 @@
   {
     "presetId": "9fa3a9ea-b092-47a1-b7bc-a931859f2300",
     "presetName": "Vind BOLG AFK"
+  },
+  {
+    "presetId": "b06002a3-9fd2-4c5f-ae5c-5022cf36726b",
+    "presetName": "H.A.M. members"
   }
 ]
