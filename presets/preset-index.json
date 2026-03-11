@@ -1198,5 +1198,9 @@
   {
     "presetId": "f053651e-fe9c-4009-9f7d-4f05ce0f4719",
     "presetName": "Melee-Ranged Hybrid Kerapac"
+  },
+  {
+    "presetId": "cb8c0c06-d6e7-4049-a099-c9213fab2a2f",
+    "presetName": "Melee Raksha"
   }
 ]
