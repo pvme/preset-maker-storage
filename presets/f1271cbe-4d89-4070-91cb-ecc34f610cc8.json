@@ -1,0 +1,240 @@
+{
+  "presetName": "Abby Lords mage camp",
+  "presetNotes": "Pray SS+Torment. Vamp Aura is Cozy but not needed. Incite fear autocast.",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "sacrificescrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "waterrune1k"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    },
+    {
+      "id": "ripperdemon"
+    },
+    {
+      "id": "ripperdemon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "R5C4 + B4/Demon Slayer"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "C4P2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "E4R3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Absorbative 4/Scav 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Channellers may be better, Don't own to test."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Water runes get wrecked, have them here."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "For re-filling rune pouch on longer trips."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Pouch."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Pouch."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, bring if not using Sac scrim to clean up ashes if you wish."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Prism of restoration for Summoning points, if you want to."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "If not using Sac scrim."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "smokenihil"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
