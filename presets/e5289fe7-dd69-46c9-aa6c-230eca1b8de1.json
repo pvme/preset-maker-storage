@@ -1,0 +1,210 @@
+{
+  "presetName": "(WIP) EOC 2.0 Glacytes",
+  "presetNotes": "Only prayer is soul split. Spell is exsanguinate",
+  "equipmentSlots": [
+    {
+      "id": "serenhelm"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "virtusrobelegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "dwarfincensesticks100"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": "bloodrune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> | Equilibrium 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "One of penance aura or penance powder"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Drop cleaning (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Use only if not using penance aura"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
