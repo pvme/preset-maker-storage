@@ -1,0 +1,200 @@
+{
+  "presetName": "Helwyr BOLG AFK",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "dracolichcoif"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "dracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "dracolichchaps"
+    },
+    {
+      "id": "dracolichvambs"
+    },
+    {
+      "id": "dracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperscrolls"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "holywrench"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Optional but convenient"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 | Lucky 6 + Mobile"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Wen Arrows I Bik Arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Relentless 5 + Crackling 4 | Biting 4 + Absorbative 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 + Aftershock 1 | Charoming 4 + Eruptive 2"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
