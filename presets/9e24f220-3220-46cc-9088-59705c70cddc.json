@@ -1,0 +1,265 @@
+{
+  "presetName": "Abby beasts ranged ~2hr preset.",
+  "presetNotes": "12 min AFK, just reset poison pot. Vamp Aura optional, but comfy. Pray SS+Anguish. Should be 2.2m-2.4m xp/hr with Revo.",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "demonslayergloves"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "sacrificescrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "icenihilpouch"
+    },
+    {
+      "id": "icenihilpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Stalkers ring might be better, don't own one to test."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Gloomfire works fine. Honest.\nCaroming 4/Eruptive 2 +Precise 6/Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4/Demon slayer + Relentless 5/Crackling 5"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Devoted 4/Impatient 4 + Scavenging 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Jas Demonbane Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "SHADOW nihil. \n+5% Ranged Accuracy is nice if no Bolg like me. :'("
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "or Obelisk Shard etc"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "4 - Not needed if using Demonbane/Ecto."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Extremely extremely rarely used, just as a prayer backup."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Prism Of Restoration runes for Summoning points if you want to."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Bring if you want to swap to a non-Sacrifice Scrim infinite prayer set up. ~1.4m+xp/hr."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Bring/Swap to, if you want to swap to a non-Sacrifice Scrim infinite prayer set up. ~1.4m+xp/hr."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Bring/Swap to, if you want to swap to a non-Sacrifice Scrim infinite prayer set up. ~1.4m+xp/hr."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "SHADOW nihil."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "PURE DRIP"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "shadownihil"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
