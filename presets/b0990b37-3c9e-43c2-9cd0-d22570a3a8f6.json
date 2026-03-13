@@ -1,0 +1,240 @@
+{
+  "presetName": "Rasial Equilibrium",
+  "presetNotes": "<div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.png?v=1\" /><span> can be used instead for passive, do not use scrolls.</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "elderovlsalve"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Can replace with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Can replace with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "May be replaced with :t95necrohelm: if also wearing :t95necrogloves:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Optional swap, spec doesn't matter. Only used for its better stats when summoning conjures."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "May be replaced with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1232124265826877574.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "May be replaced with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/869284342839513108.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ":devourersnexus: Doesn't make an impact to kill times and stops ghost healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "May be replaced with :t95necrogloves:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Put on after summoning conjures"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
