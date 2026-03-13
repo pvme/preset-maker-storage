@@ -1,0 +1,230 @@
+{
+  "presetName": "Rasial t90 Equilibrium",
+  "presetNotes": "Using <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226475925514.png?v=1\" /> will result in more damage mitigation, but a lower hit chance if below 106 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1148995625896120460.png?v=1\" /><br /><br />If below 106 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1148995625896120460.png?v=1\" /> can use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/854475442164334592.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "id": "dealerhood80"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "dealertop80"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "dealerlegs80"
+    },
+    {
+      "id": "dealergloves80"
+    },
+    {
+      "id": "dealerboots80"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "spectralspiritshield"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "elderovlsalve"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "For <img title=\"divert\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787904334377648130.png?v=1\" /> if <img title=\"zemonexus\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1179716261681307728.png?v=1\" /> is not owned.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Death | Earth | Law | Cosmic<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "May be replaced with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626412560395.png?v=1\" /><br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "icenihil"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
