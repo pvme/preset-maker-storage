@@ -1,0 +1,215 @@
+{
+  "presetName": "Magic - T95/100",
+  "presetNotes": "<div>Pray <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> and <img title=\"torment\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /> or <img title=\"affliction\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><br /><br /></div>You may adjust your inventory for longer trips.<br /><br />Have armour perked with <img title=\"venomblood\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289714229258.png?v=1\" /> or use <img title=\"iritsticks\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690987265371144202.png?v=1\" /><br />",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "iritsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Have armour perked with <img title=\"venomblood\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289714229258.png?v=1\" /> or use <img title=\"iritsticks\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690987265371144202.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "In case of an emergency."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "In case of an emergency."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Chaos | Air | Water | Fire<br /><br /><span>Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Death | Earth | Law | Cosmic<br /><br />Runes for <img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Using <img title=\"ganotop\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1003947805611655208.png?v=1\" /> over <img title=\"virtustop\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/556586038936600603.png?v=1\" /> can help increase safety.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul<br /><br /><span>Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
