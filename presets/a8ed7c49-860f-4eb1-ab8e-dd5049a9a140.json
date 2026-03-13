@@ -1,0 +1,180 @@
+{
+  "presetName": "Zemouregal & Vorkath Ranged/Melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "elitesirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "sgb"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "upgradedboneblowpipe"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "eofyellowu"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "shadowsgrace"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
