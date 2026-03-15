@@ -1,0 +1,265 @@
+{
+  "presetName": "AFK NM Kerapac Melee",
+  "presetNotes": "<span></span>Consider adding Genocidal <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" /> to your gear if you have a Nodon Dragonkin task <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1004107324853596251.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "abyssalscourge"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "darkicesliver"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ripperscrolls"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "May use one vuln bomb at the start of the kill."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "If not using penance aura"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Emergency food."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Emergency food."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Optional - Increases duration of potions used."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.webp?v=1\" /> uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275155464203.webp?v=1\" /> with auto fire rate set to 1."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span><br /></span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<span></span><span>Ideally enchanted, can be replaced by other strong rings such as </span>Reaver's ring <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903943018283050.png?v=1\" />, <span>Ring of Death </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" /><span> or Asylum Surgeon's Ring </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158472839208.png?v=1\" /><span> .</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Scourge users may opt for non-abyssal spike variants"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Has been tested to work with Elder rune and masterwork"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Has been tested to work with Elder rune and masterwork"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Has been tested to work with Elder rune and masterwork"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
