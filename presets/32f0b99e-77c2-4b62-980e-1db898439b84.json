@@ -1,0 +1,230 @@
+{
+  "presetName": "Low Effort NM Kerapac Melee High end",
+  "presetNotes": "<span></span>Consider adding Genocidal <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" /> to your gear if you have a Nodon Dragonkin task <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1004107324853596251.png?v=1\" /><br /><br />Pray <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936606347280.webp?v=1\" /> /  <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159416557573.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> <br />Use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "ripperscrolls"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Use one vuln bomb at the start of the kill."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Emergency food."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Emergency food."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<img title=\"ripperpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.webp?v=1\" /> uses <img title=\"ripperscroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275155464203.webp?v=1\" /> with auto fire rate set to 1."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Recommend activation if starting off kill under ~5000 health to guarantee safety."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span><br /></span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Queue </span><img title=\"zekkil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/903244090953588787.webp?v=1\" /><span> </span><img title=\"spec\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400273195028.webp?v=1\" /><span> </span><span>at the beginning of every kill for faster kills/increased safety.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Not needed with Penance aura"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
