@@ -1,0 +1,200 @@
+{
+  "presetName": "Sanctum of Rebirth Learner",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "dealerhood80"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "dealertop80"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "dealerlegs80"
+    },
+    {
+      "id": "dealergloves80"
+    },
+    {
+      "id": "dealerboots80"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "equilibriumaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "rod"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can be substituted for Occultist's Ring"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Can also use Deathwarden nexus."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Can substitute for Jas book if taking too much damage."
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
