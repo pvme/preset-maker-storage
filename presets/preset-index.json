@@ -1350,5 +1350,9 @@
   {
     "presetId": "8aca7673-48b3-482b-ab8b-b78e64047eb2",
     "presetName": "Magister CA Ranged"
+  },
+  {
+    "presetId": "f80fd2a8-96d5-4a6a-ae64-6d78b472dfb5",
+    "presetName": "Magister CA Necromancy"
   }
 ]
