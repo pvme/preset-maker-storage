@@ -1346,5 +1346,9 @@
   {
     "presetId": "1e6c1644-1c19-404e-9635-4f6cf089258d",
     "presetName": "Magister CA Melee"
+  },
+  {
+    "presetId": "8aca7673-48b3-482b-ab8b-b78e64047eb2",
+    "presetName": "Magister CA Ranged"
   }
 ]
