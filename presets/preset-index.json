@@ -1354,5 +1354,9 @@
   {
     "presetId": "f80fd2a8-96d5-4a6a-ae64-6d78b472dfb5",
     "presetName": "Magister CA Necromancy"
+  },
+  {
+    "presetId": "e02106fa-8dc3-495e-b1bf-15bb545577fb",
+    "presetName": "Ranged Nex (BoLG)"
   }
 ]
