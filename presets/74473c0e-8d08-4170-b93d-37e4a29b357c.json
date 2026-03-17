@@ -1,0 +1,245 @@
+{
+  "presetName": "Glacytes March 2026 - tpd",
+  "presetNotes": "Divine Rage - Eclipsed Soul - Overcharge",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "mwmrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "kalg"
+    },
+    {
+      "id": "kalg"
+    },
+    {
+      "id": "kalgscrolls500"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggressionflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 + Precise 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Scavenging 4 - Impatient 4 + Absorbative 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4 + Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Relentless 5 + Crackling 4 - Biting 4 + Mobile"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Drop cleaning (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Use only if not using penance aura"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "can skip for shorter trips/if worried about prayer sustain"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "restore sum points to resummon kalg"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "misc. drop cleaning"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "misc. drop cleaning"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
