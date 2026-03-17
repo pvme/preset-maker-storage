@@ -1,0 +1,215 @@
+{
+  "presetName": "Glacytes - March 2026",
+  "presetNotes": "Divine Rage - Eclipsed Soul - Overcharge + Darkness Aura",
+  "equipmentSlots": [
+    {
+      "id": "superiorzurielhood"
+    },
+    {
+      "id": "maxcape"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "virtusrobelegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "dwarfincensesticks100"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": "bloodrune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 + Precise 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 - Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4 + Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 - Scavenging 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Drop cleaning (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Use only if not using penance aura"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
