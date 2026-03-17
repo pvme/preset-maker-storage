@@ -1,0 +1,210 @@
+{
+  "presetName": "Crypt Effort Magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "elitetectlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "elder overload salve"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Cast when under 5k prior to next kill"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Helps maintain prayer for T99 Curses"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Ectoplasm I Spirit I Bone I Flesh I Miasma - For Darkness Cast every 12 minutes"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Preferably t100 upgrade to maintain kph"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "is not needed but your kph may suffer"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Water I Blood I Soul - For Incite Fear"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "furyofthesmall"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "reaverpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
