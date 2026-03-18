@@ -1394,5 +1394,9 @@
   {
     "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
     "presetName": "Stage 1 - Melee Gear"
+  },
+  {
+    "presetId": "1926d733-363b-4b54-b0b8-71dc7ff97102",
+    "presetName": "Melee HM Sanctum"
   }
 ]
