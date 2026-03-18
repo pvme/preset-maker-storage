@@ -668,10 +668,6 @@
     "presetName": "Solo HM Kera Ranged"
   },
   {
-    "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
-    "presetName": "Stage 1 - Melee Gear"
-  },
-  {
     "presetId": "36ec3ebe-379d-4350-a3ff-ce7a88f7525a",
     "presetName": "Stage 1 - Magic Gear"
   },
@@ -1394,5 +1390,9 @@
   {
     "presetId": "74473c0e-8d08-4170-b93d-37e4a29b357c",
     "presetName": "Glacytes March 2026 - tpd"
+  },
+  {
+    "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
+    "presetName": "Stage 1 - Melee Gear"
   }
 ]
