@@ -1402,5 +1402,9 @@
   {
     "presetId": "5fc6084b-b352-4854-8640-4a6b8bf5533b",
     "presetName": "Melee HM Sanctum"
+  },
+  {
+    "presetId": "8543be99-c802-4fbc-a52b-77befea5d2b0",
+    "presetName": "AFK Low Level Ranged Lampenflora"
   }
 ]
