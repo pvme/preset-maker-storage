@@ -1442,5 +1442,9 @@
   {
     "presetId": "0de55906-3ae2-4a1a-819c-fce77ac67761",
     "presetName": "Helwyr AFK Ranged"
+  },
+  {
+    "presetId": "89498d26-3465-4ba7-8667-de93fe14a786",
+    "presetName": "Helwyr AFK Melee"
   }
 ]
