@@ -1450,5 +1450,9 @@
   {
     "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
     "presetName": "Vindicta AFK Melee"
+  },
+  {
+    "presetId": "401fab70-10ee-4e74-b46b-d1ef7adc9afc",
+    "presetName": "BoLG Ranged Telos"
   }
 ]
