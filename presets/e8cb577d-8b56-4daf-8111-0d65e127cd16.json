@@ -1,0 +1,215 @@
+{
+  "presetName": "BoLG Ranged Telos",
+  "presetNotes": "Replace Weapon poison +++ <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689525476158472288.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/648976643687317532.webp?v=1\" /> with omni guard and soulbound lantern, if applied at the bank",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Optional for necro 3rd font.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Optional for necro 3rd font."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Clear Headed 4 | Turtling 4</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Gloomfire Bow"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperpouch"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
