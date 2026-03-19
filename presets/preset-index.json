@@ -1438,5 +1438,9 @@
   {
     "presetId": "76656ae3-328b-4621-b8fa-5dc1bc98028f",
     "presetName": "Zemouregal & Vorkath (Ranged/Melee)"
+  },
+  {
+    "presetId": "0de55906-3ae2-4a1a-819c-fce77ac67761",
+    "presetName": "Helwyr AFK Ranged"
   }
 ]
