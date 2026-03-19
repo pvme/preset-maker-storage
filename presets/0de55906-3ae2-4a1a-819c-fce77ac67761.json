@@ -1,0 +1,210 @@
+{
+  "presetName": "Helwyr AFK Ranged",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Optional but convenient"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ":wenarrows: Wen arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Not used for :spec:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
