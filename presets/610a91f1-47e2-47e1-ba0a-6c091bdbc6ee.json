@@ -142,7 +142,12 @@
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": ":as4: :equilibrium2: + :p6:"
+      "description": ":as4: <span>:eruptive2:</span> + :p6:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": ""
     }
   ],
   "relics": {
