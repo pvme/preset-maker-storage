@@ -1502,5 +1502,9 @@
   {
     "presetId": "c345ca75-9dc1-4ca6-b528-81f79ddc0eb9",
     "presetName": "Abyssal beasts Melee AFK"
+  },
+  {
+    "presetId": "0171ae57-37e0-475e-b5c3-530b3e6430e2",
+    "presetName": "Helwyr (Ranged)"
   }
 ]
