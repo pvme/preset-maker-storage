@@ -1,318 +1,189 @@
 {
-  "presetName": "",
-  "presetNotes": "",
+  "presetName": "Helwyr (Necro)",
+  "presetNotes": "Pray :ruination:<div>Use of :darkness: is optional</div>",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "visageofthefirstnecromancer"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofblack",
-      "image": "https://img.pvme.io/images/iZw3Uee.png",
-      "name": "EoF - Death guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Death_guard"
+      "id": "eofblack"
     },
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": "firstnecrohandwrap"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "occulistsring",
-      "image": "https://img.pvme.io/images/bCYjo7u.png",
-      "name": "Occulist's Ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring"
+      "id": "occulistring"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemouregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "equilibriumaura",
-      "image": "https://img.pvme.io/images/a3Up2sd.png",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+      "id": ""
     },
     {
-      "label": "scriptureofful",
-      "image": "https://img.pvme.io/images/lPppoD4.png",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
     {
-      "label": "poison1",
-      "image": "https://img.pvme.io/images/hw7rKHz.png",
-      "name": "Weapon poison+++ (1)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
-      "selected": false
+      "id": "poison1"
     },
     {
-      "label": "rocktail",
-      "image": "https://img.pvme.io/images/bopHhxT.png",
-      "name": "Rocktail",
-      "breakdownNotes": "To heal after life transfer with no target",
-      "wikiLink": "https://runescape.wiki/w/Rocktail",
-      "selected": false
+      "id": "elderovl"
     },
     {
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "selected": false
+      "id": "excal"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "elderoverload",
-      "image": "https://img.pvme.io/images/DGw6F36.png",
-      "name": "Elder overload potion (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "elvenshard",
-      "image": "https://img.pvme.io/images/UURvGNW.png",
-      "name": "Ancient elven ritual shard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "springcleaner",
-      "image": "https://img.pvme.io/images/pjHPdhj.png",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "spices",
-      "image": "https://img.pvme.io/images/GNzR4sU.png",
-      "name": "Expensive spices",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
-      "selected": false
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Blood | Astral | Body | Soul"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "conservationofenergy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "energy": 350,
-        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+        "id": "conservationofenergy"
       },
       {
-        "label": "furyofthesmall",
-        "image": "https://img.pvme.io/images/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+        "id": "furyofthesmall"
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "label": "ripperdemon",
-        "image": "https://img.pvme.io/images/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": ""
+        "id": "kalgdemon"
       }
     ],
     "alternativeFamiliars": [
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ]
   }
