@@ -1494,5 +1494,9 @@
   {
     "presetId": "50f9bcfd-47a0-45b9-bc2c-9b60b75b01fc",
     "presetName": "Abyssal beasts Melee AFK (Sunken Pyramid)"
+  },
+  {
+    "presetId": "e6405cb7-bb15-4685-93a4-c7ca0c2efa29",
+    "presetName": "Abyssal beasts Melee AFK"
   }
 ]
