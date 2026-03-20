@@ -1510,5 +1510,9 @@
   {
     "presetId": "3d8cabf4-4985-47c2-93ce-27465be6aca5",
     "presetName": "HM Vorkath Flightskip Melee only"
+  },
+  {
+    "presetId": "216ddf47-8857-4bd6-a7cb-fb40b24a253e",
+    "presetName": "Amascut 1k Base"
   }
 ]
