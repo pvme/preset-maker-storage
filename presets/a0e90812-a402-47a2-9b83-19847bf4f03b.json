@@ -1,0 +1,254 @@
+{
+  "presetName": "Glacytes 3k kph",
+  "presetNotes": "Soulsplit + Leech Magic Strength (No darkness required)",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "holyscarab"
+    },
+    {
+      "id": "holyscarab"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggressionflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "dwarfincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "bloodrune"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4 + Precise 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Scavenging 4 - Equilibrium 4 \n(Masterwork Magic &gt; Tumeken's &gt; Virtus)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4 + Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Relentless 5 + Crackling 4 - Impatient 4 + Invigorating 1 (Masterwork Magic &gt; Tumeken's &gt; Virtus)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Drop cleaning (optional)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Use only if not using penance aura"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Anima Core of Seren)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Kerapac's Wristwraps)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Blast Diffusion Boots)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "used to restore sum points to resummon holy scarab for longer trips"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "misc. drop cleaning"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "misc. drop cleaning"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "can skip if using holy scarab"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "abyssallink"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "berserkersfury"
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "holyscarab"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ]
+  }
+}
