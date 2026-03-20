@@ -1,9 +1,9 @@
 {
   "presetName": "AFK Ranged Vindicta",
-  "presetNotes": "<br />",
+  "presetNotes": "Camp :wenarrows:<div>Use :anguish: + :soulsplit:</div>",
   "equipmentSlots": [
     {
-      "id": "dracolichcoif"
+      "id": "wardenhood90"
     },
     {
       "id": "igneouskalxil"
@@ -15,19 +15,19 @@
       "id": "bolg"
     },
     {
-      "id": "dracolichhauberk"
+      "id": "edracolichhauberk"
     },
     {
       "id": ""
     },
     {
-      "id": "dracolichchaps"
+      "id": "edracolichchaps"
     },
     {
-      "id": "dracolichvambs"
+      "id": "edracolichvambs"
     },
     {
-      "id": "dracolichboots"
+      "id": "edracolichboots"
     },
     {
       "id": "stalkerring"
@@ -36,10 +36,10 @@
       "id": "pernixquiver"
     },
     {
-      "id": "vampaura"
+      "id": ""
     },
     {
-      "id": "scriptureofjas"
+      "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
@@ -68,10 +68,10 @@
       "id": "elderovlsalve"
     },
     {
-      "id": "ripperpouch"
+      "id": ""
     },
     {
-      "id": "ripperscrolls"
+      "id": ""
     },
     {
       "id": ""
@@ -182,12 +182,12 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "ripperpouch"
+        "id": "holyscarab"
       }
     ],
     "alternativeFamiliars": [
       {
-        "id": ""
+        "id": "legendpetscav"
       },
       {
         "id": ""
