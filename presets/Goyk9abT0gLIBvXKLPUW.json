@@ -1,383 +1,209 @@
 {
   "presetName": "Melee GWD2",
-  "presetNotes": "<img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> can help if downgrading gear<div><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> auto-fire (set to 1)</div>",
+  "presetNotes": "<div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> auto-fire (set to 1)</div>",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/EVh5SwD.png",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
-      "name": "Vestments of havoc hood",
-      "breakdownNotes": "",
-      "label": "vestmenthood"
+      "id": "vestmentsofhavochood"
     },
     {
-      "image": "https://i.imgur.com/bfzX8Up.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
-      "name": "Igneous Kal-Ket",
-      "breakdownNotes": "",
-      "label": "kalket"
+      "id": "igneouskalket"
     },
     {
-      "image": "https://i.imgur.com/JMC7t7Y.png",
-      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
-      "name": "EoF - Dragon claws",
-      "breakdownNotes": "Dragon Claws <img title=\"dclaws\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/779048041088024606.png?v=1\" />",
-      "label": "eofred"
+      "id": "amhej"
     },
     {
-      "image": "https://i.imgur.com/wFdHN9C.png",
-      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
-      "name": "Dark Shard of Leng",
-      "breakdownNotes": "",
-      "label": "lengmh"
+      "id": "dba"
     },
     {
-      "image": "https://i.imgur.com/E5ptfu6.png",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
-      "name": "Vestments of havoc robe top",
-      "breakdownNotes": "",
-      "label": "vestmentbody"
+      "id": "vestmentsofhavoctop"
     },
     {
-      "image": "https://i.imgur.com/LAVYvrE.png",
-      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
-      "name": "Dark Sliver of Leng",
-      "breakdownNotes": "",
-      "label": "lengoh"
+      "id": "lengoh"
     },
     {
-      "image": "https://i.imgur.com/mz7GwWF.png",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
-      "name": "Vestments of havoc robe bottom",
-      "breakdownNotes": "",
-      "label": "vestmentlegs"
+      "id": "vestmentsofhavocbottom"
     },
     {
-      "image": "https://i.imgur.com/U4Wa7vb.png",
-      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
-      "name": "Gloves of passage",
-      "breakdownNotes": "Enhanced if owned",
-      "label": "glovesofpassage"
+      "id": "glovesofpassage"
     },
     {
-      "image": "https://i.imgur.com/FarIA5V.png",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
-      "name": "Vestments of havoc boots",
-      "breakdownNotes": "",
-      "label": "vestmentboots"
+      "id": "vestmentsofhavocboots"
     },
     {
-      "image": "https://i.imgur.com/cnIOClx.png",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "label": "reaverring"
+      "id": "reaverring"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": ""
+      "id": "nodonspikeharness"
     },
     {
-      "image": "https://i.imgur.com/Fme45Ts.png",
-      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
-      "name": "Berserker aura",
-      "breakdownNotes": "",
-      "label": "berserkeraura"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/lPppoD4.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "Optional",
-      "label": "scriptureofful"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "lengmh"
     },
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "eof"
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "label": "vulnbombs",
-      "selected": false
+      "id": "elderovl"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/3pFXvMR.png",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "For <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
-      "label": "zemouregalsnexus",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/qocLc4k.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "Panic food",
-      "label": "sailfish",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/qocLc4k.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "Panic food",
-      "label": "sailfish",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/5dumsv0.png",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
-      "name": "Binding contract (kal'gerion demon)",
-      "breakdownNotes": "Auto-fire",
-      "label": "kalg",
-      "selected": false
+      "id": "kalg"
     },
     {
-      "image": "https://i.imgur.com/vIatvqA.png",
-      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
-      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
-      "breakdownNotes": "",
-      "label": "kalgscrolls100",
-      "selected": false
+      "id": "kalgscrolls100"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "For <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Panic food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Panic food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Varanus' Mercy :mercy: &gt; Dragon Claws <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/779048041088024606.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "furyofthesmall"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
       }
     ]
   }
