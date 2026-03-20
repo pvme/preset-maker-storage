@@ -1470,5 +1470,9 @@
   {
     "presetId": "89498d26-3465-4ba7-8667-de93fe14a786",
     "presetName": "Helwyr AFK Melee"
+  },
+  {
+    "presetId": "f1afb793-4915-46d4-b894-ea24b5150a6c",
+    "presetName": "Vindicta AFK Magic"
   }
 ]
