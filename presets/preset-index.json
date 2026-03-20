@@ -1506,5 +1506,9 @@
   {
     "presetId": "0171ae57-37e0-475e-b5c3-530b3e6430e2",
     "presetName": "Helwyr (Ranged)"
+  },
+  {
+    "presetId": "3d8cabf4-4985-47c2-93ce-27465be6aca5",
+    "presetName": "HM Vorkath Flightskip Melee only"
   }
 ]
