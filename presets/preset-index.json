@@ -1444,10 +1444,6 @@
     "presetName": "Helwyr AFK Ranged"
   },
   {
-    "presetId": "89498d26-3465-4ba7-8667-de93fe14a786",
-    "presetName": "Helwyr AFK Melee"
-  },
-  {
     "presetId": "401fab70-10ee-4e74-b46b-d1ef7adc9afc",
     "presetName": "BoLG Ranged Telos"
   },
@@ -1470,5 +1466,9 @@
   {
     "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
     "presetName": "Vindicta AFK Melee"
+  },
+  {
+    "presetId": "89498d26-3465-4ba7-8667-de93fe14a786",
+    "presetName": "Helwyr AFK Melee"
   }
 ]
