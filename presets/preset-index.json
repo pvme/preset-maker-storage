@@ -1538,5 +1538,9 @@
   {
     "presetId": "8f51aead-4c8c-46f9-b9eb-4d9dac459091",
     "presetName": "Amascut 1k Range/Melee Brid - DPS"
+  },
+  {
+    "presetId": "dbe1b093-695d-4bee-bde5-78e679ad30e1",
+    "presetName": "BoLG Ranged Telos"
   }
 ]
