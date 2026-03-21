@@ -1530,5 +1530,9 @@
   {
     "presetId": "5432ccf8-c489-48be-a910-d5feb61fcd02",
     "presetName": "Amascut 1k Dps"
+  },
+  {
+    "presetId": "76085bb4-221d-4278-b8f5-3a9babb02f3e",
+    "presetName": "Amascut 1k Range/Melee Brid - DPS"
   }
 ]
