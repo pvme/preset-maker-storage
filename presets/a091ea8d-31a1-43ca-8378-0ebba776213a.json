@@ -1,6 +1,6 @@
 {
-  "presetName": "AFK Rathis 2H",
-  "presetNotes": "",
+  "presetName": "AFK Rathis (Melee)",
+  "presetNotes": "Pray :turmoil: + :soulsplit:",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -30,16 +30,16 @@
       "id": "vestmentsofhavocboots"
     },
     {
-      "id": "reaverring"
+      "id": "championring"
     },
     {
-      "id": "graspingpouch"
+      "id": "nodonspikeharness"
     },
     {
-      "id": "penanceaura"
+      "id": ""
     },
     {
-      "id": "vamp"
+      "id": ""
     }
   ],
   "inventorySlots": [
@@ -50,25 +50,28 @@
       "id": "elderovlsalve"
     },
     {
-      "id": "ripperpouch"
-    },
-    {
-      "id": "powderofpenance2"
-    },
-    {
-      "id": "lantadymesticks"
+      "id": "poison6"
     },
     {
       "id": "kwuarmsticks"
     },
     {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
       "id": "potionreservoir"
     },
     {
-      "id": "blessedflask"
-    },
-    {
-      "id": "poison6"
+      "id": "notepaperstack"
     },
     {
       "id": ""
@@ -81,9 +84,6 @@
     },
     {
       "id": ""
-    },
-    {
-      "id": "deathwardennexus"
     },
     {
       "id": "ancientshard"
@@ -110,7 +110,7 @@
       "id": "springcleaner"
     },
     {
-      "id": "notepaperstack"
+      "id": "holywrench"
     },
     {
       "id": ""
@@ -131,8 +131,8 @@
   "breakdown": [
     {
       "slotType": "inventory",
-      "slotIndex": 22,
-      "description": "<span>Optional to note damaged dinosaur hides.</span>"
+      "slotIndex": 9,
+      "description": "<span>Optional to note damaged dinosaur hides</span>"
     },
     {
       "slotType": "inventory",
@@ -141,8 +141,13 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 8,
+      "slotIndex": 2,
       "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Method tested with Precise 6 + Aftershock 1 / Lunging 4 Eruptive 2"
     }
   ],
   "relics": {
@@ -172,7 +177,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "ripperdemon"
+        "id": "legendpetscav"
       }
     ],
     "alternativeFamiliars": [
