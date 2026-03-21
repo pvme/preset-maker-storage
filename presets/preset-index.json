@@ -752,10 +752,6 @@
     "presetName": ""
   },
   {
-    "presetId": "a091ea8d-31a1-43ca-8378-0ebba776213a",
-    "presetName": "AFK Rathis 2H"
-  },
-  {
     "presetId": "194fabd3-01b8-4ff9-9847-37f5badae61c",
     "presetName": "Melee-Range Vorkath HM"
   },
@@ -1546,5 +1542,9 @@
   {
     "presetId": "8ea7ad0e-6de3-419a-8371-393f19649205",
     "presetName": "AFK Kerapac (Melee)"
+  },
+  {
+    "presetId": "a091ea8d-31a1-43ca-8378-0ebba776213a",
+    "presetName": "AFK Rathis (Melee)"
   }
 ]
