@@ -1542,5 +1542,9 @@
   {
     "presetId": "dbe1b093-695d-4bee-bde5-78e679ad30e1",
     "presetName": "BoLG Ranged Telos"
+  },
+  {
+    "presetId": "8ea7ad0e-6de3-419a-8371-393f19649205",
+    "presetName": "AFK Kerapac (Melee)"
   }
 ]
