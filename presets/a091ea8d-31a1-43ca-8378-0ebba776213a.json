@@ -1,6 +1,6 @@
 {
   "presetName": "AFK Rathis (Melee)",
-  "presetNotes": "Pray :turmoil: + :soulsplit:",
+  "presetNotes": "Pray :turmoil: + :soulsplit:<div>Leave your book OFF</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
@@ -148,6 +148,11 @@
       "slotType": "equipment",
       "slotIndex": 3,
       "description": "Method tested with Precise 6 + Aftershock 1 / Lunging 4 Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Not activated"
     }
   ],
   "relics": {
