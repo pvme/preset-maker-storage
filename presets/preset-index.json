@@ -1558,5 +1558,9 @@
   {
     "presetId": "aa7027c5-7bc8-475b-8e46-e8faad756347",
     "presetName": "AFK Melee Vindicta"
+  },
+  {
+    "presetId": "58e126a6-264a-4ec3-ab4f-67de27e95cb6",
+    "presetName": "Vindicta NM Melee AFK"
   }
 ]
