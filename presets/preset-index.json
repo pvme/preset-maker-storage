@@ -1456,10 +1456,6 @@
     "presetName": "AFK Low Level Melee Nightmares"
   },
   {
-    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
-    "presetName": "Vindicta AFK Melee"
-  },
-  {
     "presetId": "89498d26-3465-4ba7-8667-de93fe14a786",
     "presetName": "Helwyr AFK Melee"
   },
@@ -1562,5 +1558,9 @@
   {
     "presetId": "58e126a6-264a-4ec3-ab4f-67de27e95cb6",
     "presetName": "Vindicta NM Melee AFK"
+  },
+  {
+    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
+    "presetName": "Vindicta AFK Melee"
   }
 ]
