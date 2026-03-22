@@ -1,6 +1,6 @@
 {
   "presetName": "Vindicta AFK Melee",
-  "presetNotes": ":turmoil:<div>No familiar</div><div>Book off</div><div>Should get around 33s</div>",
+  "presetNotes": "<div>Pray :fortitude: + :deflectmagic:</div><div>No familiar</div><div><span>Should get around 60kph</span></div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -9,7 +9,7 @@
       "id": "igneouskalket"
     },
     {
-      "id": "aosor"
+      "id": "amhej"
     },
     {
       "id": "masterwork2hsword"
@@ -30,7 +30,7 @@
       "id": "vestmentsofhavocboots"
     },
     {
-      "id": "rod"
+      "id": "lotd"
     },
     {
       "id": "graspingpouchblack"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "scriptureofamascut"
+      "id": "underworldgrimoire4"
     }
   ],
   "inventorySlots": [
@@ -47,28 +47,28 @@
       "id": "elderovlsalve"
     },
     {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
       "id": "powderofpenance2"
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
     },
     {
       "id": ""
@@ -137,7 +137,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 12,
-      "description": "Disabled"
+      "description": "<br />"
     },
     {
       "slotType": "equipment",
@@ -148,6 +148,21 @@
       "slotType": "inventory",
       "slotIndex": 23,
       "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Alternatively use Penance Powder :penancepowder:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Optional"
     }
   ],
   "relics": {
