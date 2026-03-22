@@ -1546,5 +1546,9 @@
   {
     "presetId": "a091ea8d-31a1-43ca-8378-0ebba776213a",
     "presetName": "AFK Rathis (Melee)"
+  },
+  {
+    "presetId": "16e39594-d5df-40bf-a5c2-6741e4422abe",
+    "presetName": "Vindicta NM Melee AFK"
   }
 ]
