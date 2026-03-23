@@ -1586,5 +1586,9 @@
   {
     "presetId": "9e390f7a-2c7a-4e72-b718-e31d3d704952",
     "presetName": "Abyssal beasts Magic AFK"
+  },
+  {
+    "presetId": "2bd31b82-d3d9-4bcf-97f3-dbdd8a9b7350",
+    "presetName": "AFK Low Level Magic Devil's Snare"
   }
 ]
