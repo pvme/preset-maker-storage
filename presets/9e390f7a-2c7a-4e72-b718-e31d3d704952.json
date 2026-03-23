@@ -1,0 +1,240 @@
+{
+  "presetName": "Abyssal beasts Magic AFK",
+  "presetNotes": "<span>Pray </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /><span> or </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><br />\nGear must be perked with Equilibrium 4 ;eq4;\n<br /><span>Autocast </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> </span>",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "virtusrobelegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "May use <img title=\"mahj\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643148943856762890.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Optional."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Optional."
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
