@@ -1,0 +1,210 @@
+{
+  "presetName": "AFK Mage Ivar, King of Bones",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "elitetectmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "dragonrideramulet"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "elitetectlegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "mwmboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Any magic power boots. Masterwork used for the magic bonus."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced with the Empowerment."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Standard Tectonic works.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Standard Tectonic works."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<span>Standard Tectonic works.</span>"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bunyip"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
