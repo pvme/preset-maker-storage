@@ -1,0 +1,180 @@
+{
+  "presetName": "AFK Ranged Silverquill, the Dreadhog",
+  "presetNotes": "Pray ;soulsplit; and ;anguish; or ;desolation;\n\n<span>Use </span>;ancientshard;<span> as needed.</span>",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful arrows"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "holyscarab"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
