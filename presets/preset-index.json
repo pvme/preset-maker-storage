@@ -1650,5 +1650,9 @@
   {
     "presetId": "7c18433b-5cd6-44b5-83d4-3a8809350f75",
     "presetName": "AFK Melee Silverquill, the Dreadhog"
+  },
+  {
+    "presetId": "f08cb944-aee2-4ea7-ad75-64a43433ef04",
+    "presetName": "AFK Ranged Silverquill, the Dreadhog"
   }
 ]
