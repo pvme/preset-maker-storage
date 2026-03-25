@@ -1,0 +1,205 @@
+{
+  "presetName": "Low Effort Rasial",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Eruptive 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 Crystal Shield 1 | Lucky 6 Undead Slayer"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Precise 6 Ultimatums 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Absorbative 4 | Bulwark 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Runes for Animate Dead and Prism of Salvation"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
