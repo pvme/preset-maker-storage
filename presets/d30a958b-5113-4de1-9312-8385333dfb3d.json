@@ -1,0 +1,220 @@
+{
+  "presetName": "Melee-Ranged HM Sanctum",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "lengohbarrows"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracogloves"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Flanking 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Gloomfire bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
