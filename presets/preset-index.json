@@ -1674,5 +1674,9 @@
   {
     "presetId": "b5509efe-2a8d-4d9a-9f56-f06d8355c51c",
     "presetName": "Melee-Ranged HM Sanctum"
+  },
+  {
+    "presetId": "da227373-8ad7-4842-9c2f-b348e78d0152",
+    "presetName": "AFK High Level Magic Devil's Snare"
   }
 ]
