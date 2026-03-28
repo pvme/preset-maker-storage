@@ -1,0 +1,190 @@
+{
+  "presetName": "Kera melee 2h revised",
+  "presetNotes": "Nodon Dragonkin task",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6 Geno AS4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "U4 C4 Devo4 Imp4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Relentless 5 Biting 3"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "persistentrage"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "kalgdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
