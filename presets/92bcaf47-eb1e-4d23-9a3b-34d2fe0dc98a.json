@@ -1,0 +1,235 @@
+{
+  "presetName": "Magic-Melee HM Sanctum",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "lengohbarrows"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Flanking 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Legatus's Emberstaff"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
