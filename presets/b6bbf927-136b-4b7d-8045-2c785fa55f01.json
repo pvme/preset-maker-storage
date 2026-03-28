@@ -1,0 +1,174 @@
+{
+  "presetName": "zuk melee ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "tokkulzo"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "adrenrenewalflask"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "eofblacku"
+    },
+    {
+      "id": "eofpurpleunorn"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "edracoboots"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
