@@ -1710,5 +1710,9 @@
   {
     "presetId": "92bcaf47-eb1e-4d23-9a3b-34d2fe0dc98a",
     "presetName": "Magic-Melee HM Sanctum"
+  },
+  {
+    "presetId": "b6bbf927-136b-4b7d-8045-2c785fa55f01",
+    "presetName": "zuk melee ranged"
   }
 ]
