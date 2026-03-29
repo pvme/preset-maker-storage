@@ -1,0 +1,230 @@
+{
+  "presetName": "Solo HM Kera Ranged",
+  "presetNotes": ":ripperpouch: autocast :ripperscroll: on 1",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eof"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": ":gloomfirebow:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful (Can have deathspores also)<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Not necessary at all"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Any nexus for :lesserboneshield: or :greaterboneshield: to cast defensives"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Deathspores"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
