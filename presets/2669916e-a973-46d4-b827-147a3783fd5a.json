@@ -1,0 +1,190 @@
+{
+  "presetName": "necromancy dps amas",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "spices"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Disruption shield SBS"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Prism of Salvation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Can substitute for super adren if overtime is not pref."
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
