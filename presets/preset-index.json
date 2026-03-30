@@ -1802,5 +1802,9 @@
   {
     "presetId": "9c76b3e0-27ca-41f9-8ed7-d64cce704e9e",
     "presetName": "Wilderness Obelisk Abyssal Demons Melee AFK"
+  },
+  {
+    "presetId": "ba6bb64f-2c02-42ae-9366-c126b33907c0",
+    "presetName": "Wilderness Obelisk Abyssal Demons Ranged AFK"
   }
 ]
