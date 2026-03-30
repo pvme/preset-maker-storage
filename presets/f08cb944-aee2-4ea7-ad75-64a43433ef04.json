@@ -1,6 +1,6 @@
 {
   "presetName": "AFK Ranged Silverquill, the Dreadhog",
-  "presetNotes": "Pray ;soulsplit; and ;anguish; or ;desolation;<div><br /></div><div>If prayer sustain is an issue, you may wish to use a :holyscarab:</div>",
+  "presetNotes": "Pray ;soulsplit; and ;anguish; or ;desolation;<div><br /></div><div>If using a legendary pet, call your familar so it stands west or south of you, otherwise you will see \"Your pet cannot reach that.\"</div><div><br /></div><div>If prayer sustain is an issue, you may wish to use a :holyscarab:</div>",
   "equipmentSlots": [
     {
       "id": "edracolichcoif"
