@@ -1,0 +1,295 @@
+{
+  "presetName": "m/r ag",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "adrenrenewalflask"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "eofpurpleunorn"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "edracogloves"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "optional healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "optional healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "For AoE against glacyte minions"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Used for better damage while barricading."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "optional for use at wars"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "optional for extra damage"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "claws or varanus's mercy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "make sure to use powder of protection"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "put caroming 4 either on this or offhand"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperpouch"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
