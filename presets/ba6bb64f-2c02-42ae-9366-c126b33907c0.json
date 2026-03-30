@@ -1,0 +1,250 @@
+{
+  "presetName": "Wilderness Obelisk Abyssal Demons Ranged AFK",
+  "presetNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "mechchins"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": "ohasc"
+    },
+    {
+      "id": "sireniclegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sacrificescrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>Can replace if prayer restoration isn't an issue</span><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Optional"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blight Bolts"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<span>Can use </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626412560395.png?v=1\" /><span> or </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/883134307902816297.png?v=1\" /><span> instead.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Not needed if using :penanceaura:."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Not needed if using :penanceaura:."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "For teleporting to level 18 obelisk, can be replaced by obelisk shard"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Not needed if using :penanceaura:."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Not needed if using :penanceaura:."
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "slayerintrospection"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "legendpetscav"
+      },
+      {
+        "id": "ripperpouch"
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
