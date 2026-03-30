@@ -1,0 +1,220 @@
+{
+  "presetName": "500% Zammy (Range)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "ed4luckycharm"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Wen + Ful Arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 + Mobile | Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 + Devoted 4 | Ultimatums 4 + Energizing 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Enchantment of shadows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 + Caroming 1 | Aftershock 4 + Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Optional, but helps with sustain during Split Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Deathspore arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Optional since they can proc on P0 witches"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "heightenedsenses"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperpouch"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
