@@ -1,6 +1,6 @@
 {
   "presetName": "AFK Ranged Silverquill, the Dreadhog",
-  "presetNotes": "Pray ;soulsplit; and ;anguish; or ;desolation;\n\n<span>Use </span>;ancientshard;<span> as needed.</span>",
+  "presetNotes": "Pray ;soulsplit; and ;anguish; or ;desolation;<div><br /></div><div>If prayer sustain is an issue, you may wish to use a :holyscarab:</div>",
   "equipmentSlots": [
     {
       "id": "edracolichcoif"
@@ -162,12 +162,12 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "holyscarab"
+        "id": "legendpetscav"
       }
     ],
     "alternativeFamiliars": [
       {
-        "id": ""
+        "id": "holyscarab"
       },
       {
         "id": ""
