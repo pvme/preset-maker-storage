@@ -33,13 +33,13 @@
       "id": "reaverring"
     },
     {
-      "id": "nodonspikeharness"
+      "id": "pernixquiverred"
     },
     {
       "id": "vampaura"
     },
     {
-      "id": "grim"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
@@ -157,7 +157,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 14,
-      "description": "optional healing"
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
@@ -177,12 +177,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 15,
-      "description": "<br />"
+      "description": "gloomfire bow"
     },
     {
       "slotType": "inventory",
       "slotIndex": 20,
-      "description": "Chaos | Air | Water | Fire"
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
@@ -197,7 +197,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 22,
-      "description": "Used for better damage while barricading."
+      "description": "For AoE against glacyte minions"
     },
     {
       "slotType": "equipment",
@@ -222,7 +222,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "optional for extra damage"
+      "description": "<br />"
     },
     {
       "slotType": "equipment",
