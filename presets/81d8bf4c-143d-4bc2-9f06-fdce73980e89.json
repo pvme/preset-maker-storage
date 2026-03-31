@@ -1,0 +1,195 @@
+{
+  "presetName": "Seiryu Range/Melee GM",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dba"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "dommine"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "vulnbombs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Deathspore Arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Wen Arrows"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
