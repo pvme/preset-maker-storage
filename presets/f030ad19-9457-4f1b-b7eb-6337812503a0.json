@@ -1,0 +1,230 @@
+{
+  "presetName": "Sunken Pyramid AFK Melee Elite Profane Scabarites",
+  "presetNotes": "It is recommended to use ;IritSticks; or ;venomblood; as antipoison effects are drained.\n\nArmour perked with ;devoted4; or ;enhdev4; is recommended.\n\n<span>May use </span>;penancepowder;<span> instead of </span>;ancientshard;<span> and </span>;holyscarab;",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "iritsticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scodex"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Important for accuracy over regular overload"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "May use ;venomblood; instead"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "May use Penance (powder or aura) instead of ;ancientshard; and ;holyscarab;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Important for accuracy, but can use Noxious/DRL instead."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Devoted perk"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Better than EOF as long as hitchance &gt; 50%"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can use Vampyrism aura instead for safety"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bloodnihil"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
