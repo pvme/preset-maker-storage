@@ -1882,5 +1882,9 @@
   {
     "presetId": "907a70b5-76ce-4c73-8a8a-6b0b838f602e",
     "presetName": "Amascut 1k Base v2"
+  },
+  {
+    "presetId": "3bbb4cc2-6bc2-4570-8302-b88ddb10487e",
+    "presetName": "Amascut 1k Dps v2"
   }
 ]
