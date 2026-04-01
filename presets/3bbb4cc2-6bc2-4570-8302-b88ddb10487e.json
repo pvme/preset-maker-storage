@@ -1,0 +1,195 @@
+{
+  "presetName": "Amascut 1k Dps v2",
+  "presetNotes": "<span>Use Temporal Anomaly</span> or Darkness<br />",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "blackstonearrow"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "elderovl"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
