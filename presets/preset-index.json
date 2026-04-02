@@ -1898,5 +1898,9 @@
   {
     "presetId": "8d62afdc-71b0-4205-adc3-588a4522015a",
     "presetName": "Melee - Ranged AOD"
+  },
+  {
+    "presetId": "8a3761ae-52d8-48ac-92f1-64381fa981ad",
+    "presetName": "Afk Greg, 40 kph, zero deaths, perfect long term sustain"
   }
 ]
