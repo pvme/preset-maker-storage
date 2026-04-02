@@ -1,0 +1,174 @@
+{
+  "presetName": "Melee - Ranged AOD",
+  "presetNotes": "For teams with multiple cb styles up to 1:09 kill time",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiver"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "enhreplen"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "graspingpouchorange"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
