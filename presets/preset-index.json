@@ -1910,5 +1910,9 @@
   {
     "presetId": "a1df6185-3d76-42c8-89c3-58498363c2d9",
     "presetName": "Sanguine crawlers Melee AFK"
+  },
+  {
+    "presetId": "b9d71266-f1de-42ab-a19c-7e036c4ae04b",
+    "presetName": "necromancy dps master v1"
   }
 ]
