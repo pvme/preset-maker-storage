@@ -1,0 +1,174 @@
+{
+  "presetName": "Afk Greg, 40 KPH",
+  "presetNotes": "With just penance aura, you can use Soul Split AND t95/t99 prayer <div>With just powder, you can only use Soul Split. To you Soul split and DPS prayer with just the powder, you need to add in some form of prayer restoration. </div><div><br /></div><div><br /></div><div>Optional but not required : Weapon Poison, Overloads, Darkness, Vamp Scrimshaw, T95/T99 Damage Prayer\n\n</div><div>Highly recommended to use either the venomblood perk or Irit Incense sticks. </div><div><br /></div><div>Relic's beyond Persistent Rage are up to personal preference. </div><div><br /></div><div><br /></div><div>If seeking maximum safety, swap boots and helmet to Primal full helm and boots +5</div>",
+  "equipmentSlots": [
+    {
+      "id": "masterworkhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "bloodfury"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "masterworkbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "masterworklegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "masterworkboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "iritsticks"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "deathward"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
