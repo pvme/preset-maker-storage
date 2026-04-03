@@ -1922,5 +1922,9 @@
   {
     "presetId": "8905598c-eb45-4bcd-b9e8-7c733d1a5453",
     "presetName": "Queen Black Dragon Ranged"
+  },
+  {
+    "presetId": "ff4c09bf-fe0c-4c6b-bfbc-30d2ba77d29a",
+    "presetName": "AFK Gregorovic Melee"
   }
 ]
