@@ -1,0 +1,315 @@
+{
+  "presetName": "AFK Gathering: Wilderness Abyssal Lords &amp; Beasts",
+  "presetNotes": "843,9 KPH -&gt; 24,34 total :eliteclue: elites per hour:\n(~12,06 :eliteclue:/hr, ~7,59 + :trisk: keys/hr + ~4,7 :eliteclue:/hr from :scriptureofbik:)\n\n<span>Prayers: Soulsplit </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><span>,</span><span> Affliction </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /> and Protect Item :protectitem:\nAspect of Evasion &amp; Active Spell: Animate Dead ;animatedead; and Exsanguinate <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />\nAdditional notes:\n- Infernal puzzle box :infernalpuzzlebox; for 14% damage reduction and 9% increase damage dealt\n- The Scavenging :scavenging4: perk is particularly useful here, as it also triggers on tentacles\n- The Stone of Jas :jasboost: buff does not work because the player's position is out of range",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "aosor"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "elderovl"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "spiritattractionflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "dwarfincensesticks100"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "yakscroll"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "firerune"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Luck removes bad :scriptureofbik: rolls.\nNo luck = t1 &lt; t2 &lt; t3 &lt; t4\n\nCan substitute with :lotd:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Optional: automatically banks 8% of the drops"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Filled with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659808731137.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659586433024.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Yak's special to bank :trisk: keys - DPS familiars barely make a difference in KPH"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": ":ectoplasmator: makes it easier to loot clue scrolls and :trisk:  fragments"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Adds 0.17 :masterclue:, 4.7 :eliteclue:, 4.3 :hardclue:, 5.2 :mediumclue: scrolls per hour"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ":cryptbloomhelm: can be used for increased safety"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Optional: fill :xpcapacitor: for extra passive :coins:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Optional: fill :xpcapacitor: for extra passive :coins:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Picks up dragonstone drops when area looting"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Extra :firerune: for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional: Can use meteorite cannonballs, they deal more damage, though they come with higher upkeep costs"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can use an :eofred: if you want a slight stat boost"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Gizmo 1: Aftershock 4 :aftershock4: | Caroming 1 :caroming1:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Can substitute with :igneouskal-Mej:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Gizmo 1: Equilibrium 4 :equilibrium4: | Demon slayer :demonslayerperk: \nGizmo 2: :scavenging4:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Gizmo 1:  Eruptive 4 :eruptive4: | Ruthless 3 :ruthless3:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Gizmo 1: Crackling 4 :crackling4: | Ultimatums 4 :ultimatums4:\nGizmo 2: Absorbative 4 :absorbative4:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Automatically collects Catalyst of Alterations from :scriptureofbik:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Optional: fill :xpcapacitor: for extra passive :coins:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Allows for an easy teleport from the herb patch"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Put an additional :elderoverload: in the reservoir"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "packyak"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
