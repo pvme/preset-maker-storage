@@ -1,0 +1,200 @@
+{
+  "presetName": "BOTW Rots",
+  "presetNotes": "Persistent Rage allows quicker b2b kills without banking",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "penanceaura"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Extra health</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Stores necro runes and ectoplasm</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Alternatively, Scripture of Wen."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "adrenaline potion"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": "furyofthesmall"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "icenihil"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      },
+      {
+        "id": "packyak"
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
