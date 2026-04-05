@@ -36,7 +36,7 @@
       "id": "quiver"
     },
     {
-      "id": "equilibriumaura"
+      "id": ""
     },
     {
       "id": "scriptureofbik"
@@ -217,7 +217,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 22,
-      "description": "<span>Bound to the Vine Bush patch in Herblore Habitat (patch condition irrelevant—can be empty, diseased, or fully grown).</span><br />"
+      "description": "<span>Bound to the Vine Bush patch in Herblore Habitat (patch condition irrelevant, can be empty, diseased, or fully grown).</span><br />"
     },
     {
       "slotType": "inventory",
@@ -237,7 +237,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 26,
-      "description": "<span>Anything to disassemble for Bik Procs using <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" />(Cheap and Stackable)</span>"
+      "description": "<span>Anything to disassemble for Bik Procs using <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" />\n(Cheap and Stackable)</span>"
     },
     {
       "slotType": "inventory",
@@ -292,7 +292,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "<span>Ful Arrows <img title=\"fularrow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/971025696958853180.png?v=1\" /> | Tirannwn quiver 3+ | Used for Tyras Camp | Elf Camp</span>"
+      "description": "<span>Ful Arrows <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/971025696958853180.png?v=1\" /> | Tirannwn quiver 3+ | Used for Tyras Camp | Elf Camp</span>"
     },
     {
       "slotType": "equipment",
@@ -302,7 +302,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 12,
-      "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span><br />"
+      "description": "<span>Disassemble any stackable/noted item for a chance of :scriptureofbik: procs during a run</span><br />"
     }
   ],
   "relics": {
