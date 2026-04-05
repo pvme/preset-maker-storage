@@ -1,366 +1,349 @@
 {
   "presetName": "Hard Clues - Ranged",
-  "presetNotes": "<div>- If using <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> Mobile you don't need <img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" />Shadow's Grace<br /><br /></div><div><span>- Can replace Bow of the Last Guardian with Masterwork Bow<br /><br /></span></div><div><span>- Can use no aura, no potions and no prayer with Bow of the Last Guardian and still one hit with </span><img title=\"zammybow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /><span> </span><img title=\"eofspec\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1257438999794946099.png?v=1\" /><span> but </span><img title=\"snap\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535534127131394088.png?v=1\" /><span> will not<br /><br /></span></div><div><span>- Masterwork Bow is 24 damage short so there's a very minimal chance it wont one hit with </span><img title=\"zammybow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /><span> </span><img title=\"eofspec\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1257438999794946099.png?v=1\" /><span> so you can still opt for that if you cannot afford a Bow of the Last Guardian to use </span><img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /><span> </span><img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /><span> on and do not wish to use aura, potions or prayer</span></div>",
+  "presetNotes": "<div>- If using <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> Mobile you don't need <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" />Shadow's Grace<br /><br /></div><div><span>- Can replace Bow of the Last Guardian with Masterwork Bow<br /><br /></span></div><div><span>- Can use no aura, no potions and no prayer with Bow of the Last Guardian and still one hit with </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1257438999794946099.png?v=1\" /><span> but </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535534127131394088.png?v=1\" /><span> will not<br /><br /></span></div><div><span>- Masterwork Bow is 24 damage short so there's a very minimal chance it wont one hit with </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1257438999794946099.png?v=1\" /><span> so you can still opt for that if you cannot afford a Bow of the Last Guardian to use </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /><span> on and do not wish to use aura, potions or prayer<br /><br /></span>Master Farmer Hat :masterfarmerhat: can be replaced with Wicked hood :wickedhood: which can teleport you to rune altars when charged with wicked hood tokens, making it ideal for quick nature altar access.<br /></div>",
   "equipmentSlots": [
     {
-      "label": "wickedhood",
-      "image": "https://img.pvme.io/images/Uxr7Xcm.png",
-      "name": "Wicked hood",
-      "breakdownNotes": "Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | <div>Used for Nature Altar </div>",
-      "wikiLink": "https://runescape.wiki/w/Wicked_hood"
+      "id": "masterfarmerhat"
     },
     {
-      "label": "globetrotterbackpack",
-      "image": "https://img.pvme.io/images/9u3f0ws.png",
-      "name": "Globetrotter backpack",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+      "id": "globetrotterbackpack"
     },
     {
-      "label": "gote",
-      "image": "https://img.pvme.io/images/4KgPcpm.png",
-      "name": "Grace of the elves",
-      "breakdownNotes": "<span>Overgrown Idols | Lava Flow Mine</span>",
-      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+      "id": "gote"
     },
     {
-      "label": "bolg",
-      "image": "https://img.pvme.io/images/GkhQHSj.png",
-      "name": "Bow of the Last Guardian",
-      "breakdownNotes": "<img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> Precise 6 <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> Mobile | <img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> Eruptive 4 <span>- can replace with Masterwork Bow</span>",
-      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+      "id": "bolg"
     },
     {
-      "label": "globetrotterjacket",
-      "image": "https://img.pvme.io/images/paFUjfv.png",
-      "name": "Globetrotter jacket",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket"
-    },
-    null,
-    {
-      "label": "globetrottershorts",
-      "image": "https://img.pvme.io/images/DvyUvd2.png",
-      "name": "Globetrotter shorts",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts"
+      "id": "globetrotterjacket"
     },
     {
-      "label": "globetrotterarmguards",
-      "image": "https://img.pvme.io/images/TCZljWu.png",
-      "name": "Globetrotter arm guards",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards"
+      "id": ""
     },
     {
-      "label": "globetrotterboots",
-      "image": "https://img.pvme.io/images/44J9f9V.png",
-      "name": "Globetrotter boots",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots"
+      "id": "globetrotterlegs"
     },
     {
-      "label": "hsr",
-      "image": "https://img.pvme.io/images/xmcbfhs.png",
-      "name": "Hazelmere's signet ring",
-      "breakdownNotes": "<span>Luck of the Dwarves/HSR + Dark Facet used Dwarven Outpost and Baxtorian Falls. If not owned replace with Dragon Trinkets</span>",
-      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+      "id": "globetrottergloves"
     },
     {
-      "label": "quiver4",
-      "image": "https://img.pvme.io/images/yxmdGCZ.png",
-      "name": "Tirannwn quiver 4",
-      "breakdownNotes": "<span>Ful Arrows <img title=\"fularrow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/971025696958853180.png?v=1\" /> | Tirannwn quiver 3+ | Used for Tyras Camp | Elf Camp</span>",
-      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+      "id": "globetrotterboots"
     },
     {
-      "label": "equilibriumaura",
-      "image": "https://img.pvme.io/images/a3Up2sd.png",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "Equilibrium aura is the new BiS",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+      "id": "hsr"
     },
     {
-      "label": "scriptureofbik",
-      "image": "https://img.pvme.io/images/t1KMJMv.png",
-      "name": "Scripture of Bik",
-      "breakdownNotes": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span><br />",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+      "id": "quiver"
+    },
+    {
+      "id": "equilibriumaura"
+    },
+    {
+      "id": "scriptureofbik"
     }
   ],
   "inventorySlots": [
     {
-      "label": "activeclue",
-      "image": "https://img.pvme.io/images/beq0RtH.png",
-      "name": "Active clue",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Clue_scroll"
+      "id": "activeclue"
     },
     {
-      "label": "spade",
-      "image": "https://img.pvme.io/images/3Hzb1UG.png",
-      "name": "Spade",
-      "breakdownNotes": "<span>Can be keybound for faster digging or closing the </span><img title=\"cluescroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1037463867716018206.png?v=1\" /><span> </span><span>interface by clicking the spade in the inventory</span>",
-      "wikiLink": "https://runescape.wiki/w/Spade"
+      "id": "spade"
     },
     {
-      "label": "portablefairyring(used)",
-      "image": "https://img.pvme.io/images/iwTl6xy.png",
-      "name": "Portable fairy ring",
-      "breakdownNotes": "ALQ | DKS | DJP | CKS | CKR | CJS | BKR | AKQ",
-      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active"
+      "id": "portablefairyring"
     },
     {
-      "label": "spirittreere-rooter(used)",
-      "image": "https://img.pvme.io/images/sv8RnA7.png",
-      "name": "Spirit tree re-rooter",
-      "breakdownNotes": "Tree Gnome Village (1) | Tree Gnome Stronghold (2) | Etceteria (7, If not using Enchanted Lyre) <span>| </span>Brimhaven (8)",
-      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active"
+      "id": "spirittreere-rooter(used)"
     },
     {
-      "label": "davesspellbook",
-      "image": "https://img.pvme.io/images/ahDBOU5.png",
-      "name": "Dave's spellbook",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook"
+      "id": "davesspellbook"
     },
     {
-      "label": "puzzlebox",
-      "image": "https://img.pvme.io/images/jiK1ZtB.png",
-      "name": "Puzzle box",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Puzzle_box"
+      "id": "puzzlebox"
     },
     {
-      "label": "spiritattractionflask",
-      "image": "https://img.pvme.io/images/9oDoU6T.png",
-      "name": "Spirit attraction flask (6)",
-      "breakdownNotes": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>",
-      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+      "id": "spiritattractionflask"
     },
     {
-      "label": "eofgreen",
-      "image": "https://img.pvme.io/images/LhMlWmw.png",
-      "name": "EoF - Zamorak bow",
-      "breakdownNotes": "<img title=\"zammybow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /> Zamorak Bow stored",
-      "wikiLink": "https://runescape.wiki/w/Zamorak_bow"
+      "id": "eofgreen"
     },
     {
-      "label": "puzzleboxskippingticket",
-      "image": "https://img.pvme.io/images/gsFc7Fw.png",
-      "name": "Puzzle box skipping ticket",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Puzzle_box_skipping_ticket"
+      "id": "puzzleskipticket"
     },
     {
-      "label": "fairyring",
-      "image": "https://img.pvme.io/images/XCZuCaN.png",
-      "name": "Portable fairy ring (inactive)",
-      "breakdownNotes": "<span>See fairy rings setup</span>",
-      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive"
+      "id": "fairyring"
     },
     {
-      "label": "grandseedpod",
-      "image": "https://img.pvme.io/images/TbTkcjH.png",
-      "name": "Grand seed pod",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod"
+      "id": "grandseedpod"
     },
     {
-      "label": "portableobelisk",
-      "image": "https://img.pvme.io/images/gKUbd5X.png",
-      "name": "Portable Obelisk",
-      "breakdownNotes": "Wilderness Steps or <img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> to Ancient Spellbook",
-      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk"
+      "id": "portableobelisk"
     },
     {
-      "label": "archaeologyteleport",
-      "image": "https://img.pvme.io/images/WYm7p9h.png",
-      "name": "Archaeology teleport",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport"
+      "id": "archaeologyteleport"
     },
     {
-      "label": "leelasfavour",
-      "image": "https://img.pvme.io/images/AMEBwepV3P.png",
-      "name": "Leela's favour",
-      "breakdownNotes": "<span>Has unlimited teleports, u</span><span>sed for Hamid located in the Worker District</span>",
-      "wikiLink": "https://runescape.wiki/w/Leela's_favour"
+      "id": "leelasfavour"
     },
     {
-      "label": "sceptreofthegods",
-      "image": "https://img.pvme.io/images/E2dLUWN.png",
-      "name": "Sceptre of the gods",
-      "breakdownNotes": "Obtained from Pyramid Plunder which has 60 charges for convenience | <span>Used for Jalsavrah (1)</span>",
-      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods"
+      "id": "sceptreofthegods"
     },
     {
-      "label": "passageoftheabyss(red)",
-      "image": "https://img.pvme.io/images/Qp0s9G2.png",
-      "name": "Passage of the Abyss (red)",
-      "breakdownNotes": "<span>See passage of the abyss setup</span>",
-      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)"
+      "id": "passageoftheabyss(red)"
     },
     {
-      "label": "passageoftheabyss(green)",
-      "image": "https://img.pvme.io/images/PDg2YBC.png",
-      "name": "Passage of the Abyss (green)",
-      "breakdownNotes": "<span>See passage of the abyss setup</span>",
-      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)"
+      "id": "passageoftheabyss(green)"
     },
     {
-      "label": "attunedcrystalteleportseed",
-      "image": "https://img.pvme.io/images/qNQ9dCI.png",
-      "name": "Attuned crystal teleport seed",
-      "breakdownNotes": "Used for Lletya | Iorwerth",
-      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed"
+      "id": "teleportseed"
     },
     {
-      "label": "karamjagloves4",
-      "image": "https://img.pvme.io/images/8nZYJBs.png",
-      "name": "Karamja gloves 4",
-      "breakdownNotes": "Karamja gloves 3+",
-      "wikiLink": "https://runescape.wiki/w/Karamja_gloves_4"
+      "id": "karamjagloves4"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "If you only use 1 powerburst out of 2, you can bring grand seed pods instead. Personal Choice",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+      "id": "accel4"
     },
     {
-      "label": "graspingpouchgreen",
-      "image": "https://img.pvme.io/images/9F4FESqkFm.png",
-      "name": "Grasping rune pouch (green)",
-      "breakdownNotes": "<span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />  for <img title=\"sbsstandards\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> </span><span>| </span><span><img title=\"sbslunars\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489467682816.png?v=1\" /> | <img title=\"spiritualhealing\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span>",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+      "id": "graspingpouchgreen"
     },
     {
-      "label": "wildernesssword",
-      "image": "https://img.pvme.io/images/cIHG8g8.png",
-      "name": "Wilderness sword 4",
-      "breakdownNotes": "<span>Used as a Barge Switch</span>",
-      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4"
+      "id": "wildernesssword"
     },
     {
-      "label": "amuletofnature",
-      "image": "https://img.pvme.io/images/CjIUkSz.png",
-      "name": "Amulet of nature",
-      "breakdownNotes": "<span>Bound to the Vine Bush patch in Herblore Habitat (patch condition irrelevant—can be empty, diseased, or fully grown).</span><br />",
-      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature"
+      "id": "amuletofnature"
     },
     {
-      "label": "capeoflegends",
-      "image": "https://img.pvme.io/images/8Y1U7r0.png",
-      "name": "Cape of legends",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Cape_of_legends"
+      "id": "capeoflegends"
     },
     {
-      "label": "desertamulet4",
-      "image": "https://img.pvme.io/images/JInu2Jy.png",
-      "name": "Desert amulet 4",
-      "breakdownNotes": "Used for Nardah and Uzer",
-      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4"
+      "id": "desertamulet4"
     },
     {
-      "label": "enchantedlyre",
-      "image": "https://img.pvme.io/images/X0KALWt.png",
-      "name": "Enchanted lyre",
-      "breakdownNotes": "Used for Ecteteria | Relekka Market",
-      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre"
+      "id": "enchantedlyre"
     },
     {
-      "label": "noteditems",
-      "image": "https://img.pvme.io/images/TKRGiJ5.png",
-      "name": "Noted items",
-      "breakdownNotes": "<span>Anything to disassemble for Bik Procs using <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" />(Cheap and Stackable)</span>",
-      "wikiLink": "https://runescape.wiki/w/Noted_items"
+      "id": "noteditems"
     },
     {
-      "label": "cluebag",
-      "image": "https://img.pvme.io/images/KPREDHT.png",
-      "name": "Charos' clue carrier",
-      "breakdownNotes": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>",
-      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier"
+      "id": "cluebag"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Can be keybound for faster digging or closing the </span><img title=\"cluescroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1037463867716018206.png?v=1\" /><span> </span><span>interface by clicking the spade in the inventory</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "ALQ | DKS | DJP | CKS | CKR | CJS | BKR | AKQ"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Tree Gnome Village (1) | Tree Gnome Stronghold (2) | Etceteria (7, If not using Enchanted Lyre) <span>| </span>Brimhaven (8)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<img title=\"zammybow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1215929540908679208.png?v=1\" /> Zamorak Bow stored"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>See fairy rings setup</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Wilderness Steps or <img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> to Ancient Spellbook"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Has unlimited teleports, u</span><span>sed for Hamid located in the Worker District</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Obtained from Pyramid Plunder which has 60 charges for convenience | <span>Used for Jalsavrah (1)</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>See passage of the abyss setup</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>See passage of the abyss setup</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Used for Lletya | Iorwerth"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Karamja gloves 3+"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "If you only use 1 powerburst out of 2, you can bring grand seed pods instead. Personal Choice"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />  for <img title=\"sbsstandards\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> </span><span>| </span><span><img title=\"sbslunars\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489467682816.png?v=1\" /> | <img title=\"spiritualhealing\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Used as a Barge Switch</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Bound to the Vine Bush patch in Herblore Habitat (patch condition irrelevant—can be empty, diseased, or fully grown).</span><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Used for Nardah and Uzer"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Used for Ecteteria | Relekka Market"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Anything to disassemble for Bik Procs using <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" />(Cheap and Stackable)</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "Gives remote access to; \n- Herblore Habitat, if juju teleport spiritbag or witchdoctor mask are owned\n- Grand seed pod teleports, if owned in bank"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<span>Overgrown Idols | Lava Flow Mine</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> Precise 6 <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> Mobile | <img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> Eruptive 4 <span>- can replace with Masterwork Bow</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<span>Luck of the Dwarves/HSR + Dark Facet used Dwarven Outpost and Baxtorian Falls. If not owned replace with Dragon Trinkets</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Ful Arrows <img title=\"fularrow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/971025696958853180.png?v=1\" /> | Tirannwn quiver 3+ | Used for Tyras Camp | Elf Camp</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Equilibrium aura is the new BiS"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span><br />"
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "label": "abyssallink",
-        "image": "https://img.pvme.io/images/8IMPgCF.png",
-        "name": "Abyssal Link",
-        "breakdownNotes": "",
-        "energy": 250,
-        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP."
+        "id": "abyssallink"
       },
       {
-        "label": "persistentrage",
-        "image": "https://img.pvme.io/images/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+        "id": "persistentrage"
       },
       {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
+        "id": ""
       }
     ],
     "alternativeRelics": [
       {
-        "label": "shadowsgrace",
-        "image": "https://img.pvme.io/images/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "energy": 50,
-        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+        "id": "shadowsgrace"
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/cOwxYnD.png",
-        "name": "Meerkats",
-        "breakdownNotes": "",
-        "label": "meerkats"
+        "id": "meerkats"
       }
     ],
     "alternativeFamiliars": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   }
