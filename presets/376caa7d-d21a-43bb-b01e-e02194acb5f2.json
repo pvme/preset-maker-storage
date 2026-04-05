@@ -1,6 +1,6 @@
 {
   "presetName": "AFK Gathering: Glacytes",
-  "presetNotes": "3000 KPH -&gt; 51,18 total :hardclue: hards per hour:\n(~46,88 :hardclue:/hr + ~4,3 :hardclue:/hr from :scriptureofbik:)<span>\n\nPrayers: Soulsplit </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><span>,</span><span> Leech Magic Strength </span>:leechmagicstrength: and Protect Item :protectitem:\nActive Spell: Exsanguinate <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />\n\nAspect of Evasion: No Darkness :darkness: or Animate Dead ;animatedead; required",
+  "presetNotes": "3000 KPH -&gt; 51,18 total :hardclue: hards per hour:\n(~46,88 :hardclue:/hr + ~4,3 :hardclue:/hr from :scriptureofbik:)<span>\n\nPrayers: Soulsplit </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><span>,</span><span> Leech Magic Strength </span>:leechmagicstrength: and Protect Item :protectitem:\nActive Spell: Exsanguinate <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />\n\nAspect of Evasion: No Darkness :darkness: or Animate Dead ;animatedead; required\n(Masterwork Magic &gt; Tumeken's &gt; Anima Core of Seren)",
   "equipmentSlots": [
     {
       "id": "tumekenmask"
@@ -132,12 +132,132 @@
     {
       "slotType": "equipment",
       "slotIndex": 0,
-      "description": ""
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Anima Core of Seren)"
     },
     {
       "slotType": "equipment",
       "slotIndex": 12,
-      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+      "description": "Adds 0.17 :masterclue:, 4.7 :eliteclue:, 4.3 :hardclue:, 5.2 :mediumclue: scrolls per hour"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Gizmo 1: Precise 6 :precise6: | Aftershock 1 :aftershock1:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Gizmo 1: Scavenging 4 :scavenging4: | Equilibrium 4 :equilibrium4:\n\n(Masterwork Magic &gt; Tumeken's &gt; Virtus)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Gizmo 1: Eruptive 4 :eruptive4: | Ruthless 3 :ruthless3:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Gizmo 1: Relentless 5 :relentless5: | Crackling 4 :crackling4:\nGizmo 2: Impatient 4 :impatient4: | Invigorating 1 :invigorating1:\n\n(Masterwork Magic &gt; Tumeken's &gt; Virtus)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Luck removes bad :scriptureofbik: rolls.\nNo luck = t1 &lt; t2 &lt; t3 &lt; t4\n\nCan substitute with :lotd:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Filled with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Blast Diffusion Boots)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Put an additional :eldersalve: in the reservoir"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Picks up uncut gems drops when area looting"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Automatically collects Catalyst of Alterations from :scriptureofbik:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Automatically collects Catalyst of Alterations from :scriptureofbik:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Optional: automatically banks 8% of the drops"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional: Can use meteorite cannonballs, they deal more damage, though they come with higher upkeep costs"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Can substitute with :igneouskal-Mej:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "(Masterwork Magic &gt; Tumeken's &gt; Kerapac's Wristwraps)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Used to restore summoning points to resummon holy scarab :holyscarab: for longer trips"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Either penance powder or penance aura"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Switch to elder overload :elderoverload: if running holy scarab :holyscarab:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Switch to elder overload :elderoverload: if running holy scarab :holyscarab:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Switch to elder overload :elderoverload: if running holy scarab :holyscarab:"
     }
   ],
   "relics": {
