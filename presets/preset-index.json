@@ -1944,15 +1944,15 @@
     "presetName": "AFK Gathering: Wilderness Abyssal Lords &amp; Beasts"
   },
   {
-    "presetId": "2d0e265b-cb10-471c-95af-0a7a43345540",
-    "presetName": "AFK Gathering: Wilderness Abyssal Lords and Beasts"
-  },
-  {
     "presetId": "bee97cc9-8657-4964-9d32-4ed3847d6745",
     "presetName": "BOTW Rots"
   },
   {
     "presetId": "65acda2e-4ea9-4159-b31a-5d70507a0896",
     "presetName": "AFK Gregorovic Magic"
+  },
+  {
+    "presetId": "2d0e265b-cb10-471c-95af-0a7a43345540",
+    "presetName": "AFK Gathering: Wilderness Abyssal Lords and Beasts"
   }
 ]
