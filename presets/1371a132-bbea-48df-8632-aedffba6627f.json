@@ -1,0 +1,200 @@
+{
+  "presetName": "rots_se_min",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "kilnnecro"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "underworldgrimoire4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "overload6"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sara"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "EOF can be used as well"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Or any other mobile legs"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Could use Reaver's Ring if 100% accuracy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Grimoire 3 or Scripture of Jas works too"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
