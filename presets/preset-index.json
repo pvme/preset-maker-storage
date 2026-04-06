@@ -1978,5 +1978,9 @@
   {
     "presetId": "28d7fc41-4fe9-467a-aabe-22c2adcd780a",
     "presetName": "Hard Clues - Melee"
+  },
+  {
+    "presetId": "5413704d-4aa4-4431-be84-5249606d8fe4",
+    "presetName": "AFK Melee KBD"
   }
 ]
