@@ -1986,5 +1986,9 @@
   {
     "presetId": "6893c002-d70d-4b03-be39-48a63b22775b",
     "presetName": "AFK Melee KBD"
+  },
+  {
+    "presetId": "60c08500-c3d8-42ea-92c9-8f64bf23eb72",
+    "presetName": "AFK Gregorovic Ranged"
   }
 ]
