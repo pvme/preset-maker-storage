@@ -1,0 +1,210 @@
+{
+  "presetName": "Ranged HM Sanctum",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "eofyellowu"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Wen arrows | Deathspore arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Ful arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Ful arrows | Deathspore arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Gloomfire bow"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
