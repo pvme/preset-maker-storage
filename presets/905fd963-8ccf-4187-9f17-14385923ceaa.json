@@ -1,0 +1,265 @@
+{
+  "presetName": "AFK Gregorovic Ranged",
+  "presetNotes": "Overloads do not increase kph here. Only use if struggling to upkeep LP.",
+  "equipmentSlots": [
+    {
+      "id": "sirenicmask"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "masterworkbow"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sireniclegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "fleetingboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "iritsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Increased AFKness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Not needed with :venomblood: perk on armour.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Emergency food if your hp gets too low"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Can downgrade to Dark Ice Sliver"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "deathward"
+      },
+      {
+        "id": "persistentrage"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "fontoflife"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
