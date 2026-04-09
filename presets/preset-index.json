@@ -2046,5 +2046,9 @@
   {
     "presetId": "ba3f1f5b-5592-4294-9484-9983409fac43",
     "presetName": "telos melee"
+  },
+  {
+    "presetId": "95cbebd6-8f89-443e-9607-9a80995a43c7",
+    "presetName": "range telos"
   }
 ]
