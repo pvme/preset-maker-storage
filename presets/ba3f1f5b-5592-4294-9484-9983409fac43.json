@@ -1,0 +1,355 @@
+{
+  "presetName": "telos melee",
+  "presetNotes": "Remember to prepot overload, weapon poison+++, kwuarm and lantadyme sticks, and if doing more advanced tech also build a few leng stacks. On are dummy in the boss arena we will use a dragon battle-axe. The first hit we use on telos will be our dragon scimitar spec",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "divinespiritshield"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Vanarus mercy spec, beat burst damage spec for when ezk is on cooldown"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Granite mual spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Dragon scimitar spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can either be used during dps checks, or simply spammed whenever needed"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Used as main DPS for p5, spec is useful for clearing golems and minions"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Offhand dps"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Main weapon for clearing minions and golems, has a on kill effect therefore try to kill all golems and minions with it, spec is also good aoe"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Use whenever tanking, try to get lucky + turtling perks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Can be used shortly before dps checks to maximize dps during said checks, can also be used to help clear minions and golems since the black hole damage is aoe"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Used for clearing minions and golems for the extra adren, can also be used as a last minute switch if you are about to die"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Can be used to \"tickeat\" otherwise fatal attacks, can also be used to allow a stronger veng without dying, recommended to be used at p1 and p5 to help survive"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Main dps weapon, since flamebound rival clears on p5, it is recommended to camp shard of leng on that phase"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Used right before starting the fight for gaining adren and using abilities such as dragon battleaxe"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Since we use kal gerion demon, we use the familiar spec once per phase, meaning we only need 1 spiritual prayer pot"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Lossless stun usable at range, remember it rakes 3 ticks to land"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Consintly keep debuff up for maximum dps"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "A kal ket is equal since we are full camping melee"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Can also use a ful book, it's a bit more risky, and is roughly the same dps, so grimoire is better, but ful is not much worse"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Use primal abyssal spikes"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "You can bring a gloves of passage switch for when using rend, but overall cinderbane is best dps for all styles since telos is poisonable"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient + devoted and ultimatums + invigorating"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Use shortly before begining the fight, depending on adren and kill time, you may want to reuse it mid fight"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Better DPS for melee then EoF, counts as a obby necklace for ezk, if you want the better reflect prayers and soul split from EoF I would still recommend bringing this as a swap for when using ezk"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can use a champions ring if leaning harder into a bleed build"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "I've seen people bring a laceration boots swap or even full camp them, but I would not personally recommend it"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "Even if you are going full bleed with jaws, I would still recommend a swap for havoc hood, as the extra 20 adren at the start of the fight is very helpful"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting + mobile and crackling + relentless"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
