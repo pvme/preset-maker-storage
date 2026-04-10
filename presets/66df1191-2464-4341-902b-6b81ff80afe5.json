@@ -1,0 +1,365 @@
+{
+  "presetName": "arch glacor melee/range",
+  "presetNotes": "One must imagine obsidian being range masterwork. Use melee for general DPS, range when needing more surviability. Since arch glacor is poisonable and is a rather long fight we will have ample time to build up bik arrow stacks, this combined with cinderbane and things like armour spikes and recoil allows for a lot of damage coming from poison, poison which is also boosted by equilibrium. Remember to prepot overload, kwuarm and lantadyme inceanse sticks, and powder of penance and protection. If doing more advanced tech also build a few leng stacks on a dummy in pvm hub. also on said dummy prepot a dragon battle axe spec then get back to full adren. Remember to store a master magic cape on the skillcape rack for double the time of vulnerability,  and more importantly enfeeble with IotH will have 100% uptime",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "obsidianrangerhelm"
+    },
+    {
+      "id": "obbytop"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "obbylegs"
+    },
+    {
+      "id": "obbyboots"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Deathspore + splintering arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Bit + blackstone arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Ful + wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Eldrich crossbow spec"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Use primal abyssal spikes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Decimation spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Gloomfire bow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Try to keep up on all enemies at all times"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Recommended to save for a DPS check, rather then spamming"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Seren godbow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "We want to use this whenever possible, it has good dps with flame bound rival, and with flameboundrival you take less dmg"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Use at the start of the fight to clear a spot for 2h weapons"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Since arch glacor is a longer fight, you will have to bring a overload if you want constant keep up"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Our main and only range dps"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Main AoE weapon"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Rarely used, however spec is very good for both DPS and AoE, however without leng stacks it is rather weak"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Only used with shard of leng, since it is our only 1h weapon brought for damage. Put flanking on it for arms, since you can flank the arms for some reason"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Since we are using 2 styles, the full cape is very importent"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Try to constantly keep up"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "While it is better dps for all melee weapons, it is most impactful with ezk, so if low hp or simply in a more risky place use EoF"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Since AG is poisonable conderbane are very strong especially since we are using multiple styles"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Since we are using a poison build, recoil is very usful"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Since we are using equilibrium, this is the best book"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "One must imagine this being range masterwork"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "One must imagine this being range masterwork (equilibrium 4 crystal shield 1 + crackling 4 relentless 5)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "One must imagine this being range masterwork (impatient 4 devoted 4 + ultimatums 4 mobile)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "One must imagine this being range masterwork"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 crystal shield 1 + crackling 4 relentless 5"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 devoted 4 + ultimatums 4 mobile"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Switch to right before killing minions, can also save you from otherwise fatal attacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can be used to help tank dangorus attacks"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
