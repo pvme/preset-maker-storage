@@ -1,6 +1,6 @@
 {
   "presetName": "Melee Raksha - Method 2",
-  "presetNotes": "This preset is designed for those that do NOT use Equilibrium perk on Melee.",
+  "presetNotes": "This preset is designed for those that do NOT use Equilibrium perk on Melee.<div><br /></div><div>Do not use :Darkness:</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -12,13 +12,13 @@
       "id": "amhej"
     },
     {
-      "id": "ezk"
+      "id": "lengmh"
     },
     {
       "id": "vestmentsofhavoctop"
     },
     {
-      "id": ""
+      "id": "lengoh"
     },
     {
       "id": "vestmentsofhavocbottom"
@@ -39,7 +39,7 @@
       "id": ""
     },
     {
-      "id": "scriptureofful"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
@@ -53,16 +53,16 @@
       "id": "vulnbomb"
     },
     {
-      "id": "lengmh"
+      "id": "vitality4"
     },
     {
-      "id": "lengoh"
+      "id": "ezk"
     },
     {
-      "id": "mwspear"
+      "id": ""
     },
     {
-      "id": "zemouregalsnexus"
+      "id": ""
     },
     {
       "id": "eof"
@@ -154,7 +154,7 @@
         "id": "berserkersfury"
       },
       {
-        "id": "fontoflife"
+        "id": ""
       }
     ],
     "alternativeRelics": [
@@ -172,7 +172,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "ripperdemon"
+        "id": "ripperpouch"
       }
     ],
     "alternativeFamiliars": [
