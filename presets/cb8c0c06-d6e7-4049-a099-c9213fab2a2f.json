@@ -1,6 +1,6 @@
 {
-  "presetName": "Melee Raksha",
-  "presetNotes": "This preset aims for Grandmaster Speed (sub 1:15) and should get between 1:09 and 1:12.6.\n\nThis preset is designed for those that do NOT use Equilibrium perk on Melee.",
+  "presetName": "Melee Raksha - Method 1",
+  "presetNotes": "This preset is designed for those that do NOT use Equilibrium perk on Melee.",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
