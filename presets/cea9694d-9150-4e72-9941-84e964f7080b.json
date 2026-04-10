@@ -1,0 +1,220 @@
+{
+  "presetName": "HM vorkath low effort test",
+  "presetNotes": "Enter instance -&gt; Surge -&gt; click vorkath -&gt; Vuln\n\nUpkeep Hellhound HP with Prism of Restoration as needed throughout. Try to cast it losslessly by casting it right as an ability is used. \n\nPress ballista when it is available. Ensure you save a cast for flight. If you do not have one, use magic protection and powerburst, then use the extra hellhound pouch if your familiar died.",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Ultimatums 4/Genocidal |Equilibrium 4/Undead Slayer"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "soul/blood/astral/body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "earth/death/cosmic/law"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "chaos/water/air/fire"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Lunging 4/Eruptive 2 | Precise 6/Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Absorbative 4 | Lucky 6"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced if you have them"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Can try scripture of amascut but not sure right now"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
