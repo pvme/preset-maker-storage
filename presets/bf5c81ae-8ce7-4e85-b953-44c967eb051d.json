@@ -1,0 +1,230 @@
+{
+  "presetName": "arch glacor melee/range",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracobody"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "ecb"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Gloomfire bow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Varanus mercy spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Seren godbow spec"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Bik arrows + wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Ful + deathspore arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Blackstone arrows + hydrix bolts"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
