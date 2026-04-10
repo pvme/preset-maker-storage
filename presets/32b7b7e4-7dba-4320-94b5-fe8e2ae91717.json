@@ -1,0 +1,280 @@
+{
+  "presetName": "range telos",
+  "presetNotes": "Good luck deciding what arrows to use lol",
+  "equipmentSlots": [
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bbc"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "bbcoh"
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "mechchins"
+    },
+    {
+      "id": "elysianspiritshield"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "edracogloves"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Seren godbow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Wen arrows + deathspore areows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Used for clearing minions and golems for the extra adren, can also be used as a last minute switch if you are about to die"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Eldrich crossbow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Zamorak bow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Zamorak arrows + bik arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blackstone arrows + hydrix bolts"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Gloomfire bow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Used right before starting the fight for gaining adren and using abilities"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Main dps bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Best golem clearer"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Use whenever tanking, try to get lucky + turtling perks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for the casting of SBS, smoke cloud, disrupt, veng, PoR, and vulnerability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Since we use kal gerion demon, we use the familiar spec once per phase, meaning we only need 1 spiritual prayer pot"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Lossless stun usable at range, remember it rakes 3 ticks to land"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Consintly keep debuff up for maximum dps"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Can either be used during dps checks, or simply spammed whenever needed"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Can be used to \"tickeat\" otherwise fatal attacks, can also be used to allow a stronger veng without dying, recommended to be used at p1 and p5 to help survive"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
