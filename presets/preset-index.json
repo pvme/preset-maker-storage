@@ -1188,10 +1188,6 @@
     "presetName": "Melee-Ranged Hybrid Kerapac"
   },
   {
-    "presetId": "cb8c0c06-d6e7-4049-a099-c9213fab2a2f",
-    "presetName": "Melee Raksha"
-  },
-  {
     "presetId": "871f4271-ecad-4e0e-ab6a-6dc6e076358c",
     "presetName": "Melee Raksha"
   },
@@ -2118,5 +2114,9 @@
   {
     "presetId": "94dedd0a-f5dd-4db5-8d27-1f82a302035d",
     "presetName": "arch glacor melee/range"
+  },
+  {
+    "presetId": "cb8c0c06-d6e7-4049-a099-c9213fab2a2f",
+    "presetName": "Melee Raksha - Method 1"
   }
 ]
