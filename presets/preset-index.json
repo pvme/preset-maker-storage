@@ -2130,5 +2130,9 @@
   {
     "presetId": "041d38d5-1566-4f4e-9fa1-35db24ba99ac",
     "presetName": "Eq melee kera"
+  },
+  {
+    "presetId": "4f74b9e3-79bc-4e0d-9ad5-42efd977d5e7",
+    "presetName": "arch glacor melee/range"
   }
 ]
