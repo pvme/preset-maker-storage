@@ -2166,5 +2166,9 @@
   {
     "presetId": "5b9de7b7-a51f-44c2-852a-8300c2de81f5",
     "presetName": "arch glacor range/melee"
+  },
+  {
+    "presetId": "e45155a5-aab0-4c61-a2f5-3e96e8ae2abf",
+    "presetName": "RotS - Melee"
   }
 ]
