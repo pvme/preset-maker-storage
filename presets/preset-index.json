@@ -2150,5 +2150,9 @@
   {
     "presetId": "8b436e98-3f03-42e3-b276-ac9a71f19fd4",
     "presetName": "arch glacor mele//range"
+  },
+  {
+    "presetId": "6803b9ef-1aaf-451e-aa26-50001cdf7d7d",
+    "presetName": "arch glacor melee/range"
   }
 ]
