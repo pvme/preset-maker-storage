@@ -2142,5 +2142,9 @@
   {
     "presetId": "88a3ec57-4783-41d1-8ef7-f7a174b1838f",
     "presetName": "AFK Low Level Ranged Luminous Snagglers"
+  },
+  {
+    "presetId": "543ea86e-aeed-4f6a-be7d-d3f34b2c5529",
+    "presetName": "arch glacor melee/range"
   }
 ]
