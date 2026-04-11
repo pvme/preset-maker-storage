@@ -1,0 +1,365 @@
+{
+  "presetName": "Arch Glacor melee/range",
+  "presetNotes": "<div>One must imagine obsidian being range masterwork. </div><div><br /></div><div>Since arch glacor is a fairly random fight, with each fight giving completely rotations, therefore I will not be giving a ability by ability guide. I will instead be giving genral advice and what you want each attack to look like.</div><div><br /></div><div>Switch to EoF and spirit shield right before being hit by attacks for a stronger deflect prayer. Use melee for general DPS, range when needing more surviability. Since arch glacor is poisonable and is a rather long fight we will have ample time to build up bik arrow stacks, this combined with cinderbane and things like armour spikes and recoil allows for a lot of damage coming from poison, poison which is also boosted by equilibrium. </div><div><br /></div><div>Remember to prepot overload, kwuarm and lantadyme inceanse sticks, and powder of penance and protection. If doing more advanced tech also build a few leng stacks on a dummy in pvm hub. also on said dummy prepot a dragon battle axe spec then get back to full adren. Remember to store a master magic cape on the skillcape rack for double the time of vulnerability,  and more importantly enfeeble with IotH will have 100% uptime. </div><div><br /></div><div>For cannon deactive prayer, use repriasal, vit burst, reflect, vengeance, freedom and for the final hit use resonance, with this method you will heal most of the damage you receive, while also recoiling up to 60k damage. If on lower hp or if abilities are on cooldown instead just try to use defensive abilities that won't be needed, so if you got a minion attack already then debiliate is fine to use, etc. </div><div><br /></div><div>For flury it is recommended use pulverize so we don't take to much damage. Try to get a veng on one of the attacks, if you feel you have enough time before cannons and it's off cooldown you can use a resonance or if hp is fine divert, after doing either be sure to use preparation to make sure it is ready for cannon. For melee minions use debiliate since we will be both taking more damage and have less damage resistance without flamebound rival. </div><div><br /></div><div>Surprisingly we rarely need devotion, with powder of protection EoF passive and spirit shield flicks we are taking fairly low damage from auto attacks, and we will usually be clearing arms before it is needed, however it is recommended to still save it, using it only when life or death, it is better to try to recoil damage and deal it back then it is to not take the damage.</div><div><br /></div><div>Berserk is a rather risky skill to use for AG, it cannot be used for cannon or minions or else you take way to much damage. For arms if you don't get a fast arms clear then you will take a lot of damage, and you will probably get a slow arms if you are trying to use berserk reactionary to arms, as you will have very little adren to start, so it is really only safe if arms is the last attack as you can pre use it. It is very safe to use during beams but you won't be able to take full effect of it with beams do to you being out of attack range during it. For flurry you can use it relatively safely thanks to things like EoF passive flicks and flamebound rival make you take a minumal amount of damage.</div><div><br /></div><div>Split soul (ECB spec) is a bit safer to use then berserk but still rather risky, since it removes healing from soul split rather then increasing all damage it can be used at a few more places safely. At cannon it is completely safe as long as you are doing a defensive rotation that leaves you with high enough hp for a few autos. At minions it is risky but can be used, even with the lack of healing, simply dealing so much extra damage allows you to kill the minions so fast that they barely do any damage. For arms it is fairly safe as you only want to use soul split at the start of arms, later on you prayer reflect mage, and at that start of arms you take so little damage that it does not really matter. It is incredibly good for beams, as you take no damage and unlike melee beams where you cannot attack for parts of it, range beams let you attack at almost any point. Flurry is about the same as berserk, won't let you veng unless you can also resonance, other then that it's fine to use.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampaura"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "obsidianrangerhelm"
+    },
+    {
+      "id": "obbytop"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "obbylegs"
+    },
+    {
+      "id": "obbyboots"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "divinespiritshield"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Runes for the casting of SBS, disrupt, veng, prism of restoration, shield dome and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Deathspore + wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Bik + ful arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Switch to right before killing minions, can also save you from otherwise fatal attacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Eldrich crossbow spec, has a section in notes on when it is safe to use"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Use primal abyssal spikes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Decimation spec, use for AoE"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Gloomfire bow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Try to keep up on all enemies at all times"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Recommended to save for a DPS check, rather then spamming"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Seren godbow spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "We want to use this whenever possible, it has good dps with flame bound rival, and with flameboundrival you take less dmg"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Use at the start of the fight to clear a spot for 2h weapons"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Since arch glacor is a longer fight, you will have to bring a overload if you want constant keep up"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Try to switch to this whenever greater ricochet is off cooldown to get arrow stacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Main AoE weapon"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Rarely used, however spec is very good for both DPS and AoE, however without leng stacks it is rather weak"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Only used with shard of leng, since it is our only 1h weapon brought for damage. Put flanking on it for arms, since you can flank the arms for some reason"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Since we are using 2 styles, the full cape is very importent"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Try to constantly keep up"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "While it is better dps for all melee weapons, it is most impactful with ezk, so if low hp or simply in a more risky place use EoF. Be sure to do EoF flicks on all attacks you are praying for"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Since AG is poisonable conderbane are very strong especially since we are using multiple styles"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Since we are using a poison focused build, recoil is very usful"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "Since we are using equilibrium, this is the best book"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "One must imagine this being range masterwork"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "One must imagine this being range masterwork (equilibrium 4 crystal shield 1 + crackling 4 relentless 5)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "One must imagine this being range masterwork (impatient 4 devoted 4 + ultimatums 4 mobile)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "One must imagine this being range masterwork"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 crystal shield 1 + crackling 4 relentless 5"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Could replace this and spirit shield with more food, in total food will give more effective hp, but a spirit shield allows for some increasing technical plays and will make you lose nearly no DPS if used properly"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 devoted 4 + ultimatums 4 mobile"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Can be used to help tank dangorus attacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Try to flick to before getting hit, since flamebound rival decreases damage dealt by 12% it is less important when using ezk when only getting hit my zuk (lucky 6 absobative 1)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
