@@ -1,0 +1,380 @@
+{
+  "presetName": "arch glacor melee/range poison build",
+  "presetNotes": "<div>One must imagine obsidian being range masterwork. </div><div><br /></div><div>Since arch glacor is a fairly random fight, with each fight giving completely attack rotations, I will not be giving a ability by ability guide. I will instead be giving general advice and what you want each attack to look like.</div><div><br /></div><div>Switch to EoF, and spirit shield, right before being hit by attacks for a 10% stronger deflect prayer, and 30% and less damage. Use melee for general DPS, range when out of range, for ammo effects like bik and more general survivability with masterwork. Since arch glacor is poisonable and is a rather long fight we will have ample time to build up bik arrow stacks, this combined with cinderbane and things like armour spikes, recoil, bleeds, and most interestingly splintering arrows allows for a lot of damage coming from poison, poison which is also boosted by equilibrium. </div><div><br /></div><div>Remember to prepot overload, kwuarm and lantadyme inceanse sticks, and powder of penance and protection. On a dummy in wars retreat use a dragon baxe spec then get back to full adren. Remember to store a master magic cape on the skillcape rack for double the time of vulnerability,  and more importantly enfeeble with IotH will have 100% uptime. </div><div><br /></div><div>For cannon deactive prayer, use vengeance, repriasal, vit burst, reflect, freedom and for the final hit use resonance, with this method you will heal most of the damage you receive, while also recoiling up to 60k damage. If wanting to be safer or if you get a back to back cannon instead use anticipate, debilitate or reflect or even shield dome if it is at 50% block, then use deflect mage for the first 2 hits, for the third use resonance, if resonance is on cooldown use preparation for the first 2 hits which should bring resonance of cooldown.</div><div><br /></div><div>For flury it is recommended use pulverize so we don't take to much damage, make sure enfeeble is active. Try to use either debilitate or reflect, shield dome may also be used, even if it is at 25%. With EoF and spirit shield flicks this is not strictly necessary. If hp is a major problem disruption shield can help tank some damage. If you feel you have enough time before cannons and it's off cooldown you can use a resonance or if hp is fine divert, after doing either be sure to use preparation to make sure it is ready for cannon.</div><div><br /></div><div>For minions use debiliate on bolstered glacyte, or shield dome which will block all damage not just the bolstered but will scale its defense down, minions can be done with 25% dome but 50% is much safer. You want to do this since we will be both taking more damage and be unable to easily spirit shield and EoF flick. Can elect to camp EoF for melee since we will be using tumekens light, therefore making am-hej less important. If it is off cooldown and think it will be off cooldown before cannon or you feel safer debilitating cannon, you can elect to use a reflect. </div><div><br /></div><div>For range minions use decimation spec, Deadshot, SGB if off cooldown, then spam gloomfire spec. You should have effectively infinite adren with imbue shadow, if you do however run out of adren, use gricho with crossbow + hydrix bakriminel bolts for amazing adren regain.</div><div><br /></div><div>For melee minions you should already have built some bloodlust stacks knowing it could be minions, equip tumekens light use its spec then use adaptive to get adren back and a bloodlust stack then hurricane, as long as it hits all minions plus ag and you had 4 bloodlust it should completely reset the cooldown therefore allowing us to use a second cane. After this use rend, adaptive then chaos roar to get back up to 4 stacks, in this time cane will come off cooldown allowing use to use another cane into cane immediately. </div><div><br /></div><div>For arms I don't have an exact rotation. It will look fairly similar to minions, you can also just improvise with strong damaging attacks, I would say as far and damaging attacks go, arms is on the highest priority, meaning no attack is to precious for arms. If ranging you won't have a chance to build up things like bik or splintering, and you should already have things like death swiftness active, therefore you should just camp ful arrows. For melee you should not use ezk as it kinda sucks without flamebound rival, and using flame bound rival on arms is a atrocious idea, it not only clears as soon as you kill but also clears it from ag and uses the full cooldown.</div><div><br /></div><div>Surprisingly we rarely need devotion, with powder of protection EoF passive and spirit shield flicks we are taking fairly low damage from auto attacks, and we will usually be clearing arms before it is needed, however it is recommended to still save it, using it only when life or death, it is better to try to recoil damage and deal it back then it is to not take the damage.</div><div><br /></div><div>Berserk is a rather risky skill to use for AG, it cannot be used for cannon or else you take way to much damage. For arms and minions if you don't get a proper fast clear then you will take a lot of damage, and you will probably get a slow clear if you are trying to use berserk reactionary, as you will have very little adren to start, so it is really only safe if you have already gotten cannon and can use it while still getting your adren back before the attack. It is very safe to use during beams but you won't be able to take full effect of it with beams do to you being out of attack range during it. For flurry you can use it relatively safely thanks to things like EoF passive flicks and flamebound rival make you take a minumal amount of damage.</div><div><br /></div><div>Split soul (ECB spec) is a bit safer to use then berserk but still rather risky, since it removes healing from soul split rather then increasing all damage it can be used at a few more places safely. At cannon it is completely safe as long as you are doing a defensive rotation that leaves you with high enough hp for a few autos. At minions it is risky but can be used, even with the lack of healing, simply dealing so much extra damage allows you to kill the minions so fast that they barely do any damage. For arms it is fairly safe as you only want to use soul split at the start of arms, later on you prayer reflect mage, and at that start of arms you take so little damage that it does not really matter. It is incredibly good for beams, as you take no damage and unlike melee beams where you cannot attack for parts of it, range beams let you attack at almost any point. Flurry is about the same as berserk, won't let you veng unless you can also resonance, other then that it's fine to use.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "bbcice"
+    },
+    {
+      "id": "obsidianrangerhelm"
+    },
+    {
+      "id": "obbytop"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "elysianspiritshield"
+    },
+    {
+      "id": "obbylegs"
+    },
+    {
+      "id": "obbyboots"
+    },
+    {
+      "id": "zgsshadow"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Gloomfire bow spec, main damage spec, use whenever other more powerful abilities are on cooldown"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Since arch glacor is a longer fight, you will have to bring a overload \nif you want constant keep up, if bringing a spirit shield this will also\n be your prayer restore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Bik + splittering arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for the casting of SBS, disrupt, vengeance, spiritual healing, \nprism of restoration salvation and loyalty, shield dome, and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Sinnce it is our only 1h weapon brought for damage we will use it \nwhenever using the scourge. Put flanking on it for arms, since you can flank the arms for some reason (flanking 4 eruptive 2)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Try to flick to before getting hit, since flamebound rival decreases \ndamage dealt by 12% it is less important when using ezk, could replace with more food, use the elder overload salve to restore prayer (lucky 6 absobative 1)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Try to switch to this whenever greater ricochet is off cooldown to get arrow stacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Since the spec deals ability damage, and am-hej boosts damage, it is better to bring this weapon and not put it in a EoF, allowing us to benifit from the am-hej use. Spec best used for minions and pre used for arms"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Use primal abyssal spikes, try to stay in melee range at all times so these can proc often."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Try to keep up on all enemies at all times"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Eldrich crossbow spec, has a section in notes on when it is safe to use"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Recommended to save for a DPS check, rather then spamming"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Switch to right before killing minions, can also save you from otherwise fatal attacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Ful + wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Deathspore arrows + hydrix bakriminel bolts"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Runes for casting bone shield and darkness"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Runes for the casting of SBS, disrupt, vengeance, spiritual healing, \nprism of restoration salvation and loyalty, shield dome, and enfeeble"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Either this brew or the other should be drop juggled to make space for \n2h weapons"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "One must imagine this being range masterwork (equilibrium 4 crystal shield 1 + crackling 4 relentless 5)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Used with hydrix bakriminel bolts to get some nice adren restore (caroming 4 Aftershock 1)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "One must imagine this being range masterwork, with this build masterwork range is the best range even if you don't need survivability from masterwork, since we are using equilibrium, the elite dracolich passive is completely useless, and rage masterwork has a higher damage tier"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Since we are using 2 styles, the full cape is very importent"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Rarely used, mainly for the spec, flurry and other duel wield abilities"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "While it is better dps for all melee weapons, it is most impactful with ezk, so if low hp or simply in a more risky place use EoF. Be sure to do EoF flicks on all attacks you are praying for"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Since AG is poisonable, cinderbane are very strong especially since we are using multiple styles"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Since we are using a poison focused build, recoil is very usful, and not much worse outright dpm since we are using equilibrium and the for the dk rings passive is useless"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Free lossless healing"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "While a ful book would deal more outright dpm it does not buff poison, amascut book does not buff poison either but it's 5 hits canvproc poison"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "We want to use this whenever meleeing, it has good dps with flame bound rival, and with flame bound rival you take less damage"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Main AoE weapon for minions"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "One must imagine this being range masterwork (impatient 4 devoted 4 + ultimatums 4 mobile)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "One must imagine this being range masterwork. Can use fleeting boots over these, as you only need three pieces for the set effect each extra one will only increase the amount of damage turned into soak, so the passive from fleeting may be preferred for some players"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 crystal shield 1 + crackling 4 relentless 5"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Decimation spec, use for minions"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 devoted 4 + ultimatums 4 mobile"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Can be used to help tank dangorus attacks"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Try and time right before the 15 second overload reproc to minimize attacks with drained stats"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "If wanting to use abyssal scourge, can replace this item with a jaws of the abyss, however the set effect is rather useful and therefore this helm is recommended"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Seren godbow spec, very powerful AoE when used with decimation spec"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Can be replaced with laceration boots if you are rarely above 100 adren, therefore not needing the set effect, do not do so if also using jaws of the abyss"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
