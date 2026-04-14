@@ -2242,5 +2242,9 @@
   {
     "presetId": "f8b20b54-accf-488a-a2d9-2c8eaeafdda0",
     "presetName": "Melee-Ranged HM Sanctum"
+  },
+  {
+    "presetId": "706a7e2e-1030-46c9-8312-a61107d8c93f",
+    "presetName": "arch glacor melee/mage norm prayers"
   }
 ]
