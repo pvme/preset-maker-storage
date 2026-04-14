@@ -1,0 +1,174 @@
+{
+  "presetName": "zamorak range/melee 2000+ enrage",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "bbcice"
+    },
+    {
+      "id": "edracolichcoif"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elysianspiritshield"
+    },
+    {
+      "id": "edracolichchaps"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "zgsshadow"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
