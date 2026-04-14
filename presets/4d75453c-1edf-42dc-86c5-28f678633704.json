@@ -1,0 +1,245 @@
+{
+  "presetName": "Rasial Master Speed Killer",
+  "presetNotes": ":ripperpouch: uses no :ripperscroll: because Rasial is immune to familiar damage",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Any Magic mainhand</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<span>Optional swap, spec doesn't matter. Only used for its better stats when summoning conjures</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ":undeadslayerperk: Required on either top or bottoms"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": ":undeadslayerperk:<span> Required on either top or bottoms</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
