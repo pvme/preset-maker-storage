@@ -36,9 +36,6 @@
       "id": "abyssalspikes"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofjas"
     }
   ],
@@ -150,11 +147,6 @@
       "description": "<span>Adding basic perks will help but not necessary</span>"
     },
     {
-      "slotType": "equipment",
-      "slotIndex": 11,
-      "description": "<br />"
-    },
-    {
       "slotType": "inventory",
       "slotIndex": 21,
       "description": "Requires the quest \"Rum Deal\""
@@ -227,7 +219,7 @@
   "familiars": {
     "primaryFamiliars": [
       {
-        "id": "bunyip"
+        "id": ""
       }
     ],
     "alternativeFamiliars": [
