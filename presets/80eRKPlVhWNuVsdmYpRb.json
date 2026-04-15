@@ -1,391 +1,170 @@
 {
-  "presetName": "2023-04-16-19-2721",
+  "presetName": "2023-04-16-19-2721 f",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "sirenichelm",
-      "image": "https://img.pvme.io/images/lhfAbhp.png",
-      "name": "Sirenic mask",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+      "id": "sirenicmask"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofpink",
-      "image": "https://img.pvme.io/images/MWLieOn.png",
-      "name": "EoF - Eldritch crossbow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow"
+      "id": "eofpink"
     },
     {
-      "label": "bolg",
-      "image": "https://img.pvme.io/images/GkhQHSj.png",
-      "name": "Bow of the Last Guardian",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+      "id": "bolg"
     },
     {
-      "label": "sirenictop",
-      "image": "https://img.pvme.io/images/lYDKMiu.png",
-      "name": "Sirenic hauberk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
-    },
-    null,
-    {
-      "label": "sireniclegs",
-      "image": "https://img.pvme.io/images/gBPOqaV.png",
-      "name": "Sirenic chaps",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+      "id": "sirenicbody"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": ""
     },
     {
-      "label": "enhancedfleet",
-      "image": "https://img.pvme.io/images/9j06KPo.png",
-      "name": "Enhanced fleeting boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_fleeting_boots"
+      "id": "sireniclegs"
     },
     {
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+      "id": "cinderbanes"
     },
     {
-      "label": "pernixquiveryellow",
-      "image": "https://img.pvme.io/images/MCRkOPS.png",
-      "name": "Pernix's Quiver (Yellow)",
-      "breakdownNotes": "With Hydrix Baks and Jas Dragonbane Arrows",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+      "id": "enhancedfleet"
     },
     {
-      "label": "reckless",
-      "image": "https://img.pvme.io/images/FZ59xZK.png",
-      "name": "Reckless aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+      "id": "reaverring"
     },
     {
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "label": "poison1",
-      "image": "https://img.pvme.io/images/hw7rKHz.png",
-      "name": "Weapon poison+++ (1)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
-      "selected": false
+      "id": "poison1"
     },
     {
-      "label": "superrestore",
-      "image": "https://img.pvme.io/images/2uy0pnb.png",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "label": "chins",
-      "image": "https://img.pvme.io/images/TMWKAqQ.png",
-      "name": "Mechanised chinchompa",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
-      "selected": false
+      "id": "chins"
     },
     {
-      "label": "ohbbc",
-      "image": "https://img.pvme.io/images/bDDDK9h.png",
-      "name": "Off-hand blightbound crossbow",
-      "breakdownNotes": "<span>Perked with P6As1 for synergy with mech chins</span>",
-      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
-      "selected": false
+      "id": "bbcoh"
     },
     {
-      "label": "bbc",
-      "image": "https://img.pvme.io/images/6IMR311.png",
-      "name": "Blightbound crossbow",
-      "breakdownNotes": "Perked with C4E2",
-      "wikiLink": "https://runescape.wiki/w/Blightbound_crossbow",
-      "selected": false
+      "id": "bbc"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "strykebow",
-      "image": "https://img.pvme.io/images/AjoZkV0.png",
-      "name": "Strykebow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Strykebow",
-      "selected": false
+      "id": "strykebow"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "excal"
     },
     {
-      "label": "pernixquiverblue",
-      "image": "https://img.pvme.io/images/X5AcgQh.png",
-      "name": "Pernix's Quiver (Blue)",
-      "breakdownNotes": "With Ful Arrows and Deathspore Arrows",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
-      "selected": false
+      "id": "pernixquiverblue"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "eofyellowunorn",
-      "image": "https://img.pvme.io/images/YR6pLdv.png",
-      "name": "EoF - Dark bow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_bow",
-      "selected": false
+      "id": "eofyellowunorn"
     },
     {
-      "label": "sticky",
-      "image": "https://img.pvme.io/images/mTBIIuw.png",
-      "name": "Sticky bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sticky_bombs",
-      "selected": false
+      "id": "sticky"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "20mines",
-      "image": "https://img.pvme.io/images/30CSA7N.png",
-      "name": "Dominion mines",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
-      "selected": false
+      "id": "20mines"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "eofblue",
-      "image": "https://img.pvme.io/images/zAiXkJn.png",
-      "name": "EoF - Seren godbow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
-      "selected": false
+      "id": "eofblue"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
-      "selected": false
+      "id": "accel4"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     }
   ],
+  "breakdown": [],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
+        "id": "conservationofenergy"
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "label": "furyofthesmall",
-        "energy": 150
+        "id": "furyofthesmall"
       },
       {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "label": "deathward",
-        "energy": 150
+        "id": "deathward"
       }
     ],
     "alternativeRelics": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   },
   "familiars": {
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": "",
-        "label": "ripperdemon"
+        "id": "ripperdemon"
       }
     ],
     "alternativeFamiliars": [
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       },
       {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
+        "id": ""
       }
     ]
   }
