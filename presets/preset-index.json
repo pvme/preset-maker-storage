@@ -2254,5 +2254,9 @@
   {
     "presetId": "1269ff1d-da4c-4be2-8f81-c27e9a8cc65a",
     "presetName": "arch glacor melee/mage normal prayers"
+  },
+  {
+    "presetId": "a3490403-ac62-424c-88c4-7fc72d1d206f",
+    "presetName": "Vorkath Ranged/Melee"
   }
 ]
