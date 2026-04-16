@@ -1,0 +1,171 @@
+{
+  "presetName": "Armoured phantoms (AFK Melee) high lvl",
+  "presetNotes": "scrimshaw of sacrifice can be used for more xp<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "deathward"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "babyplatypus"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
