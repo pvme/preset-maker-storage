@@ -2382,5 +2382,9 @@
   {
     "presetId": "38c14df5-35cb-474d-8b12-2efaff74bfda",
     "presetName": "AFK Low Level Ranged Devil's Snare"
+  },
+  {
+    "presetId": "43f348c4-8c47-4158-897d-7bd60662eca3",
+    "presetName": "AFK High Level Magic Devil's Snare"
   }
 ]
