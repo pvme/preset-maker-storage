@@ -104,13 +104,13 @@
       "id": "greenblubber"
     },
     {
+      "id": "holywrench"
+    },
+    {
       "id": "deathwardennexus"
     },
     {
       "id": "spices"
-    },
-    {
-      "id": "holywrench"
     },
     {
       "id": ""
@@ -148,12 +148,12 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 23,
+      "slotIndex": 21,
       "description": "Requires the quest \"Rum Deal\""
     },
     {
       "slotType": "inventory",
-      "slotIndex": 22,
+      "slotIndex": 23,
       "description": "Requires the quest \"Let Them Eat Pie\""
     },
     {
