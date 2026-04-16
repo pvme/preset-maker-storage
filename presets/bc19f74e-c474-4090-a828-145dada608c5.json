@@ -1,0 +1,208 @@
+{
+  "presetName": "Crystal Shapeshifters Tarddiad",
+  "presetNotes": "<span>t70 crystal armour works but t80 is better due to passive<br /><br />Recommended to use <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> with </span><img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /> and bring <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "id": "attunedcrystalhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "meleeblood"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "attunedcrystallegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Emergency food</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Use on CD"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "May replace with <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "May use <img title=\"ezk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/903244090953588787.png?v=1\" /> or <img title=\"msoa\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/694566917456789554.png?v=1\" /> or <img title=\"noxscythe\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159341322240.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Clear Headed 4 <img title=\"ch4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087864012840.png?v=1\" /><br /><br />For negative Melee defence"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
