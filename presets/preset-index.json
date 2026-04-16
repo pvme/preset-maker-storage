@@ -2478,5 +2478,9 @@
   {
     "presetId": "513fcb5a-2b0a-4bba-bcce-dad42ca4ee66",
     "presetName": "AG Magic/Melee"
+  },
+  {
+    "presetId": "7762f79b-3412-415c-b026-d1f51e34d7fb",
+    "presetName": "Test"
   }
 ]
