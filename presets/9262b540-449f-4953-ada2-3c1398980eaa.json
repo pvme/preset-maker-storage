@@ -1,0 +1,173 @@
+{
+  "presetName": "AFK Risen Ghosts - Necromancy",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "wildcardsstack"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    }
+  ],
+  "familiar": {
+    "id": "holyscarab"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
