@@ -86,7 +86,7 @@
       "id": "sirenicbody"
     },
     {
-      "id": "spiritsticks"
+      "id": "kwuarmsticks"
     },
     {
       "id": "poison1"
@@ -107,7 +107,7 @@
       "id": "dummy"
     },
     {
-      "id": "kwuarmsticks"
+      "id": "spiritsticks"
     },
     {
       "id": ""
@@ -132,46 +132,32 @@
       "description": "<br />"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "berserkersfury"
-      },
-      {
-        "id": "shadowsgrace"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "berserkersfury"
-      },
-      {
-        "id": "fontoflife"
-      }
-    ]
+  "familiar": {
+    "id": "ripperpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "ripperpouch"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
