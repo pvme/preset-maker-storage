@@ -1,0 +1,203 @@
+{
+  "presetName": "Ripper Demons (Necro)",
+  "presetNotes": "Follow strategy in the guide, multiple danger points including setup &amp; elite spawns.",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "bloodfury"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bindingcontract200"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Teleport to herb patch + run north east to reach spot, can also use games necklace"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Optional, making this method highly profitable"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<img title=\"eof\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" /> is a better alternative but with higher upkeep cost"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<img title=\"enhdev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<img title=\"demonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can use <img title=\"reaverring\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903943018283050.png?v=1\" /> or <img title=\"zorgothsring\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1232124265826877574.png?v=1\" /> but lose benefit of banking safely if ROD procs"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
