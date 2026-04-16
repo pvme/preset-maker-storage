@@ -1,0 +1,173 @@
+{
+  "presetName": "hi",
+  "presetNotes": "Test",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Test"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Test"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
