@@ -2666,5 +2666,9 @@
   {
     "presetId": "314c257b-6bfa-47db-99c8-dd28ce32de94",
     "presetName": "Armoured phantoms (AFK Melee) high level"
+  },
+  {
+    "presetId": "bd9925ea-3f24-4e2f-bad8-0f77ab241a65",
+    "presetName": "Low Effort Magic Revenants"
   }
 ]
