@@ -1,0 +1,208 @@
+{
+  "presetName": "AFK Low Level Magic Devil's Snare",
+  "presetNotes": "<div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.\n</div>",
+  "equipmentSlots": [
+    {
+      "id": "hoodofsubjugation"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "masterworkstaff"
+    },
+    {
+      "id": "subjgarb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "subjgown"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "gembag"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Only needed if using :steelskin:."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Optional"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ":scriptureofful: recommended with :virtustop: T80+ armour."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Only needed if using :steelskin:."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Death | Earth | Law | Cosmic"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
