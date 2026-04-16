@@ -2678,5 +2678,9 @@
   {
     "presetId": "998ad5f5-01f5-45a5-b1c3-e99af715a75f",
     "presetName": "Armoured Phantoms (Active Melee)"
+  },
+  {
+    "presetId": "da5eed06-ae42-45b1-8d63-3fceb5f64971",
+    "presetName": "AFK Nodon Guard Necromancy"
   }
 ]
