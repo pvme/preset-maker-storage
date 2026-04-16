@@ -1,0 +1,197 @@
+{
+  "presetName": "Ranged HM Vorkath",
+  "presetNotes": "<span>Room for faster (but much riskier) kills with upgrades to Ful book and/or Ripper Demon. Can upgrade SGB EOF to physical SGB.</span>",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sailfishsoup"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Dark Bow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Jas Dragonbanes + Deathspores"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Ful + Deathspores"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "hellhoundpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "ripperpouch"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
