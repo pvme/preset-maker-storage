@@ -1,0 +1,198 @@
+{
+  "presetName": "AFK Magic Liverworts",
+  "presetNotes": "<div><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img title=\"kalgscroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.</div><div><br /></div><div>There is a rare chance of being dragged by the liverwort's mechanic if using  <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.webp?v=1\" /></div><div><br /></div><div>Consider using <img title=\"enhdev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.webp?v=1\" /> instead.</div>",
+  "equipmentSlots": [
+    {
+      "id": "elitetectmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "mageblood"
+    },
+    {
+      "id": "masterworkstaff"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elitetectlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "elements"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "gembag"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "easternanachroniateleport"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Do not use <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.webp?v=1\" />  if using Enhanced Devoted 4 <img title=\"enhdev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.webp?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4 <img title=\"enhdev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.webp?v=1\" /> required if using Legendary pet."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Used for its consistent damage increase."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
