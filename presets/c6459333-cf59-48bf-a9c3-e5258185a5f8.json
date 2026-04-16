@@ -1,0 +1,177 @@
+{
+  "presetName": "Kalphite King (Ranged)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "shadowsgrace"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
