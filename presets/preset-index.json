@@ -2586,5 +2586,9 @@
   {
     "presetId": "962e8c5a-cd37-4a8e-bb1b-7584fc912687",
     "presetName": "AFK Ranged Liverworts"
+  },
+  {
+    "presetId": "c369529e-5a53-495e-9a3d-ebdeebf6b49c",
+    "presetName": "AFK Magic Liverworts"
   }
 ]
