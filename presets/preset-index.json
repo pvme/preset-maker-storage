@@ -2686,5 +2686,9 @@
   {
     "presetId": "fd00e978-9cd4-4c4e-a762-ebb679bbdfd5",
     "presetName": "Automaton AFK Range"
+  },
+  {
+    "presetId": "0eb8f5c5-4adc-48fd-8918-9fc3dcbb38e9",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
