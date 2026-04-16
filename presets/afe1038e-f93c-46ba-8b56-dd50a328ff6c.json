@@ -1,0 +1,171 @@
+{
+  "presetName": "Low Effort Magic Revenants",
+  "presetNotes": "Use Legacy Combat Mode.<br />",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "superiorzurielstop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "slayercape"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "questcape"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
