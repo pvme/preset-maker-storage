@@ -83,7 +83,7 @@
       "id": "greenblubber"
     },
     {
-      "id": ""
+      "id": "spices"
     },
     {
       "id": ""
@@ -110,7 +110,7 @@
       "id": "deathwardennexus"
     },
     {
-      "id": "spices"
+      "id": ""
     },
     {
       "id": ""
@@ -153,7 +153,7 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 23,
+      "slotIndex": 14,
       "description": "Requires the quest \"Let Them Eat Pie\""
     },
     {
