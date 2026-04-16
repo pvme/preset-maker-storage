@@ -1,0 +1,198 @@
+{
+  "presetName": "Abyssal beast Necro",
+  "presetNotes": "Have <img title=\"demonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" /> on a piece of equipment.<br /><br /><img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> is mainly used with lower level gear.<br /><br />Use <img title=\"icenihil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/854475442164334592.png?v=1\" /> if low hit chance.<br />",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can replace with <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<span>Pray Leech Necromancy Strength and <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br /><br /></span>Use <img title=\"eof\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" /> if low hit chance.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "bloodreaver"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
