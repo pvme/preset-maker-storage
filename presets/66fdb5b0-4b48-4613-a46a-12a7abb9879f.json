@@ -1,0 +1,183 @@
+{
+  "presetName": "Moss Golems AFK Necro",
+  "presetNotes": "<div>Bonfire <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1011705727041163396.webp?v=1\" />, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689530593796423724.webp?v=1\" />, and Boon of Het HP Boosts required.</div><div><br /></div>If accuracy isn't an issue, then use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.webp?v=1\" /> or <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.webp?v=1\" /> with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.webp?v=1\" /> auto fire rate set to 1.",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Use Meteorite Cannonballs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "BJS - Lost Grove"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4/Impatient 4,Devoted 4"
+    }
+  ],
+  "familiar": {
+    "id": "icenihil"
+  },
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
