@@ -1,0 +1,171 @@
+{
+  "presetName": "Armoured phantoms (AFK Melee) mediumlvl",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "strengthcape"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "masterworkbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "masterworklegs"
+    },
+    {
+      "id": "bandosgloves"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "armourspikealloy"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
