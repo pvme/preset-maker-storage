@@ -1,0 +1,171 @@
+{
+  "presetName": "Melee Dinosaurs",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tmwhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "meleeblood"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "tmwbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tmwlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "enhancedlacs"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "deathnote"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
