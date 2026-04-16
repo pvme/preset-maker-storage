@@ -1,0 +1,171 @@
+{
+  "presetName": "Acheron Mammoths (Low effort Melee)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "waterrune"
+    },
+    {
+      "id": "astralrune"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lawrune"
+    }
+  ],
+  "breakdown": [],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "reaverpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
