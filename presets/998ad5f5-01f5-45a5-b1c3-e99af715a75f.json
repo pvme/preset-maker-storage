@@ -1,0 +1,238 @@
+{
+  "presetName": "Armoured Phantoms (Active Melee)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "enhancedlacs"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "accel1"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "For spec"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Helps greatly with upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Contains dragon halberd </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409589261238282.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "For HP restore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "For stopping healing ability"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "For reaching location quickly"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Upgraded with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/869284271733481493.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Some emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Some emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Some emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Some emergency food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Ideally with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "For targeted <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535532854281764884.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
