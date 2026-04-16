@@ -2682,5 +2682,9 @@
   {
     "presetId": "da5eed06-ae42-45b1-8d63-3fceb5f64971",
     "presetName": "AFK Nodon Guard Necromancy"
+  },
+  {
+    "presetId": "fd00e978-9cd4-4c4e-a762-ebb679bbdfd5",
+    "presetName": "Automaton AFK Range"
   }
 ]
