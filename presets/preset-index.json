@@ -2474,5 +2474,9 @@
   {
     "presetId": "e8db253f-a3f4-46f6-bfcc-e315f714ca8d",
     "presetName": "Abyssal beasts Melee AFK"
+  },
+  {
+    "presetId": "513fcb5a-2b0a-4bba-bcce-dad42ca4ee66",
+    "presetName": "AG Magic/Melee"
   }
 ]
