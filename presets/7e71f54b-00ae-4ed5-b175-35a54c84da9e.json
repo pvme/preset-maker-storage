@@ -1,0 +1,203 @@
+{
+  "presetName": "Abyssal savages Magic",
+  "presetNotes": "<span>Bring Spellbook Swap if using Penance (aspect).</span>",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "noxstaff"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "virtusrobelegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "pontifexshadowring"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "For Animate Dead, more pieces of tank armour may be needed if not using Crypt"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can swap with Amulet of Souls or Arcane Blood Necklace if using other means of prayer upkeep"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Use your best augmented staff, preferably with Caroming 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<span>For Animate Dead, more pieces of tank armour may be needed if not using Crypt</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Not important, can use any Scripture/Combat pocket slot preferred"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
