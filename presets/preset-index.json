@@ -2554,5 +2554,9 @@
   {
     "presetId": "575cd94f-e734-4043-bbbd-8037fe7cd01b",
     "presetName": "Wilderness Obelisk Abyssal Demons Melee AFK"
+  },
+  {
+    "presetId": "d3a97241-d7f1-44d5-b64c-71d72acc518a",
+    "presetName": "AFK Low Level Ranged Luminous Snagglers"
   }
 ]
