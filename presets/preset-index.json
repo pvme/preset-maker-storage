@@ -2282,5 +2282,9 @@
   {
     "presetId": "9c4ecf8c-36cd-4b90-9bb4-437fc970dcd4",
     "presetName": "Armoured phantoms (AFK Melee) mediumlvl"
+  },
+  {
+    "presetId": "3bba697e-49f5-471c-a595-eecee2c8720a",
+    "presetName": "<span>Armoured Phantoms (AFK Magic)</span>"
   }
 ]
