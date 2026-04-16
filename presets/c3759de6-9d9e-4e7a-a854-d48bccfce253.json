@@ -1,0 +1,173 @@
+{
+  "presetName": "Armoured Phantoms (AFK Magic)",
+  "presetNotes": "<span>Bring Spellbook Swap if using Penance (aspect).</span>",
+  "equipmentSlots": [
+    {
+      "id": "elitetectmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elitetectlegs"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "enhancedblastdiff"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "smokenihil"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "smokenihil"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
