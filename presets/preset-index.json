@@ -1276,10 +1276,6 @@
     "presetName": "AFK Low Level Ranged Devil's Snare"
   },
   {
-    "presetId": "d094d086-73a3-4f45-9bd9-1fbadc4758af",
-    "presetName": "m/m ag"
-  },
-  {
     "presetId": "13abfdfb-2c62-4901-b655-952214f3171b",
     "presetName": "GM BSD Melee Camp"
   },
@@ -2470,5 +2466,9 @@
   {
     "presetId": "c6459333-cf59-48bf-a9c3-e5258185a5f8",
     "presetName": "Kalphite King (Ranged)"
+  },
+  {
+    "presetId": "d094d086-73a3-4f45-9bd9-1fbadc4758af",
+    "presetName": "m/m ag"
   }
 ]
