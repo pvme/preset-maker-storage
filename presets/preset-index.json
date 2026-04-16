@@ -2286,5 +2286,9 @@
   {
     "presetId": "3bba697e-49f5-471c-a595-eecee2c8720a",
     "presetName": "<span>Armoured Phantoms (AFK Magic)</span>"
+  },
+  {
+    "presetId": "f50350a4-b154-45e6-a4bd-bb53d261d5bd",
+    "presetName": "AFK Greater Demon Berserkers and Ash Lords (Ranged)"
   }
 ]
