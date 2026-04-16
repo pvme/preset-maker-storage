@@ -1,0 +1,173 @@
+{
+  "presetName": "AFK Crystal Shapeshifters (Necro / on Tarddiad)",
+  "presetNotes": "No reaver scrolls required",
+  "equipmentSlots": [
+    {
+      "id": "attunedcrystalhelm"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "attunedcrystalgloves"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
