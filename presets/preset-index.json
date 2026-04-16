@@ -2658,5 +2658,9 @@
   {
     "presetId": "2d8f9b32-350d-4bef-acc2-3212dab2630c",
     "presetName": "Armoured phantoms (AFK Melee) med level"
+  },
+  {
+    "presetId": "29a3659c-fee8-45e0-a3f7-5aecdee2f2ae",
+    "presetName": "Ripper Demons (Necro)"
   }
 ]
