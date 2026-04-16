@@ -1,0 +1,173 @@
+{
+  "presetName": "AFK Greater Demon Berserkers and Ash Lords (Ranged)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "reaperor"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "demonslayerlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "sacrificescrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "dragonkinlaboratoryteleport"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": "reaverscrollsstack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
