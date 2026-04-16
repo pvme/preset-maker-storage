@@ -2464,11 +2464,11 @@
     "presetName": "Abyssal beasts Melee AFK"
   },
   {
-    "presetId": "c6459333-cf59-48bf-a9c3-e5258185a5f8",
-    "presetName": "Kalphite King (Ranged)"
-  },
-  {
     "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
     "presetName": "Stage 1 - Melee Gear"
+  },
+  {
+    "presetId": "c6459333-cf59-48bf-a9c3-e5258185a5f8",
+    "presetName": "Kalphite King (Ranged)"
   }
 ]
