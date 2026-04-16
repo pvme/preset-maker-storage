@@ -1,0 +1,213 @@
+{
+  "presetName": "AFK Crystal Shapeshifters Magic Souls",
+  "presetNotes": "Relics not necessary but can be helpful<div><br /></div><div><span>Bring Spellbook Swap if using Penance (aspect).</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "attunedcrystalhelm"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "attunedcrystallegs"
+    },
+    {
+      "id": "attunedcrystalgloves"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "scodex"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "For travel to the World Gate"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Emergency food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>For teleport to PoD</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Emergency food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Use blood blitz if using inq staff, blood barrage otherwise"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": "lotdrelic"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
