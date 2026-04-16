@@ -1,0 +1,182 @@
+{
+  "presetName": "Acheron Mammoths (Active Melee)",
+  "presetNotes": "1. Death Ward <img title=\"deathward\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/697808774068699286.png?v=1\" /> can be useful to partially mitigate getting bursted",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "excal"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Dragon halberd"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "furyofthesmall"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
