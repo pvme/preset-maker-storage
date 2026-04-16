@@ -1,0 +1,178 @@
+{
+  "presetName": "Low Effort Magic Revenants",
+  "presetNotes": "Use Legacy Combat Mode.\n\nBring Spellbook Swap if using Penance (aspect) with Ancient Magics.",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "superiorzurielstop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "timerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "slayercape"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "questcape"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "For Crumble Undead."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
