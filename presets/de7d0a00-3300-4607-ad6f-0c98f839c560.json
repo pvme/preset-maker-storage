@@ -104,13 +104,13 @@
       "id": "greenblubber"
     },
     {
-      "id": "holywrench"
+      "id": "deathwardennexus"
     },
     {
       "id": "spices"
     },
     {
-      "id": "deathwardennexus"
+      "id": "holywrench"
     },
     {
       "id": ""
@@ -148,7 +148,7 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 21,
+      "slotIndex": 23,
       "description": "Requires the quest \"Rum Deal\""
     },
     {
@@ -192,46 +192,32 @@
       "description": "<span>Super Strength or higher will make kill times quicker</span>"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "fontoflife"
-      },
-      {
-        "id": "blessingofhet"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": "berserkersfury"
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "bunyip"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "bunyip"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
