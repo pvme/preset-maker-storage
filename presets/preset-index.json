@@ -2306,5 +2306,9 @@
   {
     "presetId": "429f11b1-df4e-4f1a-aa34-f6c37dc7a151",
     "presetName": "Acheron Mammoths (Active Melee)"
+  },
+  {
+    "presetId": "9e6db227-52fa-4fd3-8f18-db16d54f37f1",
+    "presetName": "Acheron Mammoths (Low effort Melee)"
   }
 ]
