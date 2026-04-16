@@ -1,0 +1,233 @@
+{
+  "presetName": "Vyres Range",
+  "presetNotes": "You can bring House Drakan outfit to fix the spawns then setup without banking.<br />",
+  "equipmentSlots": [
+    {
+      "id": "zamhelm"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "sunspear"
+    },
+    {
+      "id": "pernixbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "morytanialegs4"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "shboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "naturerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "packyakpouch"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional, if you care about experience."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can be used if HP is dropping too low.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Pray Leech Ranged Strength and Soul Split <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 X <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "For High Alchemy"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
