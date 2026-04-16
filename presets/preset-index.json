@@ -2264,10 +2264,6 @@
     "presetName": "2023-04-16-19-2721 f"
   },
   {
-    "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
-    "presetName": "Stage 1 - Melee Gear"
-  },
-  {
     "presetId": "e5b793fe-9df4-4507-a611-a443a3fce0f7",
     "presetName": "arch glacor melee/mage normal prayers"
   },
@@ -2470,5 +2466,9 @@
   {
     "presetId": "c6459333-cf59-48bf-a9c3-e5258185a5f8",
     "presetName": "Kalphite King (Ranged)"
+  },
+  {
+    "presetId": "de7d0a00-3300-4607-ad6f-0c98f839c560",
+    "presetName": "Stage 1 - Melee Gear"
   }
 ]
