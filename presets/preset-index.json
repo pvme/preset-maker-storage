@@ -2646,5 +2646,9 @@
   {
     "presetId": "fcbbddd5-55e1-4d85-b8ad-b03570325103",
     "presetName": "Imperial Guard AFK Necro"
+  },
+  {
+    "presetId": "c3759de6-9d9e-4e7a-a854-d48bccfce253",
+    "presetName": "Armoured Phantoms (AFK Magic)"
   }
 ]
