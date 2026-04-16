@@ -2378,5 +2378,9 @@
   {
     "presetId": "4061d13b-e195-4ad1-821c-4caca8ab3f40",
     "presetName": "Ranged HM Vorkath"
+  },
+  {
+    "presetId": "38c14df5-35cb-474d-8b12-2efaff74bfda",
+    "presetName": "AFK Low Level Ranged Devil's Snare"
   }
 ]
