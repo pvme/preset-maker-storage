@@ -1,0 +1,188 @@
+{
+  "presetName": "Abyssal savages Melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "pontifexshadowring"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can swap with Amulet of Souls or Brawler's Blood Necklace if using other means of prayer upkeep"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Laniakea's Spear is a good substitute"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Blood | Astral | Body | Soul<span>\n</span><div><br /></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
