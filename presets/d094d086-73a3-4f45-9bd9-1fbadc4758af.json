@@ -36,9 +36,6 @@
       "id": "nodonspikeharness"
     },
     {
-      "id": "vampaura"
-    },
-    {
       "id": "grim"
     }
   ],
@@ -113,10 +110,10 @@
       "id": "lengmh"
     },
     {
-      "id": ""
+      "id": "fsoa"
     },
     {
-      "id": "fsoa"
+      "id": ""
     },
     {
       "id": "tumekenboots"
@@ -191,12 +188,12 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 24,
+      "slotIndex": 23,
       "description": "<br />"
     },
     {
       "slotType": "inventory",
-      "slotIndex": 23,
+      "slotIndex": 24,
       "description": "Used for better damage while barricading."
     },
     {
@@ -225,11 +222,6 @@
       "description": "optional for extra damage"
     },
     {
-      "slotType": "equipment",
-      "slotIndex": 11,
-      "description": "<br />"
-    },
-    {
       "slotType": "inventory",
       "slotIndex": 21,
       "description": "claws or varanus's mercy"
@@ -250,46 +242,32 @@
       "description": "put caroming 4 either on this or offhand"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": "deathward"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "hellhoundpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "hellhoundpouch"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": "kalgdemon"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
