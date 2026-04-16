@@ -2674,5 +2674,9 @@
   {
     "presetId": "0e9e2f43-a362-464d-84b4-e6aaba65930e",
     "presetName": "Armoured phantoms (AFK Necro)"
+  },
+  {
+    "presetId": "998ad5f5-01f5-45a5-b1c3-e99af715a75f",
+    "presetName": "Armoured Phantoms (Active Melee)"
   }
 ]
