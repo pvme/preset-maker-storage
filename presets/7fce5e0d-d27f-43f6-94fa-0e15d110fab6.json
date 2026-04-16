@@ -1,0 +1,182 @@
+{
+  "presetName": "Solak 4man casual example preset | with Lengs",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "minesstack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouch"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Emberstaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Claws / Dagger"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "id": "conservationofenergy"
+      },
+      {
+        "id": "berserkersfury"
+      },
+      {
+        "id": "fontoflife"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "id": "ripperpouch"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "id": "kalgdemon"
+      },
+      {
+        "id": ""
+      },
+      {
+        "id": ""
+      }
+    ]
+  }
+}
