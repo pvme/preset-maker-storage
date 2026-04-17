@@ -1,0 +1,228 @@
+{
+  "presetName": "amascut range/necro",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "devourersguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "bbc"
+    },
+    {
+      "id": "eofblueunorn"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "barrowssoulbound"
+    },
+    {
+      "id": "mechchins"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Gloomfire bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Sgb"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Deathspore arrows + hydrix bak bolts"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "T90 deathguard"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Ecb"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Equilibrium"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Ful + wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Splintering + blackstone arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Flanking"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "For scarab clearing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "For spec"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
