@@ -1,0 +1,188 @@
+{
+  "presetName": "AFK Glacors",
+  "presetNotes": "Bring Spellbook Swap if using Penance (aspect).",
+  "equipmentSlots": [
+    {
+      "id": "tectmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tectbody"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tectlegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<div><div><span>Death | Earth | Law | Cosmic</span></div></div><div></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<div><div><span>Chaos | Air | Water | Fire</span></div></div><div></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<div><div><span>Blood | Astral | Body | Soul</span></div></div><div></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "holyscarab"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
