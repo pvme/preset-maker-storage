@@ -1,0 +1,208 @@
+{
+  "presetName": "Zammy 4k",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Fire, Earth, Water, Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Blood, Body, Astral, Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Chaos, Death, Law, Air"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Relentless 5 Crackling 4 | Equilibrium 4 Demon Slayer"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Ultimatums 4 Mobile | Devoted 4 Impatient 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Precise 6 Aftershock 1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Lunging 4 Eruptive 2 | Precise 6 Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Ruthless 1 | Aftershock 4 Erruptive 2"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
