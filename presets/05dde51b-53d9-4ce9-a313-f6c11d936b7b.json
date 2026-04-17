@@ -1,0 +1,198 @@
+{
+  "presetName": "AFK Crystal Shapeshifters POD Necro2",
+  "presetNotes": "Crystal armour version",
+  "equipmentSlots": [
+    {
+      "id": "bluedhidecoif"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "attunedcrystalbody"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "attunedcrystallegs"
+    },
+    {
+      "id": "attunedcrystalgloves"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scodex"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "For negative melee defence"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Replace with EOF if unowned"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4 + Equilibrium 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Precise 6 + Ruthless 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Replace with cinders if unowned"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    }
+  ],
+  "familiar": {
+    "id": "reaverpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
