@@ -1,0 +1,203 @@
+{
+  "presetName": "AFK Crystal Shapeshifters Melee POD",
+  "presetNotes": "LOTD relic optional",
+  "equipmentSlots": [
+    {
+      "id": "attunedcrystalhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "meleeblood"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "attunedcrystallegs"
+    },
+    {
+      "id": "attunedcrystalgloves"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "scodex"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Emergency food</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Use on CD"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Teleport to PoD"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Ek-Zek Kil, MSoA, and Noxious Scythe are viable alternatives</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "For negative melee defence<br /><span>With Biting 4 and Clearheaded 4</span><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "familiar": {
+    "id": "bloodreaver"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "lotdrelic"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
