@@ -2810,5 +2810,9 @@
   {
     "presetId": "b0545387-32d0-4d6f-815b-04416fe0c04b",
     "presetName": "Zamorak Ranged Main"
+  },
+  {
+    "presetId": "3da02410-dd19-42de-87b7-ea3ead262b81",
+    "presetName": "Zamorak Melee Main"
   }
 ]
