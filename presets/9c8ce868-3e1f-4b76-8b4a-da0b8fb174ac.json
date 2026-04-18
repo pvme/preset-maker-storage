@@ -1,0 +1,173 @@
+{
+  "presetName": "Zamorak Magic Main",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Blood | Astral | Body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Astral | Body | Soul"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "temporalanomaly"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
