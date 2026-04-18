@@ -1,6 +1,6 @@
 {
-  "presetName": "Vindicta AFK Melee",
-  "presetNotes": "<div>Pray :fortitude: + :deflectmagic:</div><div>No familiar</div><div><span>Should get around 60kph</span></div>",
+  "presetName": "Vindicta AFK Melee (60 kph)",
+  "presetNotes": "<div>Pray :soulsplit:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -30,45 +30,42 @@
       "id": "vestmentsofhavocboots"
     },
     {
-      "id": "lotd"
+      "id": "rod"
     },
     {
       "id": "graspingpouchblack"
     },
     {
-      "id": ""
-    },
-    {
-      "id": "underworldgrimoire4"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
     {
-      "id": "elderovlsalve"
-    },
-    {
-      "id": "potionreservoir"
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "powderofpenance2"
     },
     {
       "id": "ancientshard"
     },
     {
-      "id": "powderofpenance2"
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": ""
@@ -110,13 +107,13 @@
       "id": "springcleaner"
     },
     {
-      "id": "excal"
-    },
-    {
       "id": "holywrench"
     },
     {
-      "id": ""
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
     },
     {
       "id": ""
@@ -132,12 +129,12 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "Prayer bonus only"
+      "description": "Runes for :vampyrismaspect:"
     },
     {
       "slotType": "equipment",
-      "slotIndex": 12,
-      "description": "<br />"
+      "slotIndex": 11,
+      "description": "Any god book will do"
     },
     {
       "slotType": "equipment",
@@ -146,12 +143,12 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 23,
+      "slotIndex": 22,
       "description": ""
     },
     {
       "slotType": "inventory",
-      "slotIndex": 8,
+      "slotIndex": 0,
       "description": "Alternatively use Penance Powder :penancepowder:"
     },
     {
@@ -161,50 +158,46 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 1,
+      "slotIndex": 7,
       "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Runes for :vampyrismaspect:</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Runes for :vampyrismaspect:</span>"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": "persistentrage"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "legendpetscav"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "legendpetscav"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
