@@ -1548,10 +1548,6 @@
     "presetName": "Vindicta NM Melee AFK"
   },
   {
-    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
-    "presetName": "Vindicta AFK Melee"
-  },
-  {
     "presetId": "289bb287-c3f4-4eec-a81a-d315bab617e8",
     "presetName": "Rexes BotW"
   },
@@ -2778,5 +2774,9 @@
   {
     "presetId": "e8a23587-a7fc-48bc-91ed-603a3f69ba83",
     "presetName": "Ranged ED2 Full Run"
+  },
+  {
+    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
+    "presetName": "Vindicta AFK Melee (60 kph)"
   }
 ]
