@@ -1,0 +1,208 @@
+{
+  "presetName": "Zamorak Magic Basic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "ganohelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "cywirwand"
+    },
+    {
+      "id": "ganobody"
+    },
+    {
+      "id": "cywirorb"
+    },
+    {
+      "id": "ganolegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "Can be upgraded to Cryptbloom or replaced with Power Armour if desired."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Can downgrade to Kiln cape or Defence skillcape"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can to an Essence of Finality (add a Guthix Staff to it for a cheap and powerful special)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Can be upgraded to Cryptbloom or replaced with Power Armour if desired.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Can be upgraded to Cryptbloom or replaced with Power Armour if desired.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can upgrade to Reaver's Ring, however it would be riskier, and you may want to take the RoD with you as a swap for P7 in case of death."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul"
+    }
+  ],
+  "familiar": {
+    "id": "ripperdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
