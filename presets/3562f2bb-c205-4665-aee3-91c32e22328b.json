@@ -1,0 +1,193 @@
+{
+  "presetName": "Zamorak Necromancy Basic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Mainhand weapon to pair with your shield/repriser."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Perk with Planted Feet if Greater Death's Swiftness isn't owned.</span><br /><span>Can be replaced with any other shield.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>Can downgrade to Kiln cape or Defence skillcape</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can upgrade to an Essence of Finality (add a Dark Bow to it for a cheap and powerful special)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can upgrade to Reaver's Ring, however it would be riskier, and you may want to take the RoD with you as a swap for P7 in case of death."
+    }
+  ],
+  "familiar": {
+    "id": "ripperdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
