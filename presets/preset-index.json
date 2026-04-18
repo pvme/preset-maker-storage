@@ -2790,5 +2790,9 @@
   {
     "presetId": "7d877ee6-32f4-4e68-8a2d-06319b1d7280",
     "presetName": "Zamorak Melee Basic"
+  },
+  {
+    "presetId": "4a794fbc-ddfb-416f-bb44-1470bde9552a",
+    "presetName": "Zamorak Ranged Basic"
   }
 ]
