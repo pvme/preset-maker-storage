@@ -1,0 +1,188 @@
+{
+  "presetName": "Zamorak Magic/Melee Main",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixsquiverblack"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "deathspore arrows, to natty on last witch pre-fight"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "chaos, water, air, fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "death, earth, law, cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "blood, astral, body, soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "varanuss mercy / dragon claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "to use at the start of witches pre-fight"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikesstack"
+    },
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
