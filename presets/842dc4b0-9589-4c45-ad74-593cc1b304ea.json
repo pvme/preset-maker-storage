@@ -1,0 +1,193 @@
+{
+  "presetName": "Ranged ED2 Full Run",
+  "presetNotes": "Improvise with Gloomfire Bow vs Dark Bow based on BoLG stacks as necessary.",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "dommine"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Deathspore + Jas Dragonbane Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "ECB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "SGB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Dark Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Ful arrows"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
