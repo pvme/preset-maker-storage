@@ -2786,5 +2786,9 @@
   {
     "presetId": "a9d531e0-ad8d-42e8-a85a-e393004b47a4",
     "presetName": "Zamorak Magic Basic"
+  },
+  {
+    "presetId": "7d877ee6-32f4-4e68-8a2d-06319b1d7280",
+    "presetName": "Zamorak Melee Basic"
   }
 ]
