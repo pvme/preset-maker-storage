@@ -139,7 +139,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": ":as4: <span>:eruptive2:</span> + :p6:"
+      "description": "<span>Tested with Aftershock 4 Eruptive 2 + Precise 6 X</span>"
     },
     {
       "slotType": "inventory",
@@ -149,7 +149,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 0,
-      "description": "Alternatively use Penance Powder :penancepowder:"
+      "description": ""
     },
     {
       "slotType": "equipment",
@@ -170,6 +170,16 @@
       "slotType": "inventory",
       "slotIndex": 24,
       "description": "<span>Runes for :vampyrismaspect:</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Tested with Biting 4 X + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Tested with Biting 4 X + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
     }
   ],
   "familiar": {
