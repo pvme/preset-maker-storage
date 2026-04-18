@@ -1,0 +1,198 @@
+{
+  "presetName": "Zamorak Melee Basic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "abyssalscourge"
+    },
+    {
+      "id": "masterworkbody"
+    },
+    {
+      "id": "darkicesliver"
+    },
+    {
+      "id": "masterworklegs"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "masterworkboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>Can downgrade to Kiln cape or Defence skillcape</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can upgrade to an Essence of Finality (add a Dragon Claw to it for a cheap and powerful special)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Can downgrade to Dark Ice Shard."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can upgrade to Reaver's Ring, however it would be riskier, and you may want to take the RoD with you as a swap for P7 in case of death."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul"
+    }
+  ],
+  "familiar": {
+    "id": "ripperdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
