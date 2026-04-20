@@ -1,0 +1,278 @@
+{
+  "presetName": "Vorkath HM Ranged/Melee",
+  "presetNotes": "Rotation: https://ibb.co/DfP2jHfs\nImperative reqs:\n-Undead sigil\n-Undead perk\n-Genocidal Perk\n-Slayer task: Any Dragon (1 remaining for max damage boost)",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "edracolichboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverpurple"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchred"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Used on any ranged ability that's not an EoF"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Relentless 5 + Crackling 4 | Biting 4 + Mobile"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Aftershock 4 | Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 + Undead Slayer | Ultimatums 4 + Genocidal"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<span>Enchantment unlocked</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Jas Dragonbane Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Aftershock 4 + Precise 2 | Eruptive 4 + Ruthless 3\nCan alternatively use an Ek-Zekkil"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Enchantment unlocked"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "To spam ripper familiar spec if using over kalg"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<span>Relentless 5 + Crackling 4 | Biting 4 + Mobile</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Precise 6 + Caroming 1 | Aftershock 4 + Eruptive 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Aftershock 4 + Precise 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Devoted 4 + Impatient 4 | Ultimatums 4 + Energising 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Primal Abyssal Armor Spikes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Earth | Fire | Body | Law"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Soul | Astral | Death"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Precise 6 + Aftershock 1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Enhanced*\nEnchantment unlocked</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<span>Enhanced*\nEnchantment unlocked</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Eldritch Crossbow"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "jasdragonbanearrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
