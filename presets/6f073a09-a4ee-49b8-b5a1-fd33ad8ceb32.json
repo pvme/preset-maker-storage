@@ -1,0 +1,198 @@
+{
+  "presetName": "4000% Zamorak solo",
+  "presetNotes": "Emberstaff in eof",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiverpurple"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "arcanespiritshield"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "primalfeast"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Emberstaff"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "deathspores"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "optional, can be replaced with a feast or soup"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
