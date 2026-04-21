@@ -2866,5 +2866,9 @@
   {
     "presetId": "0fe545d2-ecb7-4256-b56f-a5c26ecdb213",
     "presetName": "arch glacor melee/mage normal prayers"
+  },
+  {
+    "presetId": "261819c3-17ce-41ba-b081-19f177430aeb",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
