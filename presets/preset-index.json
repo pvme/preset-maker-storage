@@ -2898,5 +2898,9 @@
   {
     "presetId": "7e045547-1754-4e7d-9393-f922819a41b8",
     "presetName": "arch glacor melee/mage normal prayers"
+  },
+  {
+    "presetId": "42958882-19d8-451c-bd90-32886b6b5a3c",
+    "presetName": "arch glacor mage/melee normal prayers"
   }
 ]
