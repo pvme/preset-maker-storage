@@ -2914,5 +2914,9 @@
   {
     "presetId": "abc3ed3e-220d-431c-9123-5033ad4c46a1",
     "presetName": "Dyanne's bank preset"
+  },
+  {
+    "presetId": "a38d30bf-1377-4859-b2ae-84a2d71dd6b3",
+    "presetName": "Amascut 1000% Ranged-Melee (Hybrid DPS)"
   }
 ]
