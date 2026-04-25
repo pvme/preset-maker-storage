@@ -1,0 +1,157 @@
+{
+  "presetName": "Dyanne's bank preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "wickedhood"
+    },
+    {
+      "id": "archcape"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "grimgem"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "liferefresh"
+    },
+    {
+      "id": "divinecharge"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundscrolls500"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "summoningrenewal"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "kalg"
+    },
+    {
+      "id": "kalgscrolls500"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "acheronmammoth"
+    },
+    {
+      "id": "mammothscrolls"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": "grimpage10"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
