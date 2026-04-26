@@ -1,0 +1,157 @@
+{
+  "presetName": "Banking Preset: Dyanne",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "archcape"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "merciless"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cryptbloomgloves"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "grimgem"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "spiritsticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundscrolls500"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "divinechargestack"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "summoningrenewal"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "kalgpouch"
+    },
+    {
+      "id": "kalgscrolls500"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "mammoth"
+    },
+    {
+      "id": "mammothscrolls"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": "grimpage10"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
