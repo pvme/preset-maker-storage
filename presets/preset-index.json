@@ -2946,5 +2946,9 @@
   {
     "presetId": "6f69cdbc-db00-46e1-baaf-8ebe80e07438",
     "presetName": "Moss Golems AFK Necro"
+  },
+  {
+    "presetId": "9415c01f-cf22-46f1-89e2-75ad68110bb7",
+    "presetName": "Moss Golems AFK Melee"
   }
 ]
