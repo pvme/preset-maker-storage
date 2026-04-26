@@ -1,0 +1,157 @@
+{
+  "presetName": "Banking Preset: Basic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "archcape"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "wardengloves90"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "archaeologyjournal"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "grimgem"
+    },
+    {
+      "id": "slayermastercape"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperscrolls"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "airrune"
+    },
+    {
+      "id": "scriptureofful"
+    },
+    {
+      "id": "manuscriptofful"
+    },
+    {
+      "id": "kalgpouch"
+    },
+    {
+      "id": "kalgscrolls500"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": "waterrune"
+    },
+    {
+      "id": "scriptureofjas"
+    },
+    {
+      "id": "manuscriptofjas"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "deathrune"
+    },
+    {
+      "id": "bloodrune"
+    },
+    {
+      "id": "divinechargestack"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "spiritsticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
