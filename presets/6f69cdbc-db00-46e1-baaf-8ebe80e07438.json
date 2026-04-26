@@ -1,0 +1,183 @@
+{
+  "presetName": "Moss Golems AFK Necro",
+  "presetNotes": "<div>T100 weapons required off-task.</div><div><br /></div><div>Totem of Vitality :auratotem:, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689530593796423724.webp?v=1\" />, and Boon of Het HP Boosts required.</div>",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "vampyrismgloves"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Meteorite Cannonballs not required."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "BJS - Lost Grove"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4/Impatient 4,Devoted 4"
+    }
+  ],
+  "familiar": {
+    "id": "bunyip"
+  },
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
