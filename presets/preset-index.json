@@ -2962,5 +2962,9 @@
   {
     "presetId": "21cf3f08-41b5-4857-9e56-622ed64db31f",
     "presetName": "arch glacor melee/mage normal prayers"
+  },
+  {
+    "presetId": "ad56e52f-0cd0-4173-9caf-a4cf1e04170e",
+    "presetName": "Banking Preset: Basic"
   }
 ]
