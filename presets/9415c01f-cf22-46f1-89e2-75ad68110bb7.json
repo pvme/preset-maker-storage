@@ -1,0 +1,208 @@
+{
+  "presetName": "Moss Golems AFK Melee",
+  "presetNotes": "<div>Tier 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690136117273821280.webp?v=1\" /> Corbicula rex perk recommended.</div><div><br /></div><div>&gt;97% hit chance use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" />'s auto fire rate set to 1.</div><div><br /></div><div>Totem of Vitality :auratotem:, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689530593796423724.webp?v=1\" />, and Boon of Het HP Boosts required.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "excal"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "powderofprotectionstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Meteorite Cannonballs not required."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "BJS - Lost Grove"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<div>Aftershock 4,Precise 2/Eruptive 4,Ruthless 3</div><div><br /></div><div>Upgrade to :masutaspear: / :dragonriderlance: / :noxscythe: / :tumekenslight: when possible.</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<div>Enhanced Devoted 4/Impatient 4,Devoted 4</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Primal Abyssal Armour Spikes</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "bloodnihil"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "heightenedsenses"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
