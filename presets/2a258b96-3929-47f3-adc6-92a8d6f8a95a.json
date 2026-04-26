@@ -1,0 +1,157 @@
+{
+  "presetName": "Banking Preset: hikaru nara",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "wardenhood90"
+    },
+    {
+      "id": "reefcape"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "flowers"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "rangeshield"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "wardengloves90"
+    },
+    {
+      "id": "wardenboots90"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "spiritsticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "ogrethermal"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "extremeprayer"
+    },
+    {
+      "id": "mammoth"
+    },
+    {
+      "id": "mammothscrolls"
+    },
+    {
+      "id": "liferefresh"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperscrolls"
+    },
+    {
+      "id": "kalgpouch"
+    },
+    {
+      "id": "kalgscrolls500"
+    },
+    {
+      "id": "archcape"
+    },
+    {
+      "id": "magiccape"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
