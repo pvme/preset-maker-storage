@@ -1,0 +1,203 @@
+{
+  "presetName": "Melee Range Amascut Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofpurpleunorn"
+    },
+    {
+      "id": "eofyellowunorn"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "pernixsquiverpurple"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "devourersnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Gloomfire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Blackstone Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Ful arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Soul | Astral | Blood | Body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Mercy (dagger)"
+    }
+  ],
+  "familiar": {
+    "id": "kalgdemon"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "blackstonearrow"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
