@@ -2986,5 +2986,9 @@
   {
     "presetId": "4a8bf975-786a-404a-b829-4449eb9988dc",
     "presetName": "Range Melee Amascut"
+  },
+  {
+    "presetId": "23bac451-4a97-4d49-8ee9-2e3ed2bc1464",
+    "presetName": "Melee Range Amascut Preset"
   }
 ]
