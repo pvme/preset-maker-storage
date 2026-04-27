@@ -2966,5 +2966,9 @@
   {
     "presetId": "ad56e52f-0cd0-4173-9caf-a4cf1e04170e",
     "presetName": "Banking Preset: Basic"
+  },
+  {
+    "presetId": "9a2bf6fb-4118-46f7-bc47-bab4faa8fc3b",
+    "presetName": "AFK Low Level Magic Lampenflora"
   }
 ]
