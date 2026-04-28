@@ -1,0 +1,213 @@
+{
+  "presetName": "Range Telos CA's",
+  "presetNotes": "Replace Weapon poison +++ <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689525476158472288.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/648976643687317532.webp?v=1\" /> with food if using at the bank.",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Ful Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Deathspore Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Cosmic | Astral | Blood | Body (for disruption shield p1)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Wen arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Wen Arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium + x | Enhanced Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Turtling 4+Ultimatum 4 | Devoted 4 + Impatient 4"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
