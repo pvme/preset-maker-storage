@@ -1,0 +1,163 @@
+{
+  "presetName": "Abyssal Beast - Tumeken's Light",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "bandoschest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "quiver"
+    },
+    {
+      "id": "aggressionscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofdefence"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "lantadymesticks100"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "To cast Penance spell"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
