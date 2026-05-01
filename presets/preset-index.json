@@ -3054,5 +3054,9 @@
   {
     "presetId": "7f670b94-09d3-4f9b-bf3d-7a2bbd24838d",
     "presetName": "AFK Low Level Ranged Luminous Snagglers"
+  },
+  {
+    "presetId": "be8d5742-859c-4a2f-9d68-675853060c95",
+    "presetName": "AFK High Level Magic Luminous Snagglers"
   }
 ]
