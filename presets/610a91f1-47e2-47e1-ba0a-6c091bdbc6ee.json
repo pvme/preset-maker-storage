@@ -1,6 +1,6 @@
 {
   "presetName": "Vindicta AFK Melee (60 kph)",
-  "presetNotes": "<div>Pray :deflectmagic:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
+  "presetNotes": "<div>Pray :deflectmagic: and :turmoil:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -9,7 +9,7 @@
       "id": "igneouskalket"
     },
     {
-      "id": "amhej"
+      "id": "aos"
     },
     {
       "id": "masterwork2hsword"
@@ -36,7 +36,7 @@
       "id": "graspingpouchblack"
     },
     {
-      "id": "scriptureofful"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
@@ -134,7 +134,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Any god book will do"
+      "description": "Any GWD3+ god book will do"
     },
     {
       "slotType": "equipment",
