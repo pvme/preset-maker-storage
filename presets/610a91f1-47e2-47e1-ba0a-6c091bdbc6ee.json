@@ -1,6 +1,6 @@
 {
   "presetName": "Vindicta AFK Melee (60 kph)",
-  "presetNotes": "<div>Pray :deflectmagic: and :turmoil:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
+  "presetNotes": "<div>Pray :deflectmagic: and :turmoil:</div><div>Bring runes for :penanceaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -197,7 +197,7 @@
     }
   ],
   "aspect": {
-    "id": "vampyrismaspect"
+    "id": "penanceaspect"
   },
   "ammoSpells": [
     {
