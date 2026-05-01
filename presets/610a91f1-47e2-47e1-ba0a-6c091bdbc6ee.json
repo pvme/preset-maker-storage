@@ -180,6 +180,11 @@
       "slotType": "equipment",
       "slotIndex": 6,
       "description": "<span>Tested with Biting 4 X + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Tested with Enhanced Gloves of Passage"
     }
   ],
   "familiar": {
