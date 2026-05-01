@@ -1,6 +1,6 @@
 {
   "presetName": "Vindicta AFK Melee (60 kph)",
-  "presetNotes": "<div>Pray :soulsplit:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
+  "presetNotes": "<div>Pray :deflectmagic:</div><div>Bring runes for :vampyrismaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -47,7 +47,7 @@
       "id": "ancientshard"
     },
     {
-      "id": "excal"
+      "id": "enhancedexcalibur"
     },
     {
       "id": ""
