@@ -3086,5 +3086,9 @@
   {
     "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
     "presetName": "Vindicta AFK Melee (60 kph)"
+  },
+  {
+    "presetId": "c14c5e37-390c-4039-a769-a461f0ed58fb",
+    "presetName": "Amascut 1k Dps v2"
   }
 ]
