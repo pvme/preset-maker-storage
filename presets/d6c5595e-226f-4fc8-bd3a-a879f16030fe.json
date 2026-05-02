@@ -1,0 +1,178 @@
+{
+  "presetName": "Nex AOD Mage/Melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "runepouch"
+    },
+    {
+      "id": "bluepouch"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "redpouch"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Varanus Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Statius Warhammer (role dependent)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "only dual wield mage for roar spec on slower teams"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "incite fear/venge/disruption shield"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": "abyssalspikesstack"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
