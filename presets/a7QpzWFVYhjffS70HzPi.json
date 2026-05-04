@@ -3,341 +3,176 @@
   "presetNotes": "Normal Spellbook &gt; Crumble Undead",
   "equipmentSlots": [
     {
-      "label": "cryptbloomhelm",
-      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+      "id": "cryptbloomhelm"
     },
     {
-      "label": "kalmej",
-      "image": "https://img.pvme.io/images/v4dRHBk.png",
-      "name": "Igneous Kal-Mej",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+      "id": "igneouskalmej"
     },
     {
-      "label": "salvee",
-      "image": "https://img.pvme.io/images/qbsFxuG.png",
-      "name": "Salve amulet (e)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+      "id": "salveamulet"
     },
     {
-      "label": "roarofawakening",
-      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "Eruptive 4 | Ruthless 3",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+      "id": "roarofawakening"
     },
     {
-      "label": "cryptbloomtop",
-      "image": "https://img.pvme.io/images/SQFVVkgKsw.png",
-      "name": "Cryptbloom top",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top"
+      "id": "cryptbloomtop"
     },
     {
-      "label": "odetodeceit",
-      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "Caroming 4 | Precise 2",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+      "id": "odetodeceit"
     },
     {
-      "label": "subjgown",
-      "image": "https://img.pvme.io/images/OprqhH8.png",
-      "name": "Gown of subjugation",
-      "breakdownNotes": "Undead Slayer | Scavenging 4",
-      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation"
+      "id": "gownofsubjugation"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": "cinderbanes"
     },
     {
-      "label": "cryptbloomboots",
-      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+      "id": "cryptbloomboots"
     },
     {
-      "label": "rod",
-      "image": "https://img.pvme.io/images/y5vAY4M.png",
-      "name": "Ring of death",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+      "id": "rod"
     },
     {
-      "label": "graspingpouchgreen",
-      "image": "https://img.pvme.io/images/fWzGXLF.png",
-      "name": "Grasping rune pouch (green)",
-      "breakdownNotes": "Time | Nature | Air | Earth (Crumble Undead)",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+      "id": "graspingpouchgreen"
     },
     {
-      "label": "vampaura",
-      "image": "https://img.pvme.io/images/JigaLBL.png",
-      "name": "Vampyrism aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
-    },
-    {
-      "label": "scriptureofwen",
-      "image": "https://img.pvme.io/images/zd3mKfH.png",
-      "name": "Scripture of Wen",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+      "id": "scriptureofwen"
     }
   ],
   "inventorySlots": [
     {
-      "label": "springcleaner",
-      "image": "https://img.pvme.io/images/pjHPdhj.png",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "selected": false
+      "id": "springcleaner"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "label": "elvenshard",
-      "image": "https://img.pvme.io/images/UURvGNW.png",
-      "name": "Ancient elven ritual shard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
-      "selected": false
+      "id": "ancientshard"
     },
     {
-      "label": "wrench",
-      "image": "https://img.pvme.io/images/UVffd75.png",
-      "name": "Holy wrench",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
-      "selected": false
+      "id": "holywrench"
     },
     {
-      "label": "slayerwildcard100",
-      "image": "https://img.pvme.io/images/wspoQxZ.png",
-      "name": "Slayer Wildcard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Slayer_Wildcard",
-      "selected": false
+      "id": "wildcardsstack"
     },
     {
-      "label": "1knote",
-      "image": "https://img.pvme.io/images/8r07LbS.png",
-      "name": "Magic notepaper",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
-      "selected": false
+      "id": "notepaperstack"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "poison6",
-      "image": "https://img.pvme.io/images/KyZkJoc.png",
-      "name": "Weapon poison+++ flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
-      "selected": false
+      "id": "poison6"
     },
     {
-      "label": "powderofpenance2",
-      "image": "https://img.pvme.io/images/w6hThUy.png",
-      "name": "Powder of penance",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
-      "selected": false
+      "id": "powderofpenance2"
     },
     {
-      "label": "lantasticks",
-      "image": "https://img.pvme.io/images/LfpiRjg.png",
-      "name": "Lantadyme incense sticks",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
-      "selected": false
+      "id": "lantadymesticks"
     },
     {
-      "label": "kwuarmsticks",
-      "image": "https://img.pvme.io/images/Ba7yju8.png",
-      "name": "Kwuarm incense sticks",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
-      "selected": false
+      "id": "kwuarmsticks"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
+      "id": ""
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "sailfish",
-      "image": "https://img.pvme.io/images/qocLc4k.png",
-      "name": "Sailfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "selected": false
+      "id": "sailfish"
     },
     {
-      "label": "attunedportentofrestorationx",
-      "image": "https://img.pvme.io/images/SRVgAXl.png",
-      "name": "Attuned portent of restoration X",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
-      "selected": false
+      "id": "attunedportentofrestorationx"
     },
     {
-      "label": "oldakcoil",
-      "image": "https://img.pvme.io/images/R4tRepk.png",
-      "name": "Oldak coil",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
-      "selected": false
+      "id": "oldakcoil"
     },
     {
-      "label": "cballs",
-      "image": "https://img.pvme.io/images/GrfjyE2.png",
-      "name": "Cannonballs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cannonballs",
-      "selected": false
+      "id": "cballs"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Eruptive 4 | Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Caroming 4 | Precise 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Undead Slayer | Scavenging 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Time | Nature | Air | Earth (Crumble Undead)"
+    }
+  ],
+  "familiar": {
+    "id": "ripperdemon"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "label": "ripperdemon",
-        "image": "https://img.pvme.io/images/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": ""
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "label": "legendpetscav",
-        "image": "https://img.pvme.io/images/KWIawjY.png",
-        "name": "Legendary Pet (Scavenge)",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
