@@ -3,7 +3,7 @@
   "presetNotes": "Normal Spellbook &gt; Crumble Undead",
   "equipmentSlots": [
     {
-      "id": "cryptbloomhelm"
+      "id": "tumekenmask"
     },
     {
       "id": "igneouskalmej"
@@ -15,19 +15,19 @@
       "id": "roarofawakening"
     },
     {
-      "id": "cryptbloomtop"
+      "id": "tumekenrobetop"
     },
     {
       "id": "odetodeceit"
     },
     {
-      "id": "gownofsubjugation"
+      "id": "tumekenrobebottom"
     },
     {
-      "id": "cinderbanes"
+      "id": "tumekengloves"
     },
     {
-      "id": "cryptbloomboots"
+      "id": "tumekenboots"
     },
     {
       "id": "rod"
@@ -148,21 +148,21 @@
     }
   ],
   "familiar": {
-    "id": "ripperdemon"
+    "id": "ripperpouch"
   },
   "relics": [
     {
-      "id": ""
+      "id": "conservationofenergy"
     },
     {
-      "id": ""
+      "id": "furyofthesmall"
     },
     {
       "id": ""
     }
   ],
   "aspect": {
-    "id": ""
+    "id": "vampyrismaspect"
   },
   "ammoSpells": [
     {
