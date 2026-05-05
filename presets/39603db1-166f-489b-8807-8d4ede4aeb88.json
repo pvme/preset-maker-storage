@@ -1,0 +1,173 @@
+{
+  "presetName": "Amascut 1000% Necromancy (DPS)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "elderovlsalve"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
