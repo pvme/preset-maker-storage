@@ -1,0 +1,173 @@
+{
+  "presetName": "Solak Melee/Mage",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchred"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Legatus Emberstaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Varanus Mercy"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Annihilation"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
