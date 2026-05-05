@@ -3114,5 +3114,9 @@
   {
     "presetId": "25a476eb-10a4-4706-b6d7-93b0b140f77e",
     "presetName": "Solak Melee/Mage"
+  },
+  {
+    "presetId": "407fb24c-130d-4b98-9644-4de8da1a3c29",
+    "presetName": "Scav Skeles Melee"
   }
 ]
