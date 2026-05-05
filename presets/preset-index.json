@@ -3110,5 +3110,9 @@
   {
     "presetId": "39603db1-166f-489b-8807-8d4ede4aeb88",
     "presetName": "Amascut 1000% Necromancy (DPS)"
+  },
+  {
+    "presetId": "25a476eb-10a4-4706-b6d7-93b0b140f77e",
+    "presetName": "Solak Melee/Mage"
   }
 ]
