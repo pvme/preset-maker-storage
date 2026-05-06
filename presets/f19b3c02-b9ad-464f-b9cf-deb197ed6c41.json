@@ -1,0 +1,243 @@
+{
+  "presetName": "Scav Skeles Magic",
+  "presetNotes": "Pray <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1344313901189431296.png?v=1\" /><br /><br />Autocast <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> or <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /> if <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" />\n\nSeasinger's equipment <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/556583076050763776.png?v=1\" /> is optional, 4 piece is used for ports resource crates.\n\n;scrimshawofaggression; increases kph, but can impact profit if not using 4 piece ;seasingershood;",
+  "equipmentSlots": [
+    {
+      "id": "supseasingerhood"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "supseasingerlegs"
+    },
+    {
+      "id": "superiorseasingeraonori"
+    },
+    {
+      "id": "supseasingerboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "aggressionscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "spiritsticks100"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "dustcloudstack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Use on Holy aggroverload.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Can replace with aggroverload if not praying Overcharge.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Optional, for extra profit.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Chaos | Air | Water | Fire<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Make sure to refill familiar with scrolls after each potion reservoir depletes. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 Precise 2 <img title=\"caroming4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img title=\"precise2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img title=\"eq4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />Can be substituted with <img title=\"staffoflimitlessair\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" />  for free <img title=\"airsurge\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 Undead Slayer <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img title=\"undeadslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "This can be unaugmented.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Not important. Can't roll RDT. Any ring with stats is fine.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Blood | Astral | Body | Soul<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can replace with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626412560395.png?v=1\" /><br />"
+    }
+  ],
+  "familiar": {
+    "id": "smokedevil"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathnote"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
