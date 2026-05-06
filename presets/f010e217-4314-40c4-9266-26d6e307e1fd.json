@@ -1,0 +1,178 @@
+{
+  "presetName": "Melee/Range Solo Solak",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblueunorn"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquiveryellow"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Dragon Claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Annihilation"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
