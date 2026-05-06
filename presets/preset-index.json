@@ -3118,5 +3118,9 @@
   {
     "presetId": "407fb24c-130d-4b98-9644-4de8da1a3c29",
     "presetName": "Scav Skeles Melee"
+  },
+  {
+    "presetId": "f19b3c02-b9ad-464f-b9cf-deb197ed6c41",
+    "presetName": "Scav Skeles Magic"
   }
 ]
