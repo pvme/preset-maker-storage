@@ -1,0 +1,233 @@
+{
+  "presetName": "test",
+  "presetNotes": ":powderofpenance:g",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "spiritual"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Dark bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Perked with Aftershock (+Mobile if not on Vestments)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Caroming 1 || Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Very minor damage boost. Can be omitted for more food"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Very minor damage boost. Can be omitted for more food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful + Deathspore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Wen + Deathspore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Enhancement is required for additional hit when flanking"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Any nexus variant works"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Base can substitute for Penance Powder to gain a food slot"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Strongly recommended over Saradomin"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Solids can cause adrenaline issues depending on usage time"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Solids can cause adrenaline issues depending on usage time"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
