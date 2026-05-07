@@ -3126,5 +3126,9 @@
   {
     "presetId": "f010e217-4314-40c4-9266-26d6e307e1fd",
     "presetName": "Melee/Range Solo Solak"
+  },
+  {
+    "presetId": "dd152f92-c15b-48ea-96b9-670b736bf04c",
+    "presetName": "Solak - Duo"
   }
 ]
