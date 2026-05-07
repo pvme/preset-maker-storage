@@ -3134,5 +3134,9 @@
   {
     "presetId": "87dd7f8b-5537-45e5-8feb-fa83ccc74d24",
     "presetName": "test"
+  },
+  {
+    "presetId": "e9a54dfb-892d-4aef-8c6e-877f486fa548",
+    "presetName": "ed3 melee eq"
   }
 ]
