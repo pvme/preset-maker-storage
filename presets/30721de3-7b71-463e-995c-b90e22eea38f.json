@@ -1,0 +1,208 @@
+{
+  "presetName": "ED3 - Melee-Magic",
+  "presetNotes": "eofs : varanus, d2h",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "ed3luckycharm"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "varanus"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "d2h"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Time | Nature | Air | Earth"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "biting4 + undead"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "stickyfingers"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
