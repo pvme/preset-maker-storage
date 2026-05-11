@@ -1,0 +1,203 @@
+{
+  "presetName": "Melee Ripper Demons",
+  "presetNotes": "<div><span>Use ;thermalflask; and Bonfire Boost to increase HP</span></div><div><span><br /></span></div><div><span>Pray ;deflectmelee; and ;malevolence;</span></div><div><span><br /></span></div><div><span>Upkeep </span>;prismofrestoration;<span> to keep </span>;hellhound;<span> alive</span><span></span></div><div><span>\nRefresh ;dwarvensiegeengine; every 24 minutes</span><br /><span></span></div><div><span><br /></span></div><div><span>Manually target any Elite spawns</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "demonslayergloves"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "passageoftheabyss(purple)"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "powderofprotectionstack"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4 + Precise 2 | Eruptive 4 + Ruthless 3"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 + Demon Slayer | Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4 | Impatient 4 + Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood, Astral, Body, Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Death, Earth, Law, Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Chaos, Air, Water, Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "for Games necklace teleport"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
