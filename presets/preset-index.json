@@ -3190,5 +3190,9 @@
   {
     "presetId": "7a290088-48ce-4cd3-a372-1c855301b32f",
     "presetName": "Melee Abyssal Beasts"
+  },
+  {
+    "presetId": "092c33ed-8e68-4392-8457-56a98dd9cbcb",
+    "presetName": "Melee Abyssal Demons"
   }
 ]
