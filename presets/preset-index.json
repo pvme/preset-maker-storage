@@ -3186,5 +3186,9 @@
   {
     "presetId": "f00d5ba8-f3fd-45e0-945d-a5fe9694eba0",
     "presetName": "Melee Armoured Phantoms"
+  },
+  {
+    "presetId": "7a290088-48ce-4cd3-a372-1c855301b32f",
+    "presetName": "Melee Abyssal Beasts"
   }
 ]
