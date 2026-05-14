@@ -3202,5 +3202,9 @@
   {
     "presetId": "5c34d77a-4d4c-43ad-8758-d83ae36ee942",
     "presetName": "Amascut 1000% / 2000% Necromancy (DPS)"
+  },
+  {
+    "presetId": "eb44e784-b04d-4b3c-9cd2-586ae3b4dff8",
+    "presetName": "Rune Dragons (AFK Ranged)"
   }
 ]
