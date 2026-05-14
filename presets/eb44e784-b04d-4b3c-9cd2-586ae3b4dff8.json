@@ -1,0 +1,218 @@
+{
+  "presetName": "Rune Dragons (AFK Ranged)",
+  "presetNotes": "No relics are mandatory, but <img title=\"deathnote\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1023150755093426216.png?v=1\" /> can auto-loot bones (<span>if </span><img title=\"bonecrusher\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344526602240.png?v=1\" /> is off)",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "aosor"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sireniclegs"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "kethsiring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "fellstalksticks100"
+    },
+    {
+      "id": "sixthagecircuit"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "cannon"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "World Gate Teleport (<span>Dial to </span><span>Kethsi)</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can <span>negatively</span> affect prayer restoration"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "For <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> if used"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "If prayer is no issue <span>you c</span><span>an</span><span> </span><span>use </span><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /><span>, </span><img title=\"ripperpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.png?v=1\" /><span> or </span><img title=\"shadownihil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/854475441946230855.png?v=1\" /><span> if downgrading gear</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Cheaper to run than <img title=\"eof\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Can be any strong bow (T90+) with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<img title=\"dragonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502927731163170.png?v=1\" /> Dragon Slayer perk (can be optionally combo'd with <img title=\"impatient\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/848803118706720798.png?v=1\" /> Impatient"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<img title=\"kethsiring\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/937093437881192498.png?v=1\" /> &gt; <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903943601029120.png?v=1\" /> &gt; <img title=\"rod\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Jas dragonbane arrows</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Chaos | Air | Water | Fire<br />"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "jasdragonbanearrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
