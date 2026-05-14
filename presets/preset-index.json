@@ -3206,5 +3206,9 @@
   {
     "presetId": "eb44e784-b04d-4b3c-9cd2-586ae3b4dff8",
     "presetName": "Rune Dragons (AFK Ranged)"
+  },
+  {
+    "presetId": "3df6878a-e484-4588-b56f-599e670add45",
+    "presetName": "Abyssal Lords AFK Melee"
   }
 ]
