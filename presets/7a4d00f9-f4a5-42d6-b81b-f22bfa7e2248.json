@@ -1,0 +1,268 @@
+{
+  "presetName": "Magic Scav Skeles",
+  "presetNotes": "Pray <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1344313901189431296.png?v=1\" />\n\n<span>Superior s</span>easinger's equipment :supseasingershood: is optional, used for ports resource crates.",
+  "equipmentSlots": [
+    {
+      "id": "supseasingershood"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "supseasingersrobebottom"
+    },
+    {
+      "id": "supseasingeraonori"
+    },
+    {
+      "id": "supseasingerasari"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "aggressionscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": "smokedevil"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "dustcloudstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Can replace with aggroverload if not praying </span>;overcharge;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Can replace with aggroverload if not praying </span>;overcharge;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Can replace with aggroverload if not praying </span>;overcharge;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Can replace with aggroverload if not praying </span>;overcharge;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Can replace with aggroverload if not praying ;overcharge;<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Can replace with aggroverload if not praying ;overcharge;<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Make sure to refill familiar with scrolls after each potion reservoir depletes. "
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 :caroming4: Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Eruptive<span> 4 :eruptive4:</span> Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />Can be substituted with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" />  for free :airsurge:<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 :biting4: Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can't roll RDT. Any ring with stats is fine.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can replace with :scriptureofful:<span> at the cost of KPH.</span><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "smokedevil"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathnote"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": "airsurge"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
