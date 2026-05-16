@@ -3250,5 +3250,9 @@
   {
     "presetId": "d8c57856-13d9-436f-9a3d-2f682acf9fca",
     "presetName": "Melee Scav Skeles"
+  },
+  {
+    "presetId": "f86b7479-7657-4f68-817f-1ec72b7f49b4",
+    "presetName": "Magic Scav Skeles"
   }
 ]
