@@ -3266,5 +3266,9 @@
   {
     "presetId": "12b1cb15-8fcf-4cb7-9b51-6419a36c9bb6",
     "presetName": "Preset m/r AoD"
+  },
+  {
+    "presetId": "e08ca97e-709c-4f9a-a539-a9b7fa2327bd",
+    "presetName": "Melee Scav Skeles"
   }
 ]
