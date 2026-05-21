@@ -3286,5 +3286,9 @@
   {
     "presetId": "04689d78-0cb9-4272-8b12-ea78d5cb0bf8",
     "presetName": "ED3 Melee (Equilibrium)"
+  },
+  {
+    "presetId": "918b353d-27bc-447d-9069-eeb40aeb850a",
+    "presetName": "ED1 Ranged"
   }
 ]
