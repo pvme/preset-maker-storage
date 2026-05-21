@@ -1,0 +1,198 @@
+{
+  "presetName": "ED1 Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "minesstack4"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Darkbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Death / Earth / Law / Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Blood / Astral / Body / Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Chaos / Air / Water / Fire"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
