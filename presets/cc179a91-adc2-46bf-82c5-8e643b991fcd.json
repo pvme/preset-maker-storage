@@ -1,0 +1,198 @@
+{
+  "presetName": "Ri q Necromancy Telos",
+  "presetNotes": "Magic 120 cape required to make entangle last 48s.",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "naturerune"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "rod"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "can equip end of p4."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "can use underworld grimoire, may not be as consistent"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "camp ring of death if not."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "any main hand wand (not 2h)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "needed for"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "clear headed 3/4 + turtling 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "runes for disruption shield + any magic combat spell"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
