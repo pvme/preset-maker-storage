@@ -1,9 +1,9 @@
 {
-  "presetName": "Helwyr (Ranged)",
-  "presetNotes": ":desolation: + :splitsoul:<div>:wenarrows:</div>",
+  "presetName": "Ranged GWD2",
+  "presetNotes": ":desolation: + :soulsplit:",
   "equipmentSlots": [
     {
-      "id": "edracolichcoif"
+      "id": "edracocoif"
     },
     {
       "id": "igneouskalxil"
@@ -21,13 +21,13 @@
       "id": ""
     },
     {
-      "id": "edracolichchaps"
+      "id": "edracochaps"
     },
     {
       "id": "edracolichvambs"
     },
     {
-      "id": "edracolichboots"
+      "id": "edracoboots"
     },
     {
       "id": "stalkerring"
@@ -36,15 +36,12 @@
       "id": "pernixquiverred"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
     {
-      "id": "elderovl"
+      "id": "elderoverload"
     },
     {
       "id": "poison1"
@@ -129,46 +126,32 @@
     }
   ],
   "breakdown": [],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
