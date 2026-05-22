@@ -3320,11 +3320,11 @@
     "presetName": "Melee GWD2"
   },
   {
-    "presetId": "ir5qh5mOzqGlniaPL55m",
-    "presetName": "Necro GWD2"
-  },
-  {
     "presetId": "0171ae57-37e0-475e-b5c3-530b3e6430e2",
     "presetName": "Ranged GWD2"
+  },
+  {
+    "presetId": "ir5qh5mOzqGlniaPL55m",
+    "presetName": "Necro GWD2"
   }
 ]
