@@ -1464,10 +1464,6 @@
     "presetName": "AFK Ranged Vindicta"
   },
   {
-    "presetId": "ir5qh5mOzqGlniaPL55m",
-    "presetName": "Helwyr (Necro)"
-  },
-  {
     "presetId": "50f9bcfd-47a0-45b9-bc2c-9b60b75b01fc",
     "presetName": "Abyssal beasts Melee AFK (Sunken Pyramid)"
   },
@@ -3326,5 +3322,9 @@
   {
     "presetId": "Goyk9abT0gLIBvXKLPUW",
     "presetName": "Melee GWD2"
+  },
+  {
+    "presetId": "ir5qh5mOzqGlniaPL55m",
+    "presetName": "Necro GWD2"
   }
 ]
