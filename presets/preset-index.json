@@ -3314,5 +3314,9 @@
   {
     "presetId": "1b16ee08-5e58-4f7f-9115-fe9051c535a7",
     "presetName": "Vyres Melee"
+  },
+  {
+    "presetId": "5c4c0d55-dd71-4779-bcba-9713857dc301",
+    "presetName": "Vyres Magic"
   }
 ]
