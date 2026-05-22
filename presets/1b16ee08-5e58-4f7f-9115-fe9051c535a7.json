@@ -1,0 +1,238 @@
+{
+  "presetName": "Vyres Melee",
+  "presetNotes": "<div>Vestments can be replaced with any melee power armour at the cost kph.</div><div><br />Make sure the tier 2 No Fear perk is active in ROoT.<br /></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "sunspear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "morytanialegs4"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "naturerune"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional, if you care about experience."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can be used if HP is dropping too low.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 X <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>For High Alchemy</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Can be used to deaggro Vyres to setup spawns/lure"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
