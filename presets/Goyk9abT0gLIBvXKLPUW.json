@@ -1,6 +1,6 @@
 {
   "presetName": "Melee GWD2",
-  "presetNotes": "<div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> auto-fire (set to 1)</div>",
+  "presetNotes": "<div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> Familiar auto-fire (set to 1)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -36,9 +36,6 @@
       "id": "nodonspikeharness"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofful"
     }
   ],
@@ -65,7 +62,7 @@
       "id": ""
     },
     {
-      "id": "elderovl"
+      "id": "elderoverload"
     },
     {
       "id": "renewal4"
@@ -122,10 +119,10 @@
       "id": ""
     },
     {
-      "id": "kalg"
+      "id": "kalgpouch"
     },
     {
-      "id": "kalgscrolls100"
+      "id": "kalgscrollsstack"
     }
   ],
   "breakdown": [
@@ -161,50 +158,36 @@
     },
     {
       "slotType": "equipment",
-      "slotIndex": 12,
+      "slotIndex": 11,
       "description": "<br />"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "kalgdemon"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
