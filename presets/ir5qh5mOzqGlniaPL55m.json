@@ -1,5 +1,5 @@
 {
-  "presetName": "Helwyr (Necro)",
+  "presetName": "Necro GWD2",
   "presetNotes": "Pray :ruination:<div>Use of :darkness: is optional</div>",
   "equipmentSlots": [
     {
@@ -36,9 +36,6 @@
       "id": "zemouregalsnexus"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofful"
     }
   ],
@@ -47,13 +44,13 @@
       "id": "poison1"
     },
     {
-      "id": "elderovl"
+      "id": "elderoverload"
     },
     {
       "id": "vulnbombs"
     },
     {
-      "id": "excal"
+      "id": "enhancedexcalibur"
     },
     {
       "id": ""
@@ -145,46 +142,32 @@
       "description": "Blood | Astral | Body | Soul"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
