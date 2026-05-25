@@ -1,0 +1,238 @@
+{
+  "presetName": "Vyres Magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "hoodofsubjugation"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "sunspear"
+    },
+    {
+      "id": "subjgarb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "morytanialegs4"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "bootsofsubjugation"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "yak"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Use your legendary pet as a beast of burden.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Optional, if you care about experience.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Can be used if HP is dropping too low.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Pray Leech Magic Strength <span>:leechmagicstrength: </span>and Soul Split <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<div><div><div>Caroming 4 Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /></div></div><div></div></div><div></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 X <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "For High Alchemy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Can be used to deaggro Vyres to setup spawns/lure</span>"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
