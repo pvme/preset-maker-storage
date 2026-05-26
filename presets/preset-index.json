@@ -3386,5 +3386,9 @@
   {
     "presetId": "2d04a378-b5d9-4bf6-a7e4-7436fad11534",
     "presetName": "Solo AOD Melee-Range"
+  },
+  {
+    "presetId": "0778cb4f-df81-46c4-975b-013685d5a8f1",
+    "presetName": "Raksha Low Effort Melee"
   }
 ]
