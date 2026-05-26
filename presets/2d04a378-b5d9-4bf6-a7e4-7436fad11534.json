@@ -1,0 +1,157 @@
+{
+  "presetName": "Solo AOD Melee-Range",
+  "presetNotes": "bsa also required, insufficient space on ui",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "healother"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
