@@ -1,0 +1,173 @@
+{
+  "presetName": "Golden Daredevil 25/05/2026",
+  "presetNotes": "- Bronze Crossbow + Bronze Bolts\n        - This ensures that you're doing 0 damage to the jelly at Yakamaru\n- Shield can be any Rots shield (Or the highest tier you have)<br />- Blue pouch for Animate Dead<br />- Scripture of Jas can be any scripture (for stats)<br />- Yak/Mammoth should have roughly 8-10 brews + rest Sailfish\n\n- If you do not have Cryptbloom:\n       - Full Starbloom with Ganodermic Legs (Enhanced Devoted 4)\n       - Ward of Subjugation\nThis would be the minimum that we would recommend you bring to the raid to minimise the damage you take.",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": "bronzecrossbow"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "merciless"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cryptbloomgloves"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "blightbolt"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Earth | Death | Blood | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Standard pvm perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Standard pvm perks"
+    }
+  ],
+  "familiar": {
+    "id": "yak"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": "blightbolt"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
