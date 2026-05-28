@@ -1,0 +1,163 @@
+{
+  "presetName": "Melee RoTS",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "shboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "barrowstotems"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "ripperdemon"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
