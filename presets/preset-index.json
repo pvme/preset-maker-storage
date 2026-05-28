@@ -3418,5 +3418,9 @@
   {
     "presetId": "40293e06-4a50-4bd2-975a-bb21c06ce5dd",
     "presetName": "Helwyr (lower upkeep)"
+  },
+  {
+    "presetId": "1a2d26e8-19fe-4633-9d70-e2af7735f4f7",
+    "presetName": "Melee RoTS"
   }
 ]
