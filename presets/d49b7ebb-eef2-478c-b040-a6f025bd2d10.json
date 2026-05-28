@@ -1,0 +1,163 @@
+{
+  "presetName": "Melee RoTS",
+  "presetNotes": "<div><span>:omniguard: and :soulboundlantern: </span><span>are in case you mess up.</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "shboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "barrowstotems"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
