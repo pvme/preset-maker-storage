@@ -1,6 +1,6 @@
 {
   "presetName": "Twin Furies AFK (Magic)",
-  "presetNotes": "<span>Pray<span> </span></span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /><span> </span><span>and<span> </span></span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br /><br />Downgrading will make this method less reliable<br />",
+  "presetNotes": "<span>Pray<span> ;affliction;</span></span><span> </span><span>and<span> </span></span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br /><br />Downgrading will make this method less reliable<br />",
   "equipmentSlots": [
     {
       "id": "elitetectmask"
@@ -24,7 +24,7 @@
       "id": "cryptbloomlegs"
     },
     {
-      "id": "kerapacswristwraps"
+      "id": "cryptbloomgloves"
     },
     {
       "id": "enhancedblastdiff"
@@ -214,7 +214,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "<span>Tested with </span>Absorbative 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/890542428556230666.png?v=1\" />"
+      "description": "<span>Tested with </span>Absorbative 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/890542428556230666.png?v=1\" /> + Crystal Shield 4 ;crystalshield4;"
     },
     {
       "slotType": "equipment",
