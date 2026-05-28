@@ -3434,5 +3434,9 @@
   {
     "presetId": "d49b7ebb-eef2-478c-b040-a6f025bd2d10",
     "presetName": "Melee RoTS"
+  },
+  {
+    "presetId": "0ddcf348-89f3-4dd9-b3af-1ea82fa02ea7",
+    "presetName": "RotS - Melee"
   }
 ]
