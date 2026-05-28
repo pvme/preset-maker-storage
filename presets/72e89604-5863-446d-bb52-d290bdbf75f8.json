@@ -1,15 +1,15 @@
 {
   "presetName": "Twin Furies AFK Ranged",
-  "presetNotes": "Pray ;soulsplit; + ;desolation;<div>Book is **NOT ACTIVE**</div><div>Start in the north-west far corner</div>",
+  "presetNotes": "<span>Pray ONLY </span>;soulsplit;<div>Do NOT activate your book</div>",
   "equipmentSlots": [
     {
-      "id": "cryptbloomhelm"
+      "id": "edracocoif"
     },
     {
       "id": "igneouskalxil"
     },
     {
-      "id": "rangeblood"
+      "id": "eof"
     },
     {
       "id": "bolg"
@@ -21,13 +21,13 @@
       "id": ""
     },
     {
-      "id": "cryptbloomlegs"
+      "id": "edracochaps"
     },
     {
-      "id": "cryptbloomgloves"
+      "id": "edracolichvambs"
     },
     {
-      "id": "enhancedfleet"
+      "id": "edracoboots"
     },
     {
       "id": "stalkerring"
@@ -36,7 +36,7 @@
       "id": "pernixquiverblue"
     },
     {
-      "id": "scriptureofful"
+      "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
@@ -129,7 +129,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": "Tested with Caroming 1 ;caroming1; Precise 6 ;p6; + Aftershock 4 ;as4; Eruptive 2 ;eruptive2;"
+      "description": "Tested with :shardofgenesisessence: + Caroming 1 ;caroming1; Precise 6 ;p6; + Aftershock 4 ;as4; Eruptive 2 ;eruptive2;"
     },
     {
       "slotType": "equipment",
@@ -139,7 +139,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "Tested with Absorbative 4 ;absorbative4; + Crystal Shield 4 ;crystalshield4;"
+      "description": "Tested with Impatient 4 X :impatient4: + Ultimatums 4 X :ultimatums4:"
     },
     {
       "slotType": "equipment",
@@ -149,12 +149,47 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "NOT ACTIVE"
+      "description": "<span>Do NOT activate your book</span>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 8,
-      "description": "Additional prayer restoration"
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Mandatory"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Mandatory</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Runes for ;animatedead;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Runes for </span>;animatedead;"
     }
   ],
   "familiar": {
