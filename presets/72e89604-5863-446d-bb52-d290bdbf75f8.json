@@ -190,6 +190,11 @@
       "slotType": "inventory",
       "slotIndex": 23,
       "description": "<span>Runes for </span>;animatedead;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful Arrows ;fularrow;"
     }
   ],
   "familiar": {
@@ -211,7 +216,7 @@
   },
   "ammoSpells": [
     {
-      "id": "wenarrows"
+      "id": "fularrow"
     },
     {
       "id": ""
