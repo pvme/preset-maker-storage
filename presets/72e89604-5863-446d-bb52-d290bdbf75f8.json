@@ -1,9 +1,9 @@
 {
   "presetName": "Twin Furies AFK Ranged",
-  "presetNotes": "Pray ;soulsplit; + ;desolation;",
+  "presetNotes": "Pray ;soulsplit; + ;desolation;<div>Book is **NOT ACTIVE**</div><div>Start in the north-west far corner</div>",
   "equipmentSlots": [
     {
-      "id": "edracocoif"
+      "id": "cryptbloomhelm"
     },
     {
       "id": "igneouskalxil"
@@ -30,13 +30,13 @@
       "id": "enhancedfleet"
     },
     {
-      "id": "rod"
+      "id": "stalkerring"
     },
     {
       "id": "pernixquiverblue"
     },
     {
-      "id": "scriptureofwen"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
@@ -125,7 +125,38 @@
       "id": ""
     }
   ],
-  "breakdown": [],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested with Caroming 1 ;caroming1; Precise 6 ;p6; + Aftershock 4 ;as4; Eruptive 2 ;eruptive2;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Tested with Biting 4 ;biting4; X + Relentless 5 ;relentless5; Crackling 4 ;crackling4;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Absorbative 4 ;absorbative4; + Crystal Shield 4 ;crystalshield4;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Tested with enchantment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "NOT ACTIVE"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Additional prayer restoration"
+    }
+  ],
   "familiar": {
     "id": "legendpetscav"
   },
