@@ -1,0 +1,223 @@
+{
+  "presetName": "Helwyr (lower upkeep)",
+  "presetNotes": "<div>Prayer: only soulsplit</div><div><br /></div><div>Killtime normally 33.6 or 36.6 seconds. rare deaths.</div><div><br /></div><div>Cape perks recommended/required: def + str</div><div><br /></div><div>Bar: meteor strike, chaos roar, dismember, punish, berserk, rend, overpower, sacrifice, pulverise, assault. </div><div>Timing of sacrifice might need optimisation, currently often triggers when health already near full. </div><div><br /></div><div>Stand in regular spot (1 square north-east of 1 mushroom south of center)</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "aosor"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vampyrismgloves"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "graspingpouchorange"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Melee bonus (no spikes needed)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Either regular or superior, doesn't seem to make a big difference."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "as4e2 + p6l1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "ult4 + eq4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "For uniques, in case of long trips"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Penance runes (body, law, soul, chaos)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "In case of emergency"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "In case of emergency"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Salvage"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Am-hej may work too"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "lucky6 (with/without crystal shield 1) + absorbative 4"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
