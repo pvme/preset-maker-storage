@@ -245,6 +245,16 @@
       "slotType": "equipment",
       "slotIndex": 10,
       "description": "Runes for ;exsang;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Tested with Relentless 5 ;relentless5; Crackling 4 ;crackling4; + Impatient 4 ;impatient4; X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Energising 4 ;energising4; Invigorating 3 ;invig3; + Biting 4 ;biting4; X"
     }
   ],
   "familiar": {
