@@ -149,7 +149,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 3,
-      "description": "For uncommon health drops"
+      "description": "Additional auto-healing"
     },
     {
       "slotType": "inventory",
@@ -182,7 +182,7 @@
     }
   ],
   "aspect": {
-    "id": ""
+    "id": "darkness"
   },
   "ammoSpells": [
     {
