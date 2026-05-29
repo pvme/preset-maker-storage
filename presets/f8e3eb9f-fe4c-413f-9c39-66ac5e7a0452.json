@@ -1,0 +1,198 @@
+{
+  "presetName": "Twin Furies AFK Necromancy",
+  "presetNotes": "<div>Pray :soulsplit: + :ruination:</div>Do NOT activate your book",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": "portentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Tested with Ultimatums 4 ;ultimatums4; Crackling 4 ;crackling4; + Equilibrium 4 ;equilibrium4;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Tested with Aftershock 4 ;as4; Eruptive 2 ;eruptive2;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Impatient 4 ;impatient4; X + Invigorating 4 ;impatient4; X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested with Precise 6 ;p6; Aftershock 1 ;as1;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "For uncommon health drops"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Optional</span>"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
