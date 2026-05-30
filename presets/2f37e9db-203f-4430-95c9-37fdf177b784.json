@@ -1,0 +1,178 @@
+{
+  "presetName": "Zamorak 500% Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "spices"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchgreen"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful | Deathspores"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ":Gloomfirebow:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Fully optional"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
