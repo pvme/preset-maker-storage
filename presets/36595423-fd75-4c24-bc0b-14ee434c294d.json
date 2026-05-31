@@ -1,0 +1,168 @@
+{
+  "presetName": "Zamorak 1000% Group Ranged-Melee (Hybrid)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<span>Gloomfire bow</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<span>Varanus's Mercy</span>"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
