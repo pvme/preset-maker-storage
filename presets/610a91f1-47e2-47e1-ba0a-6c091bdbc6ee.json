@@ -1,6 +1,6 @@
 {
   "presetName": "Vindicta AFK Melee (60 kph)",
-  "presetNotes": "<div>Pray :deflectmagic: and :turmoil:</div><div>Bring runes for :penanceaspect:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
+  "presetNotes": "<div>Pray :deflectmagic: and :turmoil:</div><div>Do *not* activate your god book</div><div>Do *not* use a familiar (legendary pet is ok)</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -129,7 +129,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "Runes for :vampyrismaspect:"
+      "description": "Runes for <span>:penanceaspect:</span>"
     },
     {
       "slotType": "equipment",
@@ -164,22 +164,27 @@
     {
       "slotType": "inventory",
       "slotIndex": 23,
-      "description": "<span>Runes for :vampyrismaspect:</span>"
+      "description": "Runes for <span>:penanceaspect:</span>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 24,
-      "description": "<span>Runes for :vampyrismaspect:</span>"
+      "description": "Runes for <span>:penanceaspect:</span>"
     },
     {
       "slotType": "equipment",
       "slotIndex": 4,
-      "description": "<span>Tested with Biting 4 X + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
+      "description": "<span>Tested with Biting 4 / Equilibrium 4 + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
     },
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "<span>Tested with Biting 4 X + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
+      "description": "<span>Tested with Biting 4 / Equilibrium 4 + Relentless 5 Crackling 4 + Impatient 4 X + Ultimatums 4 X</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
     }
   ],
   "familiar": {
