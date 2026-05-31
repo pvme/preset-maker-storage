@@ -3506,5 +3506,9 @@
   {
     "presetId": "fd2daf1e-7d35-4a12-9ed1-9b42335fffb4",
     "presetName": "Melee (Tetsu) Scav Skeles"
+  },
+  {
+    "presetId": "d5bea91c-d176-4252-af29-62c1e824f64c",
+    "presetName": "Melee (Power Armour) Scav Skeles"
   }
 ]
