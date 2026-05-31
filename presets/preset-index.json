@@ -3068,10 +3068,6 @@
     "presetName": "AFK Necro Liverworts"
   },
   {
-    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
-    "presetName": "Vindicta AFK Melee (60 kph)"
-  },
-  {
     "presetId": "c14c5e37-390c-4039-a769-a461f0ed58fb",
     "presetName": "Amascut 1k Dps v2"
   },
@@ -3474,5 +3470,9 @@
   {
     "presetId": "2f37e9db-203f-4430-95c9-37fdf177b784",
     "presetName": "Zamorak 500% Ranged"
+  },
+  {
+    "presetId": "610a91f1-47e2-47e1-ba0a-6c091bdbc6ee",
+    "presetName": "Vindicta AFK Melee (60 kph)"
   }
 ]
