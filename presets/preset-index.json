@@ -3518,5 +3518,9 @@
   {
     "presetId": "e2f94a22-20cd-41b7-b1b2-da3de2e098b9",
     "presetName": "GWD1 NM AFK Magic"
+  },
+  {
+    "presetId": "2c73d446-37f3-420d-9b8d-db0f3a19c09f",
+    "presetName": "GWD1 NM AFK Ranged"
   }
 ]
