@@ -3522,5 +3522,9 @@
   {
     "presetId": "2c73d446-37f3-420d-9b8d-db0f3a19c09f",
     "presetName": "GWD1 NM AFK Ranged"
+  },
+  {
+    "presetId": "1df551be-8d55-4fa1-87e3-2e801ab62d28",
+    "presetName": "GWD1 NM (AFK Necromancy)"
   }
 ]
