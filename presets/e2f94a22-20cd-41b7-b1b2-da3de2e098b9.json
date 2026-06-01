@@ -1,0 +1,198 @@
+{
+  "presetName": "GWD1 NM AFK Magic",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "hoodofsubjugation"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "obliteration"
+    },
+    {
+      "id": "subjgarb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "gownofsubjugation"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Use at Kril."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Use at Kril."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
