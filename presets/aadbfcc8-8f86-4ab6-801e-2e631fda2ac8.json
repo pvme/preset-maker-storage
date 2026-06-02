@@ -1,6 +1,6 @@
 {
   "presetName": "Melee Ability Bar Testing",
-  "presetNotes": "<div><span><span>Pray ;turmoil;</span></span></div><span><span>NO </span><span>:elderovl: </span><span>/ </span><span>:cinderbanes: / </span><span>:weppoison: / familiar</span></span><div><span><span>God book DISABLED</span></span></div>",
+  "presetNotes": "<div><span>NO :turmoil: / </span><span>:elderovl: </span><span>/ </span><span>:cinderbanes: / </span><span>:weppoison: / familiar</span></div><div><span><span>God book DISABLED</span></span></div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
