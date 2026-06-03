@@ -3622,5 +3622,9 @@
   {
     "presetId": "993b0d90-b808-42f0-b34a-615592417699",
     "presetName": "Raksha Low Effort Melee"
+  },
+  {
+    "presetId": "57ad5549-0627-4b0d-98d6-331313a6a09a",
+    "presetName": "Melee Nex"
   }
 ]
