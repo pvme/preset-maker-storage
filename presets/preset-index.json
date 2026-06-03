@@ -3546,5 +3546,9 @@
   {
     "presetId": "aadbfcc8-8f86-4ab6-801e-2e631fda2ac8",
     "presetName": "Melee Ability Bar Testing"
+  },
+  {
+    "presetId": "3ae41271-04e3-4952-830c-918a5907a87f",
+    "presetName": "Raksha Low Effort Melee"
   }
 ]
