@@ -1,0 +1,208 @@
+{
+  "presetName": "Brid Telos KPH rot",
+  "presetNotes": "can switch out reaver and am-hej for food but p3 may not be as consistent\n\nripper/kalg doesn't matter too much but ripper is probably safer",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "bbcice"
+    },
+    {
+      "id": "elysianspiritshield"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": "pernixquivergreen"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "lengoh"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "clearheaded 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "ecb"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "wen-hydrix"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "spore-hydrix"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "ful-hydrix"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "dbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "gloomfire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "sgb"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "varanus's mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "runes for veng/ds"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
