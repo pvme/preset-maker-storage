@@ -1,0 +1,163 @@
+{
+  "presetName": "Nexmelee",
+  "presetNotes": "runes for mage if bringing it for zaros<div>zgs and claws eof</div><div>aspect can use vamp, penance or none at all</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "bloodnihil"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
