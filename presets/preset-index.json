@@ -2980,10 +2980,6 @@
     "presetName": "AFK Corp Full Vestments V2"
   },
   {
-    "presetId": "7399de7e-0dda-4b40-a177-389c1504f72f",
-    "presetName": "AFK Corp Full Vestments v3"
-  },
-  {
     "presetId": "a2860fb5-c2ae-4cd4-994d-9fb33aa8049f",
     "presetName": "Hm vorkath low effort for Impatient"
   },
@@ -3626,5 +3622,9 @@
   {
     "presetId": "57ad5549-0627-4b0d-98d6-331313a6a09a",
     "presetName": "Melee Nex"
+  },
+  {
+    "presetId": "7399de7e-0dda-4b40-a177-389c1504f72f",
+    "presetName": "AFK Corporeal Beast (Melee)"
   }
 ]
