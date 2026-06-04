@@ -1,6 +1,6 @@
 {
-  "presetName": "AFK Corp Full Vestments v3",
-  "presetNotes": "Pray Soulsplit and Turmoil or Malevolence.",
+  "presetName": "AFK Corporeal Beast (Melee)",
+  "presetNotes": "Pray ;soulsplit; and ;turmoil; / ;malevolence;",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -41,37 +41,52 @@
   ],
   "inventorySlots": [
     {
-      "id": "potionreservoir2"
-    },
-    {
       "id": "potionreservoir"
     },
     {
       "id": "elderovlsalve"
     },
     {
-      "id": "kwuarmsticks100"
-    },
-    {
-      "id": "springcleaner"
-    },
-    {
       "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "kwuarmsticks100"
     },
     {
       "id": "cballs"
     },
     {
-      "id": "kineticcyclone"
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": "ancientshard"
     },
     {
       "id": "enhancedexcalibur"
-    },
-    {
-      "id": "powderofpenance2"
     },
     {
       "id": "notepaperstack"
@@ -89,22 +104,7 @@
       "id": ""
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "springcleaner"
     },
     {
       "id": ""
