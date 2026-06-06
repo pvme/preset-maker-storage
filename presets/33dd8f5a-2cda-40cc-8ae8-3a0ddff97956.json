@@ -1,0 +1,178 @@
+{
+  "presetName": "Amascut 1k Base melee",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "eofblacku"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "elderoverload"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "icebarrage"
+    },
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": "incitefear"
+    }
+  ]
+}
