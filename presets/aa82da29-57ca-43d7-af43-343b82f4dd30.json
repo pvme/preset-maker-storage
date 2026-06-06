@@ -1,0 +1,203 @@
+{
+  "presetName": "Raksha Low Effort Melee",
+  "presetNotes": "<div>Enter instance → :surge: → :surge: → :Prismofrestoration: → :sbsstandards: → :mag120: :vuln:</div><br />Totem of Vitality :vitalitytotem:, :thermalflask:, and Boon of Het HP boosts required.",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "meleeblood"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "graspingpouchblue"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Primal Abyssal Armour Spikes"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "[Equilibrium 4 &gt; Biting 4] + Ultimatums 4/Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Clear Headed 4 + Bulwark 4/Absorbative 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced gloves of passage"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6/Ruthless 1 + Aftershock 4/Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ":mag120: &amp; :strmastercape: required. :defencecape: recommended."
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
