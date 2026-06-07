@@ -3658,5 +3658,9 @@
   {
     "presetId": "cf5618dd-ef78-4729-af37-1425bccb69ee",
     "presetName": "Vyres Ranged"
+  },
+  {
+    "presetId": "518e2812-7e40-4b68-9154-c1203382660e",
+    "presetName": "Melee AFK Vyres"
   }
 ]
