@@ -3662,5 +3662,9 @@
   {
     "presetId": "518e2812-7e40-4b68-9154-c1203382660e",
     "presetName": "Melee AFK Vyres"
+  },
+  {
+    "presetId": "4cf6321f-3e5a-4c43-a1e2-41b57333655e",
+    "presetName": "M/R Base"
   }
 ]
