@@ -3654,5 +3654,9 @@
   {
     "presetId": "93a2ccab-ef5a-4976-ac23-c3c16188334a",
     "presetName": "Vyres Magic"
+  },
+  {
+    "presetId": "cf5618dd-ef78-4729-af37-1425bccb69ee",
+    "presetName": "Vyres Ranged"
   }
 ]
