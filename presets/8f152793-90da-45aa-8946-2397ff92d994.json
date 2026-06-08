@@ -1,0 +1,248 @@
+{
+  "presetName": "Corp no ovl/powder/cannon/scrim, 65-70kph",
+  "presetNotes": "Use your legendary pet to alch battlestaves whenever it's off cooldown if you can be bothered. The pet will NOT loot everything, I've missed 3 sigils and countless bolts/cannon balls from it. Notepaper regen bracelets and spirit shields.\n\nBrief respite and Lesser Bone Shield is used since Rejuvenate is used on my bar for extra healing and restoring Magic levels when corp drains it.\n\nTorva is used for LP bonus and cheaper upkeep. Tetsu can be used for damage reduction if needed. You'll end up around 77% hit chance.",
+  "equipmentSlots": [
+    {
+      "id": "suptetsuhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "mwspear"
+    },
+    {
+      "id": "suptetsubody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "underworldgrimoire4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "torvahelm"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "torvabody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "portsancientbones"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Body/Chaos/Law/Soul Runes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Spirit/Bone Runes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "For Regen bracelets/Spirit Shields/Alchables"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "For RDT salvage (basically not needed)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Free money"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "REPLACE TETSU IN PRESET WITH THIS"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "REPLACE TETSU IN PRESET WITH THIS"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "So I can do my ports whenever I need to"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "REPLACE WITH TORVA (unless dying)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can sub out to blood neck if dying"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6U3/L4E2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equil4/Absorb4 | REPLACE WITH TORVA (unless dying)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Brief Respite 4/Scav 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced for rend"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Need 2 piece vestment, if you want to use silverhawks use vestment helm"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Ring of Retribution if dying. Uses roughly 90-100k charges per kill"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Rune spikes since they're cheap"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Autobank the ashes"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
