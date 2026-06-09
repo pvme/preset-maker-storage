@@ -1,0 +1,163 @@
+{
+  "presetName": "MW Ranged - Nex",
+  "presetNotes": "Should get ~40 KPH. Clearheaded switch on Dracolich chaps.",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "mwrvambraces"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Clearheaded 4 Switch"
+    }
+  ],
+  "familiar": {
+    "id": "shadownihil"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
