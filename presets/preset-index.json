@@ -3682,5 +3682,9 @@
   {
     "presetId": "8103f3dc-c9f2-4587-85f9-70baad055533",
     "presetName": "Hard Clues - Magic"
+  },
+  {
+    "presetId": "dcce0da7-5e5f-4e0c-a706-ee6a6848869c",
+    "presetName": "MW Ranged - Nex"
   }
 ]
