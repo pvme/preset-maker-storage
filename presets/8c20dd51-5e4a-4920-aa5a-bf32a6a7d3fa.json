@@ -3,45 +3,51 @@
   "presetNotes": "Works off-task",
   "equipmentSlots": [
     {
-      "id": ""
+      "id": "cryptbloomhelm"
     },
     {
-      "id": ""
+      "id": "igneouskalzuk"
     },
     {
-      "id": ""
+      "id": "eof"
     },
     {
-      "id": ""
+      "id": "roarofawakening"
     },
     {
-      "id": ""
+      "id": "cryptbloomtop"
     },
     {
-      "id": ""
+      "id": "odetodeceit"
     },
     {
-      "id": ""
+      "id": "cryptbloomlegs"
     },
     {
-      "id": ""
+      "id": "cinderbanes"
     },
     {
-      "id": ""
+      "id": "cryptbloomboots"
     },
     {
-      "id": ""
+      "id": "reaverring"
     },
     {
-      "id": ""
+      "id": "graspingpouchblack"
     },
     {
-      "id": ""
+      "id": "scriptureofwen"
     }
   ],
   "inventorySlots": [
     {
-      "id": ""
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "aggro6"
     },
     {
       "id": ""
@@ -98,16 +104,10 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "graspingpouchpink"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "graspingpouchblue"
     },
     {
       "id": ""
