@@ -56,7 +56,19 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "holyscarab"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "enhancedexcalibur"
     },
     {
       "id": ""
@@ -71,25 +83,13 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "cballs"
     },
     {
-      "id": ""
+      "id": "kwuarmsticks"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "holywrench"
     },
     {
       "id": ""
@@ -110,7 +110,7 @@
       "id": "graspingpouchblue"
     },
     {
-      "id": ""
+      "id": "springcleaner"
     },
     {
       "id": ""
@@ -125,13 +125,49 @@
       "id": ""
     }
   ],
-  "breakdown": [],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Tested with Biting 4 + Relentless 5 Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Tested with Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested with Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Absorbative 4 + Crystal Shield 4"
+    }
+  ],
   "familiar": {
-    "id": ""
+    "id": "holyscarab"
   },
   "relics": [
     {
-      "id": ""
+      "id": "conservationofenergy"
     },
     {
       "id": ""
@@ -141,11 +177,11 @@
     }
   ],
   "aspect": {
-    "id": ""
+    "id": "animatedead"
   },
   "ammoSpells": [
     {
-      "id": ""
+      "id": "bloodbarrage"
     },
     {
       "id": ""
