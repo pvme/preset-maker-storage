@@ -1,0 +1,183 @@
+{
+  "presetName": "Ranged RoTS",
+  "presetNotes": "<div><br /></div><div><div><div><div><div></div></div></div></div></div>",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "barrowstotems"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "enhancedexcalibur"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Deathspore arrows | </span><span>Wen arrow</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Decimation</span><div><div><div></div></div><div></div><div></div><div><div></div></div></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "bunyip"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
