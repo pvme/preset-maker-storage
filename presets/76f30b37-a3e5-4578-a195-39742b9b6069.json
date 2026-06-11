@@ -1,0 +1,218 @@
+{
+  "presetName": "Abyssal beasts Melee AFK",
+  "presetNotes": "Pray ;soulsplit; and ;turmoil; or ;malevolence;\n\n;vampscrim; is not needed if using the level 35 Wilderness location.<div><br /></div><div>;masterwork2hsword; and ;tumekenslight; can use ;scriptureofful; at any location.<br /></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Blood | Astral | Body | Soul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>If using the the Sunken Pyramid.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>If using the level 35 Wilderness location.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>If using the level 35 Wilderness location.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>If using the level 35 Wilderness location.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Use fairy ring code D.K.Q. to access the Glacor Cave for the Stone of Jas </span>:jasboost:<span> boost.\n\n</span><span>If using the level 35 Wilderness location.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Chaos | Air | Water | Fire</span>"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
