@@ -1,0 +1,293 @@
+{
+  "presetName": "Elite Clues",
+  "presetNotes": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span><div><span>- Use meerkats with scrolls</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "wickedhood"
+    },
+    {
+      "id": "globetrotterbackpack"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "sceptreofthegods"
+    },
+    {
+      "id": "globetrotterjacket"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "globetrotterlegs"
+    },
+    {
+      "id": "globetrottergloves"
+    },
+    {
+      "id": "globetrotterboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "quiver"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "activeclue"
+    },
+    {
+      "id": "spade"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "spirittreere-rooter(used)"
+    },
+    {
+      "id": "ringofkinship"
+    },
+    {
+      "id": "desertamulet4"
+    },
+    {
+      "id": "enchantedlyre"
+    },
+    {
+      "id": "skullsceptre"
+    },
+    {
+      "id": "passageoftheabyss(red)"
+    },
+    {
+      "id": "fairyring"
+    },
+    {
+      "id": "spirittreere-rooter"
+    },
+    {
+      "id": "bigbookopiracy"
+    },
+    {
+      "id": "ectophial"
+    },
+    {
+      "id": "davesspellbook"
+    },
+    {
+      "id": "leelasfavour"
+    },
+    {
+      "id": "archaeologyteleport"
+    },
+    {
+      "id": "passageoftheabyss(green)"
+    },
+    {
+      "id": "dorgesh-kaansphere"
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "amuletofnature"
+    },
+    {
+      "id": "rellekatablet"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "archaeologyjournal"
+    },
+    {
+      "id": "capeoflegends"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "<span>Provides unlimited teleports to Daemonheim</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<span>Provides unlimited teleports</span><span> to the Ruins of Uzer and Nardah</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Provides unlimited teleports to the entrance of the Stronghold of Security</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Quick TP -&gt; Jatizso</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<span>Used for getting around Dorgesh-kaan</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant—can be empty, diseased, or fully grown).</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<span>Provides unlimited teleports to</span><span> different districts of Menaphos</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Convert the stack to other portals as needed"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Teleports to Dragonkin Laboratory</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Overgrown Idols | Lava Flow Mine"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Obtained from Pyramid Plunder which has 60 charges for convenience</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span> </span><span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>"
+    }
+  ],
+  "familiar": {
+    "id": "meerkats"
+  },
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "shadowsgrace"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
