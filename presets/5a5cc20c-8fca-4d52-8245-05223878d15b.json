@@ -1,0 +1,168 @@
+{
+  "presetName": "Master Clue Support",
+  "presetNotes": "Don't need outfit, can use Flesh hatcher wars portal instead<br />",
+  "equipmentSlots": [
+    {
+      "id": "volcanictrapperhead"
+    },
+    {
+      "id": "globetrotterbackpack"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "volcanictrapperchest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "volcanictrapperlegguards"
+    },
+    {
+      "id": "volcanictrapperarms"
+    },
+    {
+      "id": "volcanictrapperboots"
+    },
+    {
+      "id": "ringofvitur"
+    },
+    {
+      "id": "quiver"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "toadflaxpotionunf"
+    },
+    {
+      "id": "crushednest"
+    },
+    {
+      "id": "torstolpotionunf"
+    },
+    {
+      "id": "jangerberries"
+    },
+    {
+      "id": "magiclog"
+    },
+    {
+      "id": "elderlogs"
+    },
+    {
+      "id": "rawwildpie"
+    },
+    {
+      "id": "rawshark"
+    },
+    {
+      "id": "blackdragonleather"
+    },
+    {
+      "id": "blackdragonleather"
+    },
+    {
+      "id": "blackdragonleather"
+    },
+    {
+      "id": "decoratedcookingurn(nr)"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": "craftingcape"
+    },
+    {
+      "id": "cookingcape"
+    },
+    {
+      "id": "fishingcape"
+    },
+    {
+      "id": "perfectplus"
+    },
+    {
+      "id": "powerburstofmasterstroke"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "meerkats"
+    },
+    {
+      "id": "meerkatscrolls500"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "activeclue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Cosmic <img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law <img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | Water <img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Not needed"
+    }
+  ],
+  "familiar": {
+    "id": "meerkats"
+  },
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
