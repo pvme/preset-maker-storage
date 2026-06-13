@@ -1,0 +1,228 @@
+{
+  "presetName": "Easy Clues",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "wickedhood"
+    },
+    {
+      "id": "globetrotterbackpack"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "skullsceptre"
+    },
+    {
+      "id": "globetrotterjacket"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "globetrotterlegs"
+    },
+    {
+      "id": "globetrottergloves"
+    },
+    {
+      "id": "globetrotterboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "activeclue"
+    },
+    {
+      "id": "spade"
+    },
+    {
+      "id": "portablefairyring"
+    },
+    {
+      "id": "spirittreere-rooter(used)"
+    },
+    {
+      "id": "passageoftheabyss(red)"
+    },
+    {
+      "id": "explorersring4"
+    },
+    {
+      "id": "mysticalsandseed"
+    },
+    {
+      "id": "amuletofnature"
+    },
+    {
+      "id": "davesspellbook"
+    },
+    {
+      "id": "fairyring"
+    },
+    {
+      "id": "spirittreere-rooter"
+    },
+    {
+      "id": "passageoftheabyss(green)"
+    },
+    {
+      "id": "arcjournal"
+    },
+    {
+      "id": "diskofreturning"
+    },
+    {
+      "id": "archaeologyjournal"
+    },
+    {
+      "id": "capeoflegends"
+    },
+    {
+      "id": "archaeologyteleport"
+    },
+    {
+      "id": "rimmingtontablet"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Can be keybound for faster digging or closing the </span><img title=\"cluescroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1037463867716018206.png?v=1\" /><span> </span><span>interface by clicking the spade in the inventory</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Attuned to Draynor Manor farming patch."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge<br /></span><br />-<img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img title=\"dgcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" />|<img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored<br />- Agility Cape on Anachronia stand<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC - </span><span>The </span><span>World Gate </span><img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span> is relevant for hard clues</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Has the ability to teleport directly to the clue scroll</span><span> location, consuming a charge</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>They can be activated from the inventory or while worn to automatically signal for Uri in place of performing an emote for an emote clue<br /><br />Requires the items or hidey hole to be filled</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Ability to use teleport scrolls that are stored within the arm guards<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<span>Activate for unlimited </span><span>running for a randomly selected duration. Only useful for the set bonus.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | <img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /> | <img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | <img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "shadowsgrace"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
