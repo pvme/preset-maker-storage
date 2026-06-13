@@ -3730,5 +3730,9 @@
   {
     "presetId": "de240f1b-b759-4dc6-8964-795eaacb1c52",
     "presetName": "Medium Clues"
+  },
+  {
+    "presetId": "fadd8c1f-d763-47d8-9fb4-55a45476d1e9",
+    "presetName": "Hard Clues"
   }
 ]
