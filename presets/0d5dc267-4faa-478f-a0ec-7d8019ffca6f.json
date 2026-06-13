@@ -1,0 +1,213 @@
+{
+  "presetName": "Master Clue Main",
+  "presetNotes": "- Use meerkats with scrolls",
+  "equipmentSlots": [
+    {
+      "id": "wickedhood"
+    },
+    {
+      "id": "globetrotterbackpack"
+    },
+    {
+      "id": "gote"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "globetrotterjacket"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "globetrotterlegs"
+    },
+    {
+      "id": "globetrottergloves"
+    },
+    {
+      "id": "globetrotterboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "quiver"
+    },
+    {
+      "id": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "activeclue"
+    },
+    {
+      "id": "spade"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "davesspellbook"
+    },
+    {
+      "id": "passageoftheabyss(red)"
+    },
+    {
+      "id": "arcjournal"
+    },
+    {
+      "id": "bigbookopiracy"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "ectophial"
+    },
+    {
+      "id": "theheartteleport"
+    },
+    {
+      "id": "leelasfavour"
+    },
+    {
+      "id": "passageoftheabyss(green)"
+    },
+    {
+      "id": "desertamulet2"
+    },
+    {
+      "id": "passingbracelet"
+    },
+    {
+      "id": "diskofreturning"
+    },
+    {
+      "id": "teleportseed"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "decoratedcookingurn(nr)"
+    },
+    {
+      "id": "firerune"
+    },
+    {
+      "id": "magiclog"
+    },
+    {
+      "id": "elderlogs"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "fishingcape"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Can be replaced with Book o' Piracy</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<div>Miasma <img title=\"miasmarune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808692087730206.png?v=1\" /> | Bone <img title=\"bonerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808701029982319.png?v=1\" /> | Spirit <img title=\"spiritrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808705362710680.png?v=1\" /> | Flesh <img title=\"fleshrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808695703207967.png?v=1\" /><br /></div><div><br /></div><span>For </span><span>Malignius Mortifer step in the </span><span>City of Um: Teleport incantation. Can be replaced with deathwarden nexus.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>For Philipe Carnillean step in the </span><span>City of Um: Reflection Pool</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<span>For the Life Altar step.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Fire </span><img title=\"firerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" /><span> | Water </span><img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" /><span> | Soul </span><img title=\"soulrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" /><span> | Chaos </span><img title=\"chaosrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659422855188.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<span>Living Rock Caverns | Jadinko Lair</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> Ruthless 1 <img title=\"ruthless1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800924942396.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Biting 4 <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> Mobile <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Deathguard </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138809262194294864.png?v=1\" />"
+    }
+  ],
+  "familiar": {
+    "id": "meerkats"
+  },
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
