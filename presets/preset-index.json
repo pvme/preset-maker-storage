@@ -3726,5 +3726,9 @@
   {
     "presetId": "27903dcd-e398-4a3b-8b71-3975b74148a2",
     "presetName": "Easy Clues"
+  },
+  {
+    "presetId": "de240f1b-b759-4dc6-8964-795eaacb1c52",
+    "presetName": "Medium Clues"
   }
 ]
