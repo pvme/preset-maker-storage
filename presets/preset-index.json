@@ -3746,5 +3746,9 @@
   {
     "presetId": "5a5cc20c-8fca-4d52-8245-05223878d15b",
     "presetName": "Master Clue Support"
+  },
+  {
+    "presetId": "b3f018f3-7f22-4e2a-9f73-80d28d063e84",
+    "presetName": "Dagannoth Kings AFK Ranged"
   }
 ]
