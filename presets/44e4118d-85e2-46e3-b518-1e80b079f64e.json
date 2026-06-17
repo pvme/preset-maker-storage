@@ -1,0 +1,157 @@
+{
+  "presetName": "Duo Zamorak 2000% DPS",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "pernixquiverblue"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "sbrew"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
