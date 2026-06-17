@@ -3762,5 +3762,9 @@
   {
     "presetId": "44e4118d-85e2-46e3-b518-1e80b079f64e",
     "presetName": "Duo Zamorak 2000% DPS"
+  },
+  {
+    "presetId": "42cb0789-24a1-4b73-b5af-cbc3848d415e",
+    "presetName": "Duo Zamorak 2000% Base"
   }
 ]
