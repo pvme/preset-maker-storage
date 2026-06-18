@@ -3778,5 +3778,9 @@
   {
     "presetId": "3741f031-6e49-46a1-8182-837b61e7b47a",
     "presetName": "melee telos"
+  },
+  {
+    "presetId": "d4a91376-9280-4fce-8c6e-6b669e4ae8ad",
+    "presetName": "Dagannoth Kings AFK Ranged"
   }
 ]
