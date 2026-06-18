@@ -1,0 +1,173 @@
+{
+  "presetName": "melee telos",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "divinespiritshield"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Dragon scimitar"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Granite maul"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
