@@ -1,0 +1,208 @@
+{
+  "presetName": "Melee+Ranged Melee start 1K Amascut",
+  "presetNotes": "<span>Should take Ripper Demon if someone is kalging on the team*\nBSA's can also be used.</span><div><span>dbow eof is optional, can substitute gloom bow p4, and p6.</span></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "eofpinku"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "eofgreenunorn"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "devourersnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "gloomfire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "mercy (dagger)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<span>Death | Earth | Law | Cosmic</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<div><div><div>Soul | Astral | Blood | Body</div></div></div><div><div></div></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "ECB"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "120 attack cape*"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Energising 4 invig 3 recommended"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "SWH"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "decimation"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "wenarrows"
+    }
+  ]
+}
