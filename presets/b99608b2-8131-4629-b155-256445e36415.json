@@ -1,0 +1,183 @@
+{
+  "presetName": "melee telos",
+  "presetNotes": "<div>-any legs that can be augmented can be used for the clear headed switch</div><div>-dragon scimitar can be put inside an eof</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "divinespiritshield"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "eofredu"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Clear headed 4 switch"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
