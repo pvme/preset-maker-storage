@@ -1,0 +1,238 @@
+{
+  "presetName": "Zemouregal & Vorkath Range/Melee Flight Skip",
+  "presetNotes": "50 kph preset",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "eofyellowu"
+    },
+    {
+      "id": "eofgreenu"
+    },
+    {
+      "id": "eofblueu"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "gbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "D Claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Precise 6 + Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "ECB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Granite Maul</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Gloomfire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "SGB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Runes for Disruption Shield (camp Lunars)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Ultimatums 4 + Crackling 4<div>Equilibrium 4 + Mobile</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 + Caroming 1<div>Aftershock 4 + Eruptive 2</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Devoted 4 + Genocidal<div>Impatient 4 + Undead Slayer</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<span>Ultimatums 4 + Crackling 4</span><div><span>Equilibrium 4 + Crystal Shield 1</span><span></span></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Enhanced Devoted 4<div>Impatient 4 + Genocidal</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Aftershock 4 + Eruptive 2</span>"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "jasdragonbanearrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
