@@ -3806,5 +3806,9 @@
   {
     "presetId": "104901dd-cef8-48fd-9b01-13a49f04af85",
     "presetName": "Zemouregal & Vorkath Range/Melee Flight Skip"
+  },
+  {
+    "presetId": "be3fcda4-cf1c-4055-b583-3b371a59fc3c",
+    "presetName": "Osseous AFK new"
   }
 ]
