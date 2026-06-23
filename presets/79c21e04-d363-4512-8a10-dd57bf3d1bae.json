@@ -1,0 +1,178 @@
+{
+  "presetName": "range abby beasts in pod",
+  "presetNotes": "13 spots in inv if looting everything\npray prot melee and anguish/malevolence\n2 rune pouches cause lazy, only need 1 with vamp runes\ninspire awe relic for xp, not abyssal link",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "kilnranged"
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "noxbow"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sireniclegs"
+    },
+    {
+      "id": "vampyrismgloves"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cluebag"
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "torstolincensesticks"
+    },
+    {
+      "id": "lantadymesticks100"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Scav 4+looting | enhanced devoted"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "demonslayer 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "jas demonbane arrows"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "lotdrelic"
+    },
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "jasdemonbanearrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
