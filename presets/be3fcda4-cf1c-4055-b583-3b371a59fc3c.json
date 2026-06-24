@@ -1,6 +1,6 @@
 {
-  "presetName": "Osseous AFK new",
-  "presetNotes": "",
+  "presetName": "<span>AFK </span>Osseous (TFN)",
+  "presetNotes": "Can substitute Scarab for Legendary Pet ;legendpetscav; + Penance Powder;penancepowder;",
   "equipmentSlots": [
     {
       "id": "visageofthefirstnecromancer"
@@ -83,7 +83,7 @@
       "id": "holywrench"
     },
     {
-      "id": "lantadymesticks"
+      "id": ""
     },
     {
       "id": ""
@@ -129,32 +129,62 @@
     {
       "slotType": "equipment",
       "slotIndex": 2,
-      "description": "Alternatives: Salve (e)"
+      "description": "Can substitute for Salve Amulet (e) ;salveamulet;"
     },
     {
       "slotType": "equipment",
       "slotIndex": 4,
-      "description": "<span>Undead slayer perk is required on either top or bottom</span>"
+      "description": "<span>Tested with Ultimatums 4 Crackling 4 + Equilibrium 4 ;equilibrium4;</span>"
     },
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "Undead slayer perk is required on either top or bottom"
+      "description": "Tested with Impatient 4 + Invigorating 4 Undead Slayer ;undeadslayerperk;"
     },
     {
       "slotType": "equipment",
       "slotIndex": 9,
-      "description": "Alternatives: Reaver's ring"
+      "description": "Can be substituted for any DPS ring"
     },
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "Used for prayer boost"
+      "description": "<br />"
     },
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Alternatives: Wen"
+      "description": "Can be substituted for any god book (do NOT use Ful)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested with Precise 6"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Tested with Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
     }
   ],
   "familiar": {
