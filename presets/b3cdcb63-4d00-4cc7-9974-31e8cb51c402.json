@@ -1,0 +1,218 @@
+{
+  "presetName": "AFK Osseous (DeathDealer)",
+  "presetNotes": "Can substitute Scarab for Legendary Pet ;legendpetscav; + Penance Powder;penancepowder;",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can substitute for Salve Amulet (e) ;salveamulet;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Tested with Ultimatums 4 Crackling 4 + Equilibrium 4 ;equilibrium4;</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Impatient 4 + Invigorating 4 Undead Slayer ;undeadslayerperk;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can be substituted for any DPS ring"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can be substituted for any god book (do NOT use Ful)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested with Precise 6"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Tested with Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "holyscarab"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
