@@ -3824,11 +3824,11 @@
     "presetName": "Osseous Minimum AFK Update"
   },
   {
-    "presetId": "b3cdcb63-4d00-4cc7-9974-31e8cb51c402",
-    "presetName": "AFK Osseous (DeathDealer)"
-  },
-  {
     "presetId": "be3fcda4-cf1c-4055-b583-3b371a59fc3c",
     "presetName": "AFK Osseous (TFN)"
+  },
+  {
+    "presetId": "b3cdcb63-4d00-4cc7-9974-31e8cb51c402",
+    "presetName": "AFK Osseous (Deathdealer)"
   }
 ]
