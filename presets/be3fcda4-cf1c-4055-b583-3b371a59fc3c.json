@@ -144,7 +144,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 9,
-      "description": "Can be substituted for any DPS ring"
+      "description": "Can substitute for Occultist's Ring ;occulistring; or Reaver's Ring ;reaverring;"
     },
     {
       "slotType": "equipment",
@@ -154,7 +154,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Can be substituted for any god book (do NOT use Ful)"
+      "description": "Can be substituted for Wen ;wenbook; or Jas Books ;jasbook;"
     },
     {
       "slotType": "equipment",
@@ -185,6 +185,16 @@
       "slotType": "inventory",
       "slotIndex": 13,
       "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Optional, rarely needed</span>"
     }
   ],
   "familiar": {
