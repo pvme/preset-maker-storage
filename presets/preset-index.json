@@ -3822,5 +3822,9 @@
   {
     "presetId": "f6d84bc5-e91e-47d7-8900-4c52afc9fdda",
     "presetName": "Osseous AFK Update"
+  },
+  {
+    "presetId": "dae5e0d1-1626-468c-9db2-2d0e847dfa13",
+    "presetName": "Osseous Minimum AFK Update"
   }
 ]
