@@ -3830,5 +3830,9 @@
   {
     "presetId": "b3cdcb63-4d00-4cc7-9974-31e8cb51c402",
     "presetName": "AFK Osseous (Deathdealer)"
+  },
+  {
+    "presetId": "8e2f4e3c-90bf-4f81-9bab-bb41923b29aa",
+    "presetName": "Dagannoth Kings AFK Magic"
   }
 ]
