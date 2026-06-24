@@ -3838,5 +3838,9 @@
   {
     "presetId": "d1e0cad8-6b88-486b-bdd6-5acf4ffce64c",
     "presetName": "AFK Low Level Magic Dagannoth Kings"
+  },
+  {
+    "presetId": "f2d0e538-775b-455d-a61a-0598b0ba6c56",
+    "presetName": "AFK Low Level Melee Dagannoth Kings"
   }
 ]
