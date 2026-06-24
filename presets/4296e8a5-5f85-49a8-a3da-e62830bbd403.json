@@ -1,0 +1,193 @@
+{
+  "presetName": "Kaj's Savages preset",
+  "presetNotes": "Race you",
+  "equipmentSlots": [
+    {
+      "id": "demonslayercirclet"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "conjuresamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "demonslayergloves"
+    },
+    {
+      "id": "demonslayerboots"
+    },
+    {
+      "id": "hsr"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "portableobelisk"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Body | Chaos | Law | Soul (for Penance aspect)"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 - to be checked"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Crackling 4 Relentless 3 | Biting 2 Demon Slayer"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4 | Scavenging 4 Looting"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "No more batta's"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "deathnote"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "slayerintrospection"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
