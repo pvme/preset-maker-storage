@@ -1,5 +1,5 @@
 {
-  "presetName": "AFK Osseous (DeathDealer)",
+  "presetName": "AFK Osseous (Deathdealer)",
   "presetNotes": "Can substitute Scarab for Legendary Pet ;legendpetscav; + Penance Powder;penancepowder;",
   "equipmentSlots": [
     {
@@ -144,7 +144,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 9,
-      "description": "Can be substituted for any DPS ring"
+      "description": "<span>Can substitute for Occultist's Ring </span>;occulistring;<span> or Reaver's Ring </span>;reaverring;"
     },
     {
       "slotType": "equipment",
@@ -154,7 +154,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Can be substituted for any god book (do NOT use Ful)"
+      "description": "<span>Can be substituted for Wen </span>;wenbook;<span> or Jas Books </span>;jasbook;"
     },
     {
       "slotType": "equipment",
@@ -185,6 +185,16 @@
       "slotType": "inventory",
       "slotIndex": 13,
       "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "<span>Optional, rarely needed</span>"
     }
   ],
   "familiar": {
