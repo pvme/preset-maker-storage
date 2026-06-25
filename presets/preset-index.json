@@ -1200,10 +1200,6 @@
     "presetName": "Afk Pthentraken"
   },
   {
-    "presetId": "f36726d8-0754-48c0-98b9-1cb4cee1e204",
-    "presetName": "AFK Pthentraken"
-  },
-  {
     "presetId": "73981dcb-8761-4428-a568-d29176f57647",
     "presetName": "AFK Ranged Liverworts"
   },
@@ -3842,5 +3838,9 @@
   {
     "presetId": "f2d0e538-775b-455d-a61a-0598b0ba6c56",
     "presetName": "AFK Low Level Melee Dagannoth Kings"
+  },
+  {
+    "presetId": "f36726d8-0754-48c0-98b9-1cb4cee1e204",
+    "presetName": "AFK Pthentraken"
   }
 ]
