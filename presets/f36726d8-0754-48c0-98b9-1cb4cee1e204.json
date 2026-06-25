@@ -1,9 +1,9 @@
 {
   "presetName": "AFK Pthentraken",
-  "presetNotes": "On Slayer Task with Helm Upgrades. 99% success chance otherwise.",
+  "presetNotes": "On Dinosaur Slayer Task with Helm Upgrades<div>(99% success chance otherwise)</div>",
   "equipmentSlots": [
     {
-      "id": "edracolichcoif"
+      "id": "edracocoif"
     },
     {
       "id": "igneouskalzuk"
@@ -21,7 +21,7 @@
       "id": ""
     },
     {
-      "id": "edracolichchaps"
+      "id": "edracochaps"
     },
     {
       "id": "cinderbanes"
@@ -36,15 +36,12 @@
       "id": "pernixquiverred"
     },
     {
-      "id": "vampaura"
-    },
-    {
       "id": "scriptureofamascut"
     }
   ],
   "inventorySlots": [
     {
-      "id": "enhancedexcalibur"
+      "id": "potionreservoir2"
     },
     {
       "id": "elderovlsalve"
@@ -63,30 +60,6 @@
     },
     {
       "id": ""
-    },
-    {
-      "id": "ancientshard"
-    },
-    {
-      "id": "elderovlsalve"
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": "springcleaner"
     },
     {
       "id": "powderofpenance2"
@@ -107,7 +80,10 @@
       "id": ""
     },
     {
-      "id": "potionreservoir2"
+      "id": ""
+    },
+    {
+      "id": "enhancedexcalibur"
     },
     {
       "id": ""
@@ -126,6 +102,27 @@
     },
     {
       "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
     }
   ],
   "breakdown": [
@@ -155,46 +152,32 @@
       "description": "Impatient 4 Devoted 4 &amp; Ultimatiums 4"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "persistentrage"
-      },
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "fontoflife"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "holyscarab"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "holyscarab"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
