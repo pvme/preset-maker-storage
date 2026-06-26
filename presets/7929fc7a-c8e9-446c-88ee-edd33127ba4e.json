@@ -1,0 +1,193 @@
+{
+  "presetName": "Range",
+  "presetNotes": "Minimum Range Set Up<div>X= whatever combo perk you want</div><div>T99 Prayer or Shard on main weapon</div>",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Gloomfirebow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "ECB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "SGB"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Enchantment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6C1 &amp; A4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "B4 + X &amp; C4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "I4D4 &amp; U4+X"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": "pernixquiverblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
