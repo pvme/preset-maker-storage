@@ -3870,5 +3870,9 @@
   {
     "presetId": "db30bf5e-0c50-4656-ad43-9dbc1cd63dda",
     "presetName": "Magic (PVM Council)"
+  },
+  {
+    "presetId": "891f0a4a-9514-41e3-8b1c-7bfda4f474b0",
+    "presetName": "Melee (PVM Concil)"
   }
 ]
