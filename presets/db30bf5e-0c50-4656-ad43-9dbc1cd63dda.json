@@ -1,0 +1,228 @@
+{
+  "presetName": "Magic (PVM Council)",
+  "presetNotes": "Minimum Preset<div>Relics - As long as you have CoE, the rest are up to you.<br /><div>X = whatever combo you want. </div><div>T99 Prayer or Shard on Main Weapon</div></div>",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Emberstaff"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6+X &amp; A4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "B4+X &amp; C4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "I4D4 &amp; U4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Enchantment"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "L4+X"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "C4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "."
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "temporalanomaly"
+  },
+  "ammoSpells": [
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
