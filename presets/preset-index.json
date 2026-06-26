@@ -3874,5 +3874,9 @@
   {
     "presetId": "891f0a4a-9514-41e3-8b1c-7bfda4f474b0",
     "presetName": "Melee (PVM Concil)"
+  },
+  {
+    "presetId": "702d19ef-79ba-40c2-b378-5e39e5f3b980",
+    "presetName": "Range (PVM Council)"
   }
 ]
