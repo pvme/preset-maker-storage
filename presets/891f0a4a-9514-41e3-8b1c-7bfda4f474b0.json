@@ -1,0 +1,238 @@
+{
+  "presetName": "Melee (PVM Concil)",
+  "presetNotes": "Minimum Preset for PVM Council<div>For Relics pick whatever ya want after CoE<br /><div>X is whatever other perk you want or Blank</div><div><br /></div></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "D claws or Varanus mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "A4 + X"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "P6 + X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6 + X &amp; A4 + X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "B4 + X &amp; C4 + X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "I4D4 &amp; U4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced with enchantment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "With enchantment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "."
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikesstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
