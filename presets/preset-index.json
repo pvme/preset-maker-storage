@@ -3866,5 +3866,9 @@
   {
     "presetId": "7929fc7a-c8e9-446c-88ee-edd33127ba4e",
     "presetName": "Range"
+  },
+  {
+    "presetId": "db30bf5e-0c50-4656-ad43-9dbc1cd63dda",
+    "presetName": "Magic (PVM Council)"
   }
 ]
