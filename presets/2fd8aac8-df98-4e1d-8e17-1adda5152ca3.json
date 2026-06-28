@@ -1,0 +1,157 @@
+{
+  "presetName": "Low Effort Magister Necromancy 1",
+  "presetNotes": "<div>Relic alternatives:</div><div>Berserker's Fury</div><div>Death ward</div><div>Fury of the Small</div>",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "sparkenhancers"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "ectoplasm"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "bloodreaver"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
