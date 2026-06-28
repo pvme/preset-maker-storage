@@ -1,0 +1,173 @@
+{
+  "presetName": "Low effort magister",
+  "presetNotes": "<span>if you need to downgrade gear</span><span>, using Animate Dead</span><span> with T70</span><span>+ tank boots</span><span>/helm is an option</span><span>.</span>",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "enhancedblastdiff"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "sparkenhancers"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "mhbd"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    },
+    {
+      "id": "keytothecrossing"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
