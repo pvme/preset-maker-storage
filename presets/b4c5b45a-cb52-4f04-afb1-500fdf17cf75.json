@@ -47,13 +47,13 @@
       "id": "adrenrenewal"
     },
     {
-      "id": "vulnbombs"
+      "id": "lengmh"
     },
     {
       "id": "dummy"
     },
     {
-      "id": "lengmh"
+      "id": "bolg"
     },
     {
       "id": "edracocoif"
@@ -80,13 +80,13 @@
       "id": "edracolichhauberk"
     },
     {
-      "id": ""
-    },
-    {
-      "id": "supergrest"
+      "id": "vulnbombs"
     },
     {
       "id": "enhancedexcalibur"
+    },
+    {
+      "id": "supergrest"
     },
     {
       "id": "eofpink"
@@ -95,7 +95,7 @@
       "id": "eofpinkunorn"
     },
     {
-      "id": "bolg"
+      "id": "edracolichvambs"
     },
     {
       "id": "edracochaps"
@@ -116,7 +116,7 @@
       "id": "eofyellowunorn"
     },
     {
-      "id": "edracolichvambs"
+      "id": "eofred"
     },
     {
       "id": "edracoboots"
@@ -133,18 +133,23 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 13,
-      "description": "Dragon Claws"
+      "slotIndex": 25,
+      "description": "Varanus's Mercy"
     },
     {
       "slotType": "inventory",
       "slotIndex": 24,
-      "description": "Eldritch Crossbow"
+      "description": "Dark Bow"
     },
     {
       "slotType": "inventory",
       "slotIndex": 16,
       "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Gloomfire Bow"
     }
   ],
   "familiar": {
