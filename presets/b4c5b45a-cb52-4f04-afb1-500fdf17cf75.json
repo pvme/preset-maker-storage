@@ -1,0 +1,178 @@
+{
+  "presetName": "Duo Melee Ranged Solak",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "eofpinkunorn"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "eofpurpleunorn"
+    },
+    {
+      "id": "eofyellowunorn"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "graspingpouchpurple"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Dragon Claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Annihilation"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
