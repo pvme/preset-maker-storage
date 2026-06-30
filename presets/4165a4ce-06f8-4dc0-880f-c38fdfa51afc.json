@@ -1,0 +1,213 @@
+{
+  "presetName": "Vorago duo nm",
+  "presetNotes": "Remove lantern/deathguard if not bomb tank",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofred"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "greatgunkan"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Aftershock 4 Eruptive 2  |  Precise 6 Ruthless 1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Granite Maul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Energising 4  |  Invigorating 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Aftershock 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4  |  Relentless 5 Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 Mobile  |  Energising 4 Invigorating 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "any arrow, only used for adren gain on dummies"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
