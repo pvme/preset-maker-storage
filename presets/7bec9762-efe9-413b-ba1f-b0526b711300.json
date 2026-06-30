@@ -165,6 +165,11 @@
       "slotType": "equipment",
       "slotIndex": 3,
       "description": "Precise 6 Caroming 1 + Aftershock 4 Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Amascut also works"
     }
   ],
   "familiar": {
