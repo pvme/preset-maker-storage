@@ -1,0 +1,198 @@
+{
+  "presetName": "Shattered Worlds Ranged",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofu"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "pernixquiverred"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "powerburstofacceleration"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Dark Bow / Gloomfire Bow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Jas Dragonbanes + Deathspores"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Ful + Deathspores"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Relentless 5 Crackling 4 + Biting 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 Undead Slayer + Ultimatuns 4 Mobile"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Caroming 1 + Aftershock 4 Eruptive 2"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "jasdragonbanearrow"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
