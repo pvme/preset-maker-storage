@@ -44,28 +44,28 @@
       "id": "elderovlsalve"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
-      "id": "greenblubber"
-    },
-    {
       "id": "superrestore"
     },
     {
-      "id": "superrestore"
+      "id": "poison4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": ""
@@ -188,7 +188,7 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 8,
+      "slotIndex": 1,
       "description": "<span>Super Strength or higher will make kill times quicker</span>"
     },
     {
