@@ -660,10 +660,6 @@
     "presetName": "Undead Boss - Minimum Necro Gear"
   },
   {
-    "presetId": "d50b1a3c-f1f3-4fb0-8f48-43f548f10f64",
-    "presetName": "Undead Boss - Minimum Necro Gear"
-  },
-  {
     "presetId": "IFpNvXQio73YKPaZ1RNb",
     "presetName": "Solo HM Kera Ranged"
   },
@@ -3906,5 +3902,9 @@
   {
     "presetId": "7bec9762-efe9-413b-ba1f-b0526b711300",
     "presetName": "Shattered Worlds Ranged"
+  },
+  {
+    "presetId": "d50b1a3c-f1f3-4fb0-8f48-43f548f10f64",
+    "presetName": "Undead Boss - T70 Necro Gear"
   }
 ]
