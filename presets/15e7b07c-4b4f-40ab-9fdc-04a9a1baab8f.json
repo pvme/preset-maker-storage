@@ -1,0 +1,188 @@
+{
+  "presetName": "Low Effort Magic",
+  "presetNotes": "1. It is assumed you have the Infernal Puzzle Box <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/994189299681607800.png?v=1\" /> toolbelted <span>and t</span><span>he Corrupted slayer helmet is on your Anachronia helmet stand </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/798285340460449792.png?v=1\" /><div>2. You must have the following perks:<br />- <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" /> Demon slayer</div><div>- <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> Biting 4</div><div>- <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" /> Enhanced devoted 4</div>",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "fellstalksticks100"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "bindingcontract200"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "reaverpouch"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<span>Optional for increased spawn chance of elite rippers</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Upgraded with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/869284271674785842.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic <span>- </span><span>Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Blood | Astral | Body | Soul - <span>Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Upgraded with Enchantment of Affliction <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1006481321087991819.png?v=1\" /> and has As4P2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> and E4R3 :eruptive4: <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire - Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />"
+    }
+  ],
+  "familiar": {
+    "id": "bloodreaver"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
