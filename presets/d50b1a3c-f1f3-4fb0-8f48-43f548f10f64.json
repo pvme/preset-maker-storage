@@ -1,5 +1,5 @@
 {
-  "presetName": "Undead Boss - Minimum Necro Gear",
+  "presetName": "Undead Boss - T70 Necro Gear",
   "presetNotes": "",
   "equipmentSlots": [
     {
@@ -34,9 +34,6 @@
     },
     {
       "id": "deathwardennexus"
-    },
-    {
-      "id": ""
     },
     {
       "id": "armagodbook2"
@@ -150,11 +147,6 @@
       "description": "<span>Adding basic perks will help but not necessary</span>"
     },
     {
-      "slotType": "equipment",
-      "slotIndex": 11,
-      "description": "<br />"
-    },
-    {
       "slotType": "inventory",
       "slotIndex": 21,
       "description": "Requires the quest \"Rum Deal\""
@@ -195,46 +187,32 @@
       "description": ""
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "fontoflife"
-      },
-      {
-        "id": "blessingofhet"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": "berserkersfury"
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "bunyip"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "bunyip"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
