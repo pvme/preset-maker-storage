@@ -1,0 +1,233 @@
+{
+  "presetName": "Rathis - T90 gear",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "defencecape"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "masterworkbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "masterworklegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Can swap for Overload :overload: + Super Antipoison :superantipoison:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Adding basic perks will help but not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Super Attack or higher will make kill times quicker</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use soft food and/or :brew: to prevent adrenaline loss when eating"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Swap for Ring of Vigour :ringofvigour: if passive is not unlocked"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Super Strength or higher will make kill times quicker</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Optional; used for extra damage and drop chance. Can swap for Reaper <span>Amulet </span>:reaperneck: or <span>Amulet of </span>Souls :aos:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Optional"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
