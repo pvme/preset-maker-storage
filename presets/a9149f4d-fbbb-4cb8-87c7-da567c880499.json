@@ -1,0 +1,233 @@
+{
+  "presetName": "Stage 1 - Magic Gear",
+  "presetNotes": "Use your strongest damaging spell available and update runes accordingly",
+  "equipmentSlots": [
+    {
+      "id": "tectmask"
+    },
+    {
+      "id": "defencecape"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "obliteration"
+    },
+    {
+      "id": "tectbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tectlegs"
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "rov"
+    },
+    {
+      "id": "runepouch"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "extdefence"
+    },
+    {
+      "id": "extmagic"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "gstaff"
+    },
+    {
+      "id": "pf"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "chaosrune1k"
+    },
+    {
+      "id": "airrune1k"
+    },
+    {
+      "id": "soulrune1k"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Super Defence or higher will reduce the need for food"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Adding basic perks will help but not necessary"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Requires the quest \"Rum Deal\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Requires the quest \"Let Them Eat Pie\""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Super Ranging or higher will make kill times quicker</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use soft food and/or :brew: to prevent adrenaline loss when eating"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Adding basic perks will help but not necessary</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can substitute for Berserker Ring<span> </span>:berserkerring:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "For vulnerability :vuln:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>For vulnerability </span>:vuln:"
+    }
+  ],
+  "familiar": {
+    "id": "bunyip"
+  },
+  "relics": [
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
