@@ -3,379 +3,221 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/iPtkkKN.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
-      "name": "Elite tectonic mask",
-      "breakdownNotes": "",
-      "label": "etectohelm"
+      "id": "tumekenmask"
     },
     {
-      "image": "https://i.imgur.com/jcfkzGn.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "label": "kalzuk"
+      "id": "igneouskalzuk"
     },
     {
-      "image": "https://i.imgur.com/tsyhx6q.png",
-      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy",
-      "name": "Necklace of Salamancy",
-      "breakdownNotes": "",
-      "label": "salamancy"
+      "id": "necklaceofsalamancy"
     },
     {
-      "image": "https://i.imgur.com/kyKIKBC.png",
-      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
-      "name": "Wand of the praesul",
-      "breakdownNotes": "",
-      "label": "pwand"
+      "id": "fsoa"
     },
     {
-      "image": "https://i.imgur.com/NftWcLQ.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
-      "name": "Elite tectonic robe top",
-      "breakdownNotes": "",
-      "label": "etectotop"
+      "id": "tumekenrobetop"
     },
     {
-      "image": "https://i.imgur.com/rvFepeU.png",
-      "wikiLink": "https://runescape.wiki/w/Imperium_core",
-      "name": "Imperium core",
-      "breakdownNotes": "",
-      "label": "core"
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/0TXtWf2.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
-      "name": "Elite tectonic robe bottom",
-      "breakdownNotes": "",
-      "label": "etectolegs"
+      "id": "tumekenrobebottom"
     },
     {
-      "image": "https://i.imgur.com/LutTgCH.png",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "label": "cinder"
+      "id": "tumekengloves"
     },
     {
-      "image": "https://i.imgur.com/KUGqEdN.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
-      "name": "Enhanced blast diffusion boots",
-      "breakdownNotes": "",
-      "label": "enhancedblastdiff"
+      "id": "tumekenboots"
     },
     {
-      "image": "https://i.imgur.com/cnIOClx.png",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "label": "reaverring"
+      "id": "channellersring"
     },
     {
-      "image": "https://i.imgur.com/uMJW8pU.png",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
-      "name": "Pernix's Quiver (Red)",
-      "breakdownNotes": "",
-      "label": "pernixquiverred"
+      "id": "graspingpouchblue"
     },
     {
-      "image": "https://i.imgur.com/5fIllNu.png",
-      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
-      "name": "Maniacal aura",
-      "breakdownNotes": "",
-      "label": "mani"
-    },
-    {
-      "image": "https://i.imgur.com/lPppoD4.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "Grimoire would be slightly better but much higher cost",
-      "label": "scriptureofful"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/AI12yBk.png",
-      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
-      "name": "Fractured Staff of Armadyl",
-      "breakdownNotes": "",
-      "label": "fsoa",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "poison4"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "label": "vulnbombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "image": "https://i.imgur.com/Ba7yju8.png",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
-      "name": "Kwuarm incense sticks",
-      "breakdownNotes": "",
-      "label": "kwuarmsticks",
-      "selected": false
+      "id": "kwuarmsticks"
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/CR06fbn.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
-      "name": "Weapon poison+++ (4)",
-      "breakdownNotes": "",
-      "label": "poison4",
-      "selected": false
+      "id": "springcleaner"
     },
     {
-      "image": "https://i.imgur.com/FVmxMkH.png",
-      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
-      "name": "Blessed flask",
-      "breakdownNotes": "Substitute for 4 restore flasks which go into the blessed flask, Kwuarm incense sticks, reaver and reaver scroll inventory slots.",
-      "label": "blessed",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "blessedflask"
     },
     {
-      "image": "https://i.imgur.com/3uR1o36.png",
-      "wikiLink": "https://runescape.wiki/w/Nature_rune",
-      "name": "Nature rune",
-      "breakdownNotes": "<span>Needed for Entangle</span>",
-      "label": "naturerune1k",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "https://i.imgur.com/pjHPdhj.png",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "label": "springcleaner",
-      "selected": false
+      "id": "naturerune"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>",
-      "label": "graspingpouchblack",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>",
-      "label": "graspingpouchpink",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire - Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield",
-      "label": "graspingpouchblue",
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "image": "",
-      "name": "",
-      "breakdownNotes": "",
-      "label": "",
-      "selected": false
+      "id": ""
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "label": "fontoflife",
-        "energy": 50
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Can substitute for super restore potions"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Needed for Entangle</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Blood | Astral | Body | Soul <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Death | Earth | Law | Cosmic <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can substitute for any GWD3+ book"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Can substitute for Cinderbanes ;cinders;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can substitute for Reaver's ;reaverring; if using Fire spell ;exsang;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire - Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<span>Optional for </span><span>emergencies with </span><span>Frostbite debuff</span>"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "temporalanomaly"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
