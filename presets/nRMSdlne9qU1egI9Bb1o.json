@@ -3,327 +3,181 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "vestmenthood",
-      "image": "https://img.pvme.io/images/EVh5SwD.png",
-      "name": "Vestments of havoc hood",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+      "id": "vestmentsofhavochood"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "salamancy",
-      "image": "https://img.pvme.io/images/tsyhx6q.png",
-      "name": "Necklace of Salamancy",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
+      "id": "necklaceofsalamancy"
     },
     {
-      "label": "lengmh",
-      "image": "https://img.pvme.io/images/wFdHN9C.png",
-      "name": "Dark Shard of Leng",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng"
+      "id": "ezk"
     },
     {
-      "label": "vestmentbody",
-      "image": "https://img.pvme.io/images/E5ptfu6.png",
-      "name": "Vestments of havoc robe top",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+      "id": "vestmentsofhavoctop"
     },
     {
-      "label": "lengoh",
-      "image": "https://img.pvme.io/images/LAVYvrE.png",
-      "name": "Dark Sliver of Leng",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+      "id": ""
     },
     {
-      "label": "vestmentlegs",
-      "image": "https://img.pvme.io/images/mz7GwWF.png",
-      "name": "Vestments of havoc robe bottom",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+      "id": "vestmentsofhavocbottom"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": "cinderbanes"
     },
     {
-      "label": "vestmentboots",
-      "image": "https://img.pvme.io/images/FarIA5V.png",
-      "name": "Vestments of havoc boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+      "id": "vestmentsofhavocboots"
     },
     {
-      "label": "championring",
-      "image": "https://img.pvme.io/images/cc9GxHt.png",
-      "name": "Champion's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
+      "id": "reaverring"
     },
     {
-      "label": "pernixquiverred",
-      "image": "https://img.pvme.io/images/uMJW8pU.png",
-      "name": "Pernix's Quiver (Red)",
-      "breakdownNotes": "Ruby bakriminel bolts (e) | Hydrix bakriminel bolts (e)",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+      "id": "nodonspikeharness"
     },
     {
-      "label": "berserkeraura",
-      "image": "https://img.pvme.io/images/Fme45Ts.png",
-      "name": "Berserker aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Berserker_aura"
-    },
-    {
-      "label": "scriptureofful",
-      "image": "https://img.pvme.io/images/lPppoD4.png",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "Grimoire would be slightly better but much higher cost",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+      "id": "scriptureofful"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "poison4",
-      "image": "https://img.pvme.io/images/CR06fbn.png",
-      "name": "Weapon poison+++ (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
-      "selected": false
+      "id": "poison4"
     },
     {
-      "label": "spear",
-      "image": "https://img.pvme.io/images/uLkJkio.png",
-      "name": "Masterwork spear of annihilation",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "eofor",
-      "image": "https://img.pvme.io/images/xPypDhQ.png",
-      "name": "EoF - Ek-ZekKil",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
-      "selected": false
+      "id": ""
     },
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": "mwspear"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "kwuarmsticks"
     },
     {
-      "selected": false
+      "id": "blessedflask"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "blessed",
-      "image": "https://img.pvme.io/images/FVmxMkH.png",
-      "name": "Blessed flask",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
-      "selected": false
+      "id": ""
     },
     {
-      "label": "kwuarmsticks",
-      "image": "https://img.pvme.io/images/Ba7yju8.png",
-      "name": "Kwuarm incense sticks",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/gDZtYb4.png",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire - Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "springcleaner",
-      "image": "https://img.pvme.io/images/pjHPdhj.png",
-      "name": "Spring cleaner 9001",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
-      "selected": false
+      "id": "springcleaner"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "label": "fontoflife",
-        "energy": 50
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Blood | Astral | Body | Soul <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Chaos | Air | Water | Fire - Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Death | Earth | Law | Cosmic <span>- Runes for Smoke Cloud, Incite Fear, Exsanguinate, Spellbook swap (Standard), Entangle, Spellbook swap (Lunar), Vengeance, and Disruption shield</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
