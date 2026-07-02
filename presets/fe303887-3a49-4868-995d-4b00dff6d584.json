@@ -1,0 +1,178 @@
+{
+  "presetName": "Helwyr AFK Cryptbloom",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cryptbloomgloves"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Crackling 4, Relentless 5, Biting 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4, Energising 4, Invigorating 2"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
