@@ -1,0 +1,157 @@
+{
+  "presetName": "Pthentraken - Basic Guide",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "sirenicmask"
+    },
+    {
+      "id": "rangecape"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "decimation"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sireniclegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "insulatedboots"
+    },
+    {
+      "id": "rov"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "overload"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "bunyip"
+  },
+  "relics": [
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
