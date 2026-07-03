@@ -56,7 +56,7 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "war"
     },
     {
       "id": ""
@@ -130,6 +130,11 @@
       "slotType": "equipment",
       "slotIndex": 9,
       "description": "test it out"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "war never changes"
     }
   ],
   "familiar": {
