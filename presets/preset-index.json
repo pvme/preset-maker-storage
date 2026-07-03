@@ -3832,10 +3832,6 @@
     "presetName": "AFK Low Level Melee Dagannoth Kings"
   },
   {
-    "presetId": "f36726d8-0754-48c0-98b9-1cb4cee1e204",
-    "presetName": "AFK Pthentraken"
-  },
-  {
     "presetId": "d575871a-bd6f-4fc1-842e-4c50b6fcdd3f",
     "presetName": "Sunken Pyramid AFK Melee Elite Profane Scabarites"
   },
@@ -3942,5 +3938,9 @@
   {
     "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
     "presetName": "Look mom i fixed it!st"
+  },
+  {
+    "presetId": "f36726d8-0754-48c0-98b9-1cb4cee1e204",
+    "presetName": "AFK Pthentraken"
   }
 ]
