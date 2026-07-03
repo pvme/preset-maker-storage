@@ -1,5 +1,5 @@
 {
-  "presetName": "Look mom i fixed it!",
+  "presetName": "Look mom i fixed it!st",
   "presetNotes": "gregergergger",
   "equipmentSlots": [
     {
@@ -31,9 +31,6 @@
     },
     {
       "id": "lotd"
-    },
-    {
-      "id": ""
     },
     {
       "id": ""
@@ -135,26 +132,32 @@
       "description": "test it out"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "lotdrelic"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": []
+  "familiar": {
+    "id": ""
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": ""
-      }
-    ],
-    "alternativeFamiliars": []
-  }
+  "relics": [
+    {
+      "id": "lotdrelic"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
