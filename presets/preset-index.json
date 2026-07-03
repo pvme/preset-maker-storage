@@ -596,10 +596,6 @@
     "presetName": "Moss Golems AFK Melee"
   },
   {
-    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
-    "presetName": "Look mom i fixed it!"
-  },
-  {
     "presetId": "ede4b648-493b-4809-ba39-f517f7e3aa83",
     "presetName": "tester"
   },
@@ -3942,5 +3938,9 @@
   {
     "presetId": "fe303887-3a49-4868-995d-4b00dff6d584",
     "presetName": "Helwyr AFK Cryptbloom"
+  },
+  {
+    "presetId": "563964a0-2ddc-47ec-966b-a3f5a3876e37",
+    "presetName": "Look mom i fixed it!st"
   }
 ]
