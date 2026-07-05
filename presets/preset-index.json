@@ -3884,10 +3884,6 @@
     "presetName": "Low Effort Magister Necromancy 1"
   },
   {
-    "presetId": "b4c5b45a-cb52-4f04-afb1-500fdf17cf75",
-    "presetName": "Duo Melee Ranged Solak"
-  },
-  {
     "presetId": "4165a4ce-06f8-4dc0-880f-c38fdfa51afc",
     "presetName": "Vorago duo nm"
   },
@@ -3946,5 +3942,9 @@
   {
     "presetId": "ba006a52-703b-4f49-abd7-20fd5a6fa45a",
     "presetName": "HM Solo Vorkath Necromancy"
+  },
+  {
+    "presetId": "b4c5b45a-cb52-4f04-afb1-500fdf17cf75",
+    "presetName": "Duo Melee Ranged Solak"
   }
 ]
