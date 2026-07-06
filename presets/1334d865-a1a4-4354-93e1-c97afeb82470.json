@@ -1,0 +1,198 @@
+{
+  "presetName": "AFK Low Level Magic Dagannoth Kings",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "dagannothmask"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "mageblood"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "tectbody"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "tectlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "fremmyboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Underworld Grimoire 3/4 :underworldgrimoire4: can be used if needed to bank bones."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "If :dagannothmask: is not owned, use headwear with a magic damage bonus."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Meteorite Cannonballs are not required."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "If :fremmyboots: are not owned, use any footwear with a magic damage bonus."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Can be upgraded."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Can be upgraded."
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
