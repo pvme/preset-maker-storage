@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK Magic Living Wyverns",
+  "presetNotes": ":Kalgpouch: uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.",
+  "equipmentSlots": [
+    {
+      "id": "mwmhat"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "masterworkstaff"
+    },
+    {
+      "id": "mwmrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwmrobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "blastdiffusion"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "portableobelisk"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
