@@ -3994,5 +3994,9 @@
   {
     "presetId": "e083987e-ab15-4c38-89f0-1ceeba5ede64",
     "presetName": "Melee HM Sanctum"
+  },
+  {
+    "presetId": "512c4654-da6d-4b91-b45f-ca8b45358559",
+    "presetName": "AFK Magic Living Wyverns"
   }
 ]
