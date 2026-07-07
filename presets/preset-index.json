@@ -3970,5 +3970,9 @@
   {
     "presetId": "a87263ae-041c-4c26-a77d-604ca91f9ff5",
     "presetName": "Dagannoth Kings AFK Ranged"
+  },
+  {
+    "presetId": "b8be5fab-54b1-4c2f-8aad-5ad6a9fc0a71",
+    "presetName": "AFK Magic Living Wyverns"
   }
 ]
