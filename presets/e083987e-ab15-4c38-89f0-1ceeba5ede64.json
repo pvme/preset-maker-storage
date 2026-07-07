@@ -1,0 +1,198 @@
+{
+  "presetName": "Melee HM Sanctum",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "consecratedkeris"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eoforred"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "lengohbarrows"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Zaros godsword"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Flanking 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Dragon claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<span>Statius's warhammer</span>"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
