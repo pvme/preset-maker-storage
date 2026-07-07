@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK Magic Living Wyverns",
+  "presetNotes": ":Kalgpouch: uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "mageblood"
+    },
+    {
+      "id": "masterworkstaff"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "portableobelisk"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": "emeraldaurora"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
