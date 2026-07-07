@@ -1,0 +1,178 @@
+{
+  "presetName": "Melee Telos GM",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "divinespiritshield"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "achtoteralithbody"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "eofyellow"
+    },
+    {
+      "id": "eofpinkor"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "clear headed 4, turtling 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "varanus's mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "zaros godsword"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "dragon scimitar"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "abyssalspikesstack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
