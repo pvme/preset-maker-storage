@@ -1,0 +1,157 @@
+{
+  "presetName": "Rathis afk",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
