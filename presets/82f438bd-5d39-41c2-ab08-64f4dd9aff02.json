@@ -1,0 +1,168 @@
+{
+  "presetName": "AFK Magic Living Wyverns",
+  "presetNotes": "<div>:Kalgpouch: uses <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.</div><div><br /></div><div>Totem of Vitality :vitalitytotem:, :thermalflask:, and Boon of Het HP boosts required.</div>",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "masterworkstaff"
+    },
+    {
+      "id": "mwmrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "portableobelisk"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
