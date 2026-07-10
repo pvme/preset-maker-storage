@@ -140,7 +140,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 0,
-      "description": "<br />"
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "g"
     }
   ],
   "familiar": {
