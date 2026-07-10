@@ -1660,10 +1660,6 @@
     "presetName": "Magic-Melee HM Sanctum"
   },
   {
-    "presetId": "b6bbf927-136b-4b7d-8045-2c785fa55f01",
-    "presetName": "zuk melee ranged"
-  },
-  {
     "presetId": "bfe5ecd0-6d87-446a-943f-6db0180f3d1f",
     "presetName": "AFK High Level Necro Luminous Snagglers"
   },
@@ -4018,5 +4014,9 @@
   {
     "presetId": "fb67c73d-d9bf-4fe0-ba8e-f56e2282949b",
     "presetName": "AFK Magic Living Wyverns"
+  },
+  {
+    "presetId": "b6bbf927-136b-4b7d-8045-2c785fa55f01",
+    "presetName": "zuk melee ranged"
   }
 ]
