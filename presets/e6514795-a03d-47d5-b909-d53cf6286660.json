@@ -72,7 +72,8 @@
       "id": "amhej"
     },
     {
-      "id": "eoforred"
+      "id": "eoforred",
+      "eof_spec": "Varanus's Mercy"
     },
     {
       "id": "sbrew"
@@ -93,7 +94,8 @@
       "id": "glovesofpassage"
     },
     {
-      "id": "eoforgreen"
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
     },
     {
       "id": "blueblubber"
@@ -114,7 +116,8 @@
       "id": "vestmentsofhavocboots"
     },
     {
-      "id": "eoforblue"
+      "id": "eoforblue",
+      "eof_spec": "Seren godbow"
     },
     {
       "id": "dba"
@@ -130,12 +133,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 17,
-      "description": ""
+      "description": ":gloomfirebow:"
     },
     {
       "slotType": "inventory",
       "slotIndex": 10,
-      "description": "Dragon claws ;dclaws;"
+      "description": ":varanussmercy:"
     },
     {
       "slotType": "inventory",
@@ -146,6 +149,16 @@
       "slotType": "equipment",
       "slotIndex": 0,
       "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ":ecb:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": ":sgb:"
     }
   ],
   "familiar": {
