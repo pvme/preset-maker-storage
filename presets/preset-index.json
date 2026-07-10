@@ -4008,15 +4008,15 @@
     "presetName": "AFK Magic Living Wyverns"
   },
   {
-    "presetId": "e6514795-a03d-47d5-b909-d53cf6286660",
-    "presetName": "Zamorak 1000% Group Ranged-Melee (Hybrid)"
-  },
-  {
     "presetId": "fb67c73d-d9bf-4fe0-ba8e-f56e2282949b",
     "presetName": "AFK Magic Living Wyverns"
   },
   {
     "presetId": "b6bbf927-136b-4b7d-8045-2c785fa55f01",
     "presetName": "zuk melee ranged"
+  },
+  {
+    "presetId": "e6514795-a03d-47d5-b909-d53cf6286660",
+    "presetName": "Zamorak 1000% Group Ranged-Melee (Hybrid)"
   }
 ]
