@@ -33,10 +33,7 @@
       "id": "tokkulzo"
     },
     {
-      "id": "pernixquiverred"
-    },
-    {
-      "id": "vampaura"
+      "id": "pernixsquiverred"
     },
     {
       "id": "scriptureofful"
@@ -71,7 +68,7 @@
       "id": "vitality4"
     },
     {
-      "id": "excal"
+      "id": "enhancedexcalibur"
     },
     {
       "id": "vulnbomb"
@@ -83,7 +80,7 @@
       "id": "bolg"
     },
     {
-      "id": "edracobody"
+      "id": "edracolichhauberk"
     },
     {
       "id": "eofblack"
@@ -107,10 +104,10 @@
       "id": "edracochaps"
     },
     {
-      "id": "eofblacku"
+      "id": "eofblack"
     },
     {
-      "id": "eofpurpleunorn"
+      "id": "eofpurple"
     },
     {
       "id": "eofred"
@@ -128,47 +125,49 @@
       "id": "edracoboots"
     }
   ],
-  "breakdown": [],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": "fontoflife"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Body | Cosmic | Astral | Law"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Blood | Air | Soul | Chaos"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful | Deathspore"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "ripperpouch"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
