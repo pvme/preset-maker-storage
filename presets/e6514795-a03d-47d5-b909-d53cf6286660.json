@@ -135,7 +135,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 10,
-      "description": "Dragon claws"
+      "description": "Dragon claws ;dclaws;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
     }
   ],
   "familiar": {
