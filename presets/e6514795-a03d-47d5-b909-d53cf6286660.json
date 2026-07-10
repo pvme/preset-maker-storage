@@ -9,7 +9,8 @@
       "id": "igneouskalzuk"
     },
     {
-      "id": "eofpinkor"
+      "id": "eofpinkor",
+      "eof_spec": "ECB"
     },
     {
       "id": "bolg"
