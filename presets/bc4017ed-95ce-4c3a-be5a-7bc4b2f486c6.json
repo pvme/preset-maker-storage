@@ -1,0 +1,204 @@
+{
+  "presetName": "Necromancy Gregorovic",
+  "presetNotes": "Pray :ruination:<div><br /><div>Use of :darkness: is optional</div></div>",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eoforblack",
+      "eof_spec": "Death guard (tier 90)"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<span>If </span>:visageofthefirstnecromancer:<span> is not owned use </span>:firstnecrohandwrap:<span> and </span>:firstnecrocrown:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Equilibrium 4 </span>:eq4:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "If :visageofthefirstnecromancer: is not owned use :firstnecrohandwrap: and :firstnecrocrown:"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
