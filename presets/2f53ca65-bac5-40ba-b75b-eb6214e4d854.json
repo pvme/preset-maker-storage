@@ -1,6 +1,6 @@
 {
   "presetName": "Rune Dragons (AFK Ranged)",
-  "presetNotes": "No relics are mandatory, but <img title=\"deathnote\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1023150755093426216.png?v=1\" /> can auto-loot bones (<span>if </span><img title=\"bonecrusher\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344526602240.png?v=1\" /> is off)",
+  "presetNotes": "No relics are mandatory, but <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1023150755093426216.png?v=1\" /> can auto-loot bones (<span>if </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344526602240.png?v=1\" /> is off)<div>:ripperpouch: is optional</div>",
   "equipmentSlots": [
     {
       "id": "edracocoif"
@@ -47,25 +47,40 @@
       "id": "elderovlsalve"
     },
     {
-      "id": "superrestore"
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
       "id": "fellstalksticks100"
     },
     {
-      "id": "sixthagecircuit"
+      "id": "lantadymesticks100"
     },
     {
-      "id": "ancientshard"
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": "enhancedexcalibur"
@@ -80,18 +95,6 @@
       "id": ""
     },
     {
-      "id": "lantadymesticks100"
-    },
-    {
-      "id": "cballs"
-    },
-    {
-      "id": "deathwardennexus"
-    },
-    {
-      "id": "sailfish"
-    },
-    {
       "id": ""
     },
     {
@@ -99,9 +102,6 @@
     },
     {
       "id": ""
-    },
-    {
-      "id": "cluebag"
     },
     {
       "id": "holywrench"
@@ -110,10 +110,10 @@
       "id": "springcleaner"
     },
     {
-      "id": "sailfish"
+      "id": "cluebag"
     },
     {
-      "id": "graspingpouchblack"
+      "id": "cballs"
     },
     {
       "id": "graspingpouchblue"
@@ -122,28 +122,28 @@
       "id": "graspingpouchpink"
     },
     {
-      "id": "cannon"
+      "id": "graspingpouchblack"
     }
   ],
   "breakdown": [
     {
       "slotType": "inventory",
-      "slotIndex": 7,
+      "slotIndex": 9,
       "description": "World Gate Teleport (<span>Dial to </span><span>Kethsi)</span>"
     },
     {
       "slotType": "inventory",
-      "slotIndex": 13,
+      "slotIndex": 3,
       "description": "Can <span>negatively</span> affect prayer restoration"
     },
     {
       "slotType": "inventory",
-      "slotIndex": 24,
+      "slotIndex": 27,
       "description": "Blood | Astral | Body | Soul"
     },
     {
       "slotType": "inventory",
-      "slotIndex": 15,
+      "slotIndex": 7,
       "description": "For <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> if used"
     },
     {
@@ -174,7 +174,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "BIS Ammo for Rune Dragons"
+      "description": "Jas dragonbane arrows"
     },
     {
       "slotType": "inventory",
@@ -185,6 +185,11 @@
       "slotType": "inventory",
       "slotIndex": 25,
       "description": "Chaos | Air | Water | Fire<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Doesn't need to be active. Can substitute for Wen or any GWD1 book."
     }
   ],
   "familiar": {
