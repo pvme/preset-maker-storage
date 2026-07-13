@@ -3108,10 +3108,6 @@
     "presetName": "Amascut 1000% Necromancy (DPS)"
   },
   {
-    "presetId": "2f53ca65-bac5-40ba-b75b-eb6214e4d854",
-    "presetName": "Rune Dragons (AFK Ranged)"
-  },
-  {
     "presetId": "2a88ee5b-f553-424a-9533-def4d60a865e",
     "presetName": "Example"
   },
@@ -4046,5 +4042,9 @@
   {
     "presetId": "15d93ae4-86b7-4770-8022-f0a977083d01",
     "presetName": "Necromancy Gregorovic"
+  },
+  {
+    "presetId": "2f53ca65-bac5-40ba-b75b-eb6214e4d854",
+    "presetName": "Rune Dragons (AFK Ranged)"
   }
 ]
