@@ -1,0 +1,188 @@
+{
+  "presetName": "AFK Ranged Living Wyverns",
+  "presetNotes": "<div>Optionally use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" />'s auto fire rate set to 1.</div><div><br /></div><div>Totem of Vitality :vitalitytotem: and Boon of Het HP Boosts required if using :underworldgrimoire2: and :legendpetscav:.</div>",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "masterworkbow"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "gembag"
+    },
+    {
+      "id": "portableobelisk"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Underworld Grimoire 2/3/4 :underworldgrimoire4: can be used to bank bones."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "For teleporting to level 44 obelisk. Can be replaced by obelisk shard."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "With Enchantment of Shadows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
