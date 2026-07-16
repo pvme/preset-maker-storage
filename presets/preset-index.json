@@ -4070,5 +4070,9 @@
   {
     "presetId": "8648f148-6e86-42e6-8adf-ea40fbfd9f71",
     "presetName": "AFK Ranged Living Wyverns"
+  },
+  {
+    "presetId": "05f77b71-db9e-4645-a0f1-da7f8f9c4a0c",
+    "presetName": "AFK Low Level Magic Dagannoth Kings"
   }
 ]
