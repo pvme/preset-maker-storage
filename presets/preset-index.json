@@ -4090,5 +4090,9 @@
   {
     "presetId": "e199774c-49bc-44b6-b8ec-3506267c598a",
     "presetName": "AFK Melee Dagannoth Kings"
+  },
+  {
+    "presetId": "d84d608b-8382-4609-9f7f-6ff32a9e42e7",
+    "presetName": "Dagannoth Kings AFK Ranged"
   }
 ]
