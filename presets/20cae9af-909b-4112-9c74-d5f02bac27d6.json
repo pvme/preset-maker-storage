@@ -1,0 +1,179 @@
+{
+  "presetName": "AoD Boss of the Week",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eoforblack",
+      "eof_spec": "Death guard (tier 90)"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Use your highest level overload </span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Extra health</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Stores necro runes and ectoplasm</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "If available, Scripture of Amascut or Erethdor's Grimoire."
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
