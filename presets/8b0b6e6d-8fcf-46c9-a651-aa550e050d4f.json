@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK HM Graardor - Melee",
+  "presetNotes": "<span>- Method also requires occasional prism of restoration, for hellhound\n- Scythe was about the same results as T100 EZK, maybe 1-2kph faster</span>",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cryptbloomgloves"
+    },
+    {
+      "id": "cryptbloomboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundscrolls"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
