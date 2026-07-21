@@ -36,9 +36,6 @@
       "id": "graspingpouch"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofbik"
     }
   ],
@@ -181,50 +178,36 @@
     },
     {
       "slotType": "equipment",
-      "slotIndex": 12,
+      "slotIndex": 11,
       "description": "Optional for gathering clues."
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "shadowsgrace"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "mammothpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "packmammoth"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "shadowsgrace"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
