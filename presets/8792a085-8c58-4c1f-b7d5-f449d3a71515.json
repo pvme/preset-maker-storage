@@ -1,0 +1,223 @@
+{
+  "presetName": "Necro - Tier 1",
+  "presetNotes": "Minimum preset<div>Relics - CoE only req<br /><div>X = wahtever combo you want with it</div><div>T99 prayer or Shard</div></div>",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "devourersguard"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Deathguard"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "P6+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "P6 + X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "E4+X &amp; U4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "A4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "I4D4 &amp; Inv4+X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "."
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
