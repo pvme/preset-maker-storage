@@ -1,0 +1,298 @@
+{
+  "presetName": "Orikalka AFK Magic (Full Tumeken's)",
+  "presetNotes": "Pray ;soulsplit; and ;affliction;<div><br /></div><div>Defense cape perk/Max cape/Anachronia skill cape stand for very rare two fissures spawn underneath you</div><div><br /><div>Death note for noting the dinosaur bones automatically picked up by upgraded bonecrusher</div><div><br /></div><div>Tested 6h + with T95 DW - seemed relatively safe but Orikalka needs to die before second Pyroclastic Shock or else you could get unlucky with the fissure spawn and it will kill you. </div><div><br /></div></div>",
+  "equipmentSlots": [
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "defencecape"
+    },
+    {
+      "id": "necklaceofsalamancy"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "bonecrusher"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "For the unlikely event your prayer runs low"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Holy Scarab (no holy scarab in inventory icon for some reason)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Only use if using cryptbloom"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Emergency manual healing"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Runes for Penance aspect</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Death | Earth | Law | Cosmic, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Not required, but makes tanking fissures more afk. Non-attuned portents can be bought on the ge. "
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Chaos | Air | Water | Fire, <span>runes for Animate Dead and Exsanguinate</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 Ultimatums 4 + Aftershock 4 Eruptive 2 <div><span>(You can use Precise 6 Genocide with Crackling 4 Ultimatums 4 on Robe top of Tumeken's if you are on a dinosaur slayer assignment.</span></div><div><span>I have not tested with dinosaur slayer assignment. Orikalka might die too fast and mess with the sunshine's cooldown.)</span></div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Any properly perked offhand T80+ will suffice"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Runes for ;exsang;"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Crackling 4  X (Do NOT use Relentless, it will mess up the kill) + Biting 4 X"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Invigorating 4 X + Impatient 4 Devoted 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Necrotic runes for Debilitate and Resonance with Greater Bone Shield"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Enchantment of metaphysics"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "deathnote"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
