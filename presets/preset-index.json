@@ -4162,5 +4162,9 @@
   {
     "presetId": "ea168444-cb57-46db-a850-4b6156862ddd",
     "presetName": "AFK Ranged Living Wyverns"
+  },
+  {
+    "presetId": "d826cb1b-f6b0-4e99-8192-3d73afeea753",
+    "presetName": "AFK Melee Helwyr"
   }
 ]
