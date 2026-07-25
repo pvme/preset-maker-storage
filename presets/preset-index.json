@@ -4198,5 +4198,9 @@
   {
     "presetId": "975a86d0-7991-44e1-b727-39b55ddd5184",
     "presetName": "Mage Barrows"
+  },
+  {
+    "presetId": "49b35267-1149-4cbc-aab8-ff36440b64ad",
+    "presetName": "AFK Ranged Living Wyverns"
   }
 ]
