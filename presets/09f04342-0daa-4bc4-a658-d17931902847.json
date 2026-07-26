@@ -1,0 +1,178 @@
+{
+  "presetName": "Elite Dungeons botw",
+  "presetNotes": "Bring lucky charms for the elite dungeon that is running",
+  "equipmentSlots": [
+    {
+      "id": "dealerhood80"
+    },
+    {
+      "id": "defencecape"
+    },
+    {
+      "id": "conjuresamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "dealertop80"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "dealerlegs80"
+    },
+    {
+      "id": "dealergloves80"
+    },
+    {
+      "id": "dealerboots80"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superantifire"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "greenblubber"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "ed3luckycharm"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<span>Use your highest level overload </span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Extra health</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<span>Stores necro runes and ectoplasm</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Ful, Amascut, Wen"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "blessingofhet"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
