@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK Melee Vindicta",
+  "presetNotes": "<div>Totem of Vitality :vitalitytotem: required.</div><div><br /></div>Enhanced :glovesofpassage: required.",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "bandoschest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bandostassets"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "bandosboots"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
