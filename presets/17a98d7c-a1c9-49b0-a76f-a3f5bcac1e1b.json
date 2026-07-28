@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK Melee Helwyr HM",
+  "presetNotes": "<div>Totem of Vitality :vitalitytotem: and Boon of Het HP Boosts required..</div><div><br /></div><div>Enhanced :glovesofpassage: required.</div><div><br /></div><div>Tier 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690136117374484508.webp?v=1\" /> Malletops Perk required.</div>",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "hellhoundpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
