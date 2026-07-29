@@ -1,0 +1,157 @@
+{
+  "presetName": "AFK Vindi Equilibrium/Iron Friendly",
+  "presetNotes": "<div><span>- IMPORTANT: 120 Strength cape perk in Max Cape</span></div>- Necro top: Equilibrium 4, Ultimatums 4 (crackling does not affect setup)<div>- Unaugmented legs to save divine charges<br /><div><div>- Spring cleaner 3000+ set to dismantle all (uses no springs)/alch mode</div><div>- Luck of the Dwarves (i), Reaper Crew bonuses active</div><div>- Masterwork 2H Sword: Precise 6, Eruptive 4</div></div></div><div>- Pray Leech Melee Strength + Deflect Magic</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bandostassets"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "underworldgrimoire4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grimgem"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
