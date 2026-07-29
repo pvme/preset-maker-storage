@@ -4238,5 +4238,9 @@
   {
     "presetId": "36af278b-6dfb-4f20-bd88-bcec372ec191",
     "presetName": "AFK Vindi Equilibrium/Iron Friendly"
+  },
+  {
+    "presetId": "f38e2c08-2f32-4290-9bb7-ee4eafb8e47c",
+    "presetName": "AFK Melee Helwyr HM"
   }
 ]
