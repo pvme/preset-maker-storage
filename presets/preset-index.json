@@ -4230,5 +4230,9 @@
   {
     "presetId": "3f56cedd-d08c-4ebd-9f03-63a502c3a3d1",
     "presetName": "ED1 Melee/Ranged"
+  },
+  {
+    "presetId": "e927f5b7-ed7a-427f-9fa6-fb56f1e9401f",
+    "presetName": "AFK Melee Helwyr HM"
   }
 ]
