@@ -1,0 +1,161 @@
+{
+  "presetName": "ED1 Melee/Ranged",
+  "presetNotes": "- Pink EOF: Eldritch crossbow<div>- Blue EOF: Seren godbow</div><div>- Green EOF: Gloomfire bow</div><div>- Red EOF: Varanus Mercy</div><div><br /></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiverblack"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eofpinkor",
+      "eof_spec": "ECB"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "eoforblue",
+      "eof_spec": "Seren godbow"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "minesstack"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "adrenrenewalflask"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "eoforred",
+      "eof_spec": "Varanus's Mercy"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
