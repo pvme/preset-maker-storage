@@ -4246,5 +4246,9 @@
   {
     "presetId": "6b5a1831-66c2-4082-ad68-5a9370195e00",
     "presetName": "ED1 Melee/Ranged"
+  },
+  {
+    "presetId": "77ed3fb5-68e8-4990-9250-82b98cd54a01",
+    "presetName": "AoD Perfect Necro Base"
   }
 ]
