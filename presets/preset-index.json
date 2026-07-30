@@ -4254,5 +4254,9 @@
   {
     "presetId": "e2205e8c-3e59-45b6-8803-9d8247a46f41",
     "presetName": "AoD Perfect Melee/Mage"
+  },
+  {
+    "presetId": "5d94d63e-560a-4848-a59e-e9df8ddfc07e",
+    "presetName": "AoD Pefect Melee/Range"
   }
 ]
