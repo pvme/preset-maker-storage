@@ -4250,5 +4250,9 @@
   {
     "presetId": "77ed3fb5-68e8-4990-9250-82b98cd54a01",
     "presetName": "AoD Perfect Necro Base"
+  },
+  {
+    "presetId": "e2205e8c-3e59-45b6-8803-9d8247a46f41",
+    "presetName": "AoD Perfect Melee/Mage"
   }
 ]
