@@ -1,0 +1,157 @@
+{
+  "presetName": "AoD Perfect Necro Base",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "yak"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
