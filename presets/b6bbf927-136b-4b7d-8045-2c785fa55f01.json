@@ -104,13 +104,13 @@
       "id": "edracochaps"
     },
     {
-      "id": "eofblack"
+      "id": "eoforblack"
     },
     {
       "id": "eofpurple"
     },
     {
-      "id": "eofred"
+      "id": "eoforblue"
     },
     {
       "id": "supersara"
@@ -140,6 +140,36 @@
       "slotType": "equipment",
       "slotIndex": 10,
       "description": "Ful | Deathspore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Dragon 2H"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Varanus's Mercy/Dragon Claws"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Seren Godbow"
     }
   ],
   "familiar": {
