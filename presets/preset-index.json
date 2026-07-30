@@ -4258,5 +4258,9 @@
   {
     "presetId": "5d94d63e-560a-4848-a59e-e9df8ddfc07e",
     "presetName": "AoD Pefect Melee/Range"
+  },
+  {
+    "presetId": "b9df1bdb-7dfa-4b13-9833-4794facdab37",
+    "presetName": "AoD Perfect Melee Camp"
   }
 ]
