@@ -1,0 +1,157 @@
+{
+  "presetName": "AoD Perfect Melee Camp",
+  "presetNotes": "Can replace Am-hej with EoF camp",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
