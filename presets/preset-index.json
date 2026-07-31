@@ -4262,5 +4262,9 @@
   {
     "presetId": "b6bbf927-136b-4b7d-8045-2c785fa55f01",
     "presetName": "zuk melee ranged"
+  },
+  {
+    "presetId": "22c77832-5d2d-4603-b199-061c674c9f93",
+    "presetName": "AFK Melee Helwyr HM"
   }
 ]
