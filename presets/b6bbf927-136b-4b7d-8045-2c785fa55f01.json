@@ -1,6 +1,6 @@
 {
   "presetName": "zuk melee ranged",
-  "presetNotes": "",
+  "presetNotes": "Notes",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -170,6 +170,11 @@
       "slotType": "inventory",
       "slotIndex": 23,
       "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Salve"
     }
   ],
   "familiar": {
