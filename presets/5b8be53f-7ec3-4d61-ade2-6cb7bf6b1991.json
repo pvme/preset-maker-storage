@@ -1,0 +1,157 @@
+{
+  "presetName": "Beast AFK",
+  "presetNotes": "Pouchissa penance runet<br />",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "noxscythe"
+    },
+    {
+      "id": "bandoschest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bandostassets"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "bandosboots"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "ripperpouch"
+    },
+    {
+      "id": "grenwallspikes"
+    },
+    {
+      "id": "pureessence1noted"
+    },
+    {
+      "id": "grimydwarfweed1noted"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "crystalkeynoted"
+    },
+    {
+      "id": "eliteclues"
+    },
+    {
+      "id": "grimyavantoe1noted"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "onyxboltse"
+    },
+    {
+      "id": "grimytoadflax1noted"
+    },
+    {
+      "id": "grimyirit1noted"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "wildernesssword"
+    },
+    {
+      "id": "crimsoncharm1"
+    },
+    {
+      "id": "bluecharm1"
+    },
+    {
+      "id": "abyssalflesh"
+    },
+    {
+      "id": "grimycadantine1noted"
+    },
+    {
+      "id": "grimylantadyme1noted"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
