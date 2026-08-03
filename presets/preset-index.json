@@ -4326,5 +4326,9 @@
   {
     "presetId": "8365aa1b-b4a7-4fe0-8b15-a12e7488dd8c",
     "presetName": "AoD Perfect Melee Camp"
+  },
+  {
+    "presetId": "cc5793e3-afa6-449d-bd36-b31b535f7c49",
+    "presetName": "Basic One Ticks"
   }
 ]
