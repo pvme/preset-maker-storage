@@ -1,0 +1,164 @@
+{
+  "presetName": "AoD Perfect Melee/Mage",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superprayerrenewal"
+    },
+    {
+      "id": "eoforred",
+      "eof_spec": "Varanus's Mercy"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kerapacswristwraps"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "elitetectmask"
+    },
+    {
+      "id": "elitetectbody"
+    },
+    {
+      "id": "elitetectlegs"
+    },
+    {
+      "id": "enhancedblastdiff"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<div>:varanussmercy:<span> is preferred but can replace with </span>:dragonclaw:<span> </span>:dragonclawoh:</div>"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
