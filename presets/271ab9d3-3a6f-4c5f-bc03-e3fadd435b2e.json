@@ -1,0 +1,195 @@
+{
+  "presetName": "Bolg Ranged Nex",
+  "presetNotes": "<div>Mobile perk should be combo'd with either Biting 4 or Ultimatums 4</div><div>Aftershock is not good with Precise here as it can proc on the Umbra phase transition and proc bolg passive</div>",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpinkor",
+      "eof_spec": "ECB"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "grimgem"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Clearheaded 4 Switch"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Optional for Reaper Tasks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 + Ruthless 1 | Caroming 4 + Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 + x | Energising 4 + Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Ultimatums 4 + x | Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Clearheaded 4 switch"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
