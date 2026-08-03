@@ -1,0 +1,167 @@
+{
+  "presetName": "AoD Pefect Melee/Range",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superprayerrenewal"
+    },
+    {
+      "id": "eoforred",
+      "eof_spec": "Varanus's Mercy"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "eoforblue",
+      "eof_spec": "Seren godbow"
+    },
+    {
+      "id": "eofpurple",
+      "eof_spec": "Decimation"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "pernixsquiver"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": ":varanussmercy:<span> is preferred but can replace with </span>:dragonclaw:<span> </span>:dragonclawoh:"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
