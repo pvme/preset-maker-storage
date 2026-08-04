@@ -1,385 +1,178 @@
 {
-  "presetName": "Necro MT / Free / Hammer",
+  "presetName": "AoD - Necromancy MT / Free / Hammer",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "firstnecrocrown"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofblack",
-      "image": "https://img.pvme.io/images/iZw3Uee.png",
-      "name": "EoF - Death guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Death_guard"
+      "id": "eofblack"
     },
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "t95necrogloves",
-      "image": "https://img.pvme.io/images/8zjLczG.png",
-      "name": "Hand wrap of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+      "id": "firstnecrohandwrap"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+      "id": "reaverring"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "mahj",
-      "image": "https://img.pvme.io/images/br11PCq.png",
-      "name": "Mahjarrat aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
-    },
-    {
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
-      "selected": false
+      "id": "accel4"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/gDZtYb4.png",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "label": "spiritual",
-      "image": "https://img.pvme.io/images/PFLToHh.png",
-      "name": "Spiritual prayer (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
-      "selected": false
+      "id": "spiritual"
     },
     {
-      "label": "spiritual",
-      "image": "https://img.pvme.io/images/PFLToHh.png",
-      "name": "Spiritual prayer (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
-      "selected": false
+      "id": "spiritual"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "swh",
-      "image": "https://img.pvme.io/images/buKTnb1.png",
-      "name": "Superior Statius's warhammer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Superior_statius_warhammer",
-      "selected": false
+      "id": "swh"
     },
     {
-      "label": "pwand",
-      "image": "https://img.pvme.io/images/kyKIKBC.png",
-      "name": "Wand of the praesul",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
-      "selected": false
+      "id": "praeswand"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "skulllanternt90",
-      "image": "https://img.pvme.io/images/nEI3w2n.png",
-      "name": "Skull lantern (tier 90)",
-      "breakdownNotes": "Flanking 4<br />",
-      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
-      "selected": false
+      "id": "skulllantern90"
     },
     {
-      "label": "spices",
-      "image": "https://img.pvme.io/images/GNzR4sU.png",
-      "name": "Expensive spices",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
-      "selected": false
+      "id": "spices"
     },
     {
-      "selected": false
+      "id": ""
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/xXWYCHG.png",
-        "name": "Berserkers Fury",
-        "breakdownNotes": "",
-        "label": "berserkersfury",
-        "energy": 250
-      },
-      {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "label": "fontoflife",
-        "energy": 50
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "label": "deathward",
-        "energy": 150
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Flanking 4<br />"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": "",
-        "label": "ripperdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
