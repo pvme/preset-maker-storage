@@ -4360,11 +4360,11 @@
     "presetName": "AoD - Necromancy Base with rangers"
   },
   {
-    "presetId": "yWAydOcln6bSkHBcYk7b",
-    "presetName": "AoD - Duo/Trio (basic)"
-  },
-  {
     "presetId": "rCepvqR0quPCbcRKqfDq",
     "presetName": "AoD - Duo/Trio (advanced)"
+  },
+  {
+    "presetId": "yWAydOcln6bSkHBcYk7b",
+    "presetName": "AoD - Duo/Trio (basic)"
   }
 ]
