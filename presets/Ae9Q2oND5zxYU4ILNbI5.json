@@ -1,398 +1,184 @@
 {
-  "presetName": "Necro Araxxor",
+  "presetName": "Araxxor - Necromancy",
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "firstnecrocrown"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofblack",
-      "image": "https://img.pvme.io/images/iZw3Uee.png",
-      "name": "EoF - Death guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Death_guard"
+      "id": "eoforblack",
+      "eof_spec": "Death guard (tier 90)"
     },
     {
-      "label": "mhchaoticcbow",
-      "image": "https://img.pvme.io/images/rmpD7AL.png",
-      "name": "Chaotic crossbow",
-      "breakdownNotes": "Caroming 4 | Used for Hydrix Greater Ricochet on Dummy in Phase 4<br /><br />Used to force Araxxor to spawn as a Magic based variant. <br />",
-      "wikiLink": "https://runescape.wiki/w/Chaotic_crossbow"
+      "id": "chaoticcbowmh"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "t95necrogloves",
-      "image": "https://img.pvme.io/images/8zjLczG.png",
-      "name": "Hand wrap of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+      "id": "firstnecrohandwrap"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+      "id": "reaverring"
     },
     {
-      "label": "pernixquiver",
-      "image": "https://img.pvme.io/images/b3geFp8.png",
-      "name": "Pernix's Quiver",
-      "breakdownNotes": "Hydrix Bolts | Ful Arrows",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+      "id": "pernixsquiver"
     },
     {
-      "label": "invigorate",
-      "image": "https://img.pvme.io/images/vJcDHSH.png",
-      "name": "Supreme invigorate aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Supreme_invigorate_aura"
-    },
-    {
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard",
-      "selected": false
+      "id": "omniguard"
     },
     {
-      "label": "dummy",
-      "image": "https://img.pvme.io/images/Dgtgp4n.png",
-      "name": "Combat dummy MKII",
-      "breakdownNotes": "Two are needed for bottom path, otherwise bring one.",
-      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
-      "selected": false
+      "id": "dummy"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "accel4",
-      "image": "https://img.pvme.io/images/I6HFjyN.png",
-      "name": "Powerburst of acceleration (4)",
-      "breakdownNotes": "Only used for top path skip.",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
-      "selected": false
+      "id": "accel4"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
-      "selected": false
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "spices",
-      "image": "https://img.pvme.io/images/GNzR4sU.png",
-      "name": "Expensive spices",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
-      "selected": false
+      "id": "spices"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false
+      "id": "grest"
     },
     {
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false
+      "id": "grest"
     },
     {
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false
+      "id": "grest"
     },
     {
-      "label": "grest",
-      "image": "https://img.pvme.io/images/iXpGYQo.png",
-      "name": "Guthix rest",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
-      "selected": false
+      "id": "grest"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Fire | Blood | Astral | Body",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "https://i.imgur.com/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "label": "shadowsgrace",
-        "energy": 50
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Two are needed for bottom path, otherwise bring one."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Only used for top path skip."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Fire | Blood | Astral | Body"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 | Used for Hydrix Greater Ricochet on Dummy in Phase 4<br /><br />Used to force Araxxor to spawn as a Magic based variant. <br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Hydrix Bolts | Ful Arrows"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
