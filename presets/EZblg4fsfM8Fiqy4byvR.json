@@ -3,399 +3,169 @@
   "presetNotes": "",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "firstnecrocrown"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofblack",
-      "image": "https://img.pvme.io/images/iZw3Uee.png",
-      "name": "EoF - Death guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Death_guard"
+      "id": "eoforblack",
+      "eof_spec": "Death guard (tier 90)"
     },
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "t95necrogloves",
-      "image": "https://img.pvme.io/images/8zjLczG.png",
-      "name": "Hand wrap of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+      "id": "firstnecrohandwrap"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "reaverring",
-      "image": "https://img.pvme.io/images/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+      "id": "reaverring"
     },
     {
-      "label": "pernixquiver",
-      "image": "https://img.pvme.io/images/b3geFp8.png",
-      "name": "Pernix's Quiver",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+      "id": "pernixsquiver"
     },
     {
-      "label": "mahj",
-      "image": "https://img.pvme.io/images/br11PCq.png",
-      "name": "Mahjarrat aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
-    },
-    {
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "label": "spiritual",
-      "image": "https://img.pvme.io/images/PFLToHh.png",
-      "name": "Spiritual prayer (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
-      "selected": false
+      "id": "spiritual"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "gbrew",
-      "image": "https://img.pvme.io/images/dPf2fLt.png",
-      "name": "Super Guthix brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
-      "selected": false
+      "id": "gbrew"
     },
     {
-      "label": "pouch",
-      "image": "https://img.pvme.io/images/lBTTP01.png",
-      "name": "Large rune pouch",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch",
-      "selected": false
+      "id": "runepouch"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemoregal's Nexus",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
-      "selected": false
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "lengmh",
-      "image": "https://img.pvme.io/images/wFdHN9C.png",
-      "name": "Dark Shard of Leng",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
-      "selected": false
+      "id": "lengmh"
     },
     {
-      "label": "edracolichcoif",
-      "image": "https://img.pvme.io/images/S1sjGOu.png",
-      "name": "Elite Dracolich coif",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
-      "selected": false
+      "id": "edracocoif"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "pouchblue",
-      "image": "https://img.pvme.io/images/yh8LZY1.png",
-      "name": "Large rune pouch (blue)",
-      "breakdownNotes": "Blood | Astral | Body",
-      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch_(blue)",
-      "selected": false
+      "id": "bluepouch"
     },
     {
-      "label": "flank",
-      "image": "https://img.pvme.io/images/e79LetS.png",
-      "name": "Flanking perk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Flanking_perk",
-      "selected": false
+      "id": "flank"
     },
     {
-      "label": "bolg",
-      "image": "https://img.pvme.io/images/GkhQHSj.png",
-      "name": "Bow of the Last Guardian",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
-      "selected": false
+      "id": "bolg"
     },
     {
-      "label": "edracolichhauberk",
-      "image": "https://img.pvme.io/images/M5jOHR3.png",
-      "name": "Elite Dracolich hauberk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
-      "selected": false
+      "id": "edracolichhauberk"
     },
     {
-      "label": "eofblackunorn",
-      "image": "https://img.pvme.io/images/jRuWtdl.png",
-      "name": "EoF - Statius's warhammer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Statius%27s_warhammer",
-      "selected": false
+      "id": "eofblack",
+      "eof_spec": "Statius's warhammer"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "pouchblack",
-      "image": "https://img.pvme.io/images/IDV9Fny.png",
-      "name": "Large rune pouch (black)",
-      "breakdownNotes": "Air | Death | Earth",
-      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch_(black)",
-      "selected": false
+      "id": "blackpouch"
     },
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "label": "bbc",
-      "image": "https://img.pvme.io/images/6IMR311.png",
-      "name": "Blightbound crossbow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blightbound_crossbow",
-      "selected": false
+      "id": "bbc"
     },
     {
-      "label": "edracolichchaps",
-      "image": "https://img.pvme.io/images/VGqlhJd.png",
-      "name": "Elite Dracolich chaps",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
-      "selected": false
+      "id": "edracochaps"
     },
     {
-      "label": "eofblue",
-      "image": "https://img.pvme.io/images/zAiXkJn.png",
-      "name": "EoF - Seren godbow",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
-      "selected": false
+      "id": "eoforblue",
+      "eof_spec": "Seren godbow"
     },
     {
-      "label": "vitality4",
-      "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "label": "dummy",
-      "image": "https://img.pvme.io/images/Dgtgp4n.png",
-      "name": "Combat dummy MKII",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
-      "selected": false
+      "id": "dummy"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/xXWYCHG.png",
-        "name": "Berserkers Fury",
-        "breakdownNotes": "",
-        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
-        "label": "berserkersfury",
-        "energy": 250
-      },
-      {
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "description": "Increases maximum health by 500.",
-        "label": "fontoflife",
-        "energy": 50
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Blood | Astral | Body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Air | Death | Earth"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/4oLwaZJ.png",
-        "name": "Kal'gerion Demon",
-        "breakdownNotes": "",
-        "label": "kalgdemon"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "hydrixbakri"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
 }
