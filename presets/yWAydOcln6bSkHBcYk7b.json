@@ -1,407 +1,173 @@
 {
-  "presetName": "Aod duo/trio basic",
+  "presetName": "AoD - Duo/Trio (basic)",
   "presetNotes": "<br />",
   "equipmentSlots": [
     {
-      "image": "https://i.imgur.com/mOp3i6V.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
-      "name": "Deathdealer hood (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathdealerhoodt90"
+      "id": "deathdealerhoodt90"
     },
     {
-      "image": "https://i.imgur.com/bIV6C4o.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
-      "name": "Igneous Kal-Mor",
-      "breakdownNotes": "",
-      "label": "kalmor"
+      "id": "igneouskalmor"
     },
     {
-      "image": "https://i.imgur.com/iZw3Uee.png",
-      "wikiLink": "https://runescape.wiki/w/Statius_warhammer",
-      "name": "EoF - Statius warhammer",
-      "breakdownNotes": "",
-      "label": "eofblack"
+      "id": "eofblack"
     },
     {
-      "image": "https://i.imgur.com/tosZimW.png",
-      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
-      "name": "Death guard (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathguardt90"
+      "id": "deathguard90"
     },
     {
-      "image": "https://i.imgur.com/iKWW3ZF.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
-      "name": "Deathdealer robe top (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathdealerrobetopt90"
+      "id": "deathdealerrobetopt90"
     },
     {
-      "image": "https://i.imgur.com/nEI3w2n.png",
-      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
-      "name": "Skull lantern (tier 90)",
-      "breakdownNotes": "",
-      "label": "skulllanternt90"
+      "id": "skulllantern90"
     },
     {
-      "image": "https://i.imgur.com/AjOaaB7.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)",
-      "name": "Deathdealer robe bottom (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathdealerrobebottomt90"
+      "id": "deathdealerrobebottomt90"
     },
     {
-      "image": "https://i.imgur.com/olAlTZ8.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_90)",
-      "name": "Deathdealer gloves (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathdealerglovest90"
+      "id": "deathdealerglovest90"
     },
     {
-      "image": "https://i.imgur.com/ixeiTn3.png",
-      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
-      "name": "Deathdealer boots (tier 90)",
-      "breakdownNotes": "",
-      "label": "deathdealerbootst90"
+      "id": "deathdealerbootst90"
     },
     {
-      "image": "https://i.imgur.com/EGVLuFE.png",
-      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring",
-      "name": "Zorgoth's soul ring",
-      "breakdownNotes": "",
-      "label": "zorgothssoulring"
+      "id": "zorgothsring"
     },
     {
-      "image": "https://i.imgur.com/hd7YvA4.png",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "name": "Deathwarden Nexus",
-      "breakdownNotes": "",
-      "label": "deathwardennexus"
+      "id": "deathwardennexus"
     },
     {
-      "image": "https://i.imgur.com/a3Up2sd.png",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "",
-      "label": "equilibriumaura"
-    },
-    {
-      "image": "https://i.imgur.com/FLYAOEf.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
-      "name": "Scripture of Jas",
-      "breakdownNotes": "",
-      "label": "scriptureofjas"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "label": "salve",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "image": "https://i.imgur.com/IqAjWRF.png",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "",
-      "label": "renewal4",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "label": "graspingpouchblack",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/n9C7iSA.png",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "label": "vitality4",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "label": "graspingpouchblue",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/TjVRnbE.png",
-      "wikiLink": "https://runescape.wiki/w/Dark_ice_shard",
-      "name": "Dark ice shard",
-      "breakdownNotes": "",
-      "label": "darkiceshard",
-      "selected": false
+      "id": "darkiceshard"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/NTlFcpC.png",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "label": "sara",
-      "selected": false
+      "id": "sara"
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "label": "graspingpouchpink",
-      "selected": false
+      "id": "graspingpouchpink"
     },
     {
-      "image": "https://i.imgur.com/2uy0pnb.png",
-      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "name": "Super restore flask (6)",
-      "breakdownNotes": "",
-      "label": "superrestore",
-      "selected": false
+      "id": "superrestore"
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "label": "excal",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/RD2LyxF.png",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "label": "jelly",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "image": "https://i.imgur.com/qocLc4k.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "",
-      "label": "sailfish",
-      "selected": false
+      "id": "sailfish"
     },
     {
-      "image": "https://i.imgur.com/qocLc4k.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
-      "name": "Sailfish",
-      "breakdownNotes": "",
-      "label": "sailfish",
-      "selected": false
+      "id": "sailfish"
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "label": "vulnbombs",
-      "selected": false
+      "id": "vulnbombs"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "https://i.imgur.com/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
-        "label": "deathward",
-        "energy": 150
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
-        "label": "furyofthesmall",
-        "energy": 150
-      },
-      {
-        "image": "https://i.imgur.com/sxdlwRm.png",
-        "name": "Shadows Grace",
-        "breakdownNotes": "",
-        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
-        "label": "shadowsgrace",
-        "energy": 50
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Death | Earth | Law | Cosmic"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
   },
-  "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "https://i.imgur.com/A1BvfVb.png",
-        "name": "Hellhound",
-        "breakdownNotes": "",
-        "label": "hellhound"
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
-    "primaryFamiliars": [
-      {
-        "image": "https://i.imgur.com/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": "",
-        "label": "ripperdemon"
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
