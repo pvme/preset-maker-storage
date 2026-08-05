@@ -33,10 +33,7 @@
       "id": "reaverring"
     },
     {
-      "id": "pernixquiverred"
-    },
-    {
-      "id": "vampaura"
+      "id": "pernixsquiverred"
     },
     {
       "id": "scriptureofful"
@@ -71,7 +68,7 @@
       "id": "adrenrenewalflask"
     },
     {
-      "id": "excal"
+      "id": "enhancedexcalibur"
     },
     {
       "id": "sailfishsoup"
@@ -80,7 +77,7 @@
       "id": ""
     },
     {
-      "id": "edracobody"
+      "id": "edracolichhauberk"
     },
     {
       "id": "graspingpouchpink"
@@ -110,7 +107,7 @@
       "id": "eofred"
     },
     {
-      "id": "eofpurpleunorn"
+      "id": "eofpurple"
     },
     {
       "id": "tumekenslight"
@@ -119,7 +116,7 @@
       "id": "lengmh"
     },
     {
-      "id": "edracogloves"
+      "id": "edracolichvambs"
     },
     {
       "id": "edracoboots"
@@ -225,11 +222,6 @@
       "description": "<br />"
     },
     {
-      "slotType": "equipment",
-      "slotIndex": 11,
-      "description": "<br />"
-    },
-    {
       "slotType": "inventory",
       "slotIndex": 21,
       "description": "claws or varanus's mercy"
@@ -250,46 +242,32 @@
       "description": "put caroming 4 either on this or offhand"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "furyofthesmall"
-      },
-      {
-        "id": "deathward"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "hellhoundpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "hellhoundpouch"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": "ripperpouch"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
