@@ -1,0 +1,168 @@
+{
+  "presetName": "Legacy Capsarius",
+  "presetNotes": "<div><div><span><br /></span></div></div><div><div><div></div></div><div></div><div></div><div><div></div></div></div>",
+  "equipmentSlots": [
+    {
+      "id": "animahelmzam"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "farsightbloodnecklace"
+    },
+    {
+      "id": "decimation"
+    },
+    {
+      "id": "animabodyzamorak"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "animalegsamorak"
+    },
+    {
+      "id": "armagloves"
+    },
+    {
+      "id": "armaboots"
+    },
+    {
+      "id": "asr"
+    },
+    {
+      "id": "quiver"
+    },
+    {
+      "id": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "notepaper"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "aggroverload"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Equilibrium 4</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
