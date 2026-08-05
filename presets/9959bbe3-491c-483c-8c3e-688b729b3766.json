@@ -1,0 +1,198 @@
+{
+  "presetName": "AFK Melee Dagannoth Kings",
+  "presetNotes": ":smokedevil: uses :dustcloud: with auto fire rate set to 1.",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "brawlersbloodnecklace"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "bandoschest"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bandostassets"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "fremmyboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Underworld Grimoire 3/4 :underworldgrimoire4: can be used if needed to bank bones."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<div><div>May use :dagannothmask: if owned.</div></div><div></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Meteorite Cannonballs are not required."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "If :fremmyboots: are not owned, use any footwear with a melee damage bonus."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Required for its Toxic Fang passive effect. Attempting to \"upgrade\" your weapon here will result in reduced kph."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Can be upgraded."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Can be upgraded."
+    }
+  ],
+  "familiar": {
+    "id": "smokedevil"
+  },
+  "relics": [
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
