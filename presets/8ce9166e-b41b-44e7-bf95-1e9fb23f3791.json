@@ -1,0 +1,238 @@
+{
+  "presetName": "Necromancy Slayer",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt70"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "deathguard70"
+    },
+    {
+      "id": "deathdealerrobetopt70"
+    },
+    {
+      "id": "skulllantern70"
+    },
+    {
+      "id": "deathdealerrobebottomt70"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "deathdealerbootst70"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "aggro4"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ectoplasmator"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "restore4"
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "demonhornnecklace"
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "wilderpie"
+    },
+    {
+      "id": "ushabti"
+    },
+    {
+      "id": "sacrificescrim"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": "kineticcyclone"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "slayermastercape"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "If using a lower tier Overload, remember Prayer Renewal potions, and Super Antifire for Dragon tasks."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Used for better AFKing some easier tasks."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Reusable form of healing."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Bonecrusher for ashes, used in conjunction with the Demon Horn Necklace."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Acts as a gem bag."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Grants the effects of Tier 3 luck, slightly increasing the chance Slayer monsters drop unique items."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Reusable form of Prayer restoration."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Used on tasks where a high-level necklace isnt needed for extra Prayer restoration."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Can be set to high-alch/disassemble items for you."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "More Prayer points per potion sip."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Can note any unstackable drops the player wants to keep."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Basic cape or any other teleport to your current Slayer Master works too."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Can replace with Fight Kiln cape &gt; any Skillcape (Defence preferred)."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Can be replaced with Blood Amulet of Fury, or Essence of Finality if owned"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "The bonus soul effect is great for AoE content, can be replaced by Reaver's or Ring of Death."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Best AoE pocket slot, can be replaced by Ful, Jas, or whatever you have."
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "slayerintrospection"
+    },
+    {
+      "id": "deathnote"
+    },
+    {
+      "id": "lotdrelic"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
