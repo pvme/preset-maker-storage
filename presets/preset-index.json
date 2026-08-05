@@ -4422,5 +4422,9 @@
   {
     "presetId": "33c193a5-e5ca-41e9-a8e4-f17491dc7961",
     "presetName": "Raksha Low Effort Melee"
+  },
+  {
+    "presetId": "6aae7bd1-39f8-4b07-925e-e440fdee6c98",
+    "presetName": "Vindicta AFK Melee (60 kph)"
   }
 ]
