@@ -4486,5 +4486,9 @@
   {
     "presetId": "b0acc1f2-7fe0-42e7-9844-a7851b28eb24",
     "presetName": "Ranged Slayer"
+  },
+  {
+    "presetId": "3e5e5dc0-a3ab-473a-9d78-b59d73c92177",
+    "presetName": "Necromancy Slayer"
   }
 ]
