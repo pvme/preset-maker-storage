@@ -1,0 +1,248 @@
+{
+  "presetName": "Camel Warriors (AFK)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "brawlersbloodnecklace"
+    },
+    {
+      "id": "lanispear"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "wildcardsstack"
+    },
+    {
+      "id": "ushabti"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Optional"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Bring if needing soul for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1097517249499254875.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Upgraded with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/869284271788023838.png?v=1\" />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "<span>Increases </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/944649693500154006.png?v=1\" /><span> damage</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> upkeep"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>Increases </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/944649693500154006.png?v=1\" /><span> damage</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<span>Increases </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/944649693500154006.png?v=1\" /><span> damage</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can use any T4 luck ring <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/566453486913323042.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513213693983588362.png?v=1\" /> if unowned."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /> for <span> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/866551637970255872.png?v=1\" />, also for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005450651347730533.png?v=1\" /> bonus</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<span>Increases </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/944649693500154006.png?v=1\" /><span> damage</span>"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "deathnote"
+    },
+    {
+      "id": "slayerintrospection"
+    },
+    {
+      "id": "lotdrelic"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
