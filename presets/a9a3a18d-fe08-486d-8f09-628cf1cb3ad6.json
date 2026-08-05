@@ -1,0 +1,303 @@
+{
+  "presetName": "Spiritual Warriors alt",
+  "presetNotes": "<div>Your herb bag will get filled, but it won't require extra inputs<br /><br />Can use a legendary pet to pick up armour pieces, and ghostly essence</div><div><br /></div><div>Relics aren't really that important, only showing recommended ones<br /><br />If using <img title=\"inqstaff\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/694566917553520680.png?v=1\" />, Air Wave will do the same damage as Air Surge, but use less runes. </div>",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "arcanebloodnecklace"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "glovesofsubjugation"
+    },
+    {
+      "id": "bootsofsubjugation"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "whetstone"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "herbbag"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Unlocked via a tradable recipe, doesn't require Plague's End.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Teleport to house tablets work.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Use on Holy aggroverload."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "You can bring up to three.<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />If only doing this, use:<br /><br />Precise 6 Caroming 1 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img title=\"caroming1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1043953962207957162.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />Alternatively, can use a staff of limitless air <img title=\"staffoflimitlessair\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire<br /><br />Runes for Air Wave"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Mainly used for stats, can choose not to activate it.<br />"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "lotdrelic"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
