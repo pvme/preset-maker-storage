@@ -1,0 +1,203 @@
+{
+  "presetName": "Spiritual Warriors Magic bis",
+  "presetNotes": "<div>Pray Overcharge.<br /><br />If using <img title=\"inqstaff\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/694566917553520680.png?v=1\" />, Air Wave will do the same damage as Air Surge, but use less runes. </div>",
+  "equipmentSlots": [
+    {
+      "id": "ghosthunterhelm"
+    },
+    {
+      "id": "ghosthunterbag"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "inquisitorstaff"
+    },
+    {
+      "id": "virtustop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "ghosthunterlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "superiordragonriderboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "xpcapacitor5000charging"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "bunyip"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks100"
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "artificer"
+    },
+    {
+      "id": "herbbag"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Teleport to house tablets work.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Use on Holy Aggroverload."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "You can bring up to three.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Optional, as looting requires extra inputs."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "If only doing this, use:<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Caroming 4 Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />If only doing this, use:<br /><br />Precise 6 Caroming 1 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img title=\"caroming1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1043953962207957162.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Chaos | Air | Water | Fire<br /><br />Runes for Air Wave"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "bunyip"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "lotdrelic"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
