@@ -1756,10 +1756,6 @@
     "presetName": "Abyssal lords and beasts Magic AFK"
   },
   {
-    "presetId": "ab514507-02c9-4919-8805-0a0d6e20203a",
-    "presetName": "m/r ag"
-  },
-  {
     "presetId": "8c0ff930-0c12-4385-8b7a-be64ec5ee78a",
     "presetName": "Wilderness Obelisk Abyssal Demons Magic AFK"
   },
@@ -4410,5 +4406,9 @@
   {
     "presetId": "3dfae707-4605-414b-865a-2fb6aa5cb77c",
     "presetName": "Dagannoth Kings AFK Ranged"
+  },
+  {
+    "presetId": "ab514507-02c9-4919-8805-0a0d6e20203a",
+    "presetName": "m/r ag"
   }
 ]
