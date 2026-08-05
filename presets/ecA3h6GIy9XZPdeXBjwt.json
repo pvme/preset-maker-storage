@@ -3,403 +3,246 @@
   "presetNotes": "Any defensive perks on the deathwarden top are fine. Absorbative is superior over lucky.",
   "equipmentSlots": [
     {
-      "label": "t95necrohelm",
-      "image": "https://img.pvme.io/images/2msk92n.png",
-      "name": "Crown of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+      "id": "firstnecrocrown"
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "id": "igneouskalzuk"
     },
     {
-      "label": "eofor",
-      "image": "https://img.pvme.io/images/xPypDhQ.png",
-      "name": "EoF - Ek-ZekKil",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil"
+      "id": "eofor"
     },
     {
-      "label": "omniguard",
-      "image": "https://img.pvme.io/images/SzFvoQB.png",
-      "name": "Omni guard",
-      "breakdownNotes": "<span>pvme bis perks</span>",
-      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+      "id": "omniguard"
     },
     {
-      "label": "t95necrotop",
-      "image": "https://img.pvme.io/images/VwEHIYQ.png",
-      "name": "Robe top of the First Necromancer",
-      "breakdownNotes": "pvme bis perks",
-      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+      "id": "firstnecrorobetop"
     },
     {
-      "label": "soulboundlantern",
-      "image": "https://img.pvme.io/images/VJsZ4HL.png",
-      "name": "Soulbound lantern",
-      "breakdownNotes": "<span>pvme bis perks</span>",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+      "id": "soulboundlantern"
     },
     {
-      "label": "t95necrolegs",
-      "image": "https://img.pvme.io/images/s0Acz4g.png",
-      "name": "Robe bottom of the First Necromancer",
-      "breakdownNotes": "pvme bis perks",
-      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+      "id": "firstnecrorobebottom"
     },
     {
-      "label": "cinder",
-      "image": "https://img.pvme.io/images/LutTgCH.png",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+      "id": "cinderbanes"
     },
     {
-      "label": "t95necroboots",
-      "image": "https://img.pvme.io/images/FawdniP.png",
-      "name": "Foot wraps of the First Necromancer",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+      "id": "firstnecroboots"
     },
     {
-      "label": "zorgothssoulring",
-      "image": "https://img.pvme.io/images/EGVLuFE.png",
-      "name": "Zorgoth's soul ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+      "id": "zorgothsring"
     },
     {
-      "label": "zemouregalsnexus",
-      "image": "https://img.pvme.io/images/3pFXvMR.png",
-      "name": "Zemouregal's Nexus",
-      "breakdownNotes": "Downgrade to deathwarden nexus",
-      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+      "id": "zemouregalsnexus"
     },
     {
-      "label": "equilibriumaura",
-      "image": "https://img.pvme.io/images/a3Up2sd.png",
-      "name": "Equilibrium aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
-    },
-    {
-      "label": "scriptureofjas",
-      "image": "https://img.pvme.io/images/FLYAOEf.png",
-      "name": "Scripture of Jas",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+      "id": "scriptureofjas"
     }
   ],
   "inventorySlots": [
     {
-      "label": "excal",
-      "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "id": "enhancedexcalibur"
     },
     {
-      "label": "soulboundlanternbarrows",
-      "image": "https://img.pvme.io/images/VFFNpTkVox.png",
-      "name": "Soulbound lantern (Barrows)",
-      "breakdownNotes": "Flanking 4",
-      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern_(Barrows)",
-      "selected": false
+      "id": "barrowssoulbound"
     },
     {
-      "label": "vulnbombs",
-      "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "id": "vulnbombs"
     },
     {
-      "label": "hellhound",
-      "image": "https://img.pvme.io/images/FPfRiAQ.png",
-      "name": "Binding contract (hellhound)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
-      "selected": false
+      "id": "hellhoundpouch"
     },
     {
-      "label": "renewal4",
-      "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
-      "breakdownNotes": "<br />",
-      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "id": "renewal4"
     },
     {
-      "label": "roarofawakening",
-      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "optional - 0t spec swap for arms",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "selected": false
+      "id": "roarofawakening"
     },
     {
-      "label": "odetodeceit",
-      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "<span>optional - 0t spec swap for arms</span>",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "selected": false
+      "id": "odetodeceit"
     },
     {
-      "label": "vitality4",
-      "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "name": "Powerburst of vitality (4)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false
+      "id": "vitality4"
     },
     {
-      "label": "cryptbloomhelm",
-      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
-      "selected": false
+      "id": "cryptbloomhelm"
     },
     {
-      "label": "deathwardenrobetopt90",
-      "image": "https://img.pvme.io/images/JkyJN48.png",
-      "name": "Deathwarden robe top (tier 90)",
-      "breakdownNotes": "Absorbative 4 + crystal shield 1",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
-      "selected": false
+      "id": "wardentop90"
     },
     {
-      "label": "cryptbloomlegs",
-      "image": "https://img.pvme.io/images/YRNwG9fvN5.png",
-      "name": "Cryptbloom legs",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
-      "selected": false
+      "id": "cryptbloomlegs"
     },
     {
-      "label": "cryptbloomboots",
-      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
-      "selected": false
+      "id": "cryptbloomboots"
     },
     {
-      "label": "extpray",
-      "image": "https://img.pvme.io/images/YSj7H2I.png",
-      "name": "Extreme prayer flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
-      "selected": false
+      "id": "extremeprayer"
     },
     {
-      "label": "graspingpouchblack",
-      "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "id": "graspingpouchblack"
     },
     {
-      "label": "blessed",
-      "image": "https://img.pvme.io/images/FVmxMkH.png",
-      "name": "Blessed flask",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
-      "selected": false
+      "id": "blessedflask"
     },
     {
-      "label": "salve",
-      "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "id": "elderovlsalve"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "jelly",
-      "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "id": "blueblubber"
     },
     {
-      "label": "graspingpouchblue",
-      "image": "https://img.pvme.io/images/gDZtYb4.png",
-      "name": "Grasping rune pouch (blue)",
-      "breakdownNotes": "Chaos | Air | Water | Fire",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "id": "graspingpouchblue"
     },
     {
-      "label": "poison4",
-      "image": "https://img.pvme.io/images/CR06fbn.png",
-      "name": "Weapon poison+++ (4)",
-      "breakdownNotes": "Can instead use at bank if preferred. Buff can run out by the end of a 4000% kill if you only use one dose.",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
-      "selected": false
+      "id": "poison4"
     },
     {
-      "label": "sara",
-      "image": "https://img.pvme.io/images/NTlFcpC.png",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sara"
     },
     {
-      "label": "sara",
-      "image": "https://img.pvme.io/images/NTlFcpC.png",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "Upgrade to super brews if necessary, at substantially increased cost.",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sara"
     },
     {
-      "label": "sara",
-      "image": "https://img.pvme.io/images/NTlFcpC.png",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "Upgrade to super brews if necessary, at substantially increased cost.",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sara"
     },
     {
-      "label": "sara",
-      "image": "https://img.pvme.io/images/NTlFcpC.png",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "Upgrade to super brews if necessary, at substantially increased cost.",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sara"
     },
     {
-      "label": "sara",
-      "image": "https://img.pvme.io/images/NTlFcpC.png",
-      "name": "Saradomin brew flask (6)",
-      "breakdownNotes": "Upgrade to super brews if necessary, at substantially increased cost.",
-      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
-      "selected": false
+      "id": "sara"
     },
     {
-      "label": "graspingpouchpink",
-      "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "name": "Grasping rune pouch (pink)",
-      "breakdownNotes": "Death | Earth | Law | Cosmic",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
-      "selected": false
+      "id": "graspingpouchpink"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "label": "berserkersfury",
-        "image": "https://img.pvme.io/images/xXWYCHG.png",
-        "name": "Berserkers Fury",
-        "breakdownNotes": "",
-        "energy": 250,
-        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
-      },
-      {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
-        "label": "conservationofenergy",
-        "energy": 350
-      },
-      {
-        "label": "fontoflife",
-        "image": "https://img.pvme.io/images/7e6Juey.png",
-        "name": "Font of Life",
-        "breakdownNotes": "",
-        "energy": 50,
-        "description": "Increases maximum health by 500."
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "label": "furyofthesmall",
-        "image": "https://img.pvme.io/images/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
-      },
-      {
-        "label": "deathward",
-        "image": "https://img.pvme.io/images/cFlJmWP.png",
-        "name": "Death Ward",
-        "breakdownNotes": "",
-        "energy": 150,
-        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Flanking 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "optional - 0t spec swap for arms"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<span>optional - 0t spec swap for arms</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Absorbative 4 + crystal shield 1"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Can instead use at bank if preferred. Buff can run out by the end of a 4000% kill if you only use one dose."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Upgrade to super brews if necessary, at substantially increased cost."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Upgrade to super brews if necessary, at substantially increased cost."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Upgrade to super brews if necessary, at substantially increased cost."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Upgrade to super brews if necessary, at substantially increased cost."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Death | Earth | Law | Cosmic"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<span>pvme bis perks</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "pvme bis perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<span>pvme bis perks</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "pvme bis perks"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Downgrade to deathwarden nexus"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "label": "hellhound",
-        "image": "https://img.pvme.io/images/A1BvfVb.png",
-        "name": "Hellhound",
-        "breakdownNotes": ""
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "label": "ripperdemon",
-        "image": "https://img.pvme.io/images/Gg4oxrm.png",
-        "name": "Ripper Demon",
-        "breakdownNotes": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
