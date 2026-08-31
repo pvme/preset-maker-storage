@@ -1,0 +1,228 @@
+{
+  "presetName": "Necromancy Barrows",
+  "presetNotes": "<div>Have Undead Slayer :undeadslayerperk: on armour.</div><div><br /></div><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/697808773917573233.png?v=1\" /> is optional.<br />",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "occulistring"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "drakansmedallion"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "accel4"
+    },
+    {
+      "id": "barrowsamulet"
+    },
+    {
+      "id": "spade"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "holywrench"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "holyovl"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Regular luck potion works."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "Used to get back to Barrows, quicker than <img title=\"warsretreatteleport\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1032540079589163049.png?v=1\" /><br /><br />Can't be used in combat."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Using a spade to enter the mounds is quicker.<br /><br />Can keybind spade."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Optional.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Optional.</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Can replace with <img title=\"superrestore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />.<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Optional, may be replaced with <img title=\"superprayerrenewal\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/547603714681339915.png?v=1\" /><br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Optional, may be replaced with <img title=\"superprayerrenewal\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/547603714681339915.png?v=1\" /><br />"
+    }
+  ],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
