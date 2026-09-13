@@ -1,0 +1,168 @@
+{
+  "presetName": "Vindicta - Melee 2H",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "maxcape"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "masterworkbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "masterworklegs"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "superiorleviathanring"
+    },
+    {
+      "id": "abyssalspikesstack"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "notepaperstack"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "abyssalspikesstack"
+    }
+  ]
+}
