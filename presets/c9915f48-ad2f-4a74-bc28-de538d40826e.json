@@ -1,0 +1,208 @@
+{
+  "presetName": "Amascut Basic - Necromancy",
+  "presetNotes": "Based on Stage 1 of progression path and Amascut Discord's learner Necromancy preset, with Tier 90 weapons instead of Tier 80 due to Amascut's high defence. Assumes Invoke Lord of Bones or other forms of defence reduction are owned by one or more teammates.",
+  "equipmentSlots": [
+    {
+      "id": "dealerhood80"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "conjuresamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "dealertop80"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "dealerlegs80"
+    },
+    {
+      "id": "dealergloves80"
+    },
+    {
+      "id": "dealerboots80"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "prayrenewal"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Chaos | Air | Water | Fire"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "Blood | Astral | Body | Soul"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can also use Occultist's Ring, if owned."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Can also use Deathwarden nexus."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Upgrade to Omni-guard if owned."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Upgrade to Soulbound lantern if owned."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can also use Scripture of Ful, if owned."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Upgrade to Occultist's hex or Essence of finality if owned, latter with Death guard spec. Essence of finality is best-in-slot."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "blessingofhet"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
