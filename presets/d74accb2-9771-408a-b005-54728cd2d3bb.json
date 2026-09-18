@@ -1,0 +1,168 @@
+{
+  "presetName": "Rasial",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "conjuresamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "gbrew"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "devourersguard"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "spices"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "vulnbomb"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Used to equip/unequip quickly to clear conjures when a mistake is made"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "May be used to equip/unequip to clear conjures when a mistake is made\n\nMay instead use an off-hand weapon that equips when the keybind is used, allowing conjures to be cleared quickly"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
