@@ -1,6 +1,6 @@
 {
   "presetName": "Easy Clues",
-  "presetNotes": "Optional: You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions",
+  "presetNotes": "- You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "naturesentinelhead"
@@ -59,7 +59,7 @@
       "id": "lantadymesticks100"
     },
     {
-      "id": "spiritattractionflask"
+      "id": "powerburstofacceleration"
     },
     {
       "id": "amuletofnature"
