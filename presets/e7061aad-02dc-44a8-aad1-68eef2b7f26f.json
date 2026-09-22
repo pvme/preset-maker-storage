@@ -1,0 +1,163 @@
+{
+  "presetName": "AFK Magic Crystal Shapeshifters Tarddiad",
+  "presetNotes": "<div>:deathward: isn't mandatory but is recommended if using n<span>on-attuned</span> crystal armour.\n\n:kalgpouch: uses :kalgscroll: with autofire rate set to 1.</div><div><br /></div><div>Non-attuned crystal armour may be used while collecting the initial Tarddian crystals to purchase :attunedcrystalhelm: :attunedcrystallegs: :attunedcrystalboots: :attunedcrystalgloves:</div>",
+  "equipmentSlots": [
+    {
+      "id": "attunedcrystalhelm"
+    },
+    {
+      "id": "igneouskalmej"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "sirenicbody"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "attunedcrystallegs"
+    },
+    {
+      "id": "attunedcrystalgloves"
+    },
+    {
+      "id": "attunedcrystalboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "holyovl"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "slayercodex"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Used for negative Melee defence."
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "deathward"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "exsanguinate"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
