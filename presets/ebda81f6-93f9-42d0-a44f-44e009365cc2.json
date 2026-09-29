@@ -1,0 +1,198 @@
+{
+  "presetName": "Ravenous Strigoi (Ranged)",
+  "presetNotes": "<div>Pray :desolation:</div><div><br /></div><div>Use :soulsplit:<span> + :animatedead: or :deflectmagic: + :vampyrismaspect:</span></div><div><span><br /></span></div><div><span>Can use :ripperpouch: or :kalgpouch:</span></div><div><br /></div><div>Between 180-240 kph</div><div><br /></div><span>Higher DPS / l</span>ess safe setups:<div>- 3pc elite draco + crypt top + :animatedead:</div><div>- edraco top/bottom + crypt helm/boots + :vampyrismaspect:</div><div>- 4pc elite draco + :vampyrismaspect:</div>",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "cryptbloomtop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cryptbloomlegs"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Can switch for :stalkerring: if not hunting ring"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Tested with Biting 4 X / Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can sub with any high-tier god book or grim. Don't use :fulbook:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Absorbative 4 / Crystal Shield 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested at T100<div>Tested with Precise 6 + Caroming 1 / Aftershock 4 + Eruptive 2</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 22,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "animatedead"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
