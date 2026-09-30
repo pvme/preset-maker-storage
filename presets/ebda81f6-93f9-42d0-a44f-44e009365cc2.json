@@ -1,6 +1,6 @@
 {
   "presetName": "Ravenous Strigoi (Ranged)",
-  "presetNotes": "<div><div>Positioning is important to avoid melee swipes - see main guide</div><div><br /></div><div>Pray :desolation: + :soulsplit:</div><div><br /></div><div>Alternatively use :ripperpouch: or :kalgpouch:</div><div><br /></div><div><span>200+ kph off-task (tested without book active)</span></div></div>",
+  "presetNotes": "<div><div>Positioning is important to avoid melee swipes - see main guide</div><div><br /></div><div>Pray :desolation: + :soulsplit:</div><div><br /></div><div>Alternatively use :ripperpouch: or :kalgpouch:</div><div><br /></div><div><span>~225 kph off-task (tested without book active)</span></div></div>",
   "equipmentSlots": [
     {
       "id": "cryptbloomhelm"
