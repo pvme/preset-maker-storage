@@ -1,6 +1,6 @@
 {
   "presetName": "Sunken Pyramid AFK Melee Sanguine Werewolves",
-  "presetNotes": "Pray :deflectmelee: and :leechmeleestrength:",
+  "presetNotes": "Pray :deflectmelee: and :malevolence:<div>Set Scavenge (Legendary pet) to \"miscellaneous\" only</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -24,16 +24,16 @@
       "id": "vestmentsofhavocbottom"
     },
     {
-      "id": "vampyrismgloves"
+      "id": "cinderbanes"
     },
     {
       "id": "vestmentsofhavocboots"
     },
     {
-      "id": "lotd"
+      "id": "reaverring"
     },
     {
-      "id": "graspingpouchpink"
+      "id": "nodonspikeharness"
     },
     {
       "id": "vampscrim"
@@ -44,7 +44,7 @@
       "id": "elderovlsalve"
     },
     {
-      "id": "potionreservoir"
+      "id": "poison6"
     },
     {
       "id": ""
@@ -62,31 +62,31 @@
       "id": ""
     },
     {
-      "id": "powderofpenance"
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "lantadymesticks"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": "powderofprotection"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
+      "id": "powderofpenance"
     },
     {
       "id": ""
@@ -133,8 +133,8 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 2,
-      "description": "May use ;venomblood; instead"
+      "slotIndex": 1,
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
@@ -148,28 +148,28 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 1,
+      "slotIndex": 2,
       "description": ""
     },
     {
       "slotType": "inventory",
-      "slotIndex": 14,
-      "description": ""
+      "slotIndex": 7,
+      "description": "Optional"
     },
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": "May downgrade at the cost of kph."
+      "description": "Tested with Shard of Genesis upgrade<div>Tested with Aftershock 4 + Precise 2 / Eruptive 4 + Ruthless 3<br /><div>Can downgrade to Havensilver Halberd+2 at cost of KPH</div></div>"
     },
     {
       "slotType": "equipment",
       "slotIndex": 4,
-      "description": ""
+      "description": "Tested with Devoted 4 + Impatient 4 / Biting 4 X"
     },
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "<br />"
+      "description": "Tested with Ultimatums 4 X / Relentless 5 + Crackling 4"
     },
     {
       "slotType": "equipment",
@@ -180,24 +180,39 @@
       "slotType": "equipment",
       "slotIndex": 10,
       "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "<span>Optional</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Optional</span>"
     }
   ],
   "familiar": {
-    "id": ""
+    "id": "legendpetscav"
   },
   "relics": [
     {
       "id": "conservationofenergy"
     },
     {
-      "id": "berserkersfury"
+      "id": ""
     },
     {
       "id": ""
     }
   ],
   "aspect": {
-    "id": "vampyrismaspect"
+    "id": "penanceaspect"
   },
   "ammoSpells": [
     {
