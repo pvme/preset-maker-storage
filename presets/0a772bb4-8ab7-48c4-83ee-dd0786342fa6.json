@@ -1,0 +1,223 @@
+{
+  "presetName": "Ravenous Strigoi (Magic+Ranged)",
+  "presetNotes": "<div><br /></div>",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchyellow"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "channellersring"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Can switch for :stalkerring: if not hunting ring"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Tested with Biting 4 + Mobile / Relentless 5 + Crackling 4</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Tested with Ultimatums 4 Energising 2 / Devoted 4 Impatient 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Tested at T100<div>Tested with Precise 6 + Caroming 1 / Aftershock 4 + Eruptive 2</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Runes for </span>:vampyrismaspect:<span> or </span>:animatedead:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ammo: Ful Arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<span>Tested at T100</span><div>Tested with Precise 6 + Ruthless 1 / Aftershock 4 Eruptive 2</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": "<span>Tested with Ultimatums 4 Energising 2 / Devoted 4 Impatient 4</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<span>Tested with Biting 4 + Mobile / Relentless 5 + Crackling 4</span>"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
