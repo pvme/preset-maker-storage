@@ -1,6 +1,6 @@
 {
   "presetName": "Sunken Pyramid AFK Melee Sanguine Werewolves",
-  "presetNotes": "Pray :deflectmelee: and :malevolence:<div>Set Scavenge (Legendary pet) to \"miscellaneous\" only</div><div>Can optionally use :lotdrelic:</div>",
+  "presetNotes": "Pray :deflectmelee: and :malevolence:<div><br /><div>Set Scavenge (Legendary pet) to \"miscellaneous\" only</div><div><br /></div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div><div><br /></div><div>If downgrading Tumeken's Light :tumekenslight: (e.g., no shard or Havensilver Halberd + 2), you may need to use Vampyrism :vampyrismaspect: and another form of prayer restoration like Powder of penance<span> :penancepowder:</span></div></div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
