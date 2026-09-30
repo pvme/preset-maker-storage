@@ -1,6 +1,6 @@
 {
   "presetName": "Sunken Pyramid AFK Melee Sanguine Werewolves",
-  "presetNotes": "Pray :deflectmelee: and :malevolence:<div>Set Scavenge (Legendary pet) to \"miscellaneous\" only</div>",
+  "presetNotes": "Pray :deflectmelee: and :malevolence:<div>Set Scavenge (Legendary pet) to \"miscellaneous\" only</div><div>Can optionally use :lotdrelic:</div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -205,7 +205,7 @@
       "id": "conservationofenergy"
     },
     {
-      "id": ""
+      "id": "fontoflife"
     },
     {
       "id": ""
