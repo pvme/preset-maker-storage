@@ -1,9 +1,9 @@
 {
   "presetName": "Ravenous Strigoi (Ranged)",
-  "presetNotes": "<div>Pray :desolation:</div><div><br /></div><div>Use :soulsplit:<span> + :animatedead: or :deflectmagic: + :vampyrismaspect:</span></div><div><span><br /></span></div><div><span>Can use :ripperpouch: or :kalgpouch:</span></div><div><br /></div><div>Between 180-240 kph</div><div><br /></div><span>Higher DPS / l</span>ess safe setups:<div>- 3pc elite draco + crypt top + :animatedead:</div><div>- edraco top/bottom + crypt helm/boots + :vampyrismaspect:</div><div>- 4pc elite draco + :vampyrismaspect:</div>",
+  "presetNotes": "<div><div>Positioning is important to avoid melee swipes - see main guide</div><div><br /></div><div>Pray :desolation: + :soulsplit:</div><div><br /></div><div>Alternatively use :ripperpouch: or :kalgpouch:</div><div><br /></div><div><span>200+ kph off-task (tested without book active)</span></div></div>",
   "equipmentSlots": [
     {
-      "id": "edracocoif"
+      "id": "cryptbloomhelm"
     },
     {
       "id": "igneouskalxil"
@@ -15,19 +15,19 @@
       "id": "bolg"
     },
     {
-      "id": "cryptbloomtop"
+      "id": "edracolichhauberk"
     },
     {
       "id": ""
     },
     {
-      "id": "cryptbloomlegs"
+      "id": "edracochaps"
     },
     {
       "id": "cinderbanes"
     },
     {
-      "id": "edracoboots"
+      "id": "cryptbloomboots"
     },
     {
       "id": "lotd"
@@ -41,34 +41,31 @@
   ],
   "inventorySlots": [
     {
-      "id": "potionreservoir"
+      "id": "elderovlsalve"
     },
     {
-      "id": "potionreservoir2"
+      "id": "poison6"
     },
     {
-      "id": "cannon"
+      "id": "oldakcoil"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": "cballs"
     },
     {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": ""
-    },
-    {
-      "id": "elderovlsalve"
-    },
-    {
-      "id": "elderovlsalve"
-    },
-    {
-      "id": "poison6"
+      "id": "powderofpenance2"
     },
     {
       "id": ""
@@ -83,13 +80,16 @@
       "id": ""
     },
     {
-      "id": "elderovlsalve"
+      "id": ""
     },
     {
-      "id": "elderovlsalve"
+      "id": "kwuarmsticks100"
     },
     {
-      "id": "poison6"
+      "id": ""
+    },
+    {
+      "id": ""
     },
     {
       "id": ""
@@ -139,12 +139,12 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Can sub with any high-tier god book or grim. Don't use :fulbook:"
+      "description": "Optional activation"
     },
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "Tested with Absorbative 4 / Crystal Shield 4"
+      "description": "Tested with Impatient 4 X / Ultimatums 4"
     },
     {
       "slotType": "equipment",
@@ -172,17 +172,17 @@
   },
   "relics": [
     {
-      "id": ""
+      "id": "conservationofenergy"
     },
     {
-      "id": ""
+      "id": "furyofthesmall"
     },
     {
       "id": ""
     }
   ],
   "aspect": {
-    "id": "animatedead"
+    "id": "vampyrismaspect"
   },
   "ammoSpells": [
     {
