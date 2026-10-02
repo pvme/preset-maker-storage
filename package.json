@@ -8,7 +8,7 @@
     "generate": "tsx utility/generate-embeds.ts",
     "generate:force": "tsx utility/generate-embeds.ts --force",
     "dev": "tsx utility/dev.ts",
-    "test": "node --test test/*.test.mjs"
+    "test": "node --import tsx --test test/*.test.mjs"
   },
   "devDependencies": {
     "@napi-rs/canvas": "^0.1.79",

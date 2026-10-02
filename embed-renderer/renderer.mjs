@@ -28,7 +28,7 @@ async function normalize(raw) {
   const maps = await loadCatalogue(AbortSignal.timeout(15_000)); const legacy = Array.isArray(raw?.equipmentSlots) && raw.equipmentSlots.length >= 13;
   const equipment = (Array.isArray(raw?.equipmentSlots) ? raw.equipmentSlots : []).filter((_, i) => !legacy || i !== 11).map(v => slot(v, maps));
   const legacyFam = raw?.familiars?.primaryFamiliars?.[0], legacyRelics = raw?.relics?.primaryRelics;
-  return { presetName: raw?.presetName, inventorySlots: (Array.isArray(raw?.inventorySlots) ? raw.inventorySlots : []).slice(0, 28).map(v => slot(v, maps)), equipmentSlots: equipment.slice(0, 12), relics: (Array.isArray(raw?.relics) ? raw.relics : legacyRelics || []).slice(0, 3).map(v => slot(v, maps)), familiar: slot(raw?.familiar || legacyFam, maps), ammoSpells: (Array.isArray(raw?.ammoSpells) ? raw.ammoSpells : []).slice(0, 3).map(v => slot(v, maps)), aspect: slot(raw?.aspect, maps) };
+  return { presetName: raw?.presetName, inventorySlots: (Array.isArray(raw?.inventorySlots) ? raw.inventorySlots : []).slice(0, 28).map(v => slot(v, maps)), equipmentSlots: equipment.slice(0, 12), relics: (Array.isArray(raw?.relics) ? raw.relics : legacyRelics || []).slice(0, 3).map(v => slot(v, maps)), prayers: (Array.isArray(raw?.prayers) ? raw.prayers : []).slice(0, 3).map(v => slot(v, maps)), familiar: slot(raw?.familiar || legacyFam, maps), ammoSpells: (Array.isArray(raw?.ammoSpells) ? raw.ammoSpells : []).slice(0, 3).map(v => slot(v, maps)), aspect: slot(raw?.aspect, maps) };
 }
 export function makeEmbedRenderer({ fetchImageBytes } = {}) {
   return createRenderer({ createCanvas, loadImage, renderScale: 2, failOnImageError: true, fetchImageBytes,

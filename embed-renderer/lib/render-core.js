@@ -1,4 +1,10 @@
 const { normalizeLayout } = require("./layout");
+const { join } = require("node:path");
+const { GlobalFonts } = require("@napi-rs/canvas");
+
+// Bundle the design fonts so local and static renders share the same metrics.
+GlobalFonts.registerFromPath(join(__dirname, "../assets/fonts/PlayfairDisplay.ttf"), "Playfair Display");
+GlobalFonts.registerFromPath(join(__dirname, "../assets/fonts/Inter.ttf"), "Inter");
 function createRenderer({ createCanvas, loadImage, loadLocal, loadIconMap,
   resolveArray, resolveSlot, normalizePresetToV2, failOnImageError = false, fetchImageBytes, renderScale = 1 }) {
 // -----------------------------------------------------
@@ -6,30 +12,41 @@ function createRenderer({ createCanvas, loadImage, loadLocal, loadIconMap,
 // -----------------------------------------------------
 
 const PRESET_WIDTH = 472;
-const TITLE_HEIGHT = 34;
+const TITLE_HEIGHT = 28;
 
 const FRAME_CORNER_SIZE = 4;
 const FRAME_TOP_HEIGHT = 4;
 const FRAME_SIDE_WIDTH = 4;
 
-const EXTRAS_PADDING_X = 8;
-const EXTRAS_PADDING_Y = 6;
-const EXTRAS_GAP_X = 4;
-const EXTRAS_GAP_Y = 8;
-
-const LEFT_COL_WIDTH = 344;
-const RIGHT_COL_WIDTH = 108;
-
-const SECTION_TITLE_HEIGHT = 20;
-const SECTION_TITLE_FONT = "700 14px Arial, sans-serif";
-
-const CARD_GAP = 6;
-const CARD_HEIGHT = 64;
-const CARD_RADIUS = 8;
-const CARD_ICON_SIZE = 30;
-const CARD_NAME_FONT = "400 12px Arial, sans-serif";
+const SECTION_TITLE_HEIGHT = 18;
+const HEADING_FAMILY = '"Playfair Display", "Cinzel", serif';
+const SECTION_TITLE_FONT = `600 10.5px ${HEADING_FAMILY}`;
+const TITLE_INITIAL_FONT = `600 14px ${HEADING_FAMILY}`;
+const TITLE_REST_FONT = `600 12px ${HEADING_FAMILY}`;
+const THEME = {
+  gold: "#e7c779",
+  brass: "#b89b58",
+  border: "#7a6138",
+  divider: "#5c492e",
+  shadow: "#3b301f",
+  background: "#0c0b0a",
+  surface: "#151311",
+  secondary: "#1c1a17",
+  slot: "#100e0c",
+};
+const COMPACT_SLOT_SIZE = 32;
+const ICON_ENVELOPE_SIZE = 30;
+const COMPACT_SLOT_GAP = 4;
+const FOOTER_PADDING = 14;
+const SUPPORT_SECTION_GAP = 14;
+const SUPPORT_LABEL_GAP = 10;
+const SUPPORT_ROW_GAP = 8;
+// Preserve the existing footer height budget while enlarging its contents.
+const FOOTER_ROW_HEIGHT = 28;
+const FOOTER_HEADING_HEIGHT = 14;
 
 const RELICS_TITLE = "Relics";
+const PRAYERS_TITLE = "Prayers";
 const FAMILIAR_TITLE = "Familiar";
 const AMMO_TITLE = "Ammo / Spells";
 const ASPECT_TITLE = "Aspect";
@@ -72,41 +89,53 @@ const equipmentCoords = Array.from({ length: 12 }, (_, index) => {
 // Helpers
 // -----------------------------------------------------
 
-function rgba(r, g, b, a) {
-  return `rgba(${r}, ${g}, ${b}, ${a})`;
+function applyHeadingShadow(ctx) {
+  ctx.shadowColor = "rgba(0, 0, 0, 0.85)";
+  ctx.shadowBlur = 1.5;
+  ctx.shadowOffsetX = 0;
+  ctx.shadowOffsetY = 1;
 }
 
-function getSlotDisplayName(slot, iconMap) {
-  if (!slot) return "";
+function titleGlyphs(ctx, text) {
+  let wordStart = true;
+  return Array.from(text.toUpperCase(), character => {
+    const letter = /[\p{L}\p{N}]/u.test(character);
+    const font = wordStart && letter ? TITLE_INITIAL_FONT : TITLE_REST_FONT;
+    if (letter) wordStart = false;
+    else if (/\s|[-/]/u.test(character)) wordStart = true;
+    ctx.font = font;
+    return { character, font, width: ctx.measureText(character).width + 0.6 };
+  });
+}
 
-  if (slot.name) return slot.name;
-  if (slot.label) return slot.label;
-
-  const id = slot.id?.trim().toLowerCase();
-  if (id && iconMap?.byId?.[id]?.name) {
-    return iconMap.byId[id].name;
+function drawPresetHeading(ctx, text, width) {
+  ctx.save();
+  ctx.fillStyle = THEME.gold;
+  ctx.letterSpacing = "0px";
+  ctx.textAlign = "left";
+  ctx.textBaseline = "alphabetic";
+  applyHeadingShadow(ctx);
+  const maxWidth = width - 24;
+  let characters = Array.from(text);
+  let glyphs = titleGlyphs(ctx, characters.join(""));
+  const fits = () => glyphs.reduce((total, glyph) => total + glyph.width, 0) <= maxWidth;
+  while (!fits() && characters.length) {
+    characters.pop();
+    glyphs = titleGlyphs(ctx, `${characters.join("").trimEnd()}…`);
   }
-
-  return "";
-}
-
-function ellipsiseText(ctx, text, maxWidth) {
-  if (!text) return "";
-  if (ctx.measureText(text).width <= maxWidth) return text;
-
-  let output = text;
-  while (
-    output.length > 0 &&
-    ctx.measureText(`${output}...`).width > maxWidth
-  ) {
-    output = output.slice(0, -1);
+  let x = 12;
+  for (const glyph of glyphs) {
+    ctx.font = glyph.font;
+    ctx.fillText(glyph.character, x, TITLE_HEIGHT / 2 + 4.5);
+    x += glyph.width;
   }
-
-  return output ? `${output}...` : "";
+  ctx.restore();
 }
 
-function drawFrame(ctx, x, y, width, height, assets) {
+function drawFrame(ctx, x, y, width, height, assets, opacity = 1) {
   const { borderTop, borderSide, corner } = assets;
+  ctx.save();
+  ctx.globalAlpha = opacity;
 
   ctx.drawImage(corner, x, y, FRAME_CORNER_SIZE, FRAME_CORNER_SIZE);
 
@@ -149,41 +178,25 @@ function drawFrame(ctx, x, y, width, height, assets) {
     ctx.drawImage(borderSide, 0, 0, 4, 3, 0, py, FRAME_SIDE_WIDTH, h);
     ctx.restore();
   }
-}
-
-function roundedRectPath(ctx, x, y, width, height, radius) {
-  const r = Math.min(radius, width / 2, height / 2);
-  ctx.beginPath();
-  ctx.moveTo(x + r, y);
-  ctx.arcTo(x + width, y, x + width, y + height, r);
-  ctx.arcTo(x + width, y + height, x, y + height, r);
-  ctx.arcTo(x, y + height, x, y, r);
-  ctx.arcTo(x, y, x + width, y, r);
-  ctx.closePath();
-}
-
-function drawCardBackground(ctx, x, y, width, height) {
-  roundedRectPath(ctx, x, y, width, height, CARD_RADIUS);
-  ctx.fillStyle = rgba(255, 255, 255, 0.015);
-  ctx.fill();
-
-  roundedRectPath(ctx, x + 0.5, y + 0.5, width - 1, height - 1, CARD_RADIUS);
-  ctx.strokeStyle = rgba(255, 255, 255, 0.06);
-  ctx.lineWidth = 1;
-  ctx.stroke();
+  ctx.restore();
 }
 
 function drawSectionTitle(ctx, title, x, y, width, align = "center") {
   ctx.save();
-  ctx.fillStyle = "white";
+  ctx.fillStyle = THEME.gold;
   ctx.font = SECTION_TITLE_FONT;
+  ctx.letterSpacing = "0.8px";
+  ctx.shadowColor = "rgba(0, 0, 0, 0.55)";
+  ctx.shadowBlur = 0;
+  ctx.shadowOffsetX = 0;
+  ctx.shadowOffsetY = 1;
   ctx.textAlign = align;
   ctx.textBaseline = "alphabetic";
 
   const textX =
     align === "left" ? x : align === "right" ? x + width : x + width / 2;
 
-  ctx.fillText(title, textX, y + 14);
+  ctx.fillText(title.toUpperCase(), textX, y + 11.5);
   ctx.restore();
 }
 
@@ -211,93 +224,126 @@ async function loadResolvedImage(slot) {
   return loading;
 }
 
-async function drawExtraCard(ctx, slot, x, y, width, height, iconMap) {
-  drawCardBackground(ctx, x, y, width, height);
-
-  const img = await loadResolvedImage(slot);
-  const name = getSlotDisplayName(slot, iconMap);
-
-  const iconX = x + (width - CARD_ICON_SIZE) / 2;
-  const iconY = y + 8;
-
-  if (img) {
-    const scale = Math.min(
-      CARD_ICON_SIZE / img.width,
-      CARD_ICON_SIZE / img.height,
-    );
-    const w = img.width * scale;
-    const h = img.height * scale;
-    const dx = iconX + (CARD_ICON_SIZE - w) / 2;
-    const dy = iconY + (CARD_ICON_SIZE - h) / 2;
-    ctx.drawImage(img, dx, dy, w, h);
-  }
-
+async function drawCompactSlot(ctx, slot, x, y) {
   ctx.save();
-  ctx.fillStyle = "white";
-  ctx.font = CARD_NAME_FONT;
-  ctx.textAlign = "center";
-  ctx.textBaseline = "alphabetic";
-  const text = ellipsiseText(ctx, name, width - 12);
-  ctx.fillText(text, x + width / 2, y + height - 10);
+  ctx.fillStyle = THEME.slot;
+  ctx.fillRect(x, y, COMPACT_SLOT_SIZE, COMPACT_SLOT_SIZE);
+  ctx.strokeStyle = "#493b27";
+  ctx.lineWidth = 1;
+  ctx.strokeRect(x + 0.5, y + 0.5, COMPACT_SLOT_SIZE - 1, COMPACT_SLOT_SIZE - 1);
+  // Keep the populated support slots quieter than the enclosing bronze frame.
+  ctx.strokeStyle = "rgba(59, 48, 31, 0.32)";
+  ctx.strokeRect(x + 1.5, y + 1.5, COMPACT_SLOT_SIZE - 3, COMPACT_SLOT_SIZE - 3);
+  ctx.fillStyle = "rgba(0, 0, 0, 0.24)";
+  ctx.fillRect(x + 2, y + 2, COMPACT_SLOT_SIZE - 4, 1);
+  ctx.restore();
+  const img = await loadResolvedImage(slot);
+
+  if (img) drawContainedIcon(ctx, img, x, y, COMPACT_SLOT_SIZE, COMPACT_SLOT_SIZE);
+}
+
+const iconBoundsCache = new WeakMap();
+function getIconBounds(img) {
+  if (iconBoundsCache.has(img)) return iconBoundsCache.get(img);
+  const source = createCanvas(img.width, img.height).getContext("2d");
+  source.drawImage(img, 0, 0);
+  const pixels = source.getImageData(0, 0, img.width, img.height).data;
+  let left = img.width, top = img.height, right = -1, bottom = -1;
+  for (let y = 0; y < img.height; y += 1) {
+    for (let x = 0; x < img.width; x += 1) {
+      if (!pixels[(y * img.width + x) * 4 + 3]) continue;
+      left = Math.min(left, x); top = Math.min(top, y);
+      right = Math.max(right, x); bottom = Math.max(bottom, y);
+    }
+  }
+  const bounds = right < 0 ? { x: 0, y: 0, width: img.width, height: img.height }
+    : { x: left, y: top, width: right - left + 1, height: bottom - top + 1 };
+  iconBoundsCache.set(img, bounds);
+  return bounds;
+}
+
+function drawContainedIcon(ctx, img, x, y, boxWidth, boxHeight) {
+  const inset = 1;
+  const availableWidth = boxWidth - inset * 2;
+  const availableHeight = boxHeight - inset * 2;
+  const bounds = getIconBounds(img);
+  // Fit the visible sprite to the same target in every region, independently of
+  // source PNG padding. Smaller equipment boxes still enforce their safety inset.
+  const scale = Math.min(
+    Math.min(ICON_ENVELOPE_SIZE, availableWidth) / bounds.width,
+    Math.min(ICON_ENVELOPE_SIZE, availableHeight) / bounds.height,
+  );
+  const width = bounds.width * scale;
+  const height = bounds.height * scale;
+  ctx.save();
+  ctx.beginPath();
+  ctx.rect(x + inset, y + inset, availableWidth, availableHeight);
+  ctx.clip();
+  ctx.drawImage(img, bounds.x, bounds.y, bounds.width, bounds.height,
+    x + (boxWidth - width) / 2, y + (boxHeight - height) / 2, width, height);
   ctx.restore();
 }
 
-function getVisibleItems(items, maxItems) {
-  return Array.from({ length: maxItems }, (_, i) => items[i] ?? { id: "" })
-    .filter((item) => item && item.id);
+async function drawSupportSection(ctx, section, x, y, portrait) {
+  drawSectionTitle(ctx, section.title, x, portrait ? y : y + 9, 0, "left");
+  const slotsX = portrait ? x : x + section.labelWidth + SUPPORT_LABEL_GAP;
+  const slotsY = portrait ? y + SECTION_TITLE_HEIGHT : y;
+  for (let i = 0; i < section.items.length; i += 1) {
+    await drawCompactSlot(ctx, section.items[i], slotsX + i * (COMPACT_SLOT_SIZE + COMPACT_SLOT_GAP), slotsY);
+  }
 }
 
-async function drawExtrasSection(ctx, config) {
-  const {
-    x,
-    y,
-    width,
-    title,
-    items,
-    maxItems,
-    columns,
-    iconMap,
-    titleAlign = "center",
-  } = config;
+function planSupportRows(preset, portrait, panelWidth) {
+  const measure = createCanvas(1, 1).getContext("2d");
+  measure.font = SECTION_TITLE_FONT;
+  measure.letterSpacing = "0.8px";
+  const sections = [
+    [RELICS_TITLE, preset.relics, "left", 0],
+    [AMMO_TITLE, preset.ammoSpells, "left", 1],
+    [PRAYERS_TITLE, preset.prayers, "right", 0],
+    [FAMILIAR_TITLE, [preset.familiar], "right", 1],
+    [ASPECT_TITLE, [preset.aspect], "right", 1],
+  ].flatMap(([title, slots, side, row]) => {
+    const items = slots.filter(slot => slot?.image);
+    if (!items.length) return [];
+    const labelWidth = Math.ceil(measure.measureText(title.toUpperCase()).width);
+    const slotsWidth = items.length * COMPACT_SLOT_SIZE + (items.length - 1) * COMPACT_SLOT_GAP;
+    const width = portrait ? Math.max(labelWidth, slotsWidth) : labelWidth + SUPPORT_LABEL_GAP + slotsWidth;
+    return [{ title, items, side, row, labelWidth, width }];
+  });
+  if (!sections.length) return [];
+  const packedWidth = sections.reduce((sum, section) => sum + section.width, 0)
+    + (sections.length - 1) * SUPPORT_SECTION_GAP;
+  // Compact across the mockup's two bands whenever the real content fits.
+  // Otherwise keep Relics/Prayers above Ammo/Familiar/Aspect.
+  return packedWidth <= panelWidth - FOOTER_PADDING * 2
+    ? [sections]
+    : [0, 1].map(row => sections.filter(section => section.row === row)).filter(row => row.length);
+}
 
-  const visibleItems = getVisibleItems(items, maxItems);
+function drawChromeFrame(ctx, x, y, width, height) {
+  ctx.save();
+  ctx.lineWidth = 1;
+  ctx.strokeStyle = THEME.border;
+  ctx.strokeRect(x + 0.5, y + 0.5, width - 1, height - 1);
+  ctx.strokeStyle = THEME.shadow;
+  ctx.strokeRect(x + 2.5, y + 2.5, width - 5, height - 5);
+  ctx.restore();
+}
 
-  drawSectionTitle(ctx, title, x, y, width, titleAlign);
-
-  if (visibleItems.length === 0) {
-    return {
-      height: SECTION_TITLE_HEIGHT,
-    };
-  }
-
-  const itemsY = y + SECTION_TITLE_HEIGHT;
-  const rows = Math.ceil(visibleItems.length / columns);
-  const cardWidth = Math.floor((width - CARD_GAP * (columns - 1)) / columns);
-
-  for (let i = 0; i < visibleItems.length; i += 1) {
-    const col = i % columns;
-    const row = Math.floor(i / columns);
-
-    const cardX = x + col * (cardWidth + CARD_GAP);
-    const cardY = itemsY + row * (CARD_HEIGHT + CARD_GAP);
-
-    await drawExtraCard(
-      ctx,
-      visibleItems[i],
-      cardX,
-      cardY,
-      cardWidth,
-      CARD_HEIGHT,
-      iconMap,
-    );
-  }
-
-  return {
-    height:
-      SECTION_TITLE_HEIGHT +
-      rows * CARD_HEIGHT +
-      Math.max(0, rows - 1) * CARD_GAP,
-  };
+function drawChromeSurface(ctx, image, x, y, width, height, title = false) {
+  drawTiledBackground(ctx, image, x, y, width, height);
+  ctx.save();
+  ctx.globalAlpha = title ? 0.35 : 0.58;
+  ctx.fillStyle = THEME.surface;
+  ctx.fillRect(x, y, width, height);
+  ctx.globalAlpha = 1;
+  const shade = ctx.createLinearGradient(0, y, 0, y + height);
+  shade.addColorStop(0, title ? "rgba(92, 73, 46, 0.18)" : "rgba(28, 26, 23, 0.08)");
+  shade.addColorStop(1, "rgba(12, 11, 10, 0.20)");
+  ctx.fillStyle = shade;
+  ctx.fillRect(x, y, width, height);
+  ctx.restore();
 }
 
 function drawTiledBackground(ctx, image, x, y, width, height) {
@@ -331,13 +377,7 @@ async function drawSlotAtCoord(ctx, slot, coord, metric, options = {}) {
     ctx.restore();
   }
 
-  const scale = Math.min(boxW / img.width, boxH / img.height);
-  const w = img.width * scale;
-  const h = img.height * scale;
-  const dx = x + (boxW - w) / 2;
-  const dy = y + (boxH - h) / 2;
-
-  ctx.drawImage(img, dx, dy, w, h);
+  drawContainedIcon(ctx, img, x, y, boxW, boxH);
 }
 
 // -----------------------------------------------------
@@ -355,14 +395,13 @@ async function renderPresetImage(rawPreset, layout) {
     [1, 3], [0, 4], [1, 4], [2, 4], [1.75, 1], [1.75, 0],
   ].map(([col, row]) => ({ x: 202 + 14 + col * 59, y: 46 + row * 44 })) : equipmentCoords;
   const panelWidth = portrait ? 381 : PRESET_WIDTH;
-  const leftWidth = portrait ? 273 : LEFT_COL_WIDTH;
-  const rightWidth = portrait ? 88 : RIGHT_COL_WIDTH;
 
   const iconMap = await loadIconMap();
 
   preset.inventorySlots = resolveArray(preset.inventorySlots, iconMap);
   preset.equipmentSlots = resolveArray(preset.equipmentSlots, iconMap);
   preset.relics = resolveArray(preset.relics, iconMap);
+  preset.prayers = resolveArray(preset.prayers ?? [], iconMap);
   preset.ammoSpells = resolveArray(
     preset.ammoSpells ?? preset.AmmoSpells ?? [],
     iconMap,
@@ -372,7 +411,7 @@ async function renderPresetImage(rawPreset, layout) {
 
   await Promise.all([
     ...preset.inventorySlots, ...preset.equipmentSlots, ...preset.relics,
-    ...preset.ammoSpells, preset.familiar, preset.aspect,
+    ...preset.ammoSpells, ...preset.prayers, preset.familiar, preset.aspect,
   ].map(loadResolvedImage));
 
   const [presetMapDesktop, extrasBackground, borderTop, borderSide, corner] =
@@ -387,22 +426,12 @@ async function renderPresetImage(rawPreset, layout) {
   const frameAssets = { borderTop, borderSide, corner };
 
   const topPanelHeight = portrait ? 296 : presetMapDesktop.height;
-  const contentX = EXTRAS_PADDING_X;
-
-  const relicsHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const familiarHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const ammoHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const aspectHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-
-  const topRowHeight = Math.max(relicsHeight, familiarHeight);
-  const bottomRowHeight = Math.max(ammoHeight, aspectHeight);
-
-  const extrasPanelHeight =
-    EXTRAS_PADDING_Y +
-    topRowHeight +
-    EXTRAS_GAP_Y +
-    bottomRowHeight +
-    EXTRAS_PADDING_Y;
+  const supportRows = planSupportRows(preset, portrait, panelWidth);
+  const supportRowHeight = COMPACT_SLOT_SIZE + (portrait ? SECTION_TITLE_HEIGHT : 0);
+  const footerRowHeight = FOOTER_ROW_HEIGHT + (portrait ? FOOTER_HEADING_HEIGHT : 0);
+  const extrasPanelHeight = supportRows.length
+    ? FOOTER_PADDING * 2 + supportRows.length * footerRowHeight + (supportRows.length - 1) * SUPPORT_ROW_GAP
+    : 0;
 
   const canvasWidth = panelWidth;
   const canvasHeight = TITLE_HEIGHT + topPanelHeight + extrasPanelHeight;
@@ -412,20 +441,12 @@ async function renderPresetImage(rawPreset, layout) {
   ctx.scale(renderScale, renderScale);
   ctx.imageSmoothingQuality = "high";
 
-  ctx.fillStyle = "#17120f";
+  ctx.fillStyle = THEME.background;
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
-  ctx.save();
-  ctx.fillStyle = "white";
-  ctx.font = "700 18px Arial, sans-serif";
-  ctx.textAlign = "center";
-  ctx.textBaseline = "middle";
-  ctx.fillText(
-    ellipsiseText(ctx, preset.presetName || "Unnamed preset", canvasWidth - 16),
-    canvasWidth / 2,
-    TITLE_HEIGHT / 2,
-  );
-  ctx.restore();
+  drawChromeSurface(ctx, extrasBackground, 0, 0, canvasWidth, TITLE_HEIGHT, true);
+  drawChromeFrame(ctx, 0, 0, canvasWidth, TITLE_HEIGHT);
+  drawPresetHeading(ctx, preset.presetName || "Unnamed preset", canvasWidth);
 
   const topX = 0;
   const topY = TITLE_HEIGHT;
@@ -490,71 +511,32 @@ async function renderPresetImage(rawPreset, layout) {
   const extrasX = 0;
   const extrasY = topY + topPanelHeight;
 
-  drawTiledBackground(
-    ctx,
-    extrasBackground,
-    extrasX,
-    extrasY,
-    panelWidth,
-    extrasPanelHeight,
-  );
-  drawFrame(
-    ctx,
-    extrasX,
-    extrasY,
-    panelWidth,
-    extrasPanelHeight,
-    frameAssets,
-  );
-
-  const sectionsTopY = extrasY + EXTRAS_PADDING_Y;
-  const sectionsBottomY = sectionsTopY + topRowHeight + EXTRAS_GAP_Y;
-
-  await drawExtrasSection(ctx, {
-    x: contentX,
-    y: sectionsTopY,
-    width: leftWidth,
-    title: RELICS_TITLE,
-    items: preset.relics.slice(0, 3),
-    maxItems: 3,
-    columns: 3,
-    iconMap,
-    titleAlign: "left",
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX + leftWidth + EXTRAS_GAP_X,
-    y: sectionsTopY,
-    width: rightWidth,
-    title: FAMILIAR_TITLE,
-    items: [preset.familiar],
-    maxItems: 1,
-    columns: 1,
-    iconMap,
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX,
-    y: sectionsBottomY,
-    width: leftWidth,
-    title: AMMO_TITLE,
-    items: (preset.ammoSpells ?? []).slice(0, 3),
-    maxItems: 3,
-    columns: 3,
-    iconMap,
-    titleAlign: "left",
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX + leftWidth + EXTRAS_GAP_X,
-    y: sectionsBottomY,
-    width: rightWidth,
-    title: ASPECT_TITLE,
-    items: [preset.aspect],
-    maxItems: 1,
-    columns: 1,
-    iconMap,
-  });
+  if (extrasPanelHeight) {
+    drawChromeSurface(ctx, extrasBackground, extrasX, extrasY, panelWidth, extrasPanelHeight);
+    drawChromeFrame(ctx, extrasX, extrasY, panelWidth, extrasPanelHeight);
+    const contentPadding = (extrasPanelHeight - supportRows.length * supportRowHeight
+      - (supportRows.length - 1) * SUPPORT_ROW_GAP) / 2;
+    for (const [rowIndex, sections] of supportRows.entries()) {
+      const y = extrasY + contentPadding + rowIndex * (supportRowHeight + SUPPORT_ROW_GAP);
+      if (rowIndex) {
+        ctx.save();
+        ctx.fillStyle = THEME.divider;
+        ctx.globalAlpha = 0.45;
+        ctx.fillRect(FOOTER_PADDING, y - SUPPORT_ROW_GAP / 2, panelWidth - FOOTER_PADDING * 2, 1);
+        ctx.restore();
+      }
+      for (const side of ["left", "right"]) {
+        const group = sections.filter(section => section.side === side);
+        const width = group.reduce((sum, section) => sum + section.width, 0)
+          + Math.max(0, group.length - 1) * SUPPORT_SECTION_GAP;
+        let x = side === "left" ? FOOTER_PADDING : panelWidth - FOOTER_PADDING - width;
+        for (const section of group) {
+          await drawSupportSection(ctx, section, x, y, portrait);
+          x += section.width + SUPPORT_SECTION_GAP;
+        }
+      }
+    }
+  }
 
   const buffer = canvas.toBuffer("image/png");
 
