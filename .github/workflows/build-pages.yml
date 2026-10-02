@@ -1,0 +1,64 @@
+name: Build preset embeds
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'presets/*.json'
+      - '!presets/preset-index.json'
+      - 'embed-renderer/**'
+      - 'utility/**'
+      - 'package*.json'
+      - '.github/workflows/build-pages.yml'
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      force_regenerate:
+        description: Re-render unchanged presets
+        type: boolean
+        default: false
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: preset-embed-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+        id: pages
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache/static-embeds
+          key: static-embeds-v2-${{ github.run_id }}
+          restore-keys: static-embeds-v2-
+      - run: npm ci --no-audit --no-fund
+      - name: Generate embeds
+        env:
+          EMBED_SITE_URL: ${{ steps.pages.outputs.base_url }}/
+          EDITOR_SITE_URL: https://pvme.github.io/preset-maker/
+          EMBED_FORCE: ${{ inputs.force_regenerate || 'false' }}
+          # A workflow has a full snapshot and a 60-minute job; give an initial
+          # publication enough time to render the whole corpus in one run.
+          EMBED_RENDER_BUDGET_MS: 3300000
+        run: npm run generate
+      - uses: actions/cache/save@v4
+        with:
+          path: .cache/static-embeds
+          key: static-embeds-v2-${{ github.sha }}
+      - name: Enforce Pages size budget
+        run: test $(du -sb .cache/static-embeds | cut -f1) -le 950000000
+      - uses: actions/upload-pages-artifact@v4
+        with: { path: .cache/static-embeds }
+      - uses: actions/deploy-pages@v4
+        id: deployment
