@@ -3,7 +3,7 @@
   "presetNotes": "gregergergger",
   "equipmentSlots": [
     {
-      "id": ""
+      "id": "achtomask"
     },
     {
       "id": ""
@@ -77,7 +77,7 @@
       "id": "notepaperstack"
     },
     {
-      "id": ""
+      "id": "2arangetop"
     },
     {
       "id": ""
@@ -138,25 +138,25 @@
     }
   ],
   "familiar": {
-    "id": ""
+    "id": "beaver"
   },
   "relics": [
     {
       "id": "lotdrelic"
     },
     {
-      "id": ""
+      "id": "conservationofenergy"
     },
     {
       "id": ""
     }
   ],
   "aspect": {
-    "id": ""
+    "id": "penanceaspect"
   },
   "ammoSpells": [
     {
-      "id": ""
+      "id": "abyssalspikesstack"
     },
     {
       "id": ""
