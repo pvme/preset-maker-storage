@@ -6,6 +6,7 @@ import { createCanvas, loadImage, GlobalFonts } from '@napi-rs/canvas';
 
 const { createRenderer } = createRequire(import.meta.url)('../embed-renderer/lib/render-core.js');
 GlobalFonts.registerFromPath(fileURLToPath(new URL('../embed-renderer/assets/PlayfairDisplay.ttf', import.meta.url)), 'Playfair Display');
+GlobalFonts.registerFromPath(fileURLToPath(new URL('../embed-renderer/assets/Gelasio.ttf', import.meta.url)), 'Gelasio');
 
 function renderer() {
   const labels = [];
@@ -34,7 +35,7 @@ test('empty support sections add no panel or headings in either layout', async (
     const { renderPresetImage, labels } = renderer();
     const image = await loadImage(await renderPresetImage({ presetName: 'Empty' }, layout));
     assert.equal(image.width, width); assert.equal(image.height, height);
-    assert.deepEqual(labels, ['Empty']);
+    assert.equal(labels.join(''), 'EMPTY');
   }
 });
 
@@ -43,7 +44,7 @@ test('populated support uses compact slots without item-name cards', async () =>
     const { renderPresetImage, labels } = renderer();
     const image = await loadImage(await renderPresetImage({ relics: [item] }, layout));
     assert.equal(image.height, height);
-    assert.equal(labels.slice(1).join(''), 'RELICS');
+    assert.equal(labels.join(''), 'UNNAMED PRESETRELICS');
     assert.ok(!labels.includes(item.name));
   }
 });
@@ -53,6 +54,6 @@ test('all five populated support sections wrap and include prayers', async () =>
     const { renderPresetImage, labels } = renderer();
     const image = await loadImage(await renderPresetImage({ relics: [item, item, item], ammoSpells: [item, item, item], prayers: [item, item, item], familiar: item, aspect: item }, layout));
     assert.equal(image.height, height);
-    assert.equal(labels.slice(1).join(''), 'RELICSPRAYERSAMMO / SPELLSFAMILIARASPECT');
+    assert.equal(labels.join(''), 'UNNAMED PRESETRELICSPRAYERSAMMO / SPELLSFAMILIARASPECT');
   }
 });

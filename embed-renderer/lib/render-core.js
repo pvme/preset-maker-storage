@@ -17,6 +17,9 @@ const EXTRAS_GAP_X = 14;
 const SUPPORT_SLOT_SIZE = 32;
 const SUPPORT_SLOT_GAP = 4;
 const SECTION_TITLE_FONT = '600 10.5px "Playfair Display"';
+const TITLE_FONT = '700 14px "Gelasio"';
+const TITLE_INITIAL_FONT = '700 18px "Gelasio"';
+const TITLE_LETTER_SPACING = 1.5;
 
 // Desktop coords from UI
 const SLOT_METRICS = {
@@ -60,19 +63,69 @@ function rgba(r, g, b, a) {
   return `rgba(${r}, ${g}, ${b}, ${a})`;
 }
 
-function ellipsiseText(ctx, text, maxWidth) {
-  if (!text) return "";
-  if (ctx.measureText(text).width <= maxWidth) return text;
-
-  let output = text;
-  while (
-    output.length > 0 &&
-    ctx.measureText(`${output}...`).width > maxWidth
-  ) {
-    output = output.slice(0, -1);
+function drawTitle(ctx, name, width) {
+  const mask = createCanvas(width * renderScale, TITLE_HEIGHT * renderScale);
+  const text = mask.getContext("2d");
+  text.scale(renderScale, renderScale);
+  text.textBaseline = "alphabetic";
+  // Preserve the original capitals at full size and render lowercase as small caps.
+  const runs = Array.from(name).flatMap(character => Array.from(character.toUpperCase(), value => ({
+    value,
+    font: /\p{Ll}/u.test(character) ? TITLE_FONT : TITLE_INITIAL_FONT,
+  })));
+  const measure = () => runs.reduce((total, run) => {
+    text.font = run.font;
+    return total + text.measureText(run.value).width + TITLE_LETTER_SPACING;
+  }, -TITLE_LETTER_SPACING);
+  if (measure() > width - 16) {
+    text.font = TITLE_FONT;
+    const ellipsisWidth = text.measureText("...").width + TITLE_LETTER_SPACING;
+    while (runs.length && measure() + ellipsisWidth > width - 16) {
+      const last = runs.at(-1);
+      last.value = Array.from(last.value).slice(0, -1).join("");
+      if (!last.value) runs.pop();
+    }
+    runs.push({ value: "...", font: TITLE_FONT });
+  }
+  let x = (width - measure()) / 2;
+  text.fillStyle = "#fff";
+  for (const run of runs) {
+    text.font = run.font;
+    text.fillText(run.value, x, 24);
+    x += text.measureText(run.value).width + TITLE_LETTER_SPACING;
   }
 
-  return output ? `${output}...` : "";
+  const gold = createCanvas(mask.width, mask.height);
+  const gilding = gold.getContext("2d");
+  gilding.drawImage(mask, 0, 0);
+  gilding.globalCompositeOperation = "source-in";
+  gilding.fillStyle = "#e7c779";
+  gilding.fillRect(0, 0, gold.width, gold.height);
+
+  // Shadow the inverse text mask, then clip it to the letters for a true inset.
+  const inverse = createCanvas(mask.width, mask.height);
+  const cutout = inverse.getContext("2d");
+  cutout.fillRect(0, 0, inverse.width, inverse.height);
+  cutout.globalCompositeOperation = "destination-out";
+  cutout.drawImage(mask, 0, 0);
+  const inset = createCanvas(mask.width, mask.height);
+  const shadow = inset.getContext("2d");
+  shadow.shadowColor = "rgba(75, 43, 9, 0.4)";
+  shadow.shadowBlur = 0.35 * renderScale;
+  shadow.shadowOffsetY = 0.4 * renderScale;
+  shadow.drawImage(inverse, 0, 0);
+  shadow.shadowColor = "transparent";
+  shadow.globalCompositeOperation = "destination-in";
+  shadow.drawImage(mask, 0, 0);
+
+  ctx.save();
+  ctx.shadowColor = "rgba(0, 0, 0, 0.85)";
+  ctx.shadowBlur = 2;
+  ctx.shadowOffsetY = 1.2;
+  ctx.drawImage(gold, 0, 0, width, TITLE_HEIGHT);
+  ctx.shadowColor = "transparent";
+  ctx.drawImage(inset, 0, 0, width, TITLE_HEIGHT);
+  ctx.restore();
 }
 
 function drawFrame(ctx, x, y, width, height, assets) {
@@ -323,17 +376,7 @@ async function renderPresetImage(rawPreset, layout) {
   ctx.fillStyle = "#17120f";
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
-  ctx.save();
-  ctx.fillStyle = "#e7c779";
-  ctx.font = "700 18px Arial, sans-serif";
-  ctx.textAlign = "center";
-  ctx.textBaseline = "middle";
-  ctx.fillText(
-    ellipsiseText(ctx, preset.presetName || "Unnamed preset", canvasWidth - 16),
-    canvasWidth / 2,
-    TITLE_HEIGHT / 2,
-  );
-  ctx.restore();
+  drawTitle(ctx, preset.presetName || "Unnamed preset", canvasWidth);
 
   const topX = 0;
   const topY = TITLE_HEIGHT;

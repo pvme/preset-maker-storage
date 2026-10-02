@@ -4,6 +4,7 @@ import { createRequire } from 'node:module';
 import { fileURLToPath } from 'node:url';
 import { createCanvas, loadImage, GlobalFonts } from '@napi-rs/canvas';
 GlobalFonts.registerFromPath(fileURLToPath(new URL("assets/PlayfairDisplay.ttf", import.meta.url)), "Playfair Display");
+GlobalFonts.registerFromPath(fileURLToPath(new URL("assets/Gelasio.ttf", import.meta.url)), "Gelasio");
 const require = createRequire(import.meta.url);
 const { createRenderer } = require('./lib/render-core.js');
 

@@ -6,6 +6,8 @@
 
 Run `npm install`, then `npm run dev`. It selects and renders ten random presets rather than the full corpus, then opens a dashboard at `http://localhost:3001/`. The dashboard links to each source JSON, both WebPs, and an `OG inspect` page that disables the human redirect only in local development so metadata can be examined. Editing one of those ten JSON files regenerates only its previews. The layout-less URL is a real landscape (`7x4`) HTML page, so Discord can read its OpenGraph metadata.
 
+Renderer and asset edits also regenerate the current sample. Refresh the dashboard to get the new content-addressed image links; an already-open WebP URL continues to identify its original image. Local responses disable browser caching, and opening an OG inspect page checks its preset and renderer fingerprint before serving it.
+
 `EMBED_SITE_URL` defaults to `http://localhost:3001/`; `EDITOR_SITE_URL` defaults to `http://localhost:5173/`. The former creates image, canonical, and OpenGraph URLs. The latter is only the human redirect target (`#/ID?layout=…`). Override either as needed. Use `npm run generate` or `npm run generate:force` for one-off runs.
 
 ## Publication and cache
