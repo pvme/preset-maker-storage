@@ -1,0 +1,218 @@
+{
+  "presetName": "Berylbrook AFK Melee Sanguine Werewolves",
+  "presetNotes": "<div><span>Pray </span>:deflectmelee:<span> and </span>:turmoil:<span> or </span>:malevolence:</div><div>\nUse armour perked with :dev4: or :enhdev4:\n<br /><div>Set Scavenge (legendary pet) to \"miscellaneous\" only.</div><div><br /></div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "May replace with a h<span>avensilver halberd +2.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
