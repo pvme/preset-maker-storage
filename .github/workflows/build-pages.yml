@@ -56,9 +56,19 @@ jobs:
         with:
           path: .cache/static-embeds
           key: static-embeds-v2-${{ github.sha }}
+      - name: Assemble Pages artefact
+        run: |
+          mkdir -p dist
+          cp -R .cache/static-embeds dist/embeds
+          cat > dist/index.html <<'HTML'
+          <!doctype html><meta charset="utf-8"><title>PvME preset embeds</title>
+          <h1>PvME preset embeds</h1>
+          <p>Static preset previews are available at <code>/embeds/&lt;preset-id&gt;/</code>.</p>
+          HTML
+
       - name: Enforce Pages size budget
-        run: test $(du -sb .cache/static-embeds | cut -f1) -le 950000000
+        run: test $(du -sb dist | cut -f1) -le 950000000
       - uses: actions/upload-pages-artifact@v4
-        with: { path: .cache/static-embeds }
+        with: { path: dist }
       - uses: actions/deploy-pages@v4
         id: deployment
