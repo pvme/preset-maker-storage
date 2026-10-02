@@ -43,6 +43,7 @@ jobs:
           key: static-embeds-v2-${{ github.run_id }}
           restore-keys: static-embeds-v2-
       - run: npm ci --no-audit --no-fund
+      - run: npm test
       - name: Generate embeds
         env:
           EMBED_SITE_URL: ${{ steps.pages.outputs.base_url }}/

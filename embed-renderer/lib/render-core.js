@@ -12,27 +12,11 @@ const FRAME_CORNER_SIZE = 4;
 const FRAME_TOP_HEIGHT = 4;
 const FRAME_SIDE_WIDTH = 4;
 
-const EXTRAS_PADDING_X = 8;
-const EXTRAS_PADDING_Y = 6;
-const EXTRAS_GAP_X = 4;
-const EXTRAS_GAP_Y = 8;
-
-const LEFT_COL_WIDTH = 344;
-const RIGHT_COL_WIDTH = 108;
-
-const SECTION_TITLE_HEIGHT = 20;
-const SECTION_TITLE_FONT = "700 14px Arial, sans-serif";
-
-const CARD_GAP = 6;
-const CARD_HEIGHT = 64;
-const CARD_RADIUS = 8;
-const CARD_ICON_SIZE = 30;
-const CARD_NAME_FONT = "400 12px Arial, sans-serif";
-
-const RELICS_TITLE = "Relics";
-const FAMILIAR_TITLE = "Familiar";
-const AMMO_TITLE = "Ammo / Spells";
-const ASPECT_TITLE = "Aspect";
+const EXTRAS_PADDING_X = 18;
+const EXTRAS_GAP_X = 14;
+const SUPPORT_SLOT_SIZE = 32;
+const SUPPORT_SLOT_GAP = 4;
+const SECTION_TITLE_FONT = '600 10.5px "Playfair Display"';
 
 // Desktop coords from UI
 const SLOT_METRICS = {
@@ -74,20 +58,6 @@ const equipmentCoords = Array.from({ length: 12 }, (_, index) => {
 
 function rgba(r, g, b, a) {
   return `rgba(${r}, ${g}, ${b}, ${a})`;
-}
-
-function getSlotDisplayName(slot, iconMap) {
-  if (!slot) return "";
-
-  if (slot.name) return slot.name;
-  if (slot.label) return slot.label;
-
-  const id = slot.id?.trim().toLowerCase();
-  if (id && iconMap?.byId?.[id]?.name) {
-    return iconMap.byId[id].name;
-  }
-
-  return "";
 }
 
 function ellipsiseText(ctx, text, maxWidth) {
@@ -151,42 +121,6 @@ function drawFrame(ctx, x, y, width, height, assets) {
   }
 }
 
-function roundedRectPath(ctx, x, y, width, height, radius) {
-  const r = Math.min(radius, width / 2, height / 2);
-  ctx.beginPath();
-  ctx.moveTo(x + r, y);
-  ctx.arcTo(x + width, y, x + width, y + height, r);
-  ctx.arcTo(x + width, y + height, x, y + height, r);
-  ctx.arcTo(x, y + height, x, y, r);
-  ctx.arcTo(x, y, x + width, y, r);
-  ctx.closePath();
-}
-
-function drawCardBackground(ctx, x, y, width, height) {
-  roundedRectPath(ctx, x, y, width, height, CARD_RADIUS);
-  ctx.fillStyle = rgba(255, 255, 255, 0.015);
-  ctx.fill();
-
-  roundedRectPath(ctx, x + 0.5, y + 0.5, width - 1, height - 1, CARD_RADIUS);
-  ctx.strokeStyle = rgba(255, 255, 255, 0.06);
-  ctx.lineWidth = 1;
-  ctx.stroke();
-}
-
-function drawSectionTitle(ctx, title, x, y, width, align = "center") {
-  ctx.save();
-  ctx.fillStyle = "white";
-  ctx.font = SECTION_TITLE_FONT;
-  ctx.textAlign = align;
-  ctx.textBaseline = "alphabetic";
-
-  const textX =
-    align === "left" ? x : align === "right" ? x + width : x + width / 2;
-
-  ctx.fillText(title, textX, y + 14);
-  ctx.restore();
-}
-
 const imageCache = new Map();
 async function loadResolvedImage(slot) {
   if (!slot?.image) return null;
@@ -211,93 +145,81 @@ async function loadResolvedImage(slot) {
   return loading;
 }
 
-async function drawExtraCard(ctx, slot, x, y, width, height, iconMap) {
-  drawCardBackground(ctx, x, y, width, height);
+// The support layout mirrors PresetEditor: only populated sections are shown,
+// with compact icon slots and gold labels rather than named item cards.
+function supportRows(preset, portrait, panelWidth) {
+  const sections = [
+    { title: "Relics", items: preset.relics, max: 3, row: 0, side: "left" },
+    { title: "Ammo / Spells", items: preset.ammoSpells, max: 3, row: 1, side: "left" },
+    { title: "Prayers", items: preset.prayers, max: 3, row: 0, side: "right" },
+    { title: "Familiar", items: [preset.familiar], max: 1, row: 1, side: "right" },
+    { title: "Aspect", items: [preset.aspect], max: 1, row: 1, side: "right" },
+  ].map(section => {
+    const items = (section.items || []).slice(0, section.max).filter(item => item?.id && item.image);
+    const slotsWidth = items.length * SUPPORT_SLOT_SIZE + Math.max(0, items.length - 1) * SUPPORT_SLOT_GAP;
+    return { ...section, items, slotsWidth,
+      width: portrait ? Math.max(slotsWidth, section.title.length * 7) : slotsWidth + section.title.length * 7 + 10 };
+  }).filter(section => section.items.length);
+  const width = sections.reduce((sum, section) => sum + section.width, 0) + Math.max(0, sections.length - 1) * EXTRAS_GAP_X;
+  return !sections.length ? [] : width <= panelWidth - 28 ? [sections]
+    : [0, 1].map(row => sections.filter(section => section.row === row)).filter(row => row.length);
+}
 
-  const img = await loadResolvedImage(slot);
-  const name = getSlotDisplayName(slot, iconMap);
-
-  const iconX = x + (width - CARD_ICON_SIZE) / 2;
-  const iconY = y + 8;
-
-  if (img) {
-    const scale = Math.min(
-      CARD_ICON_SIZE / img.width,
-      CARD_ICON_SIZE / img.height,
-    );
-    const w = img.width * scale;
-    const h = img.height * scale;
-    const dx = iconX + (CARD_ICON_SIZE - w) / 2;
-    const dy = iconY + (CARD_ICON_SIZE - h) / 2;
-    ctx.drawImage(img, dx, dy, w, h);
-  }
-
+async function drawSupportSection(ctx, section, x, y, portrait) {
   ctx.save();
-  ctx.fillStyle = "white";
-  ctx.font = CARD_NAME_FONT;
-  ctx.textAlign = "center";
-  ctx.textBaseline = "alphabetic";
-  const text = ellipsiseText(ctx, name, width - 12);
-  ctx.fillText(text, x + width / 2, y + height - 10);
+  ctx.fillStyle = "#e7c779";
+  ctx.font = SECTION_TITLE_FONT;
+  ctx.textAlign = "left";
+  ctx.textBaseline = "middle";
+  const title = section.title.toUpperCase();
+  let labelX = x;
+  for (const character of title) {
+    ctx.fillText(character, labelX, y + (portrait ? 6 : 16));
+    labelX += ctx.measureText(character).width + 0.8;
+  }
   ctx.restore();
+  const slotsX = portrait ? x : labelX + 9.2;
+  const slotsY = y + (portrait ? 18 : 0);
+  for (const [i, slot] of section.items.entries()) {
+    const sx = slotsX + i * (SUPPORT_SLOT_SIZE + SUPPORT_SLOT_GAP);
+    ctx.fillStyle = "#100e0c";
+    ctx.fillRect(sx, slotsY, 32, 32);
+    ctx.strokeStyle = "#493b27";
+    ctx.lineWidth = 1;
+    ctx.strokeRect(sx + 0.5, slotsY + 0.5, 31, 31);
+    const image = await loadResolvedImage(slot);
+    if (image) {
+      const scale = Math.min(30 / image.width, 30 / image.height);
+      const w = image.width * scale, h = image.height * scale;
+      ctx.drawImage(image, sx + (32 - w) / 2, slotsY + (32 - h) / 2, w, h);
+    }
+  }
 }
 
-function getVisibleItems(items, maxItems) {
-  return Array.from({ length: maxItems }, (_, i) => items[i] ?? { id: "" })
-    .filter((item) => item && item.id);
-}
-
-async function drawExtrasSection(ctx, config) {
-  const {
-    x,
-    y,
-    width,
-    title,
-    items,
-    maxItems,
-    columns,
-    iconMap,
-    titleAlign = "center",
-  } = config;
-
-  const visibleItems = getVisibleItems(items, maxItems);
-
-  drawSectionTitle(ctx, title, x, y, width, titleAlign);
-
-  if (visibleItems.length === 0) {
-    return {
-      height: SECTION_TITLE_HEIGHT,
-    };
+async function drawSupportRows(ctx, rows, y, width, portrait) {
+  const paddingY = portrait ? 12 : 14;
+  const gapY = portrait ? 24 : 28;
+  const rowHeight = portrait ? 50 : 32;
+  const availableWidth = width - EXTRAS_PADDING_X * 2;
+  for (const [index, row] of rows.entries()) {
+    const rowY = y + paddingY + index * (rowHeight + gapY);
+    if (index) {
+      ctx.fillStyle = "rgba(92, 73, 46, 0.45)";
+      ctx.fillRect(EXTRAS_PADDING_X, rowY - gapY / 2, availableWidth, 1);
+    }
+    const totalWidth = row.reduce((sum, section) => sum + section.width, 0) + (row.length - 1) * EXTRAS_GAP_X;
+    const firstRight = row.findIndex(section => section.side === "right");
+    const singleRight = portrait && row.some(section => section.side === "right" && section.max === 1);
+    let x = EXTRAS_PADDING_X;
+    for (const [i, section] of row.entries()) {
+      if (i === firstRight && i > 0) {
+        if (portrait && !singleRight) x = EXTRAS_PADDING_X + availableWidth / 2;
+        else x += Math.max(0, availableWidth - totalWidth);
+      }
+      await drawSupportSection(ctx, section, x, rowY, portrait);
+      x += section.width + EXTRAS_GAP_X;
+    }
   }
-
-  const itemsY = y + SECTION_TITLE_HEIGHT;
-  const rows = Math.ceil(visibleItems.length / columns);
-  const cardWidth = Math.floor((width - CARD_GAP * (columns - 1)) / columns);
-
-  for (let i = 0; i < visibleItems.length; i += 1) {
-    const col = i % columns;
-    const row = Math.floor(i / columns);
-
-    const cardX = x + col * (cardWidth + CARD_GAP);
-    const cardY = itemsY + row * (CARD_HEIGHT + CARD_GAP);
-
-    await drawExtraCard(
-      ctx,
-      visibleItems[i],
-      cardX,
-      cardY,
-      cardWidth,
-      CARD_HEIGHT,
-      iconMap,
-    );
-  }
-
-  return {
-    height:
-      SECTION_TITLE_HEIGHT +
-      rows * CARD_HEIGHT +
-      Math.max(0, rows - 1) * CARD_GAP,
-  };
 }
 
 function drawTiledBackground(ctx, image, x, y, width, height) {
@@ -355,8 +277,6 @@ async function renderPresetImage(rawPreset, layout) {
     [1, 3], [0, 4], [1, 4], [2, 4], [1.75, 1], [1.75, 0],
   ].map(([col, row]) => ({ x: 202 + 14 + col * 59, y: 46 + row * 44 })) : equipmentCoords;
   const panelWidth = portrait ? 381 : PRESET_WIDTH;
-  const leftWidth = portrait ? 273 : LEFT_COL_WIDTH;
-  const rightWidth = portrait ? 88 : RIGHT_COL_WIDTH;
 
   const iconMap = await loadIconMap();
 
@@ -367,12 +287,13 @@ async function renderPresetImage(rawPreset, layout) {
     preset.ammoSpells ?? preset.AmmoSpells ?? [],
     iconMap,
   );
+  preset.prayers = resolveArray(preset.prayers || [], iconMap);
   preset.familiar = resolveSlot(preset.familiar, iconMap);
   preset.aspect = resolveSlot(preset.aspect, iconMap);
 
   await Promise.all([
     ...preset.inventorySlots, ...preset.equipmentSlots, ...preset.relics,
-    ...preset.ammoSpells, preset.familiar, preset.aspect,
+    ...preset.ammoSpells, ...preset.prayers, preset.familiar, preset.aspect,
   ].map(loadResolvedImage));
 
   const [presetMapDesktop, extrasBackground, borderTop, borderSide, corner] =
@@ -387,22 +308,9 @@ async function renderPresetImage(rawPreset, layout) {
   const frameAssets = { borderTop, borderSide, corner };
 
   const topPanelHeight = portrait ? 296 : presetMapDesktop.height;
-  const contentX = EXTRAS_PADDING_X;
-
-  const relicsHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const familiarHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const ammoHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-  const aspectHeight = SECTION_TITLE_HEIGHT + CARD_HEIGHT;
-
-  const topRowHeight = Math.max(relicsHeight, familiarHeight);
-  const bottomRowHeight = Math.max(ammoHeight, aspectHeight);
-
-  const extrasPanelHeight =
-    EXTRAS_PADDING_Y +
-    topRowHeight +
-    EXTRAS_GAP_Y +
-    bottomRowHeight +
-    EXTRAS_PADDING_Y;
+  const rows = supportRows(preset, portrait, panelWidth);
+  const extrasPanelHeight = rows.length ? (portrait ? 24 : 28)
+    + rows.length * (portrait ? 50 : 32) + (rows.length - 1) * (portrait ? 24 : 28) : 0;
 
   const canvasWidth = panelWidth;
   const canvasHeight = TITLE_HEIGHT + topPanelHeight + extrasPanelHeight;
@@ -416,7 +324,7 @@ async function renderPresetImage(rawPreset, layout) {
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
   ctx.save();
-  ctx.fillStyle = "white";
+  ctx.fillStyle = "#e7c779";
   ctx.font = "700 18px Arial, sans-serif";
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
@@ -490,71 +398,16 @@ async function renderPresetImage(rawPreset, layout) {
   const extrasX = 0;
   const extrasY = topY + topPanelHeight;
 
-  drawTiledBackground(
-    ctx,
-    extrasBackground,
-    extrasX,
-    extrasY,
-    panelWidth,
-    extrasPanelHeight,
-  );
-  drawFrame(
-    ctx,
-    extrasX,
-    extrasY,
-    panelWidth,
-    extrasPanelHeight,
-    frameAssets,
-  );
-
-  const sectionsTopY = extrasY + EXTRAS_PADDING_Y;
-  const sectionsBottomY = sectionsTopY + topRowHeight + EXTRAS_GAP_Y;
-
-  await drawExtrasSection(ctx, {
-    x: contentX,
-    y: sectionsTopY,
-    width: leftWidth,
-    title: RELICS_TITLE,
-    items: preset.relics.slice(0, 3),
-    maxItems: 3,
-    columns: 3,
-    iconMap,
-    titleAlign: "left",
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX + leftWidth + EXTRAS_GAP_X,
-    y: sectionsTopY,
-    width: rightWidth,
-    title: FAMILIAR_TITLE,
-    items: [preset.familiar],
-    maxItems: 1,
-    columns: 1,
-    iconMap,
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX,
-    y: sectionsBottomY,
-    width: leftWidth,
-    title: AMMO_TITLE,
-    items: (preset.ammoSpells ?? []).slice(0, 3),
-    maxItems: 3,
-    columns: 3,
-    iconMap,
-    titleAlign: "left",
-  });
-
-  await drawExtrasSection(ctx, {
-    x: contentX + leftWidth + EXTRAS_GAP_X,
-    y: sectionsBottomY,
-    width: rightWidth,
-    title: ASPECT_TITLE,
-    items: [preset.aspect],
-    maxItems: 1,
-    columns: 1,
-    iconMap,
-  });
+  if (rows.length) {
+    drawTiledBackground(ctx, extrasBackground, extrasX, extrasY, panelWidth, extrasPanelHeight);
+    const shade = ctx.createLinearGradient(0, extrasY, 0, extrasY + extrasPanelHeight);
+    shade.addColorStop(0, "rgba(21, 19, 17, 0.58)");
+    shade.addColorStop(1, "rgba(12, 11, 10, 0.70)");
+    ctx.fillStyle = shade;
+    ctx.fillRect(extrasX, extrasY, panelWidth, extrasPanelHeight);
+    drawFrame(ctx, extrasX, extrasY, panelWidth, extrasPanelHeight, frameAssets);
+    await drawSupportRows(ctx, rows, extrasY, panelWidth, portrait);
+  }
 
   const buffer = canvas.toBuffer("image/png");
 
