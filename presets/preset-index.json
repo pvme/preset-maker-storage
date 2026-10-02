@@ -4598,5 +4598,9 @@
   {
     "presetId": "04b72514-44fd-4d92-a14d-6607e9c5aad8",
     "presetName": "Berylbrook AFK Melee Sanguine Werewolves"
+  },
+  {
+    "presetId": "migration-verify-20261002-1125",
+    "presetName": "Migration verification 2026-10-02"
   }
 ]
