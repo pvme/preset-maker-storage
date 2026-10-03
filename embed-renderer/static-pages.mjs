@@ -55,16 +55,25 @@ export async function generateStaticEmbeds({ entries, outputDir, embedSiteUrl, e
     const fingerprint = digest(`${rendererVersion}\n${content}`); let old = previous.entries?.[id];
     if (old) for (const layout of layouts) { const image = old.images?.[layout]; if (!image || !validImage.test(image.file) || !Number.isInteger(image.width) || !Number.isInteger(image.height)) { old = undefined; break; } try { if (!(await stat(path.join(root, image.file))).size) old = undefined; } catch (e) { if (e.code !== 'ENOENT') throw e; old = undefined; } if (!old) break; }
     let record = old, title = old?.title || 'RuneScape preset';
-    if (!force && old?.fingerprint === fingerprint) result.reused++;
+    if (!force && old?.fingerprint === fingerprint) {
+      record = { ...old, sourceRevision: digest(JSON.stringify(JSON.parse(content))) };
+      result.reused++;
+    }
     else if (now() - started >= renderBudgetMs) { result.deferred++; next.pending.deferred.push(id); }
     else try {
       const preset = JSON.parse(content); if (!preset || (!Array.isArray(preset.inventorySlots) && !Array.isArray(preset.equipmentSlots))) throw new Error('Preset has no inventory or equipment slots');
       title = String(preset.presetName || 'Unnamed preset').slice(0, 300); const images = {}, rendered = [];
       for (const layout of layouts) rendered.push([layout, await renderImage(preset, layout)]);
       for (const [layout, image] of rendered) { const file = `images/${digest(image.buffer)}.webp`; if (await writeChanged(path.join(root, file), image.buffer)) result.changed = true; images[layout] = { file, width: image.width, height: image.height }; }
-      record = { fingerprint, title, images }; result.rendered++;
+      record = { fingerprint, sourceRevision: digest(JSON.stringify(preset)), title, images }; result.rendered++;
     } catch (error) { result.failed++; next.pending.failed.push(id); logger.warn(`Preset ${id}: ${error.message}`); }
     if (record) next.entries[id] = record;
+    if (await writeChanged(path.join(root, id, 'status.json'), JSON.stringify({
+      current: record?.fingerprint === fingerprint,
+      sourceRevision: record?.sourceRevision || null,
+      revision: record?.fingerprint || null,
+      images: record?.images || {},
+    }))) result.changed = true;
     for (const layout of layouts) { const image = record?.images[layout]; if (image) referenced.add(image.file); if (await writeChanged(path.join(root, id, layout, 'index.html'), staticEmbedHtml({ id, layout, title: record?.title || title, embedSiteUrl, editorSiteUrl, image }))) result.changed = true; }
     const landscape = record?.images?.['7x4']; if (landscape) referenced.add(landscape.file);
     if (await writeChanged(path.join(root, id, 'index.html'), staticEmbedHtml({ id, layout: '7x4', title: record?.title || title, embedSiteUrl, editorSiteUrl, image: landscape, defaultPage: true }))) result.changed = true;

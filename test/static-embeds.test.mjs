@@ -2,10 +2,46 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { mkdtemp, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import os from 'node:os'; import path from 'node:path';
-import { generateStaticEmbeds } from '../embed-renderer/static-pages.mjs';
+import { generateStaticEmbeds, digest } from '../embed-renderer/static-pages.mjs';
 const entry = (id, title = id) => ({ id, content: JSON.stringify({ presetName: title, inventorySlots: Array(28).fill({ id: '' }), equipmentSlots: Array(12).fill({ id: '' }) }) });
 async function setup(t) { const dir = await mkdtemp(path.join(os.tmpdir(), 'preset-embed-')); t.after(() => rm(dir, { recursive: true, force: true })); const calls = []; return { dir, calls, options: { entries: [entry('abc', '<script>x</script>')], outputDir: dir, embedSiteUrl: 'https://embeds.test/', editorSiteUrl: 'https://editor.test/app/', rendererVersion: 'one', logger: { log() {}, warn() {} }, renderImage: async (p, layout) => { calls.push(layout); return { buffer: Buffer.from(`${p.presetName}-${layout}`), width: layout === '4x7' ? 762 : 944, height: 1036 }; } } }; }
 test('all URLs have correct OG layout and editor redirect; preset title is escaped', async t => { const { dir, options } = await setup(t); await generateStaticEmbeds(options); for (const [suffix, layout] of [['', '7x4'], ['7x4/', '7x4'], ['4x7/', '4x7']]) { const html = await readFile(path.join(dir, 'abc', suffix, 'index.html'), 'utf8'); assert.match(html, new RegExp(`og:url" content="https://embeds.test/embeds/abc/${suffix}`)); assert.match(html, new RegExp(`https://editor.test/app/#/abc\\?layout=${layout}`)); assert.match(html, /images\/[a-f0-9]{64}\.webp/); assert.match(html, /&lt;script&gt;x/); assert.doesNotMatch(html, /<script>x/); } });
 test('unchanged reuse, changes/version/force rerender, and missing images repair', async t => { const { dir, options, calls } = await setup(t); await generateStaticEmbeds(options); assert.equal(calls.length, 2); assert.equal((await generateStaticEmbeds(options)).reused, 1); assert.equal(calls.length, 2); const manifest = JSON.parse(await readFile(path.join(dir, 'manifest.json'))); await rm(path.join(dir, manifest.entries.abc.images['4x7'].file)); await generateStaticEmbeds(options); assert.equal(calls.length, 4); await generateStaticEmbeds({ ...options, rendererVersion: 'two' }); assert.equal(calls.length, 6); await generateStaticEmbeds({ ...options, force: true }); assert.equal(calls.length, 8); });
 test('deletion cleans pages/images; failures preserve previous pages and initial failures still link', async t => { const { dir, options } = await setup(t); await generateStaticEmbeds({ ...options, entries: [entry('one'), entry('two')] }); await generateStaticEmbeds({ ...options, entries: [entry('two')] }); await assert.rejects(readFile(path.join(dir, 'one', 'index.html'))); const before = await readFile(path.join(dir, 'two', 'index.html'), 'utf8'); await generateStaticEmbeds({ ...options, entries: [entry('two', 'changed')], renderImage: async () => { throw new Error('offline'); } }); assert.equal(await readFile(path.join(dir, 'two', 'index.html'), 'utf8'), before); await generateStaticEmbeds({ ...options, entries: [entry('new')], renderImage: async () => { throw new Error('offline'); } }); assert.match(await readFile(path.join(dir, 'new', 'index.html'), 'utf8'), /#\/new\?layout=7x4/); });
 test('unsafe IDs, index omission equivalent and empty snapshots are safe', async t => { const { dir, options } = await setup(t); await assert.rejects(generateStaticEmbeds({ ...options, entries: [] }), /empty/); await assert.rejects(generateStaticEmbeds({ ...options, entries: [entry('../bad')] }), /Invalid/); await writeFile(path.join(dir, 'unrelated'), 'safe'); await assert.rejects(generateStaticEmbeds(options), /not owned/); });
+
+test('publication status identifies the exact rendered source and both layouts', async t => {
+  const { dir, options } = await setup(t);
+  await generateStaticEmbeds(options);
+  const readStatus = async () => JSON.parse(await readFile(path.join(dir, 'abc', 'status.json'), 'utf8'));
+  const ready = await readStatus();
+  assert.equal(ready.current, true);
+  assert.equal(ready.sourceRevision, digest(JSON.stringify(JSON.parse(options.entries[0].content))));
+  assert.match(ready.revision, /^[a-f0-9]{64}$/);
+  assert.deepEqual(Object.keys(ready.images), ['7x4', '4x7']);
+  await generateStaticEmbeds({ ...options, entries: [entry('abc', 'changed')], renderImage: async () => { throw new Error('offline'); } });
+  const stale = await readStatus();
+  assert.equal(stale.current, false);
+  assert.equal(stale.sourceRevision, ready.sourceRevision);
+  await generateStaticEmbeds({ ...options, entries: [entry('abc', 'changed')] });
+  const refreshed = await readStatus();
+  assert.equal(refreshed.current, true);
+  assert.notEqual(refreshed.sourceRevision, ready.sourceRevision);
+});
+
+test('unrendered previews are pending; reused legacy records gain source revisions', async t => {
+  const { dir, options } = await setup(t);
+  await generateStaticEmbeds({ ...options, renderBudgetMs: 0 });
+  let status = JSON.parse(await readFile(path.join(dir, 'abc', 'status.json'), 'utf8'));
+  assert.equal(status.current, false);
+  assert.deepEqual(status.images, {});
+  await generateStaticEmbeds(options);
+  const manifestPath = path.join(dir, 'manifest.json');
+  const manifest = JSON.parse(await readFile(manifestPath, 'utf8'));
+  delete manifest.entries.abc.sourceRevision;
+  await writeFile(manifestPath, JSON.stringify(manifest));
+  assert.equal((await generateStaticEmbeds(options)).reused, 1);
+  status = JSON.parse(await readFile(path.join(dir, 'abc', 'status.json'), 'utf8'));
+  assert.equal(status.current, true);
+  assert.match(status.sourceRevision, /^[a-f0-9]{64}$/);
+});
