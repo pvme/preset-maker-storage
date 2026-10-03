@@ -1,6 +1,6 @@
 {
   "presetName": "Berylbrook AFK Melee Sanguine Werewolves",
-  "presetNotes": "<div><span>Pray </span>:deflectmelee:<span> and </span>:turmoil:<span> or </span>:malevolence:</div><div>\nUse armour perked with :dev4: or :enhdev4:\n<br /><div>Set Scavenge (legendary pet) to \"miscellaneous\" only.</div><div><br /></div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
+  "presetNotes": "<div><span>Set Scavenge (legendary pet) to \"miscellaneous\" only</span></div><div><div><br /></div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -164,12 +164,12 @@
     {
       "slotType": "equipment",
       "slotIndex": 4,
-      "description": ""
+      "description": "<span>Perk one of your armour pieces with </span>:dev4:<span> or </span>:enhdev4:"
     },
     {
       "slotType": "equipment",
       "slotIndex": 6,
-      "description": "<br />"
+      "description": "<span>Perk one of your armour pieces with </span>:dev4:<span> or </span>:enhdev4:"
     },
     {
       "slotType": "equipment",
