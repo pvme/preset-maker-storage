@@ -1,6 +1,6 @@
 {
   "presetName": "Nick test",
-  "presetNotes": "<div><span>Set Scavenge (legendary pet) to \"miscellaneous\" only</span></div><div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
+  "presetNotes": "<div><span>Set Scavenge (legendary pet) to \"miscellaneous\" only</span></div><div><div><br /></div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
