@@ -33,7 +33,7 @@
       "id": "reaverring"
     },
     {
-      "id": "graspingpouchpink"
+      "id": "nodonspikeharness"
     },
     {
       "id": "vampscrim"
@@ -113,7 +113,7 @@
       "id": ""
     },
     {
-      "id": ""
+      "id": "graspingpouchpink"
     },
     {
       "id": "graspingpouchblack"
@@ -177,14 +177,19 @@
       "description": "<br />"
     },
     {
-      "slotType": "equipment",
-      "slotIndex": 10,
+      "slotType": "inventory",
+      "slotIndex": 24,
       "description": "<br />"
     },
     {
       "slotType": "inventory",
       "slotIndex": 7,
       "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Optional, can wear pouch for prayer bonus instead"
     }
   ],
   "familiar": {
