@@ -206,6 +206,17 @@
       "id": ""
     }
   ],
+  "prayers": [
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": ""
+    }
+  ],
   "aspect": {
     "id": "vampyrismaspect"
   },
