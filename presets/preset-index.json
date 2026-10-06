@@ -4630,5 +4630,9 @@
   {
     "presetId": "17cc9045-05ef-4898-b5da-b581d6214975",
     "presetName": "AFK Ranged Ravenous Strigoi"
+  },
+  {
+    "presetId": "fc0635cb-27ff-4d89-ae78-9849fc8861a1",
+    "presetName": "Sunken Pyramid AFK Melee Sanguine Werewolves"
   }
 ]
