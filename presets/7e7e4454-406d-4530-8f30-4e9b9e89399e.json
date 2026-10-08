@@ -1,0 +1,234 @@
+{
+  "presetName": "Berylbrook AFK Melee Sanguine Werewolves",
+  "presetNotes": "<div><span>Set Scavenge (legendary pet) to \"miscellaneous\" only.</span></div><div><span><br /></span></div><div><div>Can optionally use Luck of the Dwarves relic :lotdrelic:</div></div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "extremeantisanguine"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "May replace with a h<span>avensilver halberd +2 </span><span>:havensilverhalberd2:\n    • Upkeeping either :superantisanguine: or :extremeantisanguine: is required if using :havensilverhalberd2:\n        ⬩ Also requires :vampyrismgloves:\n</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Perk one of your armour pieces with </span>:dev4:<span> or </span>:enhdev4:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Perk one of your armour pieces with </span>:dev4:<span> or </span>:enhdev4:"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Optional, can wear pouch for prayer bonus instead"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
