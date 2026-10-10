@@ -1,0 +1,214 @@
+{
+  "presetName": "AFK Ranged Ravenous Strigoi",
+  "presetNotes": "<div>Optionally use <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" />'s auto fire rate set to 1.</div><div><br /></div><div>Totem of Vitality :vitalitytotem: and Boon of Het HP Boosts required.</div>",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiverblack"
+    },
+    {
+      "id": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "oldakcoil"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": "potionreservoir2"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "springcleaner"
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "powderofpenance2"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Recommended to use with :elderoverloadsalve:. Failing to upkeep wyrmfire protection can quickly lead to death."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ":scriptureofamascut: works equally well."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Not needed if using :penanceaspect:."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "With Enchantment of Shadows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<div>Ammo: ;fularrow; ;wenarrows;</div><div><br /></div><div>Use Wen arrows.</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<div>T100 :bowofthelastguardian: or:masterworkbow: work with :penanceaspect:.</div><div><br /></div><div>T95 :bowofthelastguardian: requires :vampyrismaspect: + :penancepowder:.</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": "anguish"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
