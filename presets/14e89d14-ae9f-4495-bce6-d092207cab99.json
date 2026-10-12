@@ -1,0 +1,214 @@
+{
+  "presetName": "Zamorak Lord of Chaos",
+  "presetNotes": "This is a base preset idea and NOT a hard requirement. You can easily substitute out the First Necromancer set for the Deathdealer/Deathwarden sets respectively as needed. This is a necro template example. Adjust your preset as what makes you comfortable this is an  EXAMPLE.",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "firstnecrohandwrap"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "enhancedexcalibur"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "T70 guard special attack"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Any overload is fine"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4/mobile\nImpatient 4/x"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Aftershock4/Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Precise 6/Ruthless 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Crackling 4/Ultimatums 4\nInvigorating 4/x"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Or Ful book if comfortable"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "ruination"
+    },
+    {
+      "id": "deflectmage"
+    },
+    {
+      "id": "protectitem"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
