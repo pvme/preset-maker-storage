@@ -1,0 +1,244 @@
+{
+  "presetName": "Zemouregal & Vorkath",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "graspingpouch"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "enhancedexcalibur"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "If not using Overload Salves: bring Super Antifire potions"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Alternatively: Zemouregal's Nexus once obtained"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Essence of Finality: T70 Death Guard"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Alternatively: Ring of Death, Zorgoth Soul Ring, or Asylum Surgeon Ring"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Prism of Restoration, Spellbook Swap, and Disruption Shield runes: Astral, Blood, Soul, Cosmic, Law, Body. Add Chaos to manual cast Vulnerability if not using bombs."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "<span>Prism of Restoration, Spellbook Swap, and Disruption Shield runes: Astral, Blood, Soul, Cosmic, Law, Body. Add Chaos to manual cast Vulnerability if not using bombs.</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "ruination"
+    },
+    {
+      "id": "deflectmage"
+    },
+    {
+      "id": "protectitem"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
