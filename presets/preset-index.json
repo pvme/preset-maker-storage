@@ -436,10 +436,6 @@
     "presetName": "ranged master clue preset"
   },
   {
-    "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
-    "presetName": "secondary master clue preset"
-  },
-  {
     "presetId": "9177e8ad-9918-4180-a8e7-2aaecb2e38f4",
     "presetName": "melee master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
     "presetName": "Necromancy master clue preset"
+  },
+  {
+    "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
+    "presetName": "Secondary master clue preset"
   }
 ]
