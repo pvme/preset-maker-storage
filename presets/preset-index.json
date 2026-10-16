@@ -4700,10 +4700,6 @@
     "presetName": "Magic master clue preset"
   },
   {
-    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
-    "presetName": "Ranged master clue preset"
-  },
-  {
     "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
     "presetName": "Secondary master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
     "presetName": "Melee master clue preset"
+  },
+  {
+    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
+    "presetName": "Ranged master clue preset"
   }
 ]
