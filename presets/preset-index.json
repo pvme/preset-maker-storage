@@ -1880,10 +1880,6 @@
     "presetName": "Hard Clues - Melee"
   },
   {
-    "presetId": "BcL1kJHwMTdFJUsz5Ohk",
-    "presetName": "Hard Clues - Magic"
-  },
-  {
     "presetId": "jIi103bvWeIZ8UneHJxN",
     "presetName": "Hard Clues - Necromancy"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "bkY3nTJJdCiMHplZNA9n",
     "presetName": "Hard Clues - Ranged"
+  },
+  {
+    "presetId": "BcL1kJHwMTdFJUsz5Ohk",
+    "presetName": "Hard Clues - Magic"
   }
 ]
