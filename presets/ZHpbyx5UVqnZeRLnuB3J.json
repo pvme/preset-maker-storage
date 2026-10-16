@@ -1,6 +1,6 @@
 {
   "presetName": "BIS Elites w/ Skips",
-  "presetNotes": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>",
+  "presetNotes": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "naturesentinelhead"
@@ -18,7 +18,7 @@
       "id": "naturessentinelchest"
     },
     {
-      "id": "excal"
+      "id": "enhancedexcalibur"
     },
     {
       "id": "naturessentineltrunks"
@@ -34,9 +34,6 @@
     },
     {
       "id": "quiver"
-    },
-    {
-      "id": ""
     },
     {
       "id": "scriptureofbik"
@@ -119,7 +116,7 @@
       "id": "dragonkinlaboratoryteleport"
     },
     {
-      "id": "spiritattractionflask"
+      "id": "powerburstofacceleration"
     },
     {
       "id": "graspingpouch"
@@ -271,50 +268,47 @@
     },
     {
       "slotType": "equipment",
-      "slotIndex": 12,
+      "slotIndex": 11,
       "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "abyssallink"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": "shadowsgrace"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "meerkats"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "meerkats"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
