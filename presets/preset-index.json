@@ -468,10 +468,6 @@
     "presetName": "necromancy master clue preset"
   },
   {
-    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
-    "presetName": "ranged master clue preset"
-  },
-  {
     "presetId": "296362ef-2e2c-4042-b43a-5cb10a3e57b3",
     "presetName": "melee master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "a6ecfeb1-f929-4c59-a84c-0c347a414d71",
     "presetName": "Magic master clue preset"
+  },
+  {
+    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
+    "presetName": "Ranged master clue preset"
   }
 ]
