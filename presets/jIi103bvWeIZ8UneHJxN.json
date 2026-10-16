@@ -1,6 +1,6 @@
 {
   "presetName": "Hard Clues - Necromancy",
-  "presetNotes": "Pre-summon Meerkats Familiar with scrolls in them. Useful to skip wizards during coordinate clues.\n\n<span>Depending on preference/viability:<br /></span>- Master Farmer Hat :masterfarmerhat: can be replaced with Wicked hood :wickedhood: which can teleport you to rune altars when charged with wicked hood tokens, making it ideal for quick nature altar access.",
+  "presetNotes": "- Pre-summon Meerkats Familiar with scrolls in them. Useful to skip wizards during coordinate clues.\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes\n\n<span>Depending on preference/viability:<br /></span>- Master Farmer Hat :masterfarmerhat: can be replaced with Wicked hood :wickedhood: which can teleport you to rune altars when charged with wicked hood tokens, making it ideal for quick nature altar access.",
   "equipmentSlots": [
     {
       "id": "masterfarmerhat"
@@ -36,9 +36,6 @@
       "id": "quiver"
     },
     {
-      "id": "equilibriumaura"
-    },
-    {
       "id": "scriptureofbik"
     }
   ],
@@ -62,10 +59,10 @@
       "id": "puzzlebox"
     },
     {
-      "id": "spiritattractionflask"
+      "id": "powerburstofacceleration"
     },
     {
-      "id": "eofgreenunorn"
+      "id": "eofgreen"
     },
     {
       "id": "puzzleskipticket"
@@ -301,50 +298,47 @@
     },
     {
       "slotType": "equipment",
-      "slotIndex": 12,
+      "slotIndex": 11,
       "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span><br />"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "shadowsgrace"
-      },
-      {
-        "id": "abyssallink"
-      },
-      {
-        "id": "persistentrage"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "meerkats"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "meerkats"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "shadowsgrace"
+    },
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
