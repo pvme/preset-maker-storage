@@ -1,6 +1,6 @@
 {
   "presetName": "Hard Clues - Ranged",
-  "presetNotes": "<div>- If using Mobile <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> you don't need Shadow's Grace <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><br /><br /></div><div><span>- Can replace Bow of the Last Guardian :bolg: with Masterwork Bow <br />- Perk with Precise 6 :precise6: </span>| <span>Equilibrium 4 :equilibrium4:<br /><br />Depending on preference/viability:<br /></span>- Master Farmer Hat :masterfarmerhat: can be replaced with Wicked hood :wickedhood: which can teleport you to rune altars when charged with wicked hood tokens, making it ideal for quick nature altar access.<br />- Nature altar tabs can be replaced with grand seed pods :grandseedpod: if using Wicked hood :wickedhood:</div>",
+  "presetNotes": "<div>- If using Mobile <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> you don't need Shadow's Grace <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /></div><div>- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes<br /><br /></div><div><span>- Can replace Bow of the Last Guardian :bolg: with Masterwork Bow <br />- Perk with Precise 6 :precise6: </span>| <span>Equilibrium 4 :equilibrium4:<br /><br />Depending on preference/viability:<br /></span>- Master Farmer Hat :masterfarmerhat: can be replaced with Wicked hood :wickedhood: which can teleport you to rune altars when charged with wicked hood tokens, making it ideal for quick nature altar access.<br />- Nature altar tabs can be replaced with grand seed pods :grandseedpod: if using Wicked hood :wickedhood:</div>",
   "equipmentSlots": [
     {
       "id": "masterfarmerhat"
@@ -36,9 +36,6 @@
       "id": "quiver"
     },
     {
-      "id": ""
-    },
-    {
       "id": "scriptureofbik"
     }
   ],
@@ -62,7 +59,7 @@
       "id": "puzzlebox"
     },
     {
-      "id": "spiritattractionflask"
+      "id": "powerburstofacceleration"
     },
     {
       "id": "powerburstofacceleration"
@@ -297,54 +294,46 @@
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "Equilibrium aura is the new BiS"
-    },
-    {
-      "slotType": "equipment",
-      "slotIndex": 12,
       "description": "<span>Disassemble any stackable/noted item for a chance of :scriptureofbik: procs during a run</span><br />"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "abyssallink"
-      },
-      {
-        "id": "persistentrage"
-      },
-      {
-        "id": ""
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": "shadowsgrace"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "meerkats"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "meerkats"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "abyssallink"
+    },
+    {
+      "id": "persistentrage"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
