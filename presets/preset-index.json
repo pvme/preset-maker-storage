@@ -4668,10 +4668,6 @@
     "presetName": "Medium Clue Preset"
   },
   {
-    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
-    "presetName": "BIS Elites w/ Skips"
-  },
-  {
     "presetId": "d30wHQL8K1SiE1akKCmS",
     "presetName": "BIS Elites (No Sentinel) w/ Skips"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "jIi103bvWeIZ8UneHJxN",
     "presetName": "Hard Clues - Necromancy"
+  },
+  {
+    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
+    "presetName": "BIS Elites w/ Skips"
   }
 ]
