@@ -1,6 +1,6 @@
 {
   "presetName": "Magic master clue preset",
-  "presetNotes": "- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- You can put Spirit attraction potions, extreme overload salves and weapon poison+++ in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "wickedhood"
