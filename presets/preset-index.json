@@ -476,10 +476,6 @@
     "presetName": "magic master clue preset"
   },
   {
-    "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
-    "presetName": "melee master clue preset"
-  },
-  {
     "presetId": "4b0e45ea-8101-45fd-9e57-6508e6abc509",
     "presetName": "Scav skeles Bik"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
     "presetName": "Ranged master clue preset"
+  },
+  {
+    "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
+    "presetName": "Melee master clue preset"
   }
 ]
