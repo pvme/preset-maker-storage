@@ -464,10 +464,6 @@
     "presetName": "melee master clue preset"
   },
   {
-    "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
-    "presetName": "necromancy master clue preset"
-  },
-  {
     "presetId": "296362ef-2e2c-4042-b43a-5cb10a3e57b3",
     "presetName": "melee master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
     "presetName": "Melee master clue preset"
+  },
+  {
+    "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
+    "presetName": "Necromancy master clue preset"
   }
 ]
