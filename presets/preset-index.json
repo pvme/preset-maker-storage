@@ -4672,10 +4672,6 @@
     "presetName": "BIS Elites (No Sentinel) w/ Skips"
   },
   {
-    "presetId": "9LUZynoZp7ufZODhijcq",
-    "presetName": "BIS Elites w/o Skips"
-  },
-  {
     "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
     "presetName": "Secondary master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "ZHpbyx5UVqnZeRLnuB3J",
     "presetName": "BIS Elites w/ Skips"
+  },
+  {
+    "presetId": "9LUZynoZp7ufZODhijcq",
+    "presetName": "BIS Elites w/o Skips"
   }
 ]
