@@ -4668,10 +4668,6 @@
     "presetName": "Medium Clue Preset"
   },
   {
-    "presetId": "d30wHQL8K1SiE1akKCmS",
-    "presetName": "BIS Elites (No Sentinel) w/ Skips"
-  },
-  {
     "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
     "presetName": "Secondary master clue preset"
   },
@@ -4714,5 +4710,9 @@
   {
     "presetId": "9LUZynoZp7ufZODhijcq",
     "presetName": "BIS Elites w/o Skips"
+  },
+  {
+    "presetId": "d30wHQL8K1SiE1akKCmS",
+    "presetName": "BIS Elites (No Sentinel) w/ Skips"
   }
 ]
