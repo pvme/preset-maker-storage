@@ -4746,5 +4746,9 @@
   {
     "presetId": "b8947b7f-7fad-41cf-aa75-211dd7b7eb68",
     "presetName": "Araxxor Melee"
+  },
+  {
+    "presetId": "99f3fce2-c49d-469d-ab44-0c186116bbd4",
+    "presetName": "BoLG Ranged Telos"
   }
 ]
