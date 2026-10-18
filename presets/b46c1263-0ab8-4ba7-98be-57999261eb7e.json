@@ -1,0 +1,168 @@
+{
+  "presetName": "Araxxor Melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "malevhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "eofor"
+    },
+    {
+      "id": "dragonriderlance"
+    },
+    {
+      "id": "malevbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "malevlegs"
+    },
+    {
+      "id": "vampyrismgloves"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "drygorelongmh"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "malevkite"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": "bloodnihil"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "turmoil"
+    },
+    {
+      "id": "deflectrange"
+    },
+    {
+      "id": "protectitem"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
