@@ -1,0 +1,189 @@
+{
+  "presetName": "Araxxor Melee",
+  "presetNotes": "You can substitute out any armour but I'd STRONGLY recommend using a halberd-type weapon such as a lance/masutas warspear/Lani's spear.\nVamp scrim/gloves/aspect will do some hard carrying when learning and a blood nihil will give you a boost in accuracy (5%).",
+  "equipmentSlots": [
+    {
+      "id": "malevhelm"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "eofor"
+    },
+    {
+      "id": "dragonriderlance"
+    },
+    {
+      "id": "malevbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "malevlegs"
+    },
+    {
+      "id": "vampyrismgloves"
+    },
+    {
+      "id": "laceration"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "drygorelongmh"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "malevkite"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "ancientshard"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    },
+    {
+      "id": "rocktail"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 / Ruthless 1"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Enhanced Devoted 4 / Biting 4 + Mobile"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 + x / Relentless 5 + Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Superior scrimshaw is better than the normal kind"
+    }
+  ],
+  "familiar": {
+    "id": "bloodnihil"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "turmoil"
+    },
+    {
+      "id": "deflectrange"
+    },
+    {
+      "id": "protectitem"
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
