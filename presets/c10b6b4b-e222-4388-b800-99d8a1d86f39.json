@@ -1,0 +1,236 @@
+{
+  "presetName": "BoLG Ranged Telos",
+  "presetNotes": "Replace Weapon poison +++ <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689525476158472288.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/648976643687317532.webp?v=1\" /> with food if using at the bank.",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "sticky"
+    },
+    {
+      "id": "renewal4"
+    },
+    {
+      "id": "poison1"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "pernixsquiveryellow"
+    },
+    {
+      "id": "eoforblue",
+      "eof_spec": "Seren godbow"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "sailfishsoup"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Ful Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Ammo: ;jasdragonbanearrow; ;deathsporearrows;\nDeathspore Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Cosmic | Astral | Blood | Body (for disruption shield p1)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Clear Headed 2+"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ammo: ;blackstonearrow; ;deathsporearrows;<br />Wen arrows"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Eldritch Crossbow Special Attack"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Biting 4 + Enhanced Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Devoted 4 + Impatient 4 and Turtling 4 + Ultimatum 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Gloomfire Bow"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "shadowsgrace"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "desolation"
+    },
+    {
+      "id": "protectitem"
+    },
+    {
+      "id": "soulsplit"
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "pernixsquiveryellow"
+    }
+  ]
+}
