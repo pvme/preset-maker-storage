@@ -1,0 +1,217 @@
+{
+  "presetName": "Ghrazi Blood Knights 100% Ranged-Melee Hybrid",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpinkor",
+      "eof_spec": "ECB"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "nightmaregauntlets"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "eofpurple",
+      "eof_spec": "Decimation"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "khopeshofelidinis"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Flanking 4 :flank4:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 16,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<span>Malachi's tooth </span><span>:malachistooth:</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<span>Enchantment of dread</span>"
+    }
+  ],
+  "familiar": {
+    "id": "shadownihil"
+  },
+  "relics": [
+    {
+      "id": "heightenedsenses"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "blackstonearrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
