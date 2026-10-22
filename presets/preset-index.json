@@ -4692,10 +4692,6 @@
     "presetName": "Hard Clues - Ranged"
   },
   {
-    "presetId": "BcL1kJHwMTdFJUsz5Ohk",
-    "presetName": "Hard Clues - Magic"
-  },
-  {
     "presetId": "ZHpbyx5UVqnZeRLnuB3J",
     "presetName": "BIS Elites w/ Skips"
   },
@@ -4774,5 +4770,9 @@
   {
     "presetId": "jIi103bvWeIZ8UneHJxN",
     "presetName": "Hard Clues - Necromancy"
+  },
+  {
+    "presetId": "BcL1kJHwMTdFJUsz5Ohk",
+    "presetName": "Hard Clues - Magic"
   }
 ]
