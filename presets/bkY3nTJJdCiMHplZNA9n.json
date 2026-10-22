@@ -101,7 +101,7 @@
       "id": "accel4"
     },
     {
-      "id": "graspingpouchgreen"
+      "id": "graspingpouch"
     },
     {
       "id": "wildernesssword"
@@ -204,7 +204,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 20,
-      "description": "<span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />  for <img title=\"sbsstandards\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> </span><span>| </span><span><img title=\"sbslunars\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489467682816.png?v=1\" /> | <img title=\"spiritualhealing\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span>"
+      "description": "Cosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law ;lawrune; | Body ;bodyrune; \n<div><span>for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> </span><span>| </span><span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489467682816.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span></div>"
     },
     {
       "slotType": "inventory",
