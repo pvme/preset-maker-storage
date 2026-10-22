@@ -101,7 +101,7 @@
       "id": "accel4"
     },
     {
-      "id": "graspingpouchgreen"
+      "id": "graspingpouch"
     },
     {
       "id": "eof"
@@ -204,7 +204,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 20,
-      "description": "Ammo: ;timerune; ;naturerune; ;airrune; ;earthrune;\nCosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" />"
+      "description": "Cosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" />"
     },
     {
       "slotType": "inventory",
