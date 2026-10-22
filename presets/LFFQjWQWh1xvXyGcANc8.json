@@ -1,6 +1,6 @@
 {
   "presetName": "Medium Clue Preset",
-  "presetNotes": "- You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n- You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "wickedhood"
@@ -101,7 +101,7 @@
       "id": ""
     },
     {
-      "id": "powerburstofacceleration"
+      "id": "amuletofnature"
     },
     {
       "id": "spirittreere-rooter(used)"
@@ -154,7 +154,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 20,
-      "description": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>"
+      "description": "Attuned to Fruit Tree Patch outside of Tree Gnome Village"
     },
     {
       "slotType": "inventory",
@@ -164,7 +164,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 1,
-      "description": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge<br /></span><br /><span>-</span><img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img title=\"dgcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" /><span>|</span><img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored<br />- Agility Cape on Anachronia stand<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC - </span><span>The </span><span>World Gate </span><img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span> is relevant for hard clues</span>"
+      "description": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge<br /></span><br /><span>-</span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" /><span>|</span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored<br />- Agility Cape on Anachronia stand<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC</span>"
     },
     {
       "slotType": "equipment",
