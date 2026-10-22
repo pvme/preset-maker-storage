@@ -199,7 +199,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 5,
-      "description": ""
+      "description": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace</span>"
     }
   ],
   "familiar": {
