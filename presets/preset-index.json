@@ -4660,10 +4660,6 @@
     "presetName": "Ghrazi Blood Knights 100% Ranged-Melee Hybrid"
   },
   {
-    "presetId": "LFFQjWQWh1xvXyGcANc8",
-    "presetName": "Medium Clue Preset"
-  },
-  {
     "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
     "presetName": "Secondary master clue preset"
   },
@@ -4774,5 +4770,9 @@
   {
     "presetId": "a422be9d-f498-4220-8f07-7358bfa9cb06",
     "presetName": "Easy Clues"
+  },
+  {
+    "presetId": "LFFQjWQWh1xvXyGcANc8",
+    "presetName": "Medium Clue Preset"
   }
 ]
