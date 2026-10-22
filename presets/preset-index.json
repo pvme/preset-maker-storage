@@ -4680,10 +4680,6 @@
     "presetName": "Magic master clue preset"
   },
   {
-    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
-    "presetName": "BIS Elites w/ Skips"
-  },
-  {
     "presetId": "9LUZynoZp7ufZODhijcq",
     "presetName": "BIS Elites w/o Skips"
   },
@@ -4774,5 +4770,9 @@
   {
     "presetId": "LFFQjWQWh1xvXyGcANc8",
     "presetName": "Medium Clue Preset"
+  },
+  {
+    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
+    "presetName": "BIS Elites w/ Skips"
   }
 ]
