@@ -1,6 +1,6 @@
 {
   "presetName": "BIS Elites w/ Skips",
-  "presetNotes": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "naturesentinelhead"
@@ -134,7 +134,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 2,
-      "description": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span><div>Used for Nature Altar</div>"
+      "description": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span>Used for Nature Altar"
     },
     {
       "slotType": "inventory",
@@ -199,7 +199,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 19,
-      "description": "<div><span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant—can be empty, diseased, or fully grown).</span></div>"
+      "description": "<div><span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown).</span></div>"
     },
     {
       "slotType": "inventory",
@@ -224,12 +224,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 25,
-      "description": "<span>Automatically collects Catalyst of alteration procs from the Scripture of Bik whilst solving</span>"
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
       "slotIndex": 26,
-      "description": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />"
+      "description": "Cosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law ;lawrune; | Body ;bodyrune; \n<div><span>for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /></span><span> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span></div>"
     },
     {
       "slotType": "inventory",
@@ -259,7 +259,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 5,
-      "description": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span><span></span>"
+      "description": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span><span></span>"
     },
     {
       "slotType": "equipment",
