@@ -4696,10 +4696,6 @@
     "presetName": "Hard Clues - Magic"
   },
   {
-    "presetId": "28d7fc41-4fe9-467a-aabe-22c2adcd780a",
-    "presetName": "Hard Clues - Melee"
-  },
-  {
     "presetId": "jIi103bvWeIZ8UneHJxN",
     "presetName": "Hard Clues - Necromancy"
   },
@@ -4774,5 +4770,9 @@
   {
     "presetId": "abe2d680-e2ff-4c65-a8f7-6015b0f890a0",
     "presetName": "AFK Necro Ravenous Strigoi"
+  },
+  {
+    "presetId": "28d7fc41-4fe9-467a-aabe-22c2adcd780a",
+    "presetName": "Hard Clues - Melee"
   }
 ]
