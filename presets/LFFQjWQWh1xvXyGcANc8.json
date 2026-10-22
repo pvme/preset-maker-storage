@@ -190,6 +190,11 @@
       "slotType": "equipment",
       "slotIndex": 11,
       "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Cosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law ;lawrune; | Body ;bodyrune; \n<div><span>for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /></span><span> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span></div>"
     }
   ],
   "familiar": {
