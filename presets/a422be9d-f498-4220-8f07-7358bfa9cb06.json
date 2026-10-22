@@ -1,6 +1,6 @@
 {
   "presetName": "Easy Clues",
-  "presetNotes": "- You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n- You can summon a Pack Yak and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer solving sessions\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "naturesentinelhead"
@@ -164,7 +164,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 1,
-      "description": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge<br /></span><br />-<img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img title=\"dgcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" />|<img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored<br />- Agility Cape on Anachronia stand<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC - </span><span>The </span><span>World Gate </span><img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span> is relevant for hard clues</span>"
+      "description": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge<br /></span><br />-<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" />|<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored<br />- Agility Cape on Anachronia stand<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC</span>"
     },
     {
       "slotType": "equipment",
@@ -189,7 +189,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "<img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | <img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /> | <img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | <img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />"
+      "description": "Cosmic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law ;lawrune; | Body ;bodyrune; \n<div><span>for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /></span><span> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span></div>"
     },
     {
       "slotType": "equipment",
@@ -209,6 +209,17 @@
     },
     {
       "id": "lotdrelic"
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
     }
   ],
   "aspect": {
