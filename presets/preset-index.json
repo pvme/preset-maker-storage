@@ -4688,10 +4688,6 @@
     "presetName": "Magic master clue preset"
   },
   {
-    "presetId": "bkY3nTJJdCiMHplZNA9n",
-    "presetName": "Hard Clues - Ranged"
-  },
-  {
     "presetId": "ZHpbyx5UVqnZeRLnuB3J",
     "presetName": "BIS Elites w/ Skips"
   },
@@ -4774,5 +4770,9 @@
   {
     "presetId": "BcL1kJHwMTdFJUsz5Ohk",
     "presetName": "Hard Clues - Magic"
+  },
+  {
+    "presetId": "bkY3nTJJdCiMHplZNA9n",
+    "presetName": "Hard Clues - Ranged"
   }
 ]
