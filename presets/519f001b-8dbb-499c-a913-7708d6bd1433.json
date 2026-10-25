@@ -1,0 +1,259 @@
+{
+  "presetName": "Ranged - T95/100",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "igneouskalxil"
+    },
+    {
+      "id": "eofpinkor"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "tokkulzo"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "eoforpurple"
+    },
+    {
+      "id": "eoforblack"
+    },
+    {
+      "id": "eofor"
+    },
+    {
+      "id": "eoforred"
+    },
+    {
+      "id": "pernixsquiverred"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "devourersnexus"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "lotd"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "graspingpouchorange"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "sbrew"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Dark Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Crackling 4 + Relentless 5 | Biting 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4 + Mobile | Ultimatums 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "For TzKal-Zuk only."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "For waves."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Bring 200 to be safe."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "<div>Runes for Disruption Shield and Borrowed Power:</div><div>Astral, Blood, Body and Death Rune.</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "For use on Wave 5."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Ful + Deathspore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Ammo: Wen Arrows"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "With Constitution &amp; Defense capes in Max Cape."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6 + Caroming 1 | Aftershock 4 + Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "heightenedsenses"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "desolation"
+    },
+    {
+      "id": "protectitem"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "deathsporearrows"
+    }
+  ]
+}
