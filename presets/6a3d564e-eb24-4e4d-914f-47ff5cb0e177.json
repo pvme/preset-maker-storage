@@ -1,0 +1,204 @@
+{
+  "presetName": "Zuk Necromancy",
+  "presetNotes": "This is a slower but safer approach to your first few runs. Normally you'd bring a blessed flask and better dps gear, but this preset show cases a much more relaxed run loadout.",
+  "equipmentSlots": [
+    {
+      "id": "visageofthefirstnecromancer"
+    },
+    {
+      "id": "kilnnecro"
+    },
+    {
+      "id": "eofblue"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "wardentop90"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "wardenlegs90"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "obbyboots"
+    },
+    {
+      "id": "tokkulzo"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "rangeshield"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "ancientshard"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "T70 guard special attack"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Equilibrium 4 + Mobile\nImpatient 4 + Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Invigorating 4 + x<div>Enhanced Devo 4</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "We use this strictly for the third challenge wave only. Type of shield doesnt matter just make it t90+ ideally and have the Turtling 4 perk."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Charged with Tokkul from the plaza."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Pop Kwuarm incense sticks at wars. Potency 4 for 1 hour if doing 3 runs."
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "deathward"
+    },
+    {
+      "id": "furyofthesmall"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": "sorrow"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
