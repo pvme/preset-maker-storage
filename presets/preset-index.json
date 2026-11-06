@@ -4810,5 +4810,9 @@
   {
     "presetId": "e3a37560-fc55-4256-bdef-ddc3f29ed68c",
     "presetName": "AFK Melee Helwyr"
+  },
+  {
+    "presetId": "7fd98859-3bd3-4c14-ab79-14d555d38c3e",
+    "presetName": "AFK Ranged Ravenous Strigoi"
   }
 ]
