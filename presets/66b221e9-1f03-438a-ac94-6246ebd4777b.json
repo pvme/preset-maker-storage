@@ -1,0 +1,254 @@
+{
+  "presetName": "AFK Necro Sanguine Werewolves",
+  "presetNotes": "<div>Totem of Vitality :vitalitytotem: required.</div><div><br /></div><div><div><span>Inventory Management:</span></div><div><span><br /></span></div><div><span>1. Set :legendpetscav: to \"Miscellaneous\" only.</span></div><div><span><br /></span></div><div>2. Keybind crimson ichor to quickly drop. </div><div><br /></div><div>3. Drink :elderoverload: + :aggressionpotion: + :extremeantisanguine:  from arcane potion cauldrons.</div><div><br /></div><div>4. Bring 1-hour's worth of runes for :penanceaspect: instead of :graspingpouchblack: :graspingpouchpink: :graspingpouchblue:.</div><div><br /></div><div>5. Set :houseteleportfree: to Menaphos to avoid carrying :slayercodex:.</div><br /></div>",
+  "equipmentSlots": [
+    {
+      "id": "firstnecrocrown"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "firstnecrorobetop"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "firstnecrorobebottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "firstnecroboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "scriptureofamascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "ushabtistack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "extremeantisanguineflask"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "bodyrune"
+    },
+    {
+      "id": "chaosrune"
+    },
+    {
+      "id": "lawrune"
+    },
+    {
+      "id": "soulrune"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "150"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "100"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "15"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "50"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Impatient 4,Invigorating 4"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Only needed in Berylbrook."
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": "sorrow"
+    },
+    {
+      "id": "ruination"
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
