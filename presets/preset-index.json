@@ -4822,5 +4822,9 @@
   {
     "presetId": "1b2c54b8-78aa-475d-9805-445197cf9d87",
     "presetName": "AFK Ranged Ravenous Strigoi"
+  },
+  {
+    "presetId": "d9349c44-0f6b-4300-8a3b-66d637c6df08",
+    "presetName": "AFK Helwyr (Safer)"
   }
 ]
