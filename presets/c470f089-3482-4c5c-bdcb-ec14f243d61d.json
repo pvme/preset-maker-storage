@@ -1,0 +1,269 @@
+{
+  "presetName": "AFK High Level Melee Sanguine Werewolves",
+  "presetNotes": "<div><span>Inventory Management:</span></div><div><span><br /></span></div><div><span>1. Set :legendpetscav: to \"Miscellaneous\" only.</span></div><div><span><br /></span></div><div>2. Keybind crimson ichor to quickly drop. </div><div><br /></div><div>3. Drink :elderoverload: + :aggressionpotion: + :extremeantisanguine:  from arcane potion cauldrons.</div><div><br /></div><div>4. Bring 1-hour's worth of runes for penance aspect instead of pouches.</div><div><br /></div><div>5. Set POH to Menaphos to avoid carrying :slayercodex:.</div>",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "tumekenslight"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "notepaperstack"
+    },
+    {
+      "id": "ushabtistack"
+    },
+    {
+      "id": "cannon"
+    },
+    {
+      "id": "cballs"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": "aggro6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "extremeantisanguine"
+    },
+    {
+      "id": "poison6"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "kwuarmsticks"
+    },
+    {
+      "id": "potionreservoir"
+    },
+    {
+      "id": "bodyrune"
+    },
+    {
+      "id": "chaosrune"
+    },
+    {
+      "id": "lawrune"
+    },
+    {
+      "id": "soulrune"
+    },
+    {
+      "id": "springcleaner"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "T100 :tumekenslight: required."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Ultimatums 4/Impatient 4,Devoted 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "100"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Primal Abyssal Armour Spikes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Only needed in Berylbrook."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "150"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "15"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "50"
+    }
+  ],
+  "familiar": {
+    "id": "legendpetscav"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "penanceaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
