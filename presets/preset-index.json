@@ -4818,5 +4818,9 @@
   {
     "presetId": "8d473469-a681-445f-8aeb-24ad7d1462d9",
     "presetName": "AFK Necro Ravenous Strigoi"
+  },
+  {
+    "presetId": "1b2c54b8-78aa-475d-9805-445197cf9d87",
+    "presetName": "AFK Ranged Ravenous Strigoi"
   }
 ]
