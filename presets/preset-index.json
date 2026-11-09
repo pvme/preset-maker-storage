@@ -4846,5 +4846,9 @@
   {
     "presetId": "e306fd12-fc61-44ab-be8f-90222bd10599",
     "presetName": "AFK Necro Liverworts"
+  },
+  {
+    "presetId": "f64f352b-0ba1-42a0-97c8-07b8fdf83593",
+    "presetName": "AFK Ranged Liverworts"
   }
 ]
