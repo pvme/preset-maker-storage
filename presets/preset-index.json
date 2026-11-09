@@ -4858,5 +4858,9 @@
   {
     "presetId": "3d9a6b22-fae1-4845-9b24-a441c3a5394c",
     "presetName": "AFK Low Level Ranged Lampenflora"
+  },
+  {
+    "presetId": "3a4045ae-387d-44a6-ad49-25a75d44dba7",
+    "presetName": "AFK Low Level Magic Lampenflora"
   }
 ]
