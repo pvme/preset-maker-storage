@@ -1,6 +1,6 @@
 {
   "presetName": "Ghrazi Blood Knights Duo 100% Ranged-Melee Hybrid",
-  "presetNotes": "<br />",
+  "presetNotes": "<span>Biting 4</span>",
   "equipmentSlots": [
     {
       "id": "edracocoif"
@@ -173,6 +173,11 @@
       "slotType": "equipment",
       "slotIndex": 7,
       "description": "<span>Enchantment of dread</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
     }
   ],
   "familiar": {
@@ -191,10 +196,10 @@
   ],
   "prayers": [
     {
-      "id": ""
+      "id": "desolation"
     },
     {
-      "id": ""
+      "id": "soulsplit"
     },
     {
       "id": ""
