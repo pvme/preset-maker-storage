@@ -1,0 +1,223 @@
+{
+  "presetName": "Ghrazi Blood Knights Solo 100% Ranged-Melee Hybrid",
+  "presetNotes": "<span>:equilibrium4: Equilibrium 4</span>",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofpinkor",
+      "eof_spec": "ECB"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "mwrvambraces"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "nightbloodring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "eofpurple",
+      "eof_spec": "Decimation"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "eoforgreen",
+      "eof_spec": "Gloomfire bow"
+    },
+    {
+      "id": "eofyellow",
+      "eof_spec": "Dark bow"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "havensilverlongsword2"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "omniguard"
+    },
+    {
+      "id": "soulboundlantern"
+    },
+    {
+      "id": "supersara"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "zemouregalsnexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Flanking 4 :flank4:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<span>Malachi's tooth </span><span>:malachistooth:</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "<span>Enchantment of dread</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<br />"
+    }
+  ],
+  "familiar": {
+    "id": "shadownihil"
+  },
+  "relics": [
+    {
+      "id": "heightenedsenses"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": "desolation"
+    },
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "wenarrows"
+    },
+    {
+      "id": "blackstonearrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
