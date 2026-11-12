@@ -1,0 +1,229 @@
+{
+  "presetName": "Dual wield Low Effort Ghrazi blood knights",
+  "presetNotes": "Spellbook swap to normal spellbook to cast Vuln spell at beginning with Master magic cape passive, If you don't have that, just use bombs.",
+  "equipmentSlots": [
+    {
+      "id": "mwrcowl"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": "malachistooth"
+    },
+    {
+      "id": "mwrbody"
+    },
+    {
+      "id": "malachisclaw"
+    },
+    {
+      "id": "mwrchaps"
+    },
+    {
+      "id": "dtb"
+    },
+    {
+      "id": "mwrboots"
+    },
+    {
+      "id": "ringofretribution"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "brew"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "blessedflask"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "sailfish"
+    },
+    {
+      "id": "elderoverload"
+    },
+    {
+      "id": "powderofpenance2"
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": "graspingpouchgreen"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Eldrich Crossbow"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "<span>Equilibrium | Relentless 5, Crackling 4</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "Precise 6"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Caroming 4, Eruptive 2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "<span>Devoted 4, Impatient 4 | Ultimatums 4, Mobile</span>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Havensilver bolts +2"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Can replace with Scripture of Amascut for slight difference."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Ammo: Chaos, Fire, Water, Air"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Ammo: Soul, Blood ,Astral, Body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Ammo: Time, Nature, Air<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Ammo: Death, Law, Cosmic, Earth"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "desolation"
+    },
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchgreen"
+    }
+  ]
+}
