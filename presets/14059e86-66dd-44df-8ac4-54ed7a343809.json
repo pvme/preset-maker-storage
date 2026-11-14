@@ -1,0 +1,168 @@
+{
+  "presetName": "Abyssal beast Necromancy",
+  "presetNotes": "Level 94 Necromancy<div>Level 99 Defence</div><div>Level 99 Constitution</div>",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "aosor"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "aggressionflask"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [],
+  "familiar": {
+    "id": ""
+  },
+  "relics": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": "sorrow"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
