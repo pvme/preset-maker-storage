@@ -1,0 +1,239 @@
+{
+  "presetName": "Low Effort Ghrazi Knights 100% M2H",
+  "presetNotes": "<div>Enter instance → :specialattack: → :surge: → :surge: → :vampyreslayer: → :vulnbomb:</div><div><br /></div><div>P3 → Target Sanguine Heart → :vampyreslayer: → :vulnbomb:</div><div><br /></div><div>P4 → Target Lady Ghrazi → :vulnbomb: → :enhancedexcalibur:</div><div><br /></div><div>P5 → :vampyreslayer: → :specialattack: → :adrenalinepotion:</div><div><br /></div><div>IMPORTANT:</div><div>Cast Reflect and use the Action Button during P5 during \"SUFFER UNTO ME!\"</div><div><br /></div><div>Totem of Vitality, Boon of Het HP boost, bonfire, thermal bath etc help.</div><div><br /></div><div>:ripperpouch: uses :ripperscroll: with autofire set to 1.</div>",
+  "equipmentSlots": [
+    {
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "igneouskalket"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "masterwork2hsword"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "rod"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "vampscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "elderovlsalve"
+    },
+    {
+      "id": "extremeantisanguine"
+    },
+    {
+      "id": "powderofprotection"
+    },
+    {
+      "id": "powderofpenance"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "spiritsticks"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "regaugenhancedexcalibur"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": "attunedportentofrestorationx"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "adrenalinepotion"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "luckpotion"
+    },
+    {
+      "id": "deathwardennexus"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Primal Abyssal Armour Spikes"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "[Equilibrium 4 &gt; Biting 4] + Ultimatums 4/Crackling 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Enhanced Devoted 4 + Crystal Shield 4"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Enhanced gloves of passage + Enchantment"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<div>Precise 5/Ultimatums 4 + Lunging 4/Eruptive 2</div>"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": ""
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": ":strmastercape: required."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Not necessary, but helps with the tumors"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "deathward"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "deflectmage"
+    },
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
