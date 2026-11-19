@@ -1,0 +1,214 @@
+{
+  "presetName": "PVME Preset: Melee-Ranged Hybrid Raksha",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofor"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eoforblack"
+    },
+    {
+      "id": "eofpinkor"
+    },
+    {
+      "id": "eoforyellow"
+    },
+    {
+      "id": "eoforgreen"
+    },
+    {
+      "id": "eoforpurple"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "sgb"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "replen"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "graspingpouch"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Varanus Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for Disruption shield"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Can be replaced with other bow that isnt BOLG, is in preset for stack management."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Seren Godbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Malachi's Tooth"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Dark Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Deathspore/Ful arrows"
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": "desolation"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
