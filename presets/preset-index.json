@@ -5034,5 +5034,9 @@
   {
     "presetId": "b1ea7f6f-9c9c-4408-94f9-7ae7231ae895",
     "presetName": "PVME Preset: Melee-Ranged Hybrid Raksha"
+  },
+  {
+    "presetId": "d9d774f9-4a10-45e1-8634-96b15648fd00",
+    "presetName": "PVME Preset: Melee-Magic Hybrid Raksha"
   }
 ]
