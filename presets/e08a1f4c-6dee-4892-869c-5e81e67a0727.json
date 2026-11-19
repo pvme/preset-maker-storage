@@ -1,0 +1,214 @@
+{
+  "presetName": "PVME Preset: Melee-Magic Hybrid Raksha",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eofor"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "fsoa"
+    },
+    {
+      "id": "roarofawakening"
+    },
+    {
+      "id": "odetodeceit"
+    },
+    {
+      "id": "lengohbarrows"
+    },
+    {
+      "id": "eoforblack"
+    },
+    {
+      "id": "eoforblue"
+    },
+    {
+      "id": "tumekenmask"
+    },
+    {
+      "id": "tumekenrobetop"
+    },
+    {
+      "id": "tumekenrobebottom"
+    },
+    {
+      "id": "tumekenboots"
+    },
+    {
+      "id": "tumekengloves"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "zealots"
+    },
+    {
+      "id": "grim"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": "deathwardennexus"
+    },
+    {
+      "id": "adrenrenewalflask"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "powerburstofvitality"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouch"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Standard runes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Ammo: ;chaosrune; ;airrune; ;waterrune; ;firerune;\nStandard runes"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Legatus Emberstaff"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Optional flanking swap"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 26,
+      "description": "Standard runes"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": "eclipsedsoul"
+    },
+    {
+      "id": "divinerage"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "incitefear"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
