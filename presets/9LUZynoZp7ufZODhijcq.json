@@ -1,6 +1,6 @@
 {
   "presetName": "BIS Elites w/o Skips",
-  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap<span>\n- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span>Shadow's Grace<br /></span><div><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span></div>- You can put Spirit attraction potions in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span> Shadow's Grace<br /></span>- Use the Glow Worm perk on an augmented off-hand <span>for the Lumbridge Swamp Caves</span>\n- You can put Spirit attraction potions in an Arcane potion cauldron which allows you to multi-drink the effect for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "naturesentinelhead"
@@ -80,7 +80,7 @@
       "id": "ectophial"
     },
     {
-      "id": "maskoftheaquanites"
+      "id": "spirittreere-rooter"
     },
     {
       "id": "globetrottergloves"
@@ -101,7 +101,7 @@
       "id": "amuletofnature"
     },
     {
-      "id": "skullsceptre"
+      "id": "spirittreere-rooter(used)"
     },
     {
       "id": "davesspellbook"
@@ -134,7 +134,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 2,
-      "description": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span>Used for Nature Altar"
+      "description": "Has the ability to teleport to various runecrafting altars\n\n- Cosmic Altar -&gt; Used frequently for an elite clue scan (Zanaris) \n-Nature Altar -&gt; Used sometimes for elite compasses\n- Mind Altar -&gt; Used sometimes for elite compasses\n- Earth Altar -&gt; Used sometimes for elite compasses\n\nRequires omni teletabs or regular teleport tabs stored in the Wicked Hood to be charged"
     },
     {
       "slotType": "inventory",
@@ -144,42 +144,42 @@
     {
       "slotType": "inventory",
       "slotIndex": 4,
-      "description": "<span>Brutal Green Dragons, Blue Dragons, Red Dragons, Black Dragons (Evil Chicken Lair)</span>"
+      "description": "Cost 5 trinkets to teleport to any of the following locations used during elites\n\n- Brutal Green Dragons -&gt; Baxtorian Falls\n- Blue Dragons -&gt; Taverley Dungeon\n- Red Dragons -&gt; Brimhaven Dungeon\n- Black Dragons -&gt; Evil Chicken's Lair"
     },
     {
       "slotType": "inventory",
       "slotIndex": 5,
-      "description": "<br />"
+      "description": "Provides unlimited teleports to the entrance of the Stronghold of Security in Gunnarsgrunn"
     },
     {
       "slotType": "inventory",
       "slotIndex": 6,
-      "description": "<br />"
+      "description": "Instantly resets the cooldown of Surge, Escape, Dive and Bladed Dive and reduces the cooldown of both to 1.2 seconds (2 game ticks) for 6 seconds (10 game ticks)"
     },
     {
       "slotType": "inventory",
       "slotIndex": 7,
-      "description": "<br />"
+      "description": "Has the ability to teleport directly to the clue scroll location, consuming a charge"
     },
     {
       "slotType": "inventory",
       "slotIndex": 8,
-      "description": "<span>See passage of the abyss setup</span>"
+      "description": "<div>- Enlightened amulet</div><div>- Ring of respawn</div><div>- Ring of duelling</div><div>- Games necklace</div><div>- Dig Site pendant</div>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 9,
-      "description": "<span>See passage of the abyss setup</span>"
+      "description": "<div>- Skills necklace</div><div>- Amulet of Glory</div><div>- Combat bracelet</div><div>- Delver's Anklet</div><div>- Ring of slaying</div><div>- Traveller's necklace</div>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 10,
-      "description": "<span>Quick TP -&gt; Jatizso</span>"
+      "description": "Quick Teleport set to Jatizso for the <span>Fremennik Isles scan</span>\n\nCan hold a maximum of 60 charges, and can be recharged at any point by offering certain raw fish to the Fossegrimen's strange altar south-west of Rellekka"
     },
     {
       "slotType": "inventory",
       "slotIndex": 13,
-      "description": "Replace with Kurask -&gt; Basilisk as you run out of charges"
+      "description": "<br />"
     },
     {
       "slotType": "inventory",
@@ -189,22 +189,22 @@
     {
       "slotType": "inventory",
       "slotIndex": 17,
-      "description": "<span>Used for getting around Dorgesh-kaan and disassembly for Bik Procs</span>"
+      "description": "Used for getting around Dorgesh-Kaan (north, south, east, or west) and for potential disassembly to trigger Bik procs"
     },
     {
       "slotType": "inventory",
       "slotIndex": 18,
-      "description": "<br />"
+      "description": "Teleports the player to a random Wilderness obelisk\n\nIf the player has completed the Hard Wilderness achievements, they will be able to select which obelisk to teleport to\n\nCan be substituted with tradeable Obelisk Shards"
     },
     {
       "slotType": "inventory",
       "slotIndex": 19,
-      "description": "<div><span>Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown).</span></div>"
+      "description": "<div><span>Can be bound to any Farming patch, allowing the player to teleport to it<br /><br />Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown)</span></div>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 20,
-      "description": "Provides unlimited teleports to the entrance of the Stronghold of Security"
+      "description": "Acts as a portable spirit tree usable anywhere and can travel to any spirit tree location"
     },
     {
       "slotType": "inventory",
@@ -214,7 +214,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 23,
-      "description": "<span>Convert the stack to other portals as needed</span>"
+      "description": "Convert the stack to other portals as needed, or use the exit to any other house portal in your player-owned house"
     },
     {
       "slotType": "inventory",
@@ -224,7 +224,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 25,
-      "description": "<br />"
+      "description": "Instantly resets the cooldown of Surge, Escape, Dive and Bladed Dive and reduces the cooldown of both to 1.2 seconds (2 game ticks) for 6 seconds (10 game ticks)"
     },
     {
       "slotType": "inventory",
@@ -239,32 +239,82 @@
     {
       "slotType": "equipment",
       "slotIndex": 0,
-      "description": "<span>Quick TP -&gt; </span><span>Arctic Pine Trees (0,1) -&gt; Fremennik Isles scan</span>"
+      "description": "<span>Quick Teleport set to </span><span>Arctic Pine Trees (0,1) for the Fremennik Isles scan</span>\n\nEntire outfit must be swapped and worn to use its teleport functionality"
     },
     {
       "slotType": "equipment",
       "slotIndex": 1,
-      "description": "<br />"
+      "description": "Has the ability to exchange the player's current active clue scroll for a new active clue scroll, of the same difficulty, consuming a charge"
     },
     {
       "slotType": "equipment",
       "slotIndex": 2,
-      "description": "Overgrown Idols | Lava Flow Mine"
+      "description": "Has two separately configurable teleports that can be set to the attuned destinations of the skill portals in the Max Guild garden\n\nSet to Overgrown Idols and Lava Flow Mine, with unlimited uses"
     },
     {
       "slotType": "equipment",
       "slotIndex": 3,
-      "description": "<span>Obtained from Pyramid Plunder which has 60 charges for convenience</span>"
+      "description": "<span>Obtained from Pyramid Plunder\n\nThe sceptre has 10 teleport charges when fully charged, which is increased to 20 with medium Desert achievements completed, and further to 60 with hard Desert achievements completed</span>"
     },
     {
       "slotType": "equipment",
       "slotIndex": 5,
-      "description": "<span>- If using </span><img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><span> </span><span>Shadow's Grace<br /><br /></span><span>- Use the Glow Worm perk on an augmented off-hand </span><span>for the Lumbridge Swamp Caves</span>"
+      "description": "<span>- If using </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><span> Mobile you don't need </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /> <span>Shadow's Grace<br /><br /></span><span>- </span>Use the Glow Worm perk on an augmented off-hand as a light source in the Lumbridge Swamp Caves"
     },
     {
       "slotType": "equipment",
       "slotIndex": 11,
-      "description": "<span>Disassemble any stackable/noted item for a chance of procs during a run</span>"
+      "description": "Disassemble any stackable or noted item for a chance of bik procs during a run"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Entire outfit must be swapped and worn to use its teleport functionality"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Entire outfit must be swapped and worn to use its teleport functionality"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Entire outfit must be swapped and worn to use its teleport functionality"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Entire outfit must be swapped and worn to use its teleport functionality"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Used for a few elite compass clues\n\nCan be substituted with a Luck of the Dwarves"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Provides unlimited teleports around Tirannwn"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 21,
+      "description": "Can be used on various teleport tablets to \"chip\" them and alter their destination, and to be charged with up to 1000 of each \"chipped\" tablet"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Used to teleport to various Archaeology digsites and collectors"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Provides unlimited teleports to the Ectofuntus outside of Port Phasmatys"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Up to 1,000 of each treasure trail teleport scroll may be stored as charges within the arm guards by using the scrolls on them"
     }
   ],
   "familiar": {
