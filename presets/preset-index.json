@@ -4760,10 +4760,6 @@
     "presetName": "Medium Clue Preset"
   },
   {
-    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
-    "presetName": "BIS Elites w/ Skips"
-  },
-  {
     "presetId": "9LUZynoZp7ufZODhijcq",
     "presetName": "BIS Elites w/o Skips"
   },
@@ -5058,5 +5054,9 @@
   {
     "presetId": "2566aecb-39ae-4904-9d2a-4f47a270bfe4",
     "presetName": "Osseous Necro - T90 Power (Occultist ring)"
+  },
+  {
+    "presetId": "ZHpbyx5UVqnZeRLnuB3J",
+    "presetName": "BIS Elites w/ Skips"
   }
 ]
