@@ -1,0 +1,219 @@
+{
+  "presetName": "Zuk NM Necro - T90 Power, no tank",
+  "presetNotes": "Built for an ironman with full T90 power necro and no Deathwarden. Extra food over the PvME basic preset to make up for no tank armour. Goal: one no-checkpoint normal run for the igneous stone (Igneous Kal-Mor). Relics shown are PvME's picks; use what you have unlocked. Pray Soul Split on waves (Deflect as needed vs Jads/Ket-Zek), Deflect Melee on Zuk.",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "kilnnecro"
+    },
+    {
+      "id": "aos"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "tokkulzo"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "bandosgodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "supremesalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "poison4"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Any overload you have."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Waves only. Zuk himself can't be poisoned."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Heal + Bladed Dive (needed to reach the safe slice during Igneous Rain)."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Sear lowers Constitution; super restores fix it and restore prayer."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Or your best food. Eating drains 3% adrenaline since the March 2026 update, so eat in quiet moments when possible."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Swap to Igneous Kal-Mor once you have the stone."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Wave mobs aren't undead, so no Salve (e) here."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4 + Undead Slayer; Undead Slayer does nothing here but no need for a second lantern."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "TokKul-Zo works on the TzekHaar waves, not on Zuk. If you don't own it, wear Zorgoth's ring."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Runes for Disruption Shield, Vengeance and any other utility spells you use."
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "conservationofenergy"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": "sorrow"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
