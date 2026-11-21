@@ -194,12 +194,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 18,
-      "description": "Teleports the player to a random Wilderness obelisk. \n\nIf the player has completed the Hard Wilderness achievements, they will be able to select which obelisk to teleport to\n\nCan be substituted with tradeable Obelisk Shards"
+      "description": "Teleports the player to a random Wilderness obelisk\n\nIf the player has completed the Hard Wilderness achievements, they will be able to select which obelisk to teleport to\n\nCan be substituted with tradeable Obelisk Shards"
     },
     {
       "slotType": "inventory",
       "slotIndex": 19,
-      "description": "<div><span>Can be bound to any Farming patch, allowing the player to teleport to it<br /><br />Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown).</span></div>"
+      "description": "<div><span>Can be bound to any Farming patch, allowing the player to teleport to it<br /><br />Bound to the Tree patch in </span><span>Falador Park</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown)</span></div>"
     },
     {
       "slotType": "inventory",
