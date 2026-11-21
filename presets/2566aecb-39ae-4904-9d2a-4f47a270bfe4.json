@@ -1,0 +1,209 @@
+{
+  "presetName": "Osseous Necro - T90 Power (Occultist ring)",
+  "presetNotes": "Farming Osseous for the Occultist's ring (~1/200) with full T90 power necro. Empty slots are for loot. Pray Deflect Necromancy while learning, then Soul Split; Deflect Melee or Resonance for the Minion Summon slam. Resonance/Disrupt/Divert for Munch. Avoid Darkness (cancels Resonance). Wars Retreat between kills to reset cooldowns. Relics shown are suggestions; use what you have unlocked.",
+  "equipmentSlots": [
+    {
+      "id": "deathdealerhoodt90"
+    },
+    {
+      "id": "igneouskalmor"
+    },
+    {
+      "id": "salveamulet"
+    },
+    {
+      "id": "deathguard90"
+    },
+    {
+      "id": "deathdealerrobetopt90"
+    },
+    {
+      "id": "skulllantern90"
+    },
+    {
+      "id": "deathdealerrobebottomt90"
+    },
+    {
+      "id": "deathdealerglovest90"
+    },
+    {
+      "id": "deathdealerbootst90"
+    },
+    {
+      "id": "zorgothsring"
+    },
+    {
+      "id": "graspingpouchblack"
+    },
+    {
+      "id": "bandosgodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "supremesalve"
+    },
+    {
+      "id": "renewal6"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "superrestore"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "sara"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Any overload you have."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Heal + Bladed Dive."
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Or your best food. Drop food for loot space as kills get cleaner."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Igneous Kal-Mor once you've done the Zuk run; TokHaar-Kal-Mor until then."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Salve (e): +20% accuracy and damage vs undead."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 5,
+      "description": "Eruptive 4 + Undead Slayer works well here."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Your Zorgoth's ring until the Occultist's ring drops."
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 10,
+      "description": "Runes for Disruption Shield and any other utility spells you use."
+    }
+  ],
+  "familiar": {
+    "id": "hellhoundpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "berserkersfury"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": "deflectmelee"
+    },
+    {
+      "id": "sorrow"
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
