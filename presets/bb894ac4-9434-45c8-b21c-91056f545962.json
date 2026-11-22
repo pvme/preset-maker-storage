@@ -1,0 +1,234 @@
+{
+  "presetName": "GBK 2k Melee/Range",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "eoforblack"
+    },
+    {
+      "id": "havensilverlongsword2"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "championring"
+    },
+    {
+      "id": "nodonspikeharness"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "blackstonearrow"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "eoforred"
+    },
+    {
+      "id": "eoforgreen"
+    },
+    {
+      "id": "eofgreen"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "pernixsquiverblack"
+    },
+    {
+      "id": "pernixsquiverblue"
+    },
+    {
+      "id": "eoforpurple"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "pernixsquiveryellow"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "edracolichvambs"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "graspingpouchpurple"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "vulnbomb"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Annihilation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Varanus Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Malachi's Tooth"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Ful"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Wen"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Eldritch Crossbow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 14,
+      "description": "Deathspore"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Soul, Chaos, Air, Body"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Astral, Blood, Law, Cosmic"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": ""
+    }
+  ],
+  "familiar": {
+    "id": "ripperpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "darkness"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
