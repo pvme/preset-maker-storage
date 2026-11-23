@@ -1,6 +1,6 @@
 {
   "presetName": "Secondary master clue preset",
-  "presetNotes": "- You can put Spirit attraction potions, extreme overload salves and weapon poison+++ in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n- You can put Spirit attraction potions and extreme overload salves in an Arcane potion cauldron which allows you to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "volcanictrapperhead"
@@ -130,6 +130,126 @@
       "slotType": "equipment",
       "slotIndex": 10,
       "description": "Cosmic <img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law <img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | Water <img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 1,
+      "description": "Has the ability to exchange the player's current active clue scroll for a new active clue scroll, of the same difficulty, consuming a charge"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 0,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "Can be used to teleport to Charming Moths"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Can be used to teleport to Charming Moths"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Can be used to teleport to Charming Moths"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Can be used to teleport to Charming Moths"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 8,
+      "description": "Can be used to teleport to Charming Moths"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Has a chance to trigger a bik proc during a run"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 3,
+      "description": "<br />"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 2,
+      "description": "Has two separately configurable teleports that can be set to the attuned destinations of the skill portals in the Max Guild garden\n\nSet to Overgrown Living Rock Carvens &amp; Jadinko Lair, with unlimited uses"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": ""
     }
   ],
   "familiar": {
