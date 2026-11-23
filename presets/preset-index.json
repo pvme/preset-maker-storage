@@ -4660,10 +4660,6 @@
     "presetName": "Ghrazi Blood Knights 100% Ranged-Melee Hybrid"
   },
   {
-    "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
-    "presetName": "Secondary master clue preset"
-  },
-  {
     "presetId": "c0251316-170b-43be-93e8-1587f7a56c08",
     "presetName": "Kerapac"
   },
@@ -5062,5 +5058,9 @@
   {
     "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
     "presetName": "Necromancy master clue preset"
+  },
+  {
+    "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
+    "presetName": "Secondary master clue preset"
   }
 ]
