@@ -1,6 +1,6 @@
 {
   "presetName": "Magic master clue preset",
-  "presetNotes": "- You can put Spirit attraction potions, extreme overload salves and weapon poison+++ in an Arcane potion cauldron which allows the player to multi-drink for up to 60 minutes",
+  "presetNotes": "- Be on Lunar Spellbook for Spellbook Swap\n- You can put Spirit attraction potions and extreme overload salves in an Arcane potion cauldron which allows you to multi-drink for up to 60 minutes",
   "equipmentSlots": [
     {
       "id": "wickedhood"
@@ -59,7 +59,7 @@
       "id": "cluebag"
     },
     {
-      "id": "passageoftheabyss(red)"
+      "id": "passageoftheabyss(green)"
     },
     {
       "id": "drakansmedallion"
@@ -74,7 +74,7 @@
       "id": "leelasfavour"
     },
     {
-      "id": "elderovlsalve"
+      "id": "expansive_pouch"
     },
     {
       "id": "accel4"
@@ -129,7 +129,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 14,
-      "description": "Can be replaced with Book o' Piracy"
+      "description": "<div><span>Can be bound to any Farming patch, allowing the player to teleport to it<br /><br />Bound to the Allotment patch on Harmony Island for the Brother Tranquility step</span><span> (patch condition irrelevant, can be empty, diseased, or fully grown)</span></div>\nCan also be replaced with Book o' Piracy"
     },
     {
       "slotType": "inventory",
@@ -144,17 +144,17 @@
     {
       "slotType": "inventory",
       "slotIndex": 22,
-      "description": "For scripture of bik catalysts"
+      "description": "Instantly resets the cooldown of Surge, Escape, Dive and Bladed Dive and reduces the cooldown of both to 1.2 seconds (2 game ticks) for 6 seconds (10 game ticks)"
     },
     {
       "slotType": "inventory",
       "slotIndex": 24,
-      "description": "Living Rock Caverns | Jadinko Lair"
+      "description": "Has two separately configurable teleports that can be set to the attuned destinations of the skill portals in the Max Guild garden\n\nSet to Overgrown Living Rock Carvens &amp; Jadinko Lair, with unlimited uses"
     },
     {
       "slotType": "inventory",
       "slotIndex": 25,
-      "description": "For the Life Altar step."
+      "description": "For the Life Altar step"
     },
     {
       "slotType": "inventory",
@@ -169,7 +169,7 @@
     {
       "slotType": "equipment",
       "slotIndex": 1,
-      "description": "<br />"
+      "description": "Has the ability to exchange the player's current active clue scroll for a new active clue scroll, of the same difficulty, consuming a charge"
     },
     {
       "slotType": "equipment",
@@ -184,7 +184,132 @@
     {
       "slotType": "equipment",
       "slotIndex": 10,
-      "description": "Blood <img title=\"bloodrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" />"
+      "description": "Ammo: ;bloodrune; ;astralrune; ;bodyrune; ;soulrune;"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Can be used to skip tower puzzles"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 7,
+      "description": "Up to 1,000 of each treasure trail teleport scroll may be stored as charges within the arm guards by using the scrolls on them"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 0,
+      "description": "Has the ability to teleport to various runecrafting altars\n\n- Blood Altar -&gt; Used frequently for a master skilling step\n- Death Altar -&gt; Used frequently for a master skilling step\n\nRequires omni teletabs or regular teleport tabs stored in the Wicked Hood to be charged"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 11,
+      "description": "Teleporting with spellbook teleports (without using the abyssal link relic) has a chance to trigger a bik proc during a run"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 13,
+      "description": "<span>Provides unlimited teleports</span><span> to Nardah</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "Instantly resets the cooldown of Surge, Escape, Dive and Bladed Dive and reduces the cooldown of both to 1.2 seconds (2 game ticks) for 6 seconds (10 game ticks)"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 5,
+      "description": "<span>Any reward caskets obtained when completing a treasure trail, will automatically be stored in the clue carrier if it is worn or in the inventory</span>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 3,
+      "description": "Can be used to skip lockbox puzzles"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 4,
+      "description": "Has the ability to teleport directly to the clue scroll location, consuming a charge"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 6,
+      "description": "Has the ability to automatically signal for Uri in place of performing an emote for an emote clue"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 11,
+      "description": "Filled with Exalted essence which uses up the essence one at a time"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 8,
+      "description": "Provides unlimited teleports to the Ectofuntus outside of Port Phasmatys"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "Provides unlimited teleports to the dock at Port Sarim and provides remote access to any of the seven Arc teletabs stored within it. Arc teletabs can be purchased with chimes from the Waiko Reward Shop and stored by using them on the Arc journal, up to a maximum of 1,000 per type"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 10,
+      "description": "<span>Provides unlimited teleports to</span><span> different districts around Menaphos </span>and to the Sophanem Slayer Dungeon"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "Provides teleports to Burgh de Rott and Darkmeyer. Congealed blood can be used on the medallion to add one teleport charge each, up to a maximum of 25,000 charges"
+    },
+    {
+      "slotType": "equipment",
+      "slotIndex": 9,
+      "description": "Provides teleports to locations around TzHaar City, including the Fight Cave entrance. A fully depleted Tokkul-Zo can be recharged by paying TzHaar-Mej-Jeh or TzHaar-Mej-Ak 400,000 Tokkul, or 10 Tokkul per missing charge if only partially depleted"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 4,
+      "description": "Provides teleports to the Heart of Gielinor, just inside the entrance"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 6,
+      "description": "<div>- Skills necklace</div><div>- Amulet of Glory</div><div>- Combat bracelet</div><div>- Delver's Anklet</div><div>- Ring of slaying</div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 15,
+      "description": "Provides unlimited teleports to each clan district in the elven city of Prifddinas"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 19,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 20,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "Used during a master skilling step"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "Give a 12.5% chance per hit to poison a Double Agent in combat"
     }
   ],
   "familiar": {
