@@ -4664,10 +4664,6 @@
     "presetName": "Secondary master clue preset"
   },
   {
-    "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
-    "presetName": "Necromancy master clue preset"
-  },
-  {
     "presetId": "c0251316-170b-43be-93e8-1587f7a56c08",
     "presetName": "Kerapac"
   },
@@ -5062,5 +5058,9 @@
   {
     "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
     "presetName": "Melee master clue preset"
+  },
+  {
+    "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
+    "presetName": "Necromancy master clue preset"
   }
 ]
