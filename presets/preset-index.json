@@ -4672,10 +4672,6 @@
     "presetName": "Melee master clue preset"
   },
   {
-    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
-    "presetName": "Ranged master clue preset"
-  },
-  {
     "presetId": "c0251316-170b-43be-93e8-1587f7a56c08",
     "presetName": "Kerapac"
   },
@@ -5062,5 +5058,9 @@
   {
     "presetId": "a6ecfeb1-f929-4c59-a84c-0c347a414d71",
     "presetName": "Magic master clue preset"
+  },
+  {
+    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
+    "presetName": "Ranged master clue preset"
   }
 ]
