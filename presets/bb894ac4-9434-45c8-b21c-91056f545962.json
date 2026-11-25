@@ -62,10 +62,10 @@
       "id": "supergrest"
     },
     {
-      "id": "pernixsquiverblack"
+      "id": "pernixsquiverpurple"
     },
     {
-      "id": "pernixsquiverblue"
+      "id": "pernixsquiverred"
     },
     {
       "id": "eoforpurple"
@@ -83,7 +83,7 @@
       "id": "supergrest"
     },
     {
-      "id": "pernixsquiveryellow"
+      "id": "pernixsquiverorange"
     },
     {
       "id": "ezk"
@@ -113,7 +113,7 @@
       "id": "graspingpouchpurple"
     },
     {
-      "id": "graspingpouchblue"
+      "id": "graspingpouchyellow"
     },
     {
       "id": "zemouregalsnexus"
@@ -149,12 +149,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 7,
-      "description": "Ammo: ;fularrow; ;wenarrows;<div>Ful</div>"
+      "description": "Ammo: ;wenarrows;"
     },
     {
       "slotType": "inventory",
       "slotIndex": 8,
-      "description": "Ammo: ;blackstonearrow; ;deathsporearrows;\nWen"
+      "description": "Ammo: ;fularrow;"
     },
     {
       "slotType": "inventory",
@@ -179,17 +179,22 @@
     {
       "slotType": "inventory",
       "slotIndex": 23,
-      "description": "Soul, Chaos, Air, Body"
+      "description": "Ammo: ;soulrune;;chaosrune;;airrune;;bodyrune;"
     },
     {
       "slotType": "inventory",
       "slotIndex": 24,
-      "description": "Astral, Blood, Law, Cosmic"
+      "description": "Ammo: ;astralrune;;bloodrune;;lawrune;;cosmicrune;"
     },
     {
       "slotType": "inventory",
       "slotIndex": 25,
       "description": ""
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Ammo: ;chaosrune; ;airrune; ;waterrune; ;firerune;\nAmmo: ;deathrune; ;earthrune; ;lawrune; ;cosmicrune;\nAmmo: ;bloodrune; ;astralrune; ;bodyrune; ;soulrune;\nAmmo: ;bloodrune; ;astralrune; ;bodyrune;"
     }
   ],
   "familiar": {
