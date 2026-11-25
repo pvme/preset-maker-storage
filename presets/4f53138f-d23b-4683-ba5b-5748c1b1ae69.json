@@ -1,6 +1,6 @@
 {
   "presetName": "GM BSD Melee Camp",
-  "presetNotes": "You can also use Grimoire + Kal'gerion Demon as an alternative.\nJaws is used on hand 4 with Spear",
+  "presetNotes": "<br />",
   "equipmentSlots": [
     {
       "id": "vestmentsofhavochood"
@@ -12,13 +12,13 @@
       "id": "amhej"
     },
     {
-      "id": "lengmh"
+      "id": "ezk"
     },
     {
       "id": "vestmentsofhavoctop"
     },
     {
-      "id": "lengoh"
+      "id": ""
     },
     {
       "id": "vestmentsofhavocbottom"
@@ -36,10 +36,7 @@
       "id": "nodonspikeharness"
     },
     {
-      "id": "vampaura"
-    },
-    {
-      "id": "scriptureofful"
+      "id": "grim"
     }
   ],
   "inventorySlots": [
@@ -53,76 +50,76 @@
       "id": "vulnbombs"
     },
     {
-      "id": "ezk"
-    },
-    {
-      "id": "mwspear"
-    },
-    {
-      "id": "poison1"
-    },
-    {
-      "id": "graspingpouchpink"
+      "id": "superrestore"
     },
     {
       "id": "eofred"
     },
     {
-      "id": "jawsoftheabyss"
-    },
-    {
-      "id": "blueblubber"
-    },
-    {
-      "id": "blueblubber"
-    },
-    {
-      "id": "blueblubber"
-    },
-    {
-      "id": "blueblubber"
+      "id": "minesstack4"
     },
     {
       "id": "graspingpouchblue"
     },
     {
-      "id": "spiritual"
+      "id": "lengmh"
     },
     {
-      "id": "spiritual"
+      "id": "lengoh"
     },
     {
-      "id": "grest"
-    },
-    {
-      "id": "grest"
-    },
-    {
-      "id": "grest"
-    },
-    {
-      "id": "grest"
-    },
-    {
-      "id": "graspingpouchblack"
+      "id": "mwspear"
     },
     {
       "id": "dba"
     },
     {
-      "id": ""
+      "id": "jawsoftheabyss"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "graspingpouchpink"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
     },
     {
       "id": ""
     },
     {
-      "id": ""
+      "id": "graspingpouchblack"
     },
     {
-      "id": ""
+      "id": "grest"
     },
     {
-      "id": ""
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "enhancedexcalibur"
     },
     {
       "id": "zemouregalsnexus"
@@ -136,50 +133,52 @@
     },
     {
       "slotType": "inventory",
-      "slotIndex": 7,
-      "description": "Varanus' Mercy"
+      "slotIndex": 4,
+      "description": "Varanus' Mercy :mercy:"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 12,
+      "description": "ZGS :zgs:"
     }
   ],
-  "relics": {
-    "primaryRelics": [
-      {
-        "id": "berserkersfury"
-      },
-      {
-        "id": "conservationofenergy"
-      },
-      {
-        "id": "fontoflife"
-      }
-    ],
-    "alternativeRelics": [
-      {
-        "id": "shadowsgrace"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
+  "familiar": {
+    "id": "kalgpouch"
   },
-  "familiars": {
-    "primaryFamiliars": [
-      {
-        "id": "ripperpouch"
-      }
-    ],
-    "alternativeFamiliars": [
-      {
-        "id": "kalgdemon"
-      },
-      {
-        "id": ""
-      },
-      {
-        "id": ""
-      }
-    ]
-  }
+  "relics": [
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "fontoflife"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "malevolence"
+    },
+    {
+      "id": "soulsplit"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "primalabyssalarmourspikes"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
 }
