@@ -149,12 +149,12 @@
     {
       "slotType": "inventory",
       "slotIndex": 7,
-      "description": "Ful"
+      "description": "Ammo: ;fularrow; ;wenarrows;<div>Ful</div>"
     },
     {
       "slotType": "inventory",
       "slotIndex": 8,
-      "description": "Wen"
+      "description": "Ammo: ;blackstonearrow; ;deathsporearrows;\nWen"
     },
     {
       "slotType": "inventory",
@@ -164,7 +164,7 @@
     {
       "slotType": "inventory",
       "slotIndex": 14,
-      "description": "Deathspore"
+      "description": "Ammo:  ;deathsporearrows;<br />"
     },
     {
       "slotType": "inventory",
