@@ -1,0 +1,184 @@
+{
+  "presetName": "Melee Arraxor",
+  "presetNotes": "Persistent rage not required, can swap as needed.",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "lengmh"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "lengoh"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "eof"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchblue"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "zgs"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "graspingpouchred"
+    },
+    {
+      "id": "graspingpouchgreen"
+    },
+    {
+      "id": "dragonscimitar"
+    },
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "powerburstofacceleration"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "grest"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "dummy"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 2,
+      "description": "SGB"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 9,
+      "description": "<span>Malachistooth </span>"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "furyofthesmall"
+    },
+    {
+      "id": "persistentrage"
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": ""
+  },
+  "ammoSpells": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ]
+}
