@@ -5082,5 +5082,9 @@
   {
     "presetId": "46f162c0-effa-48d8-b291-a2dc1902c493",
     "presetName": "Necromancy Araxxor"
+  },
+  {
+    "presetId": "1e5db728-1aaf-403b-992c-591d764e22db",
+    "presetName": "Duo Melee Ranged Solak"
   }
 ]
