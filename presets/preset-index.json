@@ -5074,5 +5074,9 @@
   {
     "presetId": "fb7d4c72-b61a-4b9d-9b25-ae226bef123b",
     "presetName": "Melee / Range Arraxor"
+  },
+  {
+    "presetId": "a805e625-ab8a-48b6-8de0-987f8fdfc42b",
+    "presetName": "Melee Arraxor"
   }
 ]
