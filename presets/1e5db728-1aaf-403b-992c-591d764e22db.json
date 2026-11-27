@@ -1,0 +1,209 @@
+{
+  "presetName": "Duo Melee Ranged Solak",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "vestmentsofhavochood"
+    },
+    {
+      "id": "igneouskalzuk"
+    },
+    {
+      "id": "amhej"
+    },
+    {
+      "id": "dba"
+    },
+    {
+      "id": "vestmentsofhavoctop"
+    },
+    {
+      "id": "enhancedexcalibur"
+    },
+    {
+      "id": "vestmentsofhavocbottom"
+    },
+    {
+      "id": "cinderbanes"
+    },
+    {
+      "id": "vestmentsofhavocboots"
+    },
+    {
+      "id": "reaverring"
+    },
+    {
+      "id": "pernixsquiver"
+    },
+    {
+      "id": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "adrenrenewal"
+    },
+    {
+      "id": "spiritual"
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "bolg"
+    },
+    {
+      "id": "edracocoif"
+    },
+    {
+      "id": "weppoison"
+    },
+    {
+      "id": "vitality4"
+    },
+    {
+      "id": "spiritualprayer"
+    },
+    {
+      "id": "ezk"
+    },
+    {
+      "id": "dummy"
+    },
+    {
+      "id": "stalkerring"
+    },
+    {
+      "id": "edracolichhauberk"
+    },
+    {
+      "id": "vulnbombs"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "eofblack"
+    },
+    {
+      "id": "glovesofpassage"
+    },
+    {
+      "id": "edracochaps"
+    },
+    {
+      "id": "zemouregalsnexus"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "blueblubber"
+    },
+    {
+      "id": "supergrest"
+    },
+    {
+      "id": "eofpurple"
+    },
+    {
+      "id": "eofpink"
+    },
+    {
+      "id": "edracoboots"
+    },
+    {
+      "id": "graspingpouchpurple"
+    }
+  ],
+  "breakdown": [
+    {
+      "slotType": "inventory",
+      "slotIndex": 7,
+      "description": "<br />"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 1,
+      "description": "Varanus's Mercy"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 23,
+      "description": "<div><br /></div>"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 17,
+      "description": "Decimation"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 25,
+      "description": "Gloomfire Bow"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 24,
+      "description": "Malachi's Tooth"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 27,
+      "description": "Runes for Disruption Shield"
+    },
+    {
+      "slotType": "inventory",
+      "slotIndex": 18,
+      "description": "Optional swap"
+    }
+  ],
+  "familiar": {
+    "id": "kalgpouch"
+  },
+  "relics": [
+    {
+      "id": "conservationofenergy"
+    },
+    {
+      "id": "berserkersfury"
+    },
+    {
+      "id": ""
+    }
+  ],
+  "prayers": [
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    },
+    {
+      "id": ""
+    }
+  ],
+  "aspect": {
+    "id": "vampyrismaspect"
+  },
+  "ammoSpells": [
+    {
+      "id": "deathsporearrows"
+    },
+    {
+      "id": "fularrow"
+    },
+    {
+      "id": ""
+    }
+  ]
+}
